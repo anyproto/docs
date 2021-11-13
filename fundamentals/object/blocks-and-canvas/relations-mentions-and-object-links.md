@@ -20,7 +20,7 @@ This approach allows you to create "Home Page" style objects, where you are able
 
 ### As Mention
 
-Mention is similar Object Link approach where you are able to add any object from your Anytype with a few differences. It is in-line entity, which allows you to add mention to another object inside the text block. It has default styling and it's not included in Navigation Panel. Read more about navigation in [navigation.md](../../../reference/navigation.md "mention") section
+Mention is similar Object Link approach where you are able to add any object from your Anytype with a few differences. It is in-line entity, which allows you to add mention to another object inside the text block. It has default styling and it's not included in Navigation Panel. Read more about navigation in [navigation.md](../../../features/navigation.md "mention") section
 
 ![](../../../.gitbook/assets/ezgif-2-9fa3d89f6559.gif)
 

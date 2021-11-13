@@ -6,6 +6,6 @@ Large **Videos** and **Files** are downloaded on demand, i.e., when you click on
 
 To make the experience even better, we have implemented Caching of files, so if you are streaming or frequently using a large file, it will be pre-cached from the server.
 
-{% content-ref url="../reference/storage-and-deletion.md" %}
-[storage-and-deletion.md](../reference/storage-and-deletion.md)
+{% content-ref url="../features/storage-and-deletion.md" %}
+[storage-and-deletion.md](../features/storage-and-deletion.md)
 {% endcontent-ref %}
