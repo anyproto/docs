@@ -8,11 +8,11 @@ You can use Anytype to create books, tasks, notes, ideas, documents, tools and o
 
 ## How do we stand out?
 
-And what can we offer you <mark style="color:blue;"><mark style="background-color:blue;">n<mark style="background-color:blue;"></mark><mark style="color:blue;"><mark style="background-color:purple;">o<mark style="background-color:purple;"></mark><mark style="color:blue;"><mark style="background-color:green;">w<mark style="background-color:green;"></mark>?
+And what can we offer you <mark style="background-color:blue;"><mark style="color:blue;">n<mark style="color:blue;"></mark><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">o<mark style="color:blue;"><mark style="background-color:blue;"></mark><mark style="background-color:green;"><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">w?<mark style="color:blue;"><mark style="background-color:blue;"><mark style="background-color:purple;"></mark>
 
 ### Privacy: Your information is encrypted and all yours
 
-Your data gets encrypted and stays on your devices. Data goes directly between your devices, and  Nobody can access your data except you.
+Your data gets encrypted and stays on your devices. Data goes directly between your devices, and Nobody can access your data except you.
 
 {% hint style="success" %}
 You can dive into [privacy-and-security.md](features/privacy-and-security.md "mention") for more details.
@@ -38,11 +38,11 @@ You can think abstract and systematic in the same application. You can create th
 
 Everything happens on-[device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi, reduce stress by having all your data in the plane/camping/remotely every time. 100% data availability and no need to rely on internet connection.
 
-Working Offline means, No Server => No Lag. &#x20;
+Working Offline means, No Server => No Lag.
 
 ### Easy to use
 
-With all the features above, you may think that experience will be lacking. But it does not. You can use more than ten types of blocks to create a document you like.&#x20;
+With all the features above, you may think that experience will be lacking. But it does not. You can use more than ten types of blocks to create a document you like.
 
 {% hint style="info" %}
 Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for more details.
@@ -51,7 +51,7 @@ Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for 
 ### It's free
 
 * No storage limits. No upload limits. You use your device storage, and nobody can limit you.
-* Backup is provided free of charge to all alpha testers. Your objects are encrypted and synced to our cafe nodes. If your device is lost or damaged, you can restore the latest snapshot from our backup node. Data on the backup node is encrypted, and the Anytype team cannot access your data.  More about  [storage-and-deletion.md](features/storage-and-deletion.md "mention").
+* Backup is provided free of charge to all alpha testers. Your objects are encrypted and synced to our cafe nodes. If your device is lost or damaged, you can restore the latest snapshot from our backup node. Data on the backup node is encrypted, and the Anytype team cannot access your data. More about [storage-and-deletion.md](features/storage-and-deletion.md "mention").
 
 #### &#x20;<a href="start" id="start"></a>
 

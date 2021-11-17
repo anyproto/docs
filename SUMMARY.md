@@ -37,6 +37,6 @@
 * [We are using IPFS. What is that?](faqs/we-are-using-ipfs.-what-is-that.md)
 * [Can pages be nested one to another?](faqs/can-pages-be-nested-one-to-another.md)
 * [How to add relation to multiple objects](faqs/how-to-add-relation-to-multiple-objects.md)
-* [How does passphrase login work?](faqs/how-does-passphrase-login-work.md)
+* [How does keychain phrase login work? Like password?](faqs/how-does-passphrase-login-work.md)
 * [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
 * [How to restore my account?](faqs/how-to-restore-my-account.md)
