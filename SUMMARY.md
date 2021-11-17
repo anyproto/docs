@@ -33,6 +33,7 @@
 
 ## FAQ's
 
+* [Relation in practice. Can they act like properties or fields in databases?](faqs/relation-in-practice.-can-they-act-like-properties-or-fields-in-databases.md)
 * [We are using IPFS. What is that?](faqs/we-are-using-ipfs.-what-is-that.md)
 * [Can pages be nested one to another?](faqs/can-pages-be-nested-one-to-another.md)
 * [How to add relation to multiple objects](faqs/how-to-add-relation-to-multiple-objects.md)
