@@ -8,7 +8,7 @@ You can use Anytype to create books, tasks, notes, ideas, documents, tools and o
 
 ## How do we stand out?
 
-And what can we offer you <mark style="background-color:blue;"><mark style="color:blue;">n<mark style="color:blue;"></mark><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">o<mark style="color:blue;"><mark style="background-color:blue;"></mark><mark style="background-color:green;"><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">w?<mark style="color:blue;"><mark style="background-color:blue;"><mark style="background-color:purple;"></mark>
+And what can we offer you <mark style="color:blue;"><mark style="background-color:blue;">n<mark style="background-color:blue;"></mark><mark style="background-color:purple;"><mark style="color:blue;"><mark style="background-color:blue;">o<mark style="background-color:blue;"><mark style="color:blue;"></mark><mark style="background-color:green;"><mark style="background-color:purple;"><mark style="color:blue;"><mark style="background-color:blue;">w?<mark style="background-color:blue;"><mark style="color:blue;"><mark style="background-color:purple;"></mark>
 
 ### Privacy: Your information is encrypted and all yours
 
@@ -32,7 +32,7 @@ Take a look at things that [community has built already](https://community.anyty
 
 You can think abstract and systematic in the same application. You can create the network of your thoughts connecting things, while more strict structures like database-view are also accessible. You can get the best out of every world.
 
-![You can easily switch between graph and database-like view](<.gitbook/assets/test (1).gif>)
+![You can easily switch between graph and database-like view](<.gitbook/assets/test (1) (1).gif>)
 
 ### Works Offline and Locally
 
