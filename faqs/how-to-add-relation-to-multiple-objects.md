@@ -4,7 +4,7 @@
 
 Let's look at an example. Say you need to add a new relation `Color,` to your **Type** `Cat`. And you already have 10 objects of this type.
 
-1. You need to open [library.md](../fundamentals/library.md "mention")
+1. You need to open [library.md](../features/library.md "mention")
 2. Find and open the [type](../fundamentals/type/ "mention") `Cat`
 3. Add a new [relation.md](../fundamentals/relation.md "mention") `Color` there.
 

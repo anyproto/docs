@@ -12,6 +12,6 @@ You can create a Set with a + menu in the Home or bottom-left corner or in / men
 
 ![](<../.gitbook/assets/test (5).gif>)
 
-From the [library.md](library.md "mention"), choose an object type, click "Create," and choose "Create a set."
+From the [library.md](../features/library.md "mention"), choose an object type, click "Create," and choose "Create a set."
 
 ![](https://t2535380.p.clickup-attachments.com/t2535380/4def3cb7-d672-4d11-b2a1-2c75e693a468/CleanShot%202021-09-09%20at%2018.06.11.gif)

@@ -16,7 +16,6 @@
 * [Type](fundamentals/type/README.md)
   * [Template](fundamentals/type/template.md)
 * [Set](fundamentals/set.md)
-* [Library](fundamentals/library.md)
 
 ## Use cases & tutorials
 
@@ -26,6 +25,7 @@
 
 ## Features
 
+* [Library](features/library.md)
 * [Navigation](features/navigation.md)
 * [Privacy & Security](features/privacy-and-security.md)
 * [Syncing & P2P](features/syncing-and-p2p.md)
