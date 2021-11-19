@@ -2,13 +2,11 @@
 
 ## Knowledge Graph
 
-![](../.gitbook/assets/Screenshot%202021-09-03%20at%2017.51.50.jpg)
+![](../.gitbook/assets/graph.png)
 
 Your objects combine to form a unique knowledge graph. It's a universal data structure and a strong foundation for automation. We want Anytype to be a modular platform for machine learning and plan to release our first modules for the public beta.
 
 ## Relations
-
-![](<../.gitbook/assets/Screenshot%202021-09-03%20at%2017.52.53 (1).jpg>)
 
 We use **relations** to connect objects in the graph. They add context and significance to each connection. For instance, Patrick was born in 1984, he lives in Berlin, and he just finished an essay. His favourite band is Pink Floyd, and his favourite movie is _2001: A Space Odyssey_. Patrick connects to each of these with relations like "date of birth," "location," "last task," "band," and "movie."
 
