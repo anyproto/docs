@@ -2,47 +2,45 @@
 
 ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
 
-Anytype is the next-generation software that works as your brain does. It solves everyday problems while respecting your privacy and data rights. Anytype is a personal knowledge base, a digital brain that allows you to capture, describe, and connect information.
+Anytype is next-generation software that works the way your brain does. It solves everyday problems while respecting your privacy and data rights. Anytype is a personal knowledge base, a digital brain that allows you to capture, describe, and connect information.
 
-You can use Anytype to create books, tasks, notes, ideas, documents, tools and organise them any way you want. Future versions will allow you to share your work and safely collaborate with others. We want Anytype to be a global repository of knowledge.
+You can use Anytype to create tasks, notes, ideas, documents, workflows, and more, and organize them any way you want. Future versions will allow you to share your work and safely collaborate with others. Our long-term vision is for Anytype to enable large-scale collaboration to create a global repository interconnected of knowledge.
 
 ## How do we stand out?
 
 And what can we offer you <mark style="background-color:blue;"><mark style="color:blue;">n<mark style="color:blue;"></mark><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">o<mark style="color:blue;"><mark style="background-color:blue;"></mark><mark style="background-color:green;"><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">w?<mark style="color:blue;"><mark style="background-color:blue;"><mark style="background-color:purple;"></mark>
 
-### Privacy: Your information is encrypted and all yours
+### Privacy: Your information is encrypted and under your control
 
-Your data gets encrypted and stays on your devices. Data goes directly between your devices, and Nobody can access your data except you.
+Your data gets encrypted and stays on your devices. Data goes directly between your devices (desktop and mobile), and by default nobody can access your data except you. If you choose to share your data, you will be able to control who can see it and what they can do with it.
 
 {% hint style="success" %}
 You can dive into [privacy-and-security.md](features/privacy-and-security.md "mention") for more details.
 {% endhint %}
 
-### Flexibility: Replace several tools with a single one
+### Flexibility: Replace several tools with just one
 
-Most note-taking apps under-powering the information you create and give you strict possibilities for customisation and limited flows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views in different cases? You can make your study space where lessons and courses are linked, accessible from other places (like tasks) and, managed in a database-like view? No problem! Getting things done? OKR? Easy!
-
-Users find us an alternative to Notion that isn't in-depth about the next step of note-taking. We think so also!
+Most note-taking apps limit the information and structures you can create, giving you few possibilities for customisation or developing powerful workflows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views for different cases? Do you need to link to your study space - where lessons and courses are stored - with other araes like tasks, and manage it all in database-like views? No problem! Are you used to using one of the many existing work management methods, like Getting Things Done (GTD), or OKR? You can create these and more using the flexibility and power of Antype's simple, built-in tools.
 
 {% hint style="info" %}
-Take a look at things that [community has built already](https://community.anytype.io/c/general-discussion/showcase/13).
+Take a look at some of [the things our community has already built](https://community.anytype.io/c/general-discussion/showcase/13).
 {% endhint %}
 
 ### Think the way you want: Graph and database views
 
-You can think abstract and systematic in the same application. You can create the network of your thoughts connecting things, while more strict structures like database-view are also accessible. You can get the best out of every world.
+You can think and navigate in both abstract and systematic ways within the same application. You can create a network of your thoughts, connecting objects together in any way you want, but more defined structures like database views are also available when you need them. You can get the best of all worlds.
 
 ![You can easily switch between graph and database-like view](<.gitbook/assets/test (1) (1).gif>)
 
 ### Works Offline and Locally
 
-Everything happens on-[device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi, reduce stress by having all your data in the plane/camping/remotely every time. 100% data availability and no need to rely on internet connection.
+Everything happens on-[device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi and reduce stress by having all your data with you, in the plane, camping, remotely, every time. 100% data availability and no need to rely on an internet connection.
 
 Working Offline means, No Server => No Lag.
 
 ### Easy to use
 
-With all the features above, you may think that experience will be lacking. But it does not. You can use more than ten types of blocks to create a document you like.
+With all these capabilities, you may assume that Anytype has to be complicated and challenging to use. But we believe you'll be pleasantly surprised! You can use ou more than ten types of blocks to create a document you like.
 
 {% hint style="info" %}
 Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for more details.
