@@ -6,7 +6,8 @@
 
 ## Table of Contents
 
-- [**Contributing**](#contributing)
+- [**Intro**](#Intro)
+- [**Contribution process**](#Contribution process)
 - [**File Structure**](#file-structure)
 - [**Conventions**](#conventions)
   - [**Text Formats**](#text-formats)
@@ -14,13 +15,13 @@
   - [**Blocks**](#blocks)
   - [**Media**](#media)
 
-## Contributing
+## Intro
 
 ℹ️ We ask that all users read our [Code of Conduct](https://github.com/anytypeio/community/blob/main/README.md#code-of-conduct) and [Gitbook Conventions](#conventions) before contributing to the documentation.
-Anytype welcomes all contributions and corrections. Please follow the steps below in order to contribute. If you're new to \_git\* and/or _GitHub_, we suggest you go through [the GitHub Guides](https://guides.github.com/introduction/flow/). 
-You are welcome to propose any changes in PR and participate in discussion in [Improvements for doc.anytype.io](https://community.anytype.io/t/improvements-for-doc-anytype-io/2862) topic.
+You are welcome to propose any changes in PR and participate in discussion in [Improvements for doc.anytype.io](https://community.anytype.io/t/improvements-for-doc-anytype-io/2862) topic. Please follow the steps below in order to contribute. If you're new to \_git\* and/or _GitHub_, we suggest you go through [the GitHub Guides](https://guides.github.com/introduction/flow/). 
 
-## Process
+
+## Contribution process
 
 1. Fork this repository
 2. (Optional) Clone the fork
