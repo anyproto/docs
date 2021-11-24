@@ -7,7 +7,7 @@
 ## Table of Contents
 
 - [**Intro**](#Intro)
-- [**Contribution process**](#Contribution process)
+- [**Contribution process**](#contribution-process)
 - [**File Structure**](#file-structure)
 - [**Conventions**](#conventions)
   - [**Text Formats**](#text-formats)
