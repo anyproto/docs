@@ -16,7 +16,7 @@ Want to create a block between, below, or even above another block? With Notion,
 ![image.png](<../.gitbook/assets/notionblocks.png)    
 
 Anytype&#39;s system is more flexible. Hover over the block dragger (shaped like a pill with three dots inside it), and a `+` button will pop out to your left.   
-![image.png](<../.gitbook/assets/anytypeblocks.png)    
+![image](<.gitbook/assets/anytypeblocks.png>)  
 
 Move your mouse over to the `+` button that just appeared, and you&#39;ll see a yellow line appear. This line indicates where your new block will be inserted. Click the `+`  button, and a new block will be created where the line is located.   
 
