@@ -201,6 +201,7 @@ You are welcome to propose any changes in PR and participate in discussion in [I
   
   ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
   ```
+  When adding a media block, if the page you are adding the block to is nested then use `../` the appropriate number of times to make the embedd work.
 
 - **File Storage :** Any media has to be uploaded to the [.gitbook/assets/](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder first. Only then it can be used inside the documentation. You may see GitBook embedding proprietary format `{% embed url=" in existing pages, you don't need to use that. 
 
