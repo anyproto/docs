@@ -12,6 +12,7 @@
   - [**Text Formats**](#text-formats)
   - [**Lists**](#lists)
   - [**Blocks**](#blocks)
+  - [**Media**](#media)
 
 ## Contributing
 
@@ -185,3 +186,37 @@
         <img src="https://raw.githubusercontent.com/anytypeio/community/main/assets/danger-hint-block.png" alt="danger-hints">
     </a>
   </p>
+
+### Media
+
+- **Block :** To create a Media Block you need to use the below convention
+  ```
+  ![Media Caption](<.gitbook/assets/file-name>)
+  
+  E.g:
+  
+  ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
+  ```
+
+- **File Storage :** Any media that is being used has to be uploaded to the ![.gitbook/assets/](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder only then can it be used inside the documentation.
+
+- **File Formats :** These are the only file formats that are accepted for uploading media in the documentation.
+    - **Videos :**
+    
+      > ✔️ Use only **Mp4**
+      > ❌ No **gifs** or other formats
+      
+    - **Images :**
+      
+      > ✔️ Use only **PNG** and **SVG** images
+      > ❌ No other formats
+
+- **Size Limits :**  To not have performance issues or slow page loading times there is size limit of **5 MegaBytes** for each media file being used.
+
+- **Naming :** To reduce confusion, when uploading please rename your files in the proper format
+  ```
+  <image-caption>-<page>.<file-format>
+  
+  E.g:
+  ✔️ loadingscreen-intro.png
+  ❌ Screenshot 2021-11-05 at 18.45.31.png
