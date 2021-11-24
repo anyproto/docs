@@ -40,3 +40,4 @@
 * [How does keychain phrase login work? Like password?](faqs/how-does-passphrase-login-work.md)
 * [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
 * [How to restore my account?](faqs/how-to-restore-my-account.md)
+* [Free forever? How will Anytype make money?](faqs/free-forever-how-will-anytype-make-money.md)
