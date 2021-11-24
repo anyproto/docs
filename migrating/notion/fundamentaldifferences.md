@@ -73,7 +73,7 @@ If you want to read further about the advantages and disadvantages a non-hierarc
 Notion&#39;s relational databases are an incredibly flexible tool to help you categorize, organize, and **store** database entries - each of which is a fully-functioning page. Anytype works differently, yet, you can achieve the same (and more) with Anytype&#39;s Sets, Types and Relations.  
 
  ## Sets and Relations   
-![image.png](<../.gitbook/assets/notiondb.png)    
+![image.png](<../.gitbook/assets/notiondb.png>)    
 *Here&#39;s a Notion database. Each database entry is a page, and has predefined **properties, such as Tags, URL, and Phone**.*   
    
 Anytype&#39;s equivalent to Notion&#39;s databases are Sets. Unlike Notion databases, Sets do not **store** objects. Instead, they **show**, not store, all objects which meet a specific criteria, kind of how search works. Currently, sets can only show objects with one specific Type relation. Don&#39;t know what a Relation is? We&#39;ll cover it shortly.   
