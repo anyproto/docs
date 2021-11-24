@@ -9,11 +9,11 @@ Each object has a canvas, and blocks can be placed within it.
  ## Create a Block   
 Notion&#39;s command pallete works almost exactly like Anytype&#39;s. Use the forward slash `/` to open the command pallete. Type to search, use the arrow keys to navigate up and down, or scroll through the list with your mouse. Press Enter, or click on the block type that you want, in order to create the desired block. By default, when you start typing on an Anytype object canvas, the block type will be plain text.   
 
-![image.png](<../.gitbook/assets/slashmenu.png)    
+![slashmenu.png](<../.gitbook/assets/slashmenu.png)    
 
 *To see a list of all available blocks, please refer to the Documentation page.*   
 Want to create a block between, below, or even above another block? With Notion, you&#39;d have used the `+` button to only create a block below the current block.   
-![image.png](<../.gitbook/assetsnotionblocks.png)    
+![image.png](<../.gitbook/assets/notionblocks.png)    
 
 Anytype&#39;s system is more flexible. Hover over the block dragger (shaped like a pill with three dots inside it), and a `+` button will pop out to your left.   
 ![image.png](<../.gitbook/assets/anytypeblocks.png)    
