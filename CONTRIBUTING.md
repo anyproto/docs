@@ -198,7 +198,7 @@
   ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
   ```
 
-- **File Storage :** Any media that is being used has to be uploaded to the ![.gitbook/assets/](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder only then can it be used inside the documentation.
+- **File Storage :** Any media that is being used has to be uploaded to the [.gitbook/assets/](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder only then can it be used inside the documentation.
 
 - **File Formats :** These are the only file formats that are accepted for uploading media in the documentation.
     - **Videos :**
