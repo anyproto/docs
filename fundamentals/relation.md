@@ -18,27 +18,25 @@ We use **relations** to connect objects in the graph. They add context and signi
 
 ### Adding relations
 
-![](https://t2535380.p.clickup-attachments.com/t2535380/fadfb756-e552-48a5-91ea-b378c2ceacce/CleanShot%202021-09-07%20at%2017.29.34.gif)
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2Ftgw9vYhv0DgA1e7tRenj%2Frelations-canvas.mp4?alt=media&token=1df294aa-8a36-4fc3-bf27-1004b0e05100" %}
 
 * You can add a relation to the canvas like any other block - with a `+` button or the in-line `/` menu.
 * From the relations panel: found in the canvas, next to the object name. This panel shows all relations in that object. Here you can add new relations or modify existing ones.
 * You can feature any relation by clicking ★ next to the relation in the relations panel. Featured relations are on the canvas, below the object's name.
 
-![](https://t2535380.p.clickup-attachments.com/t2535380/93d0dc75-0563-436b-aa9c-51fc3cc81630/CleanShot%202021-09-07%20at%2017.20.12.gif)
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2Fp0FdylO4k29DIgaRF4QL%2Frelations-panel.mp4?alt=media&token=cc8cd065-8ff2-4e3a-8feb-0ce8f21c0ff9" %}
 
 ### Creating relations
 
 #### **From the library:**
 
-Choose from any relation available in your library. Inside the library, you will find relations created by Anytype and you.
-
-![](https://t2535380.p.clickup-attachments.com/t2535380/049025c8-5d46-4505-a9fe-2f770e9a7839/CleanShot%202021-09-07%20at%2017.26.02.gif)
+Inside the library, you will find relations created by Anytype and you. To use them just press `+ new relation` in `/` menu, relations panel or [set.md](set.md "mention"). Search and choose from any relation available in your library.&#x20;
 
 #### **From scratch:**
 
-You can easily create an entirely new relation from scratch. It will then be added to your library, ready for use across your Anytype.
+You can easily create an entirely new relation from scratch. It will then be added to your library, ready for use across your Anytype.  To use them just press `+ new relation` in `/` menu, relations panel or [set.md](set.md "mention") and press `create from scratch`.&#x20;
 
-![](https://t2535380.p.clickup-attachments.com/t2535380/ae5a108d-ef92-4045-9711-d5b1b9bf571b/CleanShot%202021-09-07%20at%2017.34.12.gif)
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2Fktt6KvQ4a6PU1NNx8RRH%2Frelations-create-new-inline.mp4?alt=media&token=a7c7d2c1-6b94-48ac-8e23-343e5b1d546b" %}
 
 Below is the information on a few of the types available currently:
 
