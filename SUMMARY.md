@@ -25,9 +25,9 @@
 
 ## Migrating from other platforms
 - [From Notion](migrating/notion/start.md)
- - [Read this first! - Missing Features](migrating/notion/missingfeatures.md)
- - [How we differ]
- - [Architecture and Fundamentals](migrating/notion/fundamentaldifferences.md)
+  - [Read this first! - Missing Features](migrating/notion/missingfeatures.md)
+  - [How we differ]
+  - [Architecture and Fundamentals](migrating/notion/fundamentaldifferences.md)
 
 ## Features
 
