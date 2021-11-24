@@ -82,7 +82,7 @@ This makes Anytype much more flexible than Notion. With Notion, if you wanted to
 Learn more about Types and Sets here-&gt;   
    
 *Here&#39;s an Anytype set. Right now, it&#39;s configured to show all Objects with the relation `To-Do.`*   
-![Demo of sets](<../.gitbook/assets/setdemo.png)
+![Demo of sets](<../.gitbook/assets/setdemo.png>)
 <details> Having trouble understanding Anytype's databases? Click here to see a simplified explanation.   
 
 - Think of an individual Notion database within Anytype as a Type.    
