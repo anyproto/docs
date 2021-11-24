@@ -208,10 +208,10 @@
       
     - **Images :**
       
-      > ✔️ Use only **PNG** and **SVG** images
+      > ✔️ Use only **PNG** and **JPG** images
       > ❌ No other formats
 
-- **Size Limits :**  To not have performance issues or slow page loading times there is size limit of **5 MegaBytes** for each media file being used.
+- **Size Limits :**  To not have performance issues or slow page loading times there is size limit of **5 MegaBytes** for each media file being used. 1000px wide images and videos can still be very legible, and that would reduce 4k file size by probably 75%.
 
 - **Naming :** To reduce confusion, when uploading please rename your files in the proper format
   ```
