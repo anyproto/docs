@@ -2,9 +2,13 @@
 
 To keep bandwidth and storage usage low but provide a fast experience, Anytype downloads **Text** and **Images** to your device automatically as they are smaller in size.
 
-Large **Videos** and **Files** are downloaded on demand, i.e., when you click on them, if it is possible to stream them, e.g., a 4k Video, Anytype will stream it directly from the backup node. If it is unable to stream, then Anytype will download the entire file.
+**Files** and **Videos** are downloaded **on-demand**. For example on mobile devices, it’s only when you choose to **play** the video that it will begin to download and save on your device. It also works as a cache. For example, when you watch 10% of movies, Anytype may preload and store 30%. so if you are streaming or frequently using a large file, it will be taken from your device storage.
 
-To make the experience even better, we have implemented Caching of files, so if you are streaming or frequently using a large file, it will be pre-cached from the server.
+**Files **are fully downloaded when you press download and also get "cached" on your device.&#x20;
+
+{% hint style="info" %}
+Working with cache is not yet available and will be implemented in the next release
+{% endhint %}
 
 {% content-ref url="../features/storage-and-deletion.md" %}
 [storage-and-deletion.md](../features/storage-and-deletion.md)
