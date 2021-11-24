@@ -17,7 +17,8 @@
 ## Contributing
 
 > ℹ️ We ask that all users read our [Code of Conduct](https://github.com/anytypeio/community/blob/main/README.md#code-of-conduct) and [Gitbook Conventions](#conventions) before contributing to the documentation.
-> Anytype welcomes all contributions and corrections. Please follow the steps below in order to contribute. If you're new to \_git\* and/or _GitHub_, we suggest you go through [the GitHub Guides](https://guides.github.com/introduction/flow/).
+> Anytype welcomes all contributions and corrections. Please follow the steps below in order to contribute. If you're new to \_git\* and/or _GitHub_, we suggest you go through [the GitHub Guides](https://guides.github.com/introduction/flow/). 
+You are welcome to propose any changes in PR and participate in discussion in [Improvements for doc.anytype.io](https://community.anytype.io/t/improvements-for-doc-anytype-io/2862) topic.
 
 1. Fork this repository
 2. (Optional) Clone the fork
@@ -198,12 +199,12 @@
   ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
   ```
 
-- **File Storage :** Any media that is being used has to be uploaded to the [.gitbook/assets/](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder only then can it be used inside the documentation.
+- **File Storage :** Any media has to be uploaded to the [.gitbook/assets/](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder first. Only then it can be used inside the documentation. You may see GitBook embedding proprietary format `{% embed url=" in existing pages, you don't need to use that. 
 
 - **File Formats :** These are the only file formats that are accepted for uploading media in the documentation.
     - **Videos :**
     
-      > ✔️ Use only **Mp4**
+      > ✔️ Use only **MP4**
       > ❌ No **gifs** or other formats
       
     - **Images :**
@@ -211,9 +212,9 @@
       > ✔️ Use only **PNG** and **JPG** images
       > ❌ No other formats
 
-- **Size Limits :**  To not have performance issues or slow page loading times there is size limit of **5 MegaBytes** for each media file being used. 1000px wide images and videos can still be very legible, and that would reduce 4k file size by probably 75%.
+- **Size Limits :**  There is size limit of **5 MegaBytes** for each media file being uploaded. 1000px wide images and videos can still be very legible, and that would reduce 4k file size by probably 75%. 
 
-- **Naming :** To reduce confusion, when uploading please rename your files in the proper format
+- **Naming :** To reduce confusion, when uploading please rename your files in human readable format
   ```
   <image-caption>-<page>.<file-format>
   
