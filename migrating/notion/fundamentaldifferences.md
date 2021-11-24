@@ -9,27 +9,27 @@ Each object has a canvas, and blocks can be placed within it.
  ## Create a Block   
 Notion&#39;s command pallete works almost exactly like Anytype&#39;s. Use the forward slash `/` to open the command pallete. Type to search, use the arrow keys to navigate up and down, or scroll through the list with your mouse. Press Enter, or click on the block type that you want, in order to create the desired block. By default, when you start typing on an Anytype object canvas, the block type will be plain text.   
 
-![image.png](.gitbook/slashmenu.png)    
+![image.png](.gitbook/assets/slashmenu.png)    
 
 *To see a list of all available blocks, please refer to the Documentation page.*   
 Want to create a block between, below, or even above another block? With Notion, you&#39;d have used the `+` button to only create a block below the current block.   
-![image.png](.gitbook/notionblocks.png)    
+![image.png](.gitbook/assets/notionblocks.png)    
 
 Anytype&#39;s system is more flexible. Hover over the block dragger (shaped like a pill with three dots inside it), and a `+` button will pop out to your left.   
-![image.png](.gitbook/anytypeblocks.png)    
+![image.png](.gitbook/assets/anytypeblocks.png)    
 
 Move your mouse over to the `+` button that just appeared, and you&#39;ll see a yellow line appear. This line indicates where your new block will be inserted. Click the `+`  button, and a new block will be created where the line is located.   
 [Screen Recording 2021-11-14 at 10.20.41 AM.mov](.gitbook/anytypeaddingblocks.mp4)    
 With this, you can create a block below or between preexisting blocks, but unli
 ke Notion, you can also create a block above another block.   
 To see options available for a block, such as deletion and duplication, click on the block dragger.   
-![image.png](.gitbook/blockoptions.png)    
+![image.png](.gitbook/assets/blockoptions.png)    
    
  ## Moving Blocks   
 Blocks can be moved around freely around a Notion page. Similarly, blocks can also be moved freely around an Anytype page. They can go below, above, inside or even next to other blocks!    
 
 To move blocks around an Anytype page, use the three-dotted dragger that appears once you hover over a block to click, then drag the block around a page - just like how&#39;d you use the dragger in Notion. You can also select or command-click to manipulate multiple objects at once!   
-[Screen Recording 2021-11-14 at 10.28.13 AM.mov](.gitbook/movingblocks.mp4)    
+[Screen Recording 2021-11-14 at 10.28.13 AM.mov](.gitbook/assets/movingblocks.mp4)    
 There are some differences, however. You can also indent blocks within other blocks by directly dragging a block over another block in Anytype.   
    
  # Hierarchy, Page Linking, and Backlinks   
@@ -38,7 +38,7 @@ Notion&#39;s pages operate in a **hierarchical** manner, like your computer&#39;
 In your computer&#39;s file browser, folders **store** other folders and files. You can create shortcuts (or symbolic links) to refer to these files outside of the hierarchy. If you delete a folder, all the folders and files contained within it will be deleted, and shortcuts to those files will be broken.   
 Similarly, in Notion, pages **store** other pages. You can also create backlinks to refer to pages outside of the hierarchy. Therefore, if you delete a page, all the pages contained within it will be deleted, along with backlinks referring to that page.   
    
-[Screen Recording 2021-11-14 at 1.18.36 AM.mov](.gitbook/notionfs.mp4)    
+[Screen Recording 2021-11-14 at 1.18.36 AM.mov](.gitbook/assets/notionfs.mp4)    
 Anytype operates in a fundamentally different manner. Rather than working like your computer&#39;s file system, it operates like the World Wide Web.   
 Any website from the World Wide Web can **link** to another website. Every link is a shortcut, as links don&#39;t **store** other webpages; they just refer to them. If you delete a webpage or a link, the webpages that it linked to won&#39;t be affected or deleted. Other shortcuts will continue to work.   
 Similarly, in Anytype, other objects (pages in Notion&#39;s lingo) can link to another object. This is how you organize other objects within your current object. If you delete links within an object or the object itself, the objects that it linked to won&#39;t be deleted, and other links to that object in other objects will continue to function.   
@@ -55,7 +55,7 @@ If you want to read further about the advantages and disadvantages a non-hierarc
  # Databases   
 Notion&#39;s relational databases are an incredibly flexible tool to help you categorize, organize, and **store** database entries - each of which is a fully-functioning page. Anytype works differently, yet, you can achieve the same (and more) with Anytype&#39;s Sets, Types and Relations.   
  ## Sets and Relations   
-![image.png](.gitbook/notiondb.png)    
+![image.png](.gitbook/assets/notiondb.png)    
 *Here&#39;s a Notion database. Each database entry is a page, and has predefined **properties, such as Tags, URL, and Phone**.*   
    
 Anytype&#39;s equivalent to Notion&#39;s databases are Sets. Unlike Notion databases, Sets do not **store** objects. Instead, they **show**, not store, all objects which meet a specific criteria, kind of how search works. Currently, sets can only show objects with one specific Type relation. Don&#39;t know what a Relation is? We&#39;ll cover it shortly.   
@@ -63,7 +63,7 @@ This makes Anytype much more flexible than Notion. With Notion, if you wanted to
 Learn more about Types and Sets here-&gt;   
    
 *Here&#39;s an Anytype set. Right now, it&#39;s configured to show all Objects with the relation `To-Do.`*   
-![Demo of sets](.gitbook/setdemo.png)
+![Demo of sets](.gitbook/assets/setdemo.png)
 <details> Having trouble understanding Anytype's databases? Click here to see a simplified explanation.   
 
 - Think of an individual Notion database within Anytype as a Type.    
@@ -75,10 +75,10 @@ Learn more about Types and Sets here-&gt;
  ## Relations   
 In Notion&#39;s databases, you may be familliar with properties, which are attributes connected to each database entry to describe it. In Anytype, relations (Anytype&#39;s equivalent of properties) are not only applied to individual database entries, but applied to **every single object**. Relations describe each Object. Many Notion properties are also applicable to Anytype&#39;s relations, such as tags, URL, phone number, last modified by, descriptions, checkboxes, and much more. Find out more about Relations in the documentation page.   
 Relations can be defined for a Type. This is the equivalent as using the `+` button in a Notion database to create a new property.   
-![image.png](.gitbook/anytyperelations.png)    
+![image.png](.gitbook/assets/anytyperelations.png)    
    
    
-![image.png](.gitbook/notionrelations.png)    
+![image.png](.gitbook/assets/notionrelations.png)    
 You can configure a Set to show relations (properties in Notion&#39;s lingo). Furthermore, you can create different Views (like Notion) that have different filtering and sorting settings, based on the Relations of the object.    
 Filtering, sorting and creating views in a Set work in a very similar manner to Notion, so you shouldn&#39;t have much trouble getting things sorted out. Check out the documentation on Sets for more information.   
 <details> Having trouble understanding Relations in contrast to Notion's Databases? Click here for a simplified explanation. 
