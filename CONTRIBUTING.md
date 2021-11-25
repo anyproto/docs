@@ -54,8 +54,7 @@ You are welcome to propose any changes in PR and participate in discussion in [I
 * All files are saved as **Markdown .md**
 * For nesting pages they need to be placed in the category folder if it does not exist then you can create the folder
 * To use images they must all be placed inside the [.gitbook/assets](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder and then referenced from that folder
-* **Note :** For adding media only use **MP4** for Videos.
-
+    > All media should be in light mode
 ## Conventions
 
 > These are the rules that Gitbook follows while creating documentation from markdown. Please follow them while making any changes
