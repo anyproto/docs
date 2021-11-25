@@ -23,10 +23,11 @@
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
 * [Creating a place for Studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
 
-## Migrating from other platforms
-- [From Notion](migrating/notion/start.md)
-  - [Read this first! - Missing Features](migrating/notion/missingfeatures.md)
-  - [Architecture and Fundamentals](migrating/notion/fundamentaldifferences.md)
+## Migrating
+
+* [From Notion](migrating/start/README.md)
+  * [Architecture and Fundamentals comparison](migrating/start/fundamentaldifferences.md)
+  * [Missing Features](migrating/start/missingfeatures.md)
 
 ## Features
 
