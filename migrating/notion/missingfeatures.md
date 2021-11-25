@@ -10,17 +10,17 @@ Take a look at our [Community Forums](http://community.anytype.io) to check out 
 ## Sharing, Publishing and Collaboration
 **Notion** allows users to share pages and workspaces with other Notion users. Alternatively, users can create a sharing link to allow users without a Notion account to access your shared content.
 
-![Notion sharing pane](</../../.gitbook/assets/notionsharingpane.png>)
+![Notion sharing pane](<../../.gitbook/assets/notionsharingpane.png>)
 
 **Anytype** currently does not have the ability to share content with other Anytype users or to the web. However, this feature is planned and is on the roadmap. If you find yourself needing to share content with other users, please use the "Print" option, accessed by using your system's Print keyboard shortcut, or through the three-dot menu within an object canvas.
 
-![Three dot menu](</../../.gitbook/assets/threedotmenuobject.png>)
+![Three dot menu](<../../.gitbook/assets/threedotmenuobject.png>)
 
 
 ## Workspaces
 Within **Notion**, users can create multiple workspaces. Workspaces are self-contained and can be shared with other users. Workspaces are useful for separating different aspects of your life within Notion, such as work, personal activities, and school.
 
-![Workspaces in Notion](</../../.gitbook/assets/notionworkspaces.png>)
+![Workspaces in Notion](<../../.gitbook/assets/notionworkspaces.png>)
 
 Anytype currently does not support workspaces. You'll have to store all of your objects within one single Anytype account at this moment.
 
