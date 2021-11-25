@@ -9,14 +9,14 @@ Each object has a canvas, and blocks can be placed within it.
  ## Create a Block   
 Notion&#39;s command pallete works almost exactly like Anytype&#39;s. Use the forward slash `/` to open the command pallete. Type to search, use the arrow keys to navigate up and down, or scroll through the list with your mouse. Press Enter, or click on the block type that you want, in order to create the desired block. By default, when you start typing on an Anytype object canvas, the block type will be plain text.   
 
-![slashmenu.png](<../../.gitbook/assets/slashmenu.png>)    
+![What shows up when you type a fotward slash.](<../../.gitbook/assets/slashmenu.png>)    
 
 *To see a list of all available blocks, please refer to the Documentation page.*   
 Want to create a block between, below, or even above another block? With Notion, you&#39;d have used the `+` button to only create a block below the current block.   
-![image.png](<../../.gitbook/assets/notionblocks.png>)    
+![How inserting blocks inside a Notion page works like.](<../../.gitbook/assets/notionblocks.png>)    
 
 Anytype&#39;s system is more flexible. Hover over the block dragger (shaped like a pill with three dots inside it), and a `+` button will pop out to your left.   
-![image](<../../.gitbook/assets/anytypeblocks.png>)  
+![Inserting blocks inside an Anytype page.](<../../.gitbook/assets/anytypeblocks.png>)  
 
 Move your mouse over to the `+` button that just appeared, and you&#39;ll see a yellow line appear. This line indicates where your new block will be inserted. Click the `+`  button, and a new block will be created where the line is located.   
 
@@ -25,14 +25,14 @@ Move your mouse over to the `+` button that just appeared, and you&#39;ll see a 
 With this, you can create a block below or between preexisting blocks, but unlike Notion, you can also create a block above another block.  
 
 To see options available for a block, such as deletion and duplication, click on the block dragger.   
-![image.png](<../../.gitbook/assets/blockoptions.png>)    
+![The drop-down menu which appears upon clicking the pill dragger.](<../../.gitbook/assets/blockoptions.png>)    
    
  ## Moving Blocks   
 Blocks can be moved around freely around a Notion page. Similarly, blocks can also be moved freely around an Anytype page. They can go below, above, inside or even next to other blocks!    
 
 To move blocks around an Anytype page, use the three-dotted dragger that appears once you hover over a block to click, then drag the block around a page - just like how&#39;d you use the dragger in Notion. You can also select or command-click to manipulate multiple objects at once!  
 
-[Screen Recording 2021-11-14 at 10.28.13 AM.mov](<../../.gitbook/assets/movingblocks.mp4>)    
+[Moving blocks around an Anytype page](<../../.gitbook/assets/movingblocks.mp4>)    
 
 There are some differences, however. You can also indent blocks within other blocks by directly dragging a block over another block in Anytype.   
    
@@ -44,7 +44,7 @@ In your computer&#39;s file browser, folders **store** other folders and files. 
 
 Similarly, in Notion, pages **store** other pages. You can also create backlinks to refer to pages outside of the hierarchy. Therefore, if you delete a page, all the pages contained within it will be deleted, along with backlinks referring to that page.   
    
-[Screen Recording 2021-11-14 at 1.18.36 AM.mov](<../../.gitbook/assets/notionfs.mp4>)    
+[Notion's hierarchical system](<../../.gitbook/assets/notionfs.mp4>)    
 
 Anytype operates in a fundamentally different manner. Rather than working like your computer&#39;s file system, it operates like the World Wide Web.   
 
@@ -73,7 +73,7 @@ If you want to read further about the advantages and disadvantages a non-hierarc
 Notion&#39;s relational databases are an incredibly flexible tool to help you categorize, organize, and **store** database entries - each of which is a fully-functioning page. Anytype works differently, yet, you can achieve the same (and more) with Anytype&#39;s Sets, Types and Relations.  
 
  ## Sets and Relations   
-![image.png](<../../.gitbook/assets/notiondb.png>)    
+![A database in Notion](<../../.gitbook/assets/notiondb.png>)    
 *Here&#39;s a Notion database. Each database entry is a page, and has predefined **properties, such as Tags, URL, and Phone**.*   
    
 Anytype&#39;s equivalent to Notion&#39;s databases are Sets. Unlike Notion databases, Sets do not **store** objects. Instead, they **show**, not store, all objects which meet a specific criteria, kind of how search works. Currently, sets can only show objects with one specific Type relation. Don&#39;t know what a Relation is? We&#39;ll cover it shortly.   
