@@ -102,8 +102,8 @@ This makes Anytype much more flexible than Notion. With Notion, if you wanted to
 
 Having trouble understanding Anytype's databases?&#x20;
 
-* <mark style="background-color:green;">Think of an individual Notion database within Anytype as a Type.</mark>
-* <mark style="background-color:green;">To create a "database" in Anytype, first, create a Type, then create a new Set to show all objects of that Type.</mark>
+* <mark style="background-color:yellow;">Think of an individual Notion database within Anytype as a Type.</mark>
+* <mark style="background-color:yellow;">To create a "database" in Anytype, first, create a Type, then create a new Set to show all objects of that Type.</mark>
 
 {% hint style="info" %}
 Learn more about this theme here: [type](../../fundamentals/type/ "mention") and [set.md](../../fundamentals/set.md "mention")&#x20;
@@ -125,12 +125,11 @@ Filtering, sorting and creating views in a Set work in a very similar manner to 
 
 Having trouble understanding Relations in contrast to Notion's Databases?
 
-* Consider Anytype's Relations to be Attributes within a Notion database.
-* When you add an attribute to a Notion database, you use the `+` button to the right of the column header.
-* Instead, in Anytype, to add an attribute to a database you can these options:
-  1. Click the Options button at the top-right corner and press `+` to get existing relation or create a brand new one. This will end with exactly the same thing — Anytype will add a column
-  2. Open the Library (square menu on the home screen) and click on the "Types" tab. Create new desired Type and add attributes - known as relations in Anytype's lingo.
-     * Click "Create", then select Set of object to create a database view — you will see all the relations from Type as a columns. And additionally all of them will become accessible in object `/` menu and object's relations panel.
+* <mark style="background-color:yellow;">Consider Anytype's Relations to be Attributes within a Notion database.</mark>
+* <mark style="background-color:yellow;">When you add an attribute to a Notion database, you use the</mark> <mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;">button to the right of the column header. Instead, in Anytype, to add an attribute to a database you can these options:</mark>
+  1. <mark style="background-color:yellow;">Click the Options button at the top-right corner and press</mark> <mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;">to get existing relation or create a brand new one. This will end with exactly the same thing — Anytype will add a column</mark>
+  2. <mark style="background-color:yellow;">Open the Library (square menu on the home screen) and click on the "Types" tab. Create new desired Type and add attributes - known as relations in Anytype's lingo.</mark>
+     * <mark style="background-color:yellow;">Click "Create", then select Set of object to create a database view — you will see all the relations from Type as a columns. And additionally all of them will become accessible in object</mark> <mark style="background-color:yellow;">`/`</mark> <mark style="background-color:yellow;">menu and object's relations panel.</mark>
 
 #### What does this mean for me?
 
