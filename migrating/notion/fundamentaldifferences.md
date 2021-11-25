@@ -1,7 +1,7 @@
  # Architecture and Fundamentals   
 Are you now ready to move your workflow over to Anytype? Sounds great... but there are a few things that you&#39;ll need to understand first.   
    
-Notion and Anytype operate based on two different architectures. This might sound scary, but once you grasp it, you&#39;ll be able to use Anytype like you use Notion right now in no time. Read on to find out more.   
+Notion and Anytype operate based on two different architectures. This might sound just a bit unnerving, but once you grasp it, you&#39;ll be able to use Anytype just like you use Notion right now in no time. Read on to find out more.   
    
  # The Page Canvas and Blocks   
 If you&#39;ve used Notion and its Pages and Blocks, you&#39;ll have no difficulty in understanding Anytype&#39;s equivalent, which is its Object Canvas and Blocks.   
@@ -85,8 +85,7 @@ Learn more about Types and Sets here-&gt;
 ![Demo of sets](<../../.gitbook/assets/setdemo.png>)
 <details> Having trouble understanding Anytype's databases? Click here to see a simplified explanation.   
 
-- Think of an individual Notion database within Anytype as a Type.    
--    
+- Think of an individual Notion database within Anytype as a Type.     
 - To create a &#34;database&#34; in Anytype, first, create a Type, then create a new Set to show all objects of that Type.  
   
 </details>
