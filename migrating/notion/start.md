@@ -6,6 +6,4 @@ Read on to learn about the differences between Anytype and Notion's architecture
 
 [Before you migrate: Missing Features](migrating/notion/missingfeatures.md)
 
-[How we differ](migrating/notion/howwediffer.md)
-
 [Architecture and Fundamentals](migrating/notion/fundamentaldifferences.md)
