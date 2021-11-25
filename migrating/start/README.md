@@ -4,6 +4,10 @@ Welcome! Are you coming to Anytype from Notion? Don't worry - many aspects of yo
 
 Read on to learn about the differences between Anytype and Notion's architecture, and how to adapt to these differences so you can build out your workflow in Anytype. We're looking forward for you to start experimenting with Anytype!
 
-[Before you migrate: Missing Features](missingfeatures.md)
+{% content-ref url="fundamentaldifferences.md" %}
+[fundamentaldifferences.md](fundamentaldifferences.md)
+{% endcontent-ref %}
 
-[Architecture and Fundamentals](missingfeatures.md)
+{% content-ref url="missingfeatures.md" %}
+[missingfeatures.md](missingfeatures.md)
+{% endcontent-ref %}
