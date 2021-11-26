@@ -47,3 +47,7 @@
 * [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
 * [How to restore my account?](faqs/how-to-restore-my-account.md)
 * [Free forever? How will Anytype make money?](faqs/free-forever-how-will-anytype-make-money.md)
+
+***
+
+* [What is the difference between the alpha and beta versions of Anytype?](what-is-the-difference-between-the-alpha-and-beta-versions-of-anytype.md)
