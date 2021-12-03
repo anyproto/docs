@@ -44,10 +44,6 @@ To move blocks around an Anytype page, use the three-dotted dragger that appears
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2FzYx6u9uXN8wkAD9nLyhD%2Fmovingblocks.mp4?alt=media&token=778ccec5-3160-45b2-83d4-d73aa89351a9" %}
 
-{% hint style="success" %}
-
-{% endhint %}
-
 There are some differences, however. You can also indent text blocks within other blocks by directly dragging a block over another block in Anytype. You are not limited by lists only like you are in Notion.&#x20;
 
 ## Hierarchy, Page Linking, and Backlinks
@@ -126,10 +122,10 @@ Filtering, sorting and creating views in a Set work in a very similar manner to 
 Having trouble understanding Relations in contrast to Notion's Databases?
 
 * <mark style="background-color:yellow;">Consider Anytype's Relations to be Attributes within a Notion database.</mark>
-* <mark style="background-color:yellow;">When you add an attribute to a Notion database, you use the</mark> <mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;">button to the right of the column header. Instead, in Anytype, to add an attribute to a database you can these options:</mark>
-  1. <mark style="background-color:yellow;">Click the Options button at the top-right corner and press</mark> <mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;">to get existing relation or create a brand new one. This will end with exactly the same thing — Anytype will add a column</mark>
+* <mark style="background-color:yellow;">When you add an attribute to a Notion database, you use the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">button to the right of the column header. Instead, in Anytype, to add an attribute to a database you can these options:</mark>
+  1. <mark style="background-color:yellow;">Click the Options button at the top-right corner and press</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">to get existing relation or create a brand new one. This will end with exactly the same thing — Anytype will add a column</mark>
   2. <mark style="background-color:yellow;">Open the Library (square menu on the home screen) and click on the "Types" tab. Create new desired Type and add attributes - known as relations in Anytype's lingo.</mark>
-     * <mark style="background-color:yellow;">Click "Create", then select Set of object to create a database view — you will see all the relations from Type as a columns. And additionally all of them will become accessible in object</mark> <mark style="background-color:yellow;">`/`</mark> <mark style="background-color:yellow;">menu and object's relations panel.</mark>
+     * <mark style="background-color:yellow;">Click "Create", then select Set of object to create a database view — you will see all the relations from Type as a columns. And additionally all of them will become accessible in object</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">`/`</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">menu and object's relations panel.</mark>
 
 #### What does this mean for me?
 
@@ -139,4 +135,4 @@ Anytype's equivalent of Notion's databases may not seem quite as straightforward
 
 Notion templates can provide you with pre-defined databases and several objects linked with each other by theme.
 
-Anytype template will provide you with a template for one particular object. So If you want to see several blocks, relations with values and you want to have a repetitive structure it will be helpful for you
+Anytype template works for each one particular object. So If you want to see several blocks, relations with values and you want to have a repetitive structure it will be helpful for you.
