@@ -12,4 +12,4 @@ Read on to learn about the differences between Anytype and Notion's architecture
 [missingfeatures.md](missingfeatures.md)
 {% endcontent-ref %}
 
-_This section was initially done by _[_Jonathan_](https://github.com/jonathan2384)__
+_This section was initially done by_ [_Jonathan_](https://github.com/jonathan2384)__

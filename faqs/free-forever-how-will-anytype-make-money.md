@@ -2,7 +2,7 @@
 
 Anytype is free to use, and because it’s self-hosted and uses the storage on your devices, it will always be free.
 
-#### **But how will you make money? **
+#### **But how will you make money?**&#x20;
 
 Initially, we’re going to offer subscriptions for decentralised backup services to our users.
 

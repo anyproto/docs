@@ -22,6 +22,7 @@
 * [Creating a Task Tracker](use-cases-and-tutorials/creating-a-task-tracker.md)
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
 * [Creating a place for Studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
+* [Create and organize your notes](use-cases-and-tutorials/create-and-organize-your-notes.md)
 
 ## Migrating
 
