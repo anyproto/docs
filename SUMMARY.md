@@ -19,10 +19,12 @@
 
 ## Use cases & tutorials
 
+* [Organizing notes](use-cases-and-tutorials/organizing-notes/README.md)
+  * [Use an existing Set of Notes](use-cases-and-tutorials/organizing-notes/use-an-existing-set-of-notes.md)
+  * [Outline note-taking method](use-cases-and-tutorials/organizing-notes/outline-note-taking-method.md)
 * [Creating a Task Tracker](use-cases-and-tutorials/creating-a-task-tracker.md)
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
 * [Creating a place for Studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
-* [Create and organize your notes](use-cases-and-tutorials/create-and-organize-your-notes.md)
 
 ## Migrating
 
