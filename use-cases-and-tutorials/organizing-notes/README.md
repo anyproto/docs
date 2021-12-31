@@ -1,12 +1,29 @@
 # Organizing notes
 
-This document provides&#x20;
+### Quick start
 
-a step-by-step example of creating and organizing notes in one place. It will help you, through a practical example, learn about the capabilities of Anytype, learn how to work with objects, create new types, create relations between objects, as well as collect objects in one place.
+How to use Anytype like you used Evernote or Apple Notes before? \
+How to manage a **well-tuned note-taking system** and not spend life on maintenance?&#x20;
 
-{% content-ref url="use-an-existing-set-of-notes.md" %}
-[use-an-existing-set-of-notes.md](use-an-existing-set-of-notes.md)
+This part will tell about to easy management of such things:
+
+* Fast-capturing notes with the ability to easily sort them later&#x20;
+* Viewing all your notes, and sorting them by last modified date
+* Categorizing notes using tags (while still being able to view them all in one place)
+
+{% content-ref url="capture-simple-notes.md" %}
+[capture-simple-notes.md](capture-simple-notes.md)
 {% endcontent-ref %}
+
+### Custom workflow
+
+Sometimes you need to do things as efficiently as it is possible. \
+For such purposes, you can set up a workflow with custom [template.md](../../fundamentals/type/template.md "mention") and [relation.md](../../fundamentals/relation.md "mention"). This section will help you answer these questions:
+
+* How to create Templates in Anytype?
+* How to create a Solid workflow using Types and Relations?
+
+With such a purpose we will take a popular note-taking method as an example:
 
 {% content-ref url="outline-note-taking-method.md" %}
 [outline-note-taking-method.md](outline-note-taking-method.md)

@@ -40,7 +40,7 @@ Overall status (for an object):
 
 If you encounter an error during sync:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 You will need to send us the «Object diagnostics» for debug. They can be found in the menu bar under the file option. «Object diagnostics» are **confidential**. Please send it to support@anytype.io.
 

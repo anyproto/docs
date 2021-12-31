@@ -20,7 +20,7 @@
 ## Use cases & tutorials
 
 * [Organizing notes](use-cases-and-tutorials/organizing-notes/README.md)
-  * [Use an existing Set of Notes](use-cases-and-tutorials/organizing-notes/use-an-existing-set-of-notes.md)
+  * [Capture simple notes](use-cases-and-tutorials/organizing-notes/capture-simple-notes.md)
   * [Outline note-taking method](use-cases-and-tutorials/organizing-notes/outline-note-taking-method.md)
 * [Creating a Task Tracker](use-cases-and-tutorials/creating-a-task-tracker.md)
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
