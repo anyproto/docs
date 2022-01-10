@@ -20,7 +20,7 @@ You can dive into [privacy-and-security.md](features/privacy-and-security.md "me
 
 ### Flexibility: Replace several tools with just one
 
-Most note-taking apps limit the information and structures you can create, giving you few possibilities for customisation or developing powerful workflows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views for different cases? Do you need to link to your study space - where lessons and courses are stored - with other araes like tasks, and manage it all in database-like views? No problem! Are you used to using one of the many existing work management methods, like Getting Things Done (GTD), or OKR? You can create these and more using the flexibility and power of Antype's simple, built-in tools.
+Most note-taking apps limit the information and structures you can create, giving you few possibilities for customisation or developing powerful workflows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views for different cases? Do you need to link to your study space - where lessons and courses are stored - with other areas like tasks, and manage it all in database-like views? No problem! Are you used to using one of the many existing work management methods, like Getting Things Done (GTD), or OKR? You can create these and more using the flexibility and power of Antype's simple, built-in tools.
 
 {% hint style="info" %}
 Take a look at some of [the things our community has already built](https://community.anytype.io/c/general-discussion/showcase/13).
@@ -40,7 +40,7 @@ Working Offline means, No Server => No Lag.
 
 ### Easy to use
 
-With all these capabilities, you may assume that Anytype has to be complicated and challenging to use. But we believe you'll be pleasantly surprised! You can use ou more than ten types of blocks to create a document you like.
+With all these capabilities, you may assume that Anytype has to be complicated and challenging to use. But we believe you'll be pleasantly surprised! You can use more than ten types of blocks to create a document you like.
 
 {% hint style="info" %}
 Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for more details.
