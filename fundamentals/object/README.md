@@ -10,7 +10,7 @@ People, Books, Musicians, Documents, Ideas, Places, Numbers, or Files. In Anytyp
 
 ### Object Canvas
 
-Every object has a flexible editing area that we call the "canvas". The canvas contains "blocks", each of which is a piece of information that you can freely move around the canvas. Blocks can take many forms and enable a wide variety of functionality and design adjustments, including text color and highlighting, alignment, and more. You can add a new blocks to hold any information you like by hitting the `+` button or do so in-line by typing `/`. However over a block to see its size or move it elsewhere on the canvas. To create a column, drag one block alongside another block.
+Every object has a flexible editing area that we call the "canvas". The canvas contains "blocks", each of which is a piece of information that you can freely move around the canvas. Blocks can take many forms and enable a wide variety of functionality and design adjustments, including text color and highlighting, alignment, and more. You can add a new blocks to hold any information you like by hitting the `+` button or do so in-line by typing `/`. Hover over a block to see its size or move it elsewhere on the canvas. To create a column, drag one block alongside another block.
 
 {% hint style="info" %}
 Check out [blocks-and-canvas](blocks-and-canvas/ "mention")for more details
