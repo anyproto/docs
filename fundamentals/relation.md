@@ -8,7 +8,7 @@ Your objects combine to form a unique knowledge graph. It's a universal data str
 
 ## Relations
 
-We use **relations** to connect objects in the graph. They add context and significance to each connection. For instance, Patrick was born in 1984, he lives in Berlin, and he just finished an essay. His favourite band is Pink Floyd, and his favourite movie is _2001: A Space Odyssey_. Patrick connects to each of these with relations like "date of birth," "location," "last task," "band," and "movie."
+We use **relations** to connect objects in the graph. They add context and significance to each connection. For instance, Patrick was born in 1984, he lives in Berlin, and he just finished an essay. His favourite band is Pink Floyd, and his favourite movie is _2001: A Space Odyssey_. So Patrick connects to each of these with relations like "date of birth," "location," "last task," "band," and "movie."
 
 **Common Relations:**
 
@@ -40,9 +40,9 @@ You can easily create an entirely new relation from scratch. It will then be add
 
 Below is the information on a few of the types available currently:
 
-* **Text:** accepts text as the input.
+* **Text:** accepts Text as the input.
 * **Number:** for all numbers. Different formats are coming soon.
-* **Date:** date, optional information for time.
+* **Date:** Date, optional information for time.
 * **Status:** an array of the string with a restriction on the output of only one element.
 * **Tag:** another variety of the string with no limits, only one string.
 * **Email/phone/URL:** special formats for URL, email, and phone number.

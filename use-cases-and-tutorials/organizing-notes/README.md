@@ -7,8 +7,8 @@ How to manage a **well-tuned note-taking system** and not spend life on maintena
 
 This part will tell about to easy management of such things:
 
-* Fast-capturing notes with the ability to easily sort them later&#x20;
-* Viewing all your notes, and sorting them by last modified date
+* Fast-capturing notes with the ability to quickly sort them later&#x20;
+* Viewing all your notes and sorting them by last modified date
 * Categorizing notes using tags (while still being able to view them all in one place)
 
 {% content-ref url="capture-simple-notes.md" %}
@@ -23,7 +23,7 @@ For such purposes, you can set up a workflow with custom [template.md](../../fun
 * How to create Templates in Anytype?
 * How to create a Solid workflow using Types and Relations?
 
-With such a purpose we will take a popular note-taking method as an example:
+With such a purpose, we will take a popular note-taking method as an example:
 
 {% content-ref url="outline-note-taking-method.md" %}
 [outline-note-taking-method.md](outline-note-taking-method.md)

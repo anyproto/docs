@@ -18,7 +18,7 @@
 ## Intro
 
 ℹ️ We ask that all users read our [Code of Conduct](https://github.com/anytypeio/community/blob/main/README.md#code-of-conduct) and [Gitbook Conventions](#conventions) before contributing to the documentation.
-You are welcome to propose any changes in PR and participate in discussion in [Improvements for doc.anytype.io](https://community.anytype.io/t/improvements-for-doc-anytype-io/2862) topic. Please follow the steps below in order to contribute. If you're new to \_git\* and/or _GitHub_, we suggest you go through [the GitHub Guides](https://guides.github.com/introduction/flow/). 
+You are welcome to propose any changes in PR and participate in discussion in [Improvements for doc.anytype.io](https://community.anytype.io/t/improvements-for-doc-anytype-io/2862) topic. Please follow the steps below to contribute. If you're new to \_git\* and/or _GitHub_, we suggest you go through [the GitHub Guides](https://guides.github.com/introduction/flow/). 
 
 
 ## Contribution process
@@ -47,17 +47,17 @@ You are welcome to propose any changes in PR and participate in discussion in [I
 
 * Any Page that has been added or removed from the documentation needs to be added to the **Table Of Contents** in the file [SUMMARY.md](https://github.com/anytypeio/docs/blob/main/SUMMARY.md)
   * Indentation is used to signify nesting of pages
-  * Pages are linked using markdown URL's eg:
+  * Pages are linked using markdown URL's, e.g.:
     ```
     [Navigation](https://github.com/anytypeio/docs/blob/main/features/navigation.md)
     ```
 * All files are saved as **Markdown .md**
-* For nesting pages they need to be placed in the category folder if it does not exist then you can create the folder
-* To use images they must all be placed inside the [.gitbook/assets](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder and then referenced from that folder
+* For nesting pages, they need to be placed in the category folder. If it does not exist, then you can create the folder
+* To use images, they must all be placed inside the [.gitbook/assets](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder and then referenced from that folder
     > All media should be in light mode
 ## Conventions
 
-> These are the rules that Gitbook follows while creating documentation from markdown. Please follow them while making any changes
+> These are the rules that Gitbook follows while creating documentation from markdown. Please follow them while making any changes.
 
 ### Text Formats
 
@@ -147,7 +147,7 @@ You are welcome to propose any changes in PR and participate in discussion in [I
 
 - **Quotes**
   ```
-  Use > to start a quote block
+  Use > to start a quote block.
   ```
 
 - **Information Hint Block**
@@ -192,32 +192,32 @@ You are welcome to propose any changes in PR and participate in discussion in [I
 
 ### Media
 
-- **Block :** To create a Media Block you need to use the below convention
+- **Block:** To create a Media Block, you need to use the below convention
   ```
   ![Media Caption](<.gitbook/assets/file-name>)
   
-  E.g:
+  E.g.:
   
   ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
   ```
-  When adding a media block, if the page you are adding the block to is nested then use `../` the appropriate number of times to make the embedd work.
+  When adding a media block, if the page to which you are adding is nested, use `../` the appropriate number of times to make the embeds work.
 
 - **File Storage :** Any media has to be uploaded to the [.gitbook/assets/](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) folder first. Only then it can be used inside the documentation. You may see GitBook embedding proprietary format `{% embed url=" in existing pages, you don't need to use that. 
 
-- **File Formats :** These are the only file formats that are accepted for uploading media in the documentation.
-    - **Videos :**
+- **File Formats:** These are the only file formats accepted for uploading media in the documentation.
+    - **Videos:**
     
       > ✔️ Use only **MP4**
       > ❌ No **gifs** or other formats
       
-    - **Images :**
+    - **Images:**
       
       > ✔️ Use only **PNG** and **JPG** images
       > ❌ No other formats
 
-- **Size Limits :**  There is size limit of **5 MegaBytes** for each media file being uploaded. 1000px wide images and videos can still be very legible, and that would reduce 4k file size by probably 75%. 
+- **Size Limits:**  There is a size limit of **5 MegaBytes** for each media file uploaded. 1000px wide images and videos can still be very legible, reducing 4k file size by probably 75%. 
 
-- **Naming :** To reduce confusion, when uploading please rename your files in human readable format
+- **Naming:** To reduce confusion, when uploading, please rename your files in a human-readable format
   ```
   <image-caption>-<page>.<file-format>
   
