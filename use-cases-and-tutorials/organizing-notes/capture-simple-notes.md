@@ -1,17 +1,17 @@
 # Capture simple notes
 
-The current tutorial will show you how to organize your notes in a fast and simple way. \
-You will use pre-build set up for Note type and Notes set
+The current tutorial will show you how to organize your notes quickly and quickly. \
+You will use a pre-build set-up for Note type, and Notes set
 
 ### Create them everywhere
 
 You can create Notes everywhere you want. Every object you create by default is a Note. You can use `+` on Home, `/` in Editor, `+ New` in [set.md](../../fundamentals/set.md "mention") — all of them will be shown in Notes.&#x20;
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2F5YUqYWaLY9l1nXxQgQSK%2FNotes%20creation.mp4?alt=media&token=779d9632-8185-42e9-ab8c-56a79c7946bb" %}
-"Notes" Set come with Anytype by default
+"Notes" Set comes with Anytype by default
 {% endembed %}
 
-Sets collect all objects by given criteria. If you will add a new Note anywhere inside the Anytype, and it will be shown here! By default, it is sortred by creation date
+Sets collect all objects by given criteria. For example, if you add a new Note anywhere inside the Anytype, it will be shown here! By default, it is sorted by creation date.
 
 {% hint style="info" %}
 Click on links to know more about [type](../../fundamentals/type/ "mention"), [set.md](../../fundamentals/set.md "mention") & [relation.md](../../fundamentals/relation.md "mention")
@@ -26,11 +26,11 @@ Press the setting icon if you want to create other sorts.&#x20;
 
 ### Categorizing with tags
 
-Tags let you add keywords to Notes, making them easier to find and browse when you’ve got a lot of them. Use tags when a note might apply to more than one category or when you want to filter some Notes from all of them. For example, you may create tags for:
+Tags let you add keywords to Notes, making them easier to find and browse when you've got a lot of them. Use tags when a note might apply to more than one category or when you want to filter some Notes from all of them. For example, you may create tags for:
 
 * **Personal:** Add a tag for something related to you, like an idea, thought or a grocery list
-* **School:** Add a tag for each of your subjects, or for individual semesters.
-* **Research:** Add a tag for the relevant article, podcast, or book you read. Like `management`, `memorisation`, `psychology`
+* **School:** Add a tag for each of your subjects or for individual semesters.
+* **Research:** Add a tag for the relevant article, podcast, or book you read. Like `management`, `memorization`, `psychology.`
 
 Make these steps and start your Tags management:
 

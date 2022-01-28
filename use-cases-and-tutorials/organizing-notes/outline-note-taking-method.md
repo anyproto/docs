@@ -2,7 +2,7 @@
 
 ![topic → sub-topic → thoughts](<../../.gitbook/assets/Screenshot 2021-12-29 at 13.13.41.png>)
 
-The Outline method is one of the most popular note-taking methods for college students. It lets you organize your notes in a structured form. This method requires you to structure your notes in form of an outline by using bullet points to represent different topics and their subtopics. Start writing main topics on the far left of the page and add related subtopics in bullet points below using the indents.&#x20;
+The Outline method is one of college students' most popular note-taking methods. It lets you organize your notes in a structured form. This method requires you to structure your notes in the form of an outline by using bullet points to represent different topics and their subtopics. Start writing main topics on the far left of the page and add related subtopics in bullet points below using the indents.&#x20;
 
 The next few steps will explain step by step how to organize your Anytype notes using the Outline method by creating a new Object type, template, and set.
 
@@ -12,9 +12,9 @@ The outlining method emphasizes content as well as relationships between the mat
 
 ### Add Outline Note type
 
-1. Go to the Library and click the "Create a new type" button.​​​ By using a new Type you can customize templates and relations the way you want. Fill the Type Title and choose the Icon you want\
+1. Go to the Library and click the "Create a new type" button.​​​ By using a new type, you can customize templates and relations the way you want. Fill in the Type Title and choose the Icon you want\
    ![](<../../.gitbook/assets/create a new type.png>) ![](<../../.gitbook/assets/set name in type.png>)​
-2. Customize our type by adding your own Relations and choosing a layout. If you want to use a Title, you need to choose a Basic layout, otherwise — Note. Due to the [Ebbinghaus forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/), it’s always best to start the reciting and reviewing stage as soon as possible. Studies have shown that reviewing your notes within the [24-hour point](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644) achieves the best results. So we also propose to have a "Reflection" relation and "Tag" for categorization  ​​\
+2. Customize our type by adding your own Relations and choosing a layout. If you want to use a Title, you need to choose a Basic layout. Otherwise — Note. Due to the [Ebbinghaus forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/), it's always best to start the reciting and reviewing stage as soon as possible. Studies have shown that reviewing your notes within the [24-hour point](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644) achieves the best results. So we also propose to have a "Reflection" relation and "Tag" for categorization  ​​\
    ![](<../../.gitbook/assets/set relation and layout.png>)​
 
 ### Create Outline Note template
@@ -44,7 +44,7 @@ Sets help you sort through and create specific database-like views to work with 
 
 ### Customize your workflow <a href="#quickly-create-notes-by-adding-templates" id="quickly-create-notes-by-adding-templates"></a>
 
-All the Outline Notes will be collected in the set. So you can create a flow to memorize them better. If you neglect your notes for a whole week after taking them, you’ll lose out on a lot of retention and memorization. So let's create a View for that.
+All the Outline Notes will be collected in the set. So you can create a flow to memorize them better. If you neglect your notes for a whole week after taking them, you'll lose out on a lot of retention and memorization. So let's create a View for that.
 
 1. Add  "Reflection" relation and "Tag"  to the Set. Create a view calling "Inbox"\
    ![](../../.gitbook/assets/2\_custom\_relations.png) ![](../../.gitbook/assets/2\_add\_view.png)&#x20;
@@ -54,5 +54,5 @@ All the Outline Notes will be collected in the set. So you can create a flow to 
 
 {% hint style="info" %}
 1. You can add more templates and use them in different contexts
-2. You can also change your default type in Settings in order to create every object with Outline Note by default
+2. You can also change your default type in Settings to create every object with Outline Note by default
 {% endhint %}

@@ -2,7 +2,7 @@
 
 ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
 
-Anytype is next-generation software that works the way your brain does. It solves everyday problems while respecting your privacy and data rights. Anytype is a personal knowledge base, a digital brain that allows you to capture, describe, and connect information.
+Anytype is the next-generation software that works the way your brain does. It solves everyday problems while respecting your privacy and data rights. Anytype is a personal knowledge base, a digital brain that allows you to capture, describe, and connect information.
 
 You can use Anytype to create tasks, notes, ideas, documents, workflows, and more, and organize them any way you want. Future versions will allow you to share your work and safely collaborate with others. Our long-term vision is for Anytype to enable large-scale collaboration to create a global repository interconnected of knowledge.
 
@@ -12,7 +12,7 @@ And what can we offer you <mark style="color:blue;"><mark style="background-colo
 
 ### Privacy: Your information is encrypted and under your control
 
-Your data gets encrypted and stays on your devices. Data goes directly between your devices (desktop and mobile), and by default nobody can access your data except you. If you choose to share your data, you will be able to control who can see it and what they can do with it.
+Your data gets encrypted and stays on your devices. Data goes directly between your devices (desktop and mobile), and by default, nobody can access your data except you. However, if you choose to share your data, you will control who can see it and what they can do with it.
 
 {% hint style="success" %}
 You can dive into [privacy-and-security.md](features/privacy-and-security.md "mention") for more details.
@@ -20,7 +20,7 @@ You can dive into [privacy-and-security.md](features/privacy-and-security.md "me
 
 ### Flexibility: Replace several tools with just one
 
-Most note-taking apps limit the information and structures you can create, giving you few possibilities for customisation or developing powerful workflows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views for different cases? Do you need to link to your study space - where lessons and courses are stored - with other areas like tasks, and manage it all in database-like views? No problem! Are you used to using one of the many existing work management methods, like Getting Things Done (GTD), or OKR? You can create these and more using the flexibility and power of Antype's simple, built-in tools.
+Most note-taking apps limit the information and structures you can create, giving you few possibilities for customization or developing powerful workflows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views for various cases? Do you need to link to your study space - where lessons and courses are stored - with other areas like tasks and manage it all in database-like views? No problem! Are you used to using one of the many existing work management methods, like Getting Things Done (GTD) or OKR? Using the flexibility and power of Antype's simple, built-in tools, you can create these and more.
 
 {% hint style="info" %}
 Take a look at some of [the things our community has already built](https://community.anytype.io/c/general-discussion/showcase/13).
@@ -28,7 +28,7 @@ Take a look at some of [the things our community has already built](https://comm
 
 ### Think the way you want: Graph and database views
 
-You can think and navigate in both abstract and systematic ways within the same application. You can create a network of your thoughts, connecting objects together in any way you want, but more defined structures like database views are also available when you need them. You can get the best of all worlds.
+You can think and navigate abstract and systematic within the same application. You can create a network of your thoughts, connecting objects together in any way you want, but more defined structures like database views are also available when you need them. So you can get the best of all worlds.
 
 ![You can easily switch between graph and database-like view](<.gitbook/assets/test (1) (1).gif>)
 
@@ -40,7 +40,7 @@ Working Offline means, No Server => No Lag.
 
 ### Easy to use
 
-With all these capabilities, you may assume that Anytype has to be complicated and challenging to use. But we believe you'll be pleasantly surprised! You can use more than ten types of blocks to create a document you like.
+You may assume that Anytype has to be complicated and challenging to use with all these capabilities. But we believe you'll be pleasantly surprised! You can use more than ten blocks to create a document you like.
 
 {% hint style="info" %}
 Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for more details.

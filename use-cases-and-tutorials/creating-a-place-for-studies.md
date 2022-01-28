@@ -30,5 +30,5 @@ It is handy to create Templates. While creating notes in class or meetings, you 
 ![Class Note template](<../.gitbook/assets/Screenshot 2021-11-11 at 11.52.51.png>)
 
 {% hint style="success" %}
-​Find ideas to spark inspiration in [Community Showcases](https://community.anytype.io/c/general-discussion/showcase/13)
+Find ideas to spark inspiration in [Community Showcases](https://community.anytype.io/c/general-discussion/showcase/13)
 {% endhint %}

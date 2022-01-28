@@ -1,14 +1,14 @@
-# How to add relation to multiple objects
+# How to add a relation to multiple objects
 
 ### **Using a Type**
 
-Let's look at an example. Say you need to add a new relation `Color,` to your **Type** `Cat`. And you already have 10 objects of this type.
+Let's look at an example. Say you need to add a new relation, `Color,` to your **Type** `Cat`. And you already have 10 objects of this Type.
 
 1. You need to open [library.md](../features/library.md "mention")
 2. Find and open the [type](../fundamentals/type/ "mention") `Cat`
 3. Add a new [relation.md](../fundamentals/relation.md "mention") `Color` there.
 
-When you open any object `Cat` you will find `Color` in relations view and in `/` menu.
+When you open any object `Cat`, you will find `Color` in the relations view and `/` menu.
 
 {% hint style="warning" %}
 You cannot edit the default relations in types\*\* created by Anytype\*\*. But you can use [set.md](../fundamentals/set.md "mention"), which can be used to create a relation in existing objects.
@@ -16,7 +16,7 @@ You cannot edit the default relations in types\*\* created by Anytype\*\*. But y
 
 ### **Using a Set**
 
-Say you need to add the relation `Related` to all your `Tasks`. You can't change the default relations for this Type.
+Say you need to add `Related` to all your `Tasks`. Unfortunately, you can't change the default relations for this Type.
 
 1. [#create-a-set](../fundamentals/set.md#create-a-set "mention") with type Task
 2. Add a new column. Settings → Relations → \*\*+ \*\*→ `Related`
