@@ -129,7 +129,7 @@ Have trouble understanding Relations in contrast to Notion's Databases?
 
 #### What does this mean for me?
 
-Anytype's equivalent of Notion's databases may not seem relatively as straightforward. Still, once you understand precisely how they work, they may end up being a more powerful and flexible tool than Notion's databases.
+Anytype's equivalent of Notion's databases may not seem quite as straightforward. Still, once you understand precisely how they work, they may end up being a more powerful and flexible tool than Notion's databases.
 
 ## Templates
 
