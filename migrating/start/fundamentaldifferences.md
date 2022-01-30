@@ -13,14 +13,14 @@ Each object has a canvas, and blocks can be placed within it.
 
 ### Create a Block
 
-Notion's command pallet works almost precisely like Anytype's. Use the forward-slash `/` to open the command palette. Type to search, use the arrow keys to navigate up and down, or scroll through the list with your mouse. Press `Enter`, or click on the block type you want to create the desired block. By default, when you start typing on an Anytype object canvas, the block type will be plain text.
+Notion's command palette works almost precisely like Anytype's. Use the forward-slash `/` to open the command palette. Type to search, use the arrow keys to navigate up and down, or scroll through the list with your mouse. Press `Enter`, or click on the block type you want to create the desired block. By default, when you start typing on an Anytype object canvas, the block type will be plain text.
 
 ![What shows up when you type a forward slash.](../../.gitbook/assets/slashmenu.png)
 
 Want to create a block between, below, or even above another block? You'd have used the `+` button with Notion to only make a block below the current block.\
 ![How inserting blocks inside a Notion page works like.](../../.gitbook/assets/notionblocks.png)
 
-Any types of system are more flexible. Hover over the block dragger (shaped like a pill with three dots inside it), and a `+` button will pop out to your left. \
+Anytype's system is more flexible. Hover over the block dragger (shaped like a pill with three dots inside it), and a `+` button will pop out to your left. \
 ![Inserting blocks inside an Anytype page.](../../.gitbook/assets/anytypeblocks.png)
 
 Move your mouse over to the `+` button that just appeared, and you'll see a yellow line appear. This line indicates where your new block will be inserted. Click the `+` button, and a new block will be created where the line is located.&#x20;
@@ -62,7 +62,7 @@ Any website from the World Wide Web can **link** to another website. Every link 
 
 If you delete a webpage or a link, the web pages that it linked to won't be affected or deleted. Other shortcuts will continue to work.
 
-Similarly, in Anytype, other objects (pages in Notion's lingo) can link to another entity. This is how you organize other objects within your everyday thing. If you delete links within an object or the object itself, the objects it linked to won't be deleted, and other links to that object in other things will continue to function.
+Similarly, in Anytype, other objects (pages in Notion's lingo) can link to another entity. This is how you organize objects within other objects. If you delete links within an object or the object itself, the objects it linked to won't be deleted, and other links to that object in other things will continue to function.
 
 {% hint style="info" %}
 To see which objects your current object links to and have links from, check out [navigation.md](../../features/navigation.md "mention"). You will see also how to use a full-featured graph showing all the links between your objects.
@@ -74,7 +74,7 @@ Relations also link objects together with another. You'll learn more about this 
 
 #### **What does this mean for me?**
 
-Any types of object linking architecture are more flexible than Notion. You may be off-put by the different architecture, but coming from a user who switched his entire workflow over from Notion to Anytype, you'll come to understand the benefits in no time.
+Anytype's of object linking architecture are more flexible than Notion. You may be off-put by the different architecture, but coming from a user who switched his entire workflow over from Notion to Anytype, you'll come to understand the benefits in no time.
 
 Having objects (or pages, if that's what you prefer) not be locked inside a hierarchical silo but instead linked together in a knowledge graph brings numerous advantages. You no longer need to think about \*where\* an object belongs in your tree or where to place it. You simply link it. This allows for a much more natural flow of information than storing data inside a hierarchical note system.
 
@@ -90,7 +90,7 @@ Notion's relational databases are an incredibly flexible tool to help you catego
 
 ![Here's a Notion database. Each database entry is a page and has predefined properties, such as Tags, URL, and Phone.](../../.gitbook/assets/notiondatabaseexample.png)
 
-Any types equivalent to Notion's databases are Sets. However, unlike Notion databases, Sets do not **store** objects. Instead, they **show**, not store, all objects which meet a specific criteria, kind of how search works. Currently, sets can only show things with a particular type of relation. Don't know what a Relation is? We'll cover it shortly.
+Anytype's equivalent to Notion's databases are Sets. However, unlike Notion databases, Sets do not **store** objects. Instead, they **show**, not store, all objects which meet a specific criteria, kind of how search works. Currently, sets can only show things with a particular type of relation. Don't know what a Relation is? We'll cover it shortly.
 
 This makes Anytype much more flexible than Notion. For example, if you wanted to create a database with Notion, you are stuck with it. You cannot move pages outside of the database, nor can you bring pages inside a database once they have already been created (without annoying workarounds and time-wasting steps.) Instead, with Anytype, you can get **any** existing object in view with a Set.
 
@@ -111,7 +111,7 @@ In Notion's databases, you may be familiar with properties, which are attributes
 
 In Anytype, relations (Anytype's equivalent of properties) are applied to individual database entries and applied to **every single object**. [relation.md](../../fundamentals/relation.md "mention")s describe each Object. Many Notion properties are also applicable to Anytype's relations, such as `tags`, `URL`, `phone number`, `last modified by`, `descriptions`, `checkboxes`, and more.&#x20;
 
-Relations can be defined as a Type. This is the equivalent of using the `+` button in a Notion database to create a new property. All your relations will come for each new object created, and they can be configured in Type and not by properties in a particular database like in Notion\
+Relations can be defined for a Type. This is the equivalent of using the `+` button in a Notion database to create a new property. All your relations will come for each new object created, and they can be configured in Type and not by properties in a particular database like in Notion\
 ![image.png](../../.gitbook/assets/anytyperelations.png)
 
 ![image.png](../../.gitbook/assets/notionrelations.png)\
@@ -129,7 +129,7 @@ Have trouble understanding Relations in contrast to Notion's Databases?
 
 #### What does this mean for me?
 
-Any type equivalent of Notion's databases may not seem relatively as straightforward. Still, once you understand precisely how they work, they may end up being a more powerful and flexible tool than Notion's databases.
+Anytype's equivalent of Notion's databases may not seem quite as straightforward. Still, once you understand precisely how they work, they may end up being a more powerful and flexible tool than Notion's databases.
 
 ## Templates
 
