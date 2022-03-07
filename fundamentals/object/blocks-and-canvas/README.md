@@ -6,8 +6,6 @@ Every object has a flexible canvas made of simple blocks. Each block is a piece 
 
 You can add any information you like by hitting the `+` button or in-line by typing `/`. Highlight a block to see its size or move it elsewhere on the canvas. To create a column, drag one block to the end of another block.
 
-Add any information you like by hitting the `+` button or in-line by typing `/`. Highlight a block to see its size or move it elsewhere on the canvas. To create a column, drag one block to the end of another block.
-
 ### **The following blocks are available in this version of Anytype:**
 
 Open the block menu by hitting ![](<../../../.gitbook/assets/Screenshot 2021-11-09 at 21.37.43.png>)– icon on the left side of the block to delete, duplicate or add styling to the block.
