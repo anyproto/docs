@@ -1,20 +1,20 @@
 # Relations, Mentions & Object Links
 
-There are several options to add another object to Canvas: Relation, Object Link, and Mentions.&#x20;
+There are several options to add another object to Canvas: Relation, Object Link, and Mentions.
 
 ### As Relation
 
 You can add any Relation on the Canvas by hitting the `+` button or in-line by typing `/`. Next, type a Relation name or choose one from the list.
 
-![](<../../../.gitbook/assets/ezgif-4-ea6acf421512 (1).gif>)
+![](../../../.gitbook/assets/ezgif-4-ea6acf421512.gif)
 
-_Read more about how to create a new Relation: _[relation.md](../../relation.md "mention")
+\_Read more about how to create a new Relation: \_[relation.md](../../relation.md "mention")
 
 ### As Object Link
 
 You can add a link to any object from your Anytype to the Canvas even if it doesn't relate to everyday life.
 
-![](<../../../.gitbook/assets/ezgif-4-ab32385c08cf (1).gif>)
+![](../../../.gitbook/assets/ezgif-4-ab32385c08cf.gif)
 
 This approach allows you to create "Home Page" style objects, where you can customize Object Link's view and layout. Read more about Object Link styling in [#block-styling](relations-mentions-and-object-links.md#block-styling "mention") section.
 

@@ -1,6 +1,6 @@
 # Creating a Task Tracker
 
-![](../.gitbook/assets/test.gif)
+![](<../.gitbook/assets/test (6).gif>)
 
 ### Steps
 

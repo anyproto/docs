@@ -4,7 +4,7 @@ description: >-
   object?
 ---
 
-# Can page be nested one to another?
+# Can pages be nested one to another?
 
 Let's look at an example:
 
@@ -17,9 +17,8 @@ Answer: **they both starting to have links to each other**.
 
 We have <mark style="background-color:red;">no nesting</mark> for [object](../fundamentals/object/ "mention"). So object doesn't physically include/store different objects.
 
-All Anytype structures are based on links between objects. Links are directional, so you know that page A links to → page B. You can link oppositely if you need that. You can't use classical hierarchy when files belong to folders and folders create a path. But you can make some of the objects Favourite to be accessible straight from Home.&#x20;
+All Anytype structures are based on links between objects. Links are directional, so you know that page A links to → page B. You can link oppositely if you need that. You can't use classical hierarchy when files belong to folders and folders create a path. But you can make some of the objects Favourite to be accessible straight from Home.
 
 All objects connections will soon look like an interconnected network:
 
-![Some objects have links from completely different context](<../.gitbook/assets/Screenshot 2021-11-09 at 12.54.59 (1).png>)
-
+![Some objects have links from completely different context](<../.gitbook/assets/Screenshot 2021-11-09 at 12.54.59.png>)

@@ -1,6 +1,6 @@
 # Intro
 
-![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
+{% embed url="https://anytype.wistia.com/medias/tyvt7eszda" %}
 
 Anytype is the next-generation software that works the way your brain does. It solves everyday problems while respecting your privacy and data rights. Anytype is a personal knowledge base, a digital brain that allows you to capture, describe, and connect information.
 
@@ -8,7 +8,7 @@ You can use Anytype to create tasks, notes, ideas, documents, workflows, and mor
 
 ## How do we stand out?
 
-And what can we offer you <mark style="color:blue;"><mark style="background-color:blue;">n<mark style="background-color:blue;"></mark><mark style="background-color:purple;"><mark style="color:blue;"><mark style="background-color:blue;">o<mark style="background-color:blue;"><mark style="color:blue;"></mark><mark style="background-color:green;"><mark style="background-color:purple;"><mark style="color:blue;"><mark style="background-color:blue;">w?<mark style="background-color:blue;"><mark style="color:blue;"><mark style="background-color:purple;"></mark>
+And what can we offer you <mark style="background-color:blue;"><mark style="color:blue;">n<mark style="color:blue;"></mark><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">o<mark style="color:blue;"><mark style="background-color:blue;"></mark><mark style="background-color:green;"><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">w?<mark style="color:blue;"><mark style="background-color:blue;"><mark style="background-color:purple;"></mark>
 
 ### Privacy: Your information is encrypted and under your control
 
