@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Feature walkthrough](feature-walkthrough.md)
+* [Presentation](feature-walkthrough.md)
 
 ## Fundamentals
 
