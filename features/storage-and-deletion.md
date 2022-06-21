@@ -23,7 +23,7 @@ So when you open an object with an image, it downloads. When you press play on v
 At the moment you can delete only the [object](../fundamentals/object/ "mention") that you create inside Anytype. At first, you can move them to a bin that will remove them from navigation. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online.
 
 {% hint style="warning" %}
-This action does it irrevocably, so please be careful.&#x20;
+This action is irreversible, so please be careful.&#x20;
 {% endhint %}
 
 ### Media
