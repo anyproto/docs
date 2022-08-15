@@ -27,7 +27,7 @@ If you want to create a more comprehensive learning system with several entities
 
 It is handy to create Templates. While creating notes in class or meetings, you don't have the time to layout and add relations every time. So, you can choose the Template we provide or make a custom one that fits your needs.
 
-![Class Note template](<../.gitbook/assets/Screenshot 2021-11-11 at 11.52.51 (1).png>)
+![Class Note template](<../.gitbook/assets/Screenshot 2021-11-11 at 11.52.51.png>)
 
 {% hint style="success" %}
 Find ideas to spark inspiration in [Community Showcases](https://community.anytype.io/c/general-discussion/showcase/13)

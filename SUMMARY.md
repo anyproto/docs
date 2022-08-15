@@ -55,4 +55,5 @@
 
 ***
 
+* [What Trackers does Anytype Use?](what-trackers-does-anytype-use.md)
 * [Community](https://community.anytype.io)

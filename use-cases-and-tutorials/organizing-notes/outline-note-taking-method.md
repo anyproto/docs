@@ -13,7 +13,7 @@ The outlining method emphasizes content as well as relationships between the mat
 ### Add Outline Note type
 
 1. Go to the Library and click the "Create a new type" button.​​​ By using a new type, you can customize templates and relations the way you want. Fill in the Type Title and choose the Icon you want\
-   ![](<../../.gitbook/assets/create a new type.png>) ![](<../../.gitbook/assets/set name in type (1).png>)​
+   ![](<../../.gitbook/assets/create a new type.png>) ![](<../../.gitbook/assets/set name in type.png>)​
 2. Customize our type by adding your own Relations and choosing a layout. If you want to use a Title, you need to choose a Basic layout. Otherwise — Note. Due to the [Ebbinghaus forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/), it's always best to start the reciting and reviewing stage as soon as possible. Studies have shown that reviewing your notes within the [24-hour point](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644) achieves the best results. So we also propose to have a "Reflection" relation and "Tag" for categorization ​​\
    ![](<../../.gitbook/assets/set relation and layout.png>)​
 

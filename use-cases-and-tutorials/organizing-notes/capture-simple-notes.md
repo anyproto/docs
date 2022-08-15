@@ -22,7 +22,7 @@ Click on links to know more about [type](../../fundamentals/type/ "mention"), [s
 Notes are sorted by "Last modified date" as you had in Apple Notes or Evernote by default.\
 Press the setting icon if you want to create other sorts.
 
-![](<../../.gitbook/assets/Notes sort (1).png>)
+![](<../../.gitbook/assets/Notes sort.png>)
 
 ### Categorizing with tags
 
@@ -37,7 +37,7 @@ Make these steps and start your Tags management:
 1. You need to add Tag as a column in Set. You can start adding categories in the cells straightaway.\
    ![](<../../.gitbook/assets/image (5).png>) ![](../../.gitbook/assets/image.png)
 2. Add a View related to this particular Tag or Tags. You need to set up a filter with condition like `Tag has any of Personal`\
-   ![](<../../.gitbook/assets/image (3).png>) ![](<../../.gitbook/assets/image (4).png>)
+   ![](<../../.gitbook/assets/image (3).png>) ![](<../../.gitbook/assets/image (1).png>)
 
 {% hint style="success" %}
 You can work with relations everywhere! Check out where and how you can also use Tags: [#adding-relations](../../fundamentals/relation.md#adding-relations "mention")

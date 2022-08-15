@@ -14,7 +14,7 @@ Look at [creating-a-task-tracker.md](../use-cases-and-tutorials/creating-a-task-
 
 You can create a Set with a + menu in the Home or bottom-left corner or in / menu in the editor. After that, you need to decide what you want to see there. For example, project management may require a Project type for a book reading list.
 
-![](<../.gitbook/assets/test (3).gif>)
+![](<../.gitbook/assets/test (5).gif>)
 
 From the [library.md](../features/library.md "mention"), choose an object type, click "Create," and choose "Create a set."
 
