@@ -55,7 +55,7 @@ Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for 
 
 ## Fundamentals
 
-Anytype based on these 4 fundamentals
+Anytype is based on these 4 fundamentals
 
 {% content-ref url="fundamentals/object/" %}
 [object](fundamentals/object/)
