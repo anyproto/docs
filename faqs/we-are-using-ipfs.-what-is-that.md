@@ -4,7 +4,7 @@
 
 This can be problematic, as it centralizes accessing information to a handful of companies.
 
-[IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) removes the need for that middleman, as the request is sent to the entire network. This network is made of other users like you. So when you "ask" for a page/object, the network point you to the correct place; no centrality is needed.
+[IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) removes the need for that middleman, as the request is sent to the entire network. This network is made of other users like you. So when you "ask" for a page/object, the network points you to the correct place; no centrality is needed.
 
 What makes IPFS incredibly compelling for Anytype is how it provides an address to every unique object. For example, if you're looking for an image, you won't need to request an entire website – with all the nonsense found these days – just to view an image. Instead, you can request that object, and the network will point you to it. This enables Anytype users to build a personal web of knowledge, with the ability to share and connect with others on their terms.
 
