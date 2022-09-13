@@ -5,11 +5,11 @@
 
 ## Self-Onboarding
 
-* [Get to Know the Editor 📝](self-onboarding/Anytype-editor/README.md)
+* [Get to Know the Editor](self-onboarding/Anytype-editor/README.md)
   * [Link block view & layout](self-onboarding/Anytype-editor/link-block-view-and-layout.md)
-* [Connect Everything with Relations 🪡](self-onboarding/relation.md)
-* [Work Faster with Templates 🏎️](self-onboarding/work-faster-with-templates.md)
-* [Sort, Filter, & Edit Objects with Sets 🌐](self-onboarding/set.md)
+* [Connect Everything with Relations](self-onboarding/relation.md)
+* [Work Faster with Templates](self-onboarding/work-faster-with-templates.md)
+* [Sort, Filter, & Edit Objects with Sets](self-onboarding/set.md)
 
 ## Features
 
