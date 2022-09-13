@@ -1,10 +1,10 @@
 # Creating a Task Tracker
 
-![](../.gitbook/assets/test.gif)
+![](<../.gitbook/assets/test (6).gif>)
 
 ### Steps
 
-1. To create a **Task tracker**, you need to click + on home, choose [set.md](../fundamentals/set.md "mention") and set **Task** as a source. That's it. You just started a task tracker!
+1. To create a **Task tracker**, you need to click + on home, choose [set.md](../self-onboarding/set.md "mention") and set **Task** as a source. That's it. You just started a task tracker!
 2. So now you can view all Tasks in one place. For the Task list, you may add relations. `Tag`, `Due date`, `Priority`, Or any other use for your tracker.
 3. You can also use filters, sorts, and views like:
    1. Relation `Done` `Is` `Unchecked` so you will see only those that are not done
@@ -21,7 +21,7 @@ Sets collect all your objects that match the given criterion. You can add a new 
 
 ### Custom type
 
-If you don't like **Relations** and **Templates** used in Task, you can [#create-a-type](../fundamentals/type/#create-a-type "mention") that will fit your needs.
+If you don't like **Relations** and **Templates** used in Task, you can [Broken link](broken-reference "mention") that will fit your needs.
 
 1. You need to open [library.md](../features/library.md "mention") in **Home** screen, which contains all **Types** in Anytype
 2. Press "Create a new type."

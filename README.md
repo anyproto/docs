@@ -1,55 +1,40 @@
 # Intro
 
-{% embed url="https://anytype.wistia.com/medias/tyvt7eszda" %}
+Anytype is a local-first, E2E encrypted software designed as a secure place to create and store digital assets.
 
-Anytype is the next-generation software that works the way your brain does. It solves everyday problems while respecting your privacy and data rights. Anytype is a personal knowledge base, a digital brain that allows you to capture, describe, and connect information.
+You can use Anytype to create and connect your tasks, notes, ideas, documents, workflows, and more. \
+\
+Future versions will allow you to share your work and safely collaborate with others. Our long-term vision is for Anytype to enable large-scale collaboration to create a global repository of interconnected knowledge.
 
-You can use Anytype to create tasks, notes, ideas, documents, workflows, and more, and organize them any way you want. Future versions will allow you to share your work and safely collaborate with others. Our long-term vision is for Anytype to enable large-scale collaboration to create a global repository interconnected of knowledge.
+## Here are a few things to know about Anytype before you get started:
 
-## How do we stand out?
+### Local-first: You own your data
 
-And what can we offer you <mark style="background-color:blue;"><mark style="color:blue;">n<mark style="color:blue;"></mark><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">o<mark style="color:blue;"><mark style="background-color:blue;"></mark><mark style="background-color:green;"><mark style="background-color:purple;"><mark style="background-color:blue;"><mark style="color:blue;">w?<mark style="color:blue;"><mark style="background-color:blue;"><mark style="background-color:purple;"></mark>
+The content you create in Anytype is local-first and everything happens on-[device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi and continue to access your content with 100% data availability.
 
-### Privacy: Your information is encrypted and under your control
+### Privacy: Your data is encrypted &#x20;
 
-Your data gets encrypted and stays on your devices. Data goes directly between your devices (desktop and mobile), and by default, nobody can access your data except you. However, if you choose to share your data, you will control who can see it and what they can do with it.
+Your data is E2E encrypted from the moment it leaves your device. As a participant in our alpha testers community, your data is automatically backed up to our node to prevent data loss.\
+\
+We cannot however, understand anything about your data even if we look at it on our backup node - not what type of object it is, what is contained within it, nor which Objects it is linked to. It is only possible to see that X user has a tree of encrypted messages connected with each other via IDs.\
+\
+To understand more about how data is treated in the alpha program, please have a look at [this page in our docs](https://doc.anytype.io/d/features/privacy-and-security).
 
-{% hint style="success" %}
-You can dive into [privacy-and-security.md](features/privacy-and-security.md "mention") for more details.
-{% endhint %}
+### Community-first: Build Anytype Together with Us 💚&#x20;
 
-### Flexibility: Replace several tools with just one
+We have a vibrant community of more than 10,000 alpha testers who regularly test new features, make bug reports, [improve our docs](https://github.com/anytypeio/docs), and share cool playlists.
 
-Most note-taking apps limit the information and structures you can create, giving you few possibilities for customization or developing powerful workflows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views for various cases? Do you need to link to your study space - where lessons and courses are stored - with other areas like tasks and manage it all in database-like views? No problem! Are you used to using one of the many existing work management methods, like Getting Things Done (GTD) or OKR? Using the flexibility and power of Antype's simple, built-in tools, you can create these and more.
+We would not be who we are without your support, and would love to see you making your own mark on our community:
+
+{% embed url="https://community.anytype.io" %}
 
 {% hint style="info" %}
 Take a look at some of [the things our community has already built](https://community.anytype.io/c/general-discussion/showcase/13).
 {% endhint %}
 
-### Think the way you want: Graph and database views
 
-You can think and navigate abstract and systematic within the same application. You can create a network of your thoughts, connecting objects together in any way you want, but more defined structures like database views are also available when you need them. So you can get the best of all worlds.
 
-![You can easily switch between graph and database-like view](<.gitbook/assets/test (1) (1).gif>)
 
-### Works Offline and Locally
-
-Everything happens on-[device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi and reduce stress by having all your data with you, in the plane, camping, remotely, every time. 100% data availability and no need to rely on an internet connection.
-
-Working Offline means, No Server => No Lag.
-
-### Easy to use
-
-You may assume that Anytype has to be complicated and challenging to use with all these capabilities. But we believe you'll be pleasantly surprised! You can use more than ten blocks to create a document you like.
-
-{% hint style="info" %}
-Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for more details.
-{% endhint %}
-
-### It's free
-
-* No storage limits. No upload limits. You use your device storage, and nobody can limit you.
-* Backup is provided free of charge to all alpha testers. Your objects are encrypted and synced to our cafe nodes. If your device is lost or damaged, you can restore the latest snapshot from our backup node. Data on the backup node is encrypted, and the Anytype team cannot access your data. More about [storage-and-deletion.md](features/storage-and-deletion.md "mention").
 
 #### &#x20;<a href="#start" id="start"></a>
 
@@ -57,20 +42,20 @@ Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for 
 
 Anytype is based on these 4 fundamentals
 
-{% content-ref url="fundamentals/object/" %}
-[object](fundamentals/object/)
+{% content-ref url="fundamental-concepts.md" %}
+[fundamental-concepts.md](fundamental-concepts.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/relation.md" %}
-[relation.md](fundamentals/relation.md)
+{% content-ref url="self-onboarding/relation.md" %}
+[relation.md](self-onboarding/relation.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/type/" %}
-[type](fundamentals/type/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/set.md" %}
-[set.md](fundamentals/set.md)
+{% content-ref url="self-onboarding/set.md" %}
+[set.md](self-onboarding/set.md)
 {% endcontent-ref %}
 
 ## Use cases

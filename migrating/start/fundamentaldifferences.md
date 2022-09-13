@@ -20,10 +20,10 @@ Notion's command palette works almost precisely like Anytype's. Use the forward-
 Want to create a block between, below, or even above another block? You'd have used the `+` button with Notion to only make a block below the current block.\
 ![How inserting blocks inside a Notion page works like.](../../.gitbook/assets/notionblocks.png)
 
-Anytype's system is more flexible. Hover over the block dragger (shaped like a pill with three dots inside it), and a `+` button will pop out to your left. \
+Anytype's system is more flexible. Hover over the block dragger (shaped like a pill with three dots inside it), and a `+` button will pop out to your left.\
 ![Inserting blocks inside an Anytype page.](../../.gitbook/assets/anytypeblocks.png)
 
-Move your mouse over to the `+` button that just appeared, and you'll see a yellow line appear. This line indicates where your new block will be inserted. Click the `+` button, and a new block will be created where the line is located.&#x20;
+Move your mouse over to the `+` button that just appeared, and you'll see a yellow line appear. This line indicates where your new block will be inserted. Click the `+` button, and a new block will be created where the line is located.
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2FVTJWYXHXoTKTF1AGLHx8%2Fanytypeaddingblocks.mp4?alt=media&token=7192874d-2646-4eba-8816-5c1487331302" %}
 
@@ -33,7 +33,7 @@ Click on the block dragger to see options available for a block, such as deletio
 ![The drop-down menu which appears upon clicking the pill dragger.](../../.gitbook/assets/blockoptions.png)
 
 {% hint style="info" %}
-To see a list of all available blocks, please check [blocks-and-canvas](../../fundamentals/object/blocks-and-canvas/ "mention")
+To see a list of all available blocks, please check [Anytype-editor](../../self-onboarding/Anytype-editor/ "mention")
 {% endhint %}
 
 ### Moving Blocks
@@ -44,7 +44,7 @@ To move blocks around an Anytype page, use the three-dotted dragger that appears
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2FzYx6u9uXN8wkAD9nLyhD%2Fmovingblocks.mp4?alt=media&token=778ccec5-3160-45b2-83d4-d73aa89351a9" %}
 
-There are some differences, however. You can also indent text blocks within other blocks by directly dragging a block over another block in Anytype. You are not limited by lists only like you are in Notion.&#x20;
+There are some differences, however. You can also indent text blocks within other blocks by directly dragging a block over another block in Anytype. You are not limited by lists only like you are in Notion.
 
 ## Hierarchy, Page Linking, and Backlinks
 
@@ -68,7 +68,7 @@ Similarly, in Anytype, other objects (pages in Notion's lingo) can link to anoth
 To see which objects your current object links to and have links from, check out [navigation.md](../../features/navigation.md "mention"). You will see also how to use a full-featured graph showing all the links between your objects.
 {% endhint %}
 
-That's also why backlinks in Notion are not a separate link-type in Anytype - every link is a backlink from another perspective.&#x20;
+That's also why backlinks in Notion are not a separate link-type in Anytype - every link is a backlink from another perspective.
 
 Relations also link objects together with another. You'll learn more about this in later sections.
 
@@ -96,20 +96,20 @@ This makes Anytype much more flexible than Notion. For example, if you wanted to
 
 ![Here's an Anytype set. Right now, it's configured to show all Objects with the  Task](../../.gitbook/assets/setexample.png)
 
-Have trouble understanding Anytype's databases?&#x20;
+Have trouble understanding Anytype's databases?
 
 * <mark style="background-color:yellow;">Think of an individual Notion database within Anytype as a Type.</mark>
 * <mark style="background-color:yellow;">To create a "database" in Anytype, first, create a Type, then create a new Set to show all objects of that Type.</mark>
 
 {% hint style="info" %}
-Learn more about this theme here: [type](../../fundamentals/type/ "mention") and [set.md](../../fundamentals/set.md "mention")&#x20;
+Learn more about this theme here: [Broken link](broken-reference "mention") and [set.md](../../self-onboarding/set.md "mention")
 {% endhint %}
 
 ### Relations
 
 In Notion's databases, you may be familiar with properties, which are attributes connected to each database entry to describe it.
 
-In Anytype, relations (Anytype's equivalent of properties) are applied to individual database entries and applied to **every single object**. [relation.md](../../fundamentals/relation.md "mention")s describe each Object. Many Notion properties are also applicable to Anytype's relations, such as `tags`, `URL`, `phone number`, `last modified by`, `descriptions`, `checkboxes`, and more.&#x20;
+In Anytype, relations (Anytype's equivalent of properties) are applied to individual database entries and applied to **every single object**. [relation.md](../../self-onboarding/relation.md "mention")s describe each Object. Many Notion properties are also applicable to Anytype's relations, such as `tags`, `URL`, `phone number`, `last modified by`, `descriptions`, `checkboxes`, and more.
 
 Relations can be defined for a Type. This is the equivalent of using the `+` button in a Notion database to create a new property. All your relations will come for each new object created, and they can be configured in Type and not by properties in a particular database like in Notion\
 ![image.png](../../.gitbook/assets/anytyperelations.png)
@@ -122,10 +122,10 @@ Filtering, sorting and creating views in a Set work in a very similar manner to 
 Have trouble understanding Relations in contrast to Notion's Databases?
 
 * <mark style="background-color:yellow;">Consider Anytype's Relations to be Attributes within a Notion database.</mark>
-* <mark style="background-color:yellow;">When you add an attribute to a Notion database, you use the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">button to the right of the column header. Instead, in Anytype, to add an attribute to a database you can these options:</mark>
-  1. <mark style="background-color:yellow;">Click the Options button at the top-right corner and press</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">to get existing relation or create a brand new one. This will end with exactly the same thing — Anytype will add a column</mark>
+* <mark style="background-color:yellow;">When you add an attribute to a Notion database, you use the</mark> <mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;">button to the right of the column header. Instead, in Anytype, to add an attribute to a database you can these options:</mark>
+  1. <mark style="background-color:yellow;">Click the Options button at the top-right corner and press</mark> <mark style="background-color:yellow;">`+`</mark> <mark style="background-color:yellow;">to get existing relation or create a brand new one. This will end with exactly the same thing — Anytype will add a column</mark>
   2. <mark style="background-color:yellow;">Open the Library (square menu on the home screen) and click on the "Types" tab. Create new desired Type and add attributes - known as relations in Anytype's lingo.</mark>
-     * <mark style="background-color:yellow;">Click "Create", then select Set of object to create a database view — you will see all the relations from Type as a columns. And additionally all of them will become accessible in object</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">`/`</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">menu and object's relations panel.</mark>
+     * <mark style="background-color:yellow;">Click "Create", then select Set of object to create a database view — you will see all the relations from Type as a columns. And additionally all of them will become accessible in object</mark> <mark style="background-color:yellow;">`/`</mark> <mark style="background-color:yellow;">menu and object's relations panel.</mark>
 
 #### What does this mean for me?
 

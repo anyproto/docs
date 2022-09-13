@@ -13,7 +13,7 @@ The outlining method emphasizes content as well as relationships between the mat
 ### Add Outline Note type
 
 1. Go to the Library and click the "Create a new type" button.​​​ By using a new type, you can customize templates and relations the way you want. Fill in the Type Title and choose the Icon you want\
-   ![](<../../.gitbook/assets/create a new type.png>) ![](<../../.gitbook/assets/set name in type.png>)​
+   ![](<../../.gitbook/assets/create a new type.png>) ![](<../../.gitbook/assets/set name in type (1).png>)​
 2. Customize our type by adding your own Relations and choosing a layout. If you want to use a Title, you need to choose a Basic layout. Otherwise — Note. Due to the [Ebbinghaus forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/), it's always best to start the reciting and reviewing stage as soon as possible. Studies have shown that reviewing your notes within the [24-hour point](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644) achieves the best results. So we also propose to have a "Reflection" relation and "Tag" for categorization ​​\
    ![](<../../.gitbook/assets/set relation and layout.png>)​
 
@@ -28,12 +28,12 @@ The outlining method emphasizes content as well as relationships between the mat
    * All **further details** are added with more indentation.![](../../.gitbook/assets/outline.png)
 
 {% hint style="success" %}
-You can add Tag under the Title by clicking ★ next to the relation in the relations panel. Check [#adding-relations](../../fundamentals/relation.md#adding-relations "mention") for that.
+You can add Tag under the Title by clicking ★ next to the relation in the relations panel. Check [#adding-relations](../../self-onboarding/relation.md#adding-relations "mention") for that.
 {% endhint %}
 
 ### Create a Set
 
-So now we need to set up a home for all Outline Notes. Use [set.md](../../fundamentals/set.md "mention") for that.
+So now we need to set up a home for all Outline Notes. Use [set.md](../../self-onboarding/set.md "mention") for that.
 
 You need to create a new Set from the Home screen. Sets collect all objects by given criteria. For this case, it's like **Type** == **Outline Note**. If you will add a new Outline Note anywhere inside the Anytype, and it will be shown here! Fill in the `Source` with "Outline Note" type.\
 ​​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMBWIxXziUmcK7h7uvLnI%2Fuploads%2FKMPQdN9bbOHenKcS7RtM%2Fset\_1.png?alt=media\&token=ffb09aa2-3fd9-496d-81bc-f6fbd571ed07)​ ![](../../.gitbook/assets/2\_outline\_set.png)​

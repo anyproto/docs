@@ -2,7 +2,7 @@
 
 ## Storage
 
-Anytype is Offline first; hence, all data you create will be stored locally first. After that, the data is synced to the backup node and your devices for redundancy.&#x20;
+Anytype is Offline first; hence, all data you create will be stored locally first. After that, the data is synced to the backup node and your devices for redundancy.
 
 We use a private IPFS network and [ThreadDB](https://docs.textile.io/threads/) to handle storage. It is a Peer-To-Peer file system that facilitates decentralized data storage across devices. Furthermore, we use the deduplication feature to reduce storage. E.g. If the same picture is uploaded three times, there is only one image copy stored to reduce storage consumption.
 
@@ -20,10 +20,10 @@ So when you open an object with an image, it downloads. When you press play on v
 
 ![Complete deletion in Bin](<../.gitbook/assets/Screenshot 2021-11-02 at 16.25.23.png>)
 
-At the moment you can delete only the [object](../fundamentals/object/ "mention") that you create inside Anytype. At first, you can move them to a bin that will remove them from navigation. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online.
+At the moment you can delete only the [fundamental-concepts.md](../fundamental-concepts.md "mention") that you create inside Anytype. At first, you can move them to a bin that will remove them from navigation. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online.
 
 {% hint style="warning" %}
-This action is irreversible, so please be careful.&#x20;
+This action is irreversible, so please be careful.
 {% endhint %}
 
 ### Media

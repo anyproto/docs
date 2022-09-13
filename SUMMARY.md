@@ -1,22 +1,23 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Presentation](feature-walkthrough.md)
+* [Fundamentals](fundamental-concepts.md)
 
-## Fundamentals
+## Self-Onboarding
 
-* [Object](fundamentals/object/README.md)
-  * [Blocks & Canvas](fundamentals/object/blocks-and-canvas/README.md)
-    * [Text editing](fundamentals/object/blocks-and-canvas/text-editing.md)
-    * [Relations, Mentions & Object Links](fundamentals/object/blocks-and-canvas/relations-mentions-and-object-links.md)
-    * [Media](fundamentals/object/blocks-and-canvas/media/README.md)
-      * [LaTeX blocks](fundamentals/object/blocks-and-canvas/media/latex-blocks.md)
-      * [Code snippets](fundamentals/object/blocks-and-canvas/media/code-snippets.md)
-    * [Link block view & layout](fundamentals/object/blocks-and-canvas/link-block-view-and-layout.md)
-* [Relation](fundamentals/relation.md)
-* [Type](fundamentals/type/README.md)
-  * [Template](fundamentals/type/template.md)
-* [Set](fundamentals/set.md)
+* [Get to Know the Editor 📝](self-onboarding/Anytype-editor/README.md)
+  * [Link block view & layout](self-onboarding/Anytype-editor/link-block-view-and-layout.md)
+* [Connect Everything with Relations 🪡](self-onboarding/relation.md)
+* [Work Faster with Templates](self-onboarding/work-faster-with-templates.md)
+* [Sort, Filter, & Edit Objects with Sets](self-onboarding/set.md)
+
+## Features
+
+* [Library](features/library.md)
+* [Navigation](features/navigation.md)
+* [Privacy & Security](features/privacy-and-security.md)
+* [Syncing & P2P](features/syncing-and-p2p.md)
+* [Storage & Deletion](features/storage-and-deletion.md)
 
 ## Use cases & tutorials
 
@@ -32,14 +33,6 @@
 * [From Notion](migrating/start/README.md)
   * [Architecture and Fundamentals comparison](migrating/start/fundamentaldifferences.md)
   * [Missing Features](migrating/start/missingfeatures.md)
-
-## Features
-
-* [Library](features/library.md)
-* [Navigation](features/navigation.md)
-* [Privacy & Security](features/privacy-and-security.md)
-* [Syncing & P2P](features/syncing-and-p2p.md)
-* [Storage & Deletion](features/storage-and-deletion.md)
 
 ## FAQ's
 

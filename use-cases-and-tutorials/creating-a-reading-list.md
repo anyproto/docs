@@ -4,12 +4,12 @@
 
 ### Steps
 
-1. To create a **Reading List**, you need to click + on home, choose [set.md](../fundamentals/set.md "mention") and set **Book** as a source. That's it, **you have made a place for all your books!**
-2. &#x20; You can now add relations to your content. `Ratings`, `Pages`, `Progress`, `Author`, `Goodreads Link`.
-3. For additional customization, you can have multiple views and filters to make your content more accessible.&#x20;
+1. To create a **Reading List**, you need to click + on home, choose [set.md](../self-onboarding/set.md "mention") and set **Book** as a source. That's it, **you have made a place for all your books!**
+2. You can now add relations to your content. `Ratings`, `Pages`, `Progress`, `Author`, `Goodreads Link`.
+3. For additional customization, you can have multiple views and filters to make your content more accessible.
    1. **The Gallery view** looks better for objects like this.
    2. Add filters by relation **tag**, so you will be able to sort books by themes
-   3. You can add images as PageCover or with the [relation.md](../fundamentals/relation.md "mention") **attachment**&#x20;
+   3. You can add images as PageCover or with the [relation.md](../self-onboarding/relation.md "mention") **attachment**
 
 ![](<../.gitbook/assets/test (4).gif>)
 
@@ -19,7 +19,7 @@ Sets collect all your objects that match the given criterion. You can add a new 
 
 ### Custom type
 
-If you want to create a more broad Reading List with several entities inside like Books and Articles at the same time, we propose to[ ](https://doc.anytype.io/intro/fundamentals/type#creating-types)[#create-a-type](../fundamentals/type/#create-a-type "mention") for that.
+If you want to create a more broad Reading List with several entities inside like Books and Articles at the same time, we propose to[ ](https://doc.anytype.io/intro/fundamentals/type#creating-types)[Broken link](broken-reference "mention") for that.
 
 ### Template
 
