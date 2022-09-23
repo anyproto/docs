@@ -1,4 +1,4 @@
-# Get to Know the Editor 📝
+# Get to Know the Editor
 
 There are a few different ways to create Objects in Anytype. We recommend starting from the + button located on the top right of your homescreen.
 
@@ -41,7 +41,7 @@ You can adjust the layout of any Object by hovering above the title, where you w
 
 #### Mentioning Objects
 
-You can reference any other Object in your Anytype by using the mention or `@` command.Mentioned Objects are displayed in-line (rather than as separate blocks). This feature provides a quick and easy way to reference other Objects within Anytype, within a larger block of text, like this: Hello from Anytype! Here is a ....
+You can reference any other Object in your Anytype by using the mention or `@` command. Mentioned Objects are displayed in-line (rather than as separate blocks). This feature provides a quick and easy way to reference other Objects within Anytype, within a larger block of text.
 
 #### Linking Objects
 
