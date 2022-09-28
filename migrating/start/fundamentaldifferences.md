@@ -65,7 +65,7 @@ If you delete a webpage or a link, the web pages that it linked to won't be affe
 Similarly, in Anytype, other objects (pages in Notion's lingo) can link to another entity. This is how you organize objects within other objects. If you delete links within an object or the object itself, the objects it linked to won't be deleted, and other links to that object in other things will continue to function.
 
 {% hint style="info" %}
-To see which objects your current object links to and have links from, check out [navigation.md](../../features/navigation.md "mention"). You will see also how to use a full-featured graph showing all the links between your objects.
+To see which objects your current object links to and have links from, check out [navigation.md](../../how-to/navigation.md "mention"). You will see also how to use a full-featured graph showing all the links between your objects.
 {% endhint %}
 
 That's also why backlinks in Notion are not a separate link-type in Anytype - every link is a backlink from another perspective.

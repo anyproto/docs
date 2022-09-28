@@ -1,10 +1,14 @@
 # Get to Know the Editor
 
-There are a few different ways to create Objects in Anytype. We recommend starting from the + button located on the top right of your homescreen.
+There are a few different ways to create Objects in Anytype.&#x20;
+
+When starting out, you can use the `+` button located on the top right of your homescreen to create your first Object.
 
 <figure><img src="../../.gitbook/assets/Object Create.png" alt=""><figcaption></figcaption></figure>
 
 Each Object has a flexible canvas made of simple blocks. A block is a piece of content that you can freely reposition within the canvas to give your Objects style and structure.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2022-09-28 at 21.11.25 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Block Styles
 

@@ -11,13 +11,12 @@
 * [Work Faster with Templates](self-onboarding/work-faster-with-templates.md)
 * [Sort, Filter, & Edit Objects with Sets](self-onboarding/set.md)
 
-## Features
+## How To
 
-* [Library](features/library.md)
-* [Navigation](features/navigation.md)
-* [Privacy & Security](features/privacy-and-security.md)
-* [Syncing & P2P](features/syncing-and-p2p.md)
-* [Storage & Deletion](features/storage-and-deletion.md)
+* [Create New Types](how-to/library.md)
+* [View all of your Objects](how-to/navigation.md)
+* [Recover/Reset your Account](how-to/how-to-restore-my-account.md)
+* [Change your Spellcheck Language](how-to/change-your-spellcheck-language.md)
 
 ## Use cases & tutorials
 
@@ -36,15 +35,14 @@
 
 ## FAQ's
 
-* [Relation in practice. Can they act like properties or fields in databases?](faqs/relation-in-practice.-can-they-act-like-properties-or-fields-in-databases.md)
+* [Privacy & Security](faqs/privacy-and-security.md)
+* [Storage & Deletion](faqs/storage-and-deletion.md)
+* [Syncing & P2P](faqs/syncing-and-p2p.md)
 * [We are using IPFS. What is that?](faqs/we-are-using-ipfs.-what-is-that.md)
 * [Can pages be nested one to another?](faqs/can-pages-be-nested-one-to-another.md)
-* [How to add relation to multiple objects](faqs/how-to-add-relation-to-multiple-objects.md)
-* [How does keychain phrase login work? Like password?](faqs/how-does-passphrase-login-work.md)
+* [How is my Recovery Phrase generated?](faqs/how-does-passphrase-login-work.md)
 * [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
-* [How to restore my account?](faqs/how-to-restore-my-account.md)
 * [Free forever? How will Anytype make money?](faqs/free-forever-how-will-anytype-make-money.md)
-* [What is the difference between the alpha and beta versions of Anytype?](faqs/what-is-the-difference-between-the-alpha-and-beta-versions-of-anytype.md)
 
 ***
 

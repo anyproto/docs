@@ -23,7 +23,7 @@ Sets collect all your objects that match the given criterion. You can add a new 
 
 If you don't like **Relations** and **Templates** used in Task, you can [Broken link](broken-reference "mention") that will fit your needs.
 
-1. You need to open [library.md](../features/library.md "mention") in **Home** screen, which contains all **Types** in Anytype
+1. You need to open [library.md](../how-to/library.md "mention") in **Home** screen, which contains all **Types** in Anytype
 2. Press "Create a new type."
 3. In your custom **Type**, you can choose any relation and create a template you want.
 4. To create a **Task tracker**, you need to click "Create" → "New Set of objects."
