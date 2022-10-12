@@ -42,9 +42,9 @@
 * [Can pages be nested one to another?](faqs/can-pages-be-nested-one-to-another.md)
 * [How is my Recovery Phrase generated?](faqs/how-does-passphrase-login-work.md)
 * [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
+* [What Trackers does Anytype Use?](faqs/what-trackers-does-anytype-use.md)
 * [Free forever? How will Anytype make money?](faqs/free-forever-how-will-anytype-make-money.md)
 
 ***
 
-* [What Trackers does Anytype Use?](what-trackers-does-anytype-use.md)
 * [Community](https://community.anytype.io)

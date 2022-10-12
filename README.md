@@ -28,12 +28,6 @@ We would not be who we are without your support, and would love to see you makin
 
 {% embed url="https://community.anytype.io" %}
 
-{% hint style="info" %}
-Take a look at some of [the things our community has already built](https://community.anytype.io/c/general-discussion/showcase/13).
-{% endhint %}
-
-
-
 
 
 ## Use cases
@@ -58,4 +52,4 @@ Take a look at some of [the things our community has already built](https://comm
 
 Anytype is in its first version. An encrypted, offline-first tool for thought with robust sync on mobile and desktop. Want to see the future? Take a look at the [Vision](https://vision.anytype.io) and [Roadmap](https://community.anytype.io/t/roadmap-18-apr-2022).
 
-The application is in the Alpha stage. Something can be rough at the edges, so please write your thoughts and reports in the [community](https://community.anytype.io). You can make a bug report, feature request, or ask questions there. You can also join our telegram and discord groups for chatting with other Anytypers.
+This is an alpha-stage software. Some things might still be rough around the edges, so please write your thoughts and reports in the [community](https://community.anytype.io). You can make a bug report, feature request, or ask questions there. You can also join our telegram and discord groups for chatting with other Anytypers.
