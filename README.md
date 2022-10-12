@@ -36,28 +36,6 @@ Take a look at some of [the things our community has already built](https://comm
 
 
 
-#### &#x20;<a href="#start" id="start"></a>
-
-## Fundamentals
-
-Anytype is based on these 4 fundamentals
-
-{% content-ref url="fundamental-concepts.md" %}
-[fundamental-concepts.md](fundamental-concepts.md)
-{% endcontent-ref %}
-
-{% content-ref url="self-onboarding/relation.md" %}
-[relation.md](self-onboarding/relation.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="self-onboarding/set.md" %}
-[set.md](self-onboarding/set.md)
-{% endcontent-ref %}
-
 ## Use cases
 
 {% content-ref url="use-cases-and-tutorials/organizing-notes/" %}
