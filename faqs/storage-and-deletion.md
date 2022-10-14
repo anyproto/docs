@@ -36,7 +36,7 @@ You can delete all the content via the clear cache option in iOS and Android. Th
 
 ## Root Folder
 
-The Anytype Root Folder is a variable based on the OS is where all your local data is stored. Currently, it is not possible to change the location of this folder. However, this functionality will be added at a later date.
+The Anytype Root Folder is a variable based on the OS where all your local data is stored. Currently, it is not possible to change the location of this folder. However, this functionality will be added at a later date.
 
 ## Filesystem integration
 
