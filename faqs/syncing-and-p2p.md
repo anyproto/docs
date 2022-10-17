@@ -8,7 +8,7 @@ Anytype is offline-first, and our backup nodes are still in early testing (we ca
 
 #### Page history
 
-We have a history of the document changes that you can use you lose some data and restore previous versions. So the overall risk of losing some data because of the bug is marginal/non-existent. The only part that we can't guarantee is total recovery from our backup node. It's still in testing mode, an Alpha.
+We have a history of the document changes that you can use if you lose some data and restore previous versions. So the overall risk of losing some data because of the bug is marginal/non-existent. The only part that we can't guarantee is total recovery from our backup node. It's still in testing mode, an Alpha.
 
 ### Syncing. How does it work?
 
