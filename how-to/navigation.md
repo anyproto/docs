@@ -12,7 +12,7 @@ For navigation inside Anytype, you have 4 options: **`Home, Search, Graph View`,
 
 ![Adding object to Favorites](../.gitbook/assets/ezgif-2-b73c8e1a497a.gif)
 
-* **History**. has objects that were opened recently
+* **History** has objects that were opened recently
 * **Sets** that you have ever created.
 * **Bin** has recently deleted objects. You can put it back or delete it irrevocably.
 
