@@ -7,7 +7,7 @@ To keep bandwidth and storage usage low but provide a fast experience, Anytype d
 **Files** are fully downloaded when you press download and get "cached" on your device.
 
 {% hint style="info" %}
-Working with cache is not yet available and will be implemented in the next release
+Working with cache is not yet available and will be implemented in the next release.
 {% endhint %}
 
 {% content-ref url="storage-and-deletion.md" %}
