@@ -18,7 +18,7 @@ Your data is E2E encrypted from the moment it leaves your device. As a participa
 \
 We cannot however, understand anything about your data even if we look at it on our backup node - not what type of object it is, what is contained within it, nor which Objects it is linked to. It is only possible to see that X user has a tree of encrypted messages connected with each other via IDs.\
 \
-To understand more about how data is treated in the alpha program, please have a look at [this page in our docs](https://doc.anytype.io/d/features/privacy-and-security).
+To understand more about how data is treated in the alpha program, please have a look at [Privacy & Security](https://doc.anytype.io/d/features/privacy-and-security).
 
 ### Community-first: Build Anytype Together with Us 💚&#x20;
 
