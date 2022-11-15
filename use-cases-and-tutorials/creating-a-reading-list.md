@@ -23,7 +23,7 @@ If you want to create a more broad Reading List with several entities inside lik
 
 ### Template
 
-It is convenient to create templates for each view and object type. E.g. a template for Books will have `Author, Rating, Pages` etc. Whereas a template for Blog posts or Articles will have the `URL, Topic` and other additional information. Using templates with multiple views and filters is the fastest way to add new information without opening pages.
+It is convenient to create templates for each view and object type. For example, a template for Books includes `Author`, `Rating`, and`Pages`. Whereas a template for Blog posts or Articles includes the `URL`, `Topic` and other additional information. Using templates with multiple views and filters is the fastest way to add new information without opening pages.
 
 {% hint style="success" %}
 ​Find ideas to spark inspiration in [Community Showcases](https://community.anytype.io/c/general-discussion/showcase/13)
