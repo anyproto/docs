@@ -7,7 +7,7 @@ The Outline method is one of college students' most popular note-taking methods.
 The next few steps will explain step by step how to organize your Anytype notes using the Outline method by creating a new Object type, template, and set.
 
 {% hint style="info" %}
-The outlining method emphasizes content as well as relationships between the material. It reduces the time needed for editing and allows for easy reviewing. [Click here for more information](https://e-student.org/outline-note-taking-method/)
+The outlining method emphasizes content as well as relationships between the material. It reduces the time needed for editing and allows for easy reviewing. [Click here for more information](https://e-student.org/outline-note-taking-method/).
 {% endhint %}
 
 ### Add Outline Note type
@@ -39,7 +39,7 @@ You need to create a new Set from the Home screen. Sets collect all objects by g
 ​​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMBWIxXziUmcK7h7uvLnI%2Fuploads%2FKMPQdN9bbOHenKcS7RtM%2Fset\_1.png?alt=media\&token=ffb09aa2-3fd9-496d-81bc-f6fbd571ed07)​ ![](../../.gitbook/assets/2\_outline\_set.png)​
 
 {% hint style="info" %}
-Sets help you sort through and create specific database-like views to work with many objects at once. Read how [#sets-and-relations](../../migrating/start/fundamentaldifferences.md#sets-and-relations "mention") perform in comparison to Notion Databases
+Sets help you sort through and create specific database-like views to work with many objects at once. Read how [#sets-and-relations](../../migrating/start/fundamentaldifferences.md#sets-and-relations "mention") perform in comparison to Notion Databases.
 {% endhint %}
 
 ### Customize your workflow <a href="#quickly-create-notes-by-adding-templates" id="quickly-create-notes-by-adding-templates"></a>
@@ -48,7 +48,7 @@ All the Outline Notes will be collected in the set. So you can create a flow to 
 
 1. Add "Reflection" relation and "Tag" to the Set. Create a view calling "Inbox"\
    ![](../../.gitbook/assets/2\_custom\_relations.png) ![](../../.gitbook/assets/2\_add\_view.png)
-2.  Add filter "Reflection" is unchecked. You can also add filter by Creation Date, so you will see only newly created. You can review all your Outline Method notes in one place
+2. Add filter "Reflection" is unchecked. You can also add filter by Creation Date, so you will see only newly created. You can review all your Outline Method notes in one place
 
     <img src="../../.gitbook/assets/2_add_filter.png" alt="" data-size="original"><img src="../../.gitbook/assets/2_finished.png" alt="" data-size="original">
 

@@ -33,7 +33,7 @@ Click on the block dragger to see options available for a block, such as deletio
 ![The drop-down menu which appears upon clicking the pill dragger.](../../.gitbook/assets/blockoptions.png)
 
 {% hint style="info" %}
-To see a list of all available blocks, please check [Anytype-editor](../../self-onboarding/Anytype-editor/ "mention")
+To see a list of all available blocks, please check [Anytype-editor](../../self-onboarding/Anytype-editor/ "mention").
 {% endhint %}
 
 ### Moving Blocks
@@ -79,7 +79,7 @@ Anytype's of object linking architecture are more flexible than Notion. You may 
 Having objects (or pages, if that's what you prefer) not be locked inside a hierarchical silo but instead linked together in a knowledge graph brings numerous advantages. You no longer need to think about \*where\* an object belongs in your tree or where to place it. You simply link it. This allows for a much more natural flow of information than storing data inside a hierarchical note system.
 
 {% hint style="info" %}
-If you want to read further about the advantages and disadvantages a non-hierarchical architecture brings to Anytype, [author](https://github.com/jonathan2384) highly recommends reading this article: [https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
+If you want to read further about the advantages and disadvantages a non-hierarchical architecture brings to Anytype, [author](https://github.com/jonathan2384) highly recommends reading this article: [https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies).
 {% endhint %}
 
 ## Databases
@@ -94,7 +94,7 @@ Anytype's equivalent to Notion's databases are Sets. However, unlike Notion data
 
 This makes Anytype much more flexible than Notion. For example, if you wanted to create a database with Notion, you are stuck with it. You cannot move pages outside of the database, nor can you bring pages inside a database once they have already been created (without annoying workarounds and time-wasting steps.) Instead, with Anytype, you can get **any** existing object in view with a Set.
 
-![Here's an Anytype set. Right now, it's configured to show all Objects with the  Task](../../.gitbook/assets/setexample.png)
+![Here's an Anytype set. Right now, it's configured to show all Objects with the Task](../../.gitbook/assets/setexample.png)
 
 Have trouble understanding Anytype's databases?
 
@@ -102,7 +102,7 @@ Have trouble understanding Anytype's databases?
 * <mark style="background-color:yellow;">To create a "database" in Anytype, first, create a Type, then create a new Set to show all objects of that Type.</mark>
 
 {% hint style="info" %}
-Learn more about this theme here: [Broken link](broken-reference "mention") and [set.md](../../self-onboarding/set.md "mention")
+Learn more about this theme here: [Broken link](broken-reference "mention") and [set.md](../../self-onboarding/set.md "mention").
 {% endhint %}
 
 ### Relations

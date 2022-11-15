@@ -14,7 +14,7 @@ You can create Notes everywhere you want. Every object you create by default is 
 Sets collect all objects by given criteria. For example, if you add a new Note anywhere inside the Anytype, it will be shown here! By default, it is sorted by creation date.
 
 {% hint style="info" %}
-Click on links to know more about [Broken link](broken-reference "mention"), [set.md](../../self-onboarding/set.md "mention") & [relation.md](../../self-onboarding/relation.md "mention")
+Click on links to know more about [Broken link](broken-reference "mention"), [set.md](../../self-onboarding/set.md "mention") & [relation.md](../../self-onboarding/relation.md "mention").
 {% endhint %}
 
 ### Sort them later
@@ -40,5 +40,5 @@ Make these steps and start your Tags management:
    ![](<../../.gitbook/assets/image (3).png>) ![](<../../.gitbook/assets/image (4).png>)
 
 {% hint style="success" %}
-You can work with relations everywhere! Check out where and how you can also use Tags: [#adding-relations](../../self-onboarding/relation.md#adding-relations "mention")
+You can work with relations everywhere! Check out where and how you can also use Tags: [#adding-relations](../../self-onboarding/relation.md#adding-relations "mention").
 {% endhint %}
