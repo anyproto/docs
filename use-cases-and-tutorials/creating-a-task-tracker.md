@@ -21,7 +21,7 @@ Sets collect all your objects that match the given criterion. You can add a new 
 
 ### Custom type
 
-If you don't like **Relations** and **Templates** used in Task, you can [Broken link](broken-reference "mention") that will fit your needs.
+If you don't like **Relations** and **Templates** used in Task, you can [library.md](../how-to/library.md "mention") that will fit your needs.
 
 1. You need to open [library.md](../how-to/library.md "mention") in **Home** screen, which contains all **Types** in Anytype
 2. Press "Create a new type."
