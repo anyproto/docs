@@ -10,7 +10,7 @@ Take a look at our [Community Forums](http://community.anytype.io) to check out 
 
 ## Sharing, Publishing and Collaboration
 
-**Notion** allows users to share pages and workspaces with other Notion users. Alternatively, users can create a sharing link to enable users without a Notion account to access your shared content. ![](<../../.gitbook/assets/notionsharingpane (1) (1) (1) (1).png>)
+**Notion** allows users to share pages and workspaces with other Notion users. Alternatively, users can create a sharing link to enable users without a Notion account to access your shared content. ![](<../../.gitbook/assets/notionsharingpane (1) (1) (1).png>)
 
 **Anytype** currently cannot share content with other Anytype users or to the web. However, this feature is planned and is on the roadmap. If you find yourself needing to share content with other users, please use the "Print" option, accessed by using your system's Print keyboard shortcut or through the three-dot menu within an object canvas.
 

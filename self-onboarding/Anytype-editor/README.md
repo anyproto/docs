@@ -8,7 +8,7 @@ When starting out, you can use the `+` button located on the top right of your h
 
 Each Object has a flexible canvas made of simple blocks. A block is a piece of content that you can freely reposition within the canvas to give your Objects style and structure.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2022-09-28 at 21.11.25 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-09-28 at 21.11.25.png" alt=""><figcaption></figcaption></figure>
 
 ### Block Styles
 

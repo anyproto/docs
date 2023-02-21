@@ -1,10 +1,10 @@
-# Navigation
+# View all of your Objects
 
 For navigation inside Anytype, you have 4 options: **`Home, Search, Graph View`, `Bi-Directional Navigation`** and **`Keyboard Shortcuts`**.
 
 ## Home
 
-![](<../.gitbook/assets/Screenshot 2021-11-11 at 16.03.29.png>)
+![](<../.gitbook/assets/Screenshot 2021-11-11 at 16.04.00.png>)
 
 ### Home tabs
 
@@ -26,7 +26,7 @@ Do a search across your knowledge graph, object types, and relations.
 
 Since all connections between objects have a certain direction(_from-object_ or _to-object)_, the navigation panel helps to see objects connected with the current one in terms of their direction. Read more about object connections in [#object-graph](navigation.md#object-graph "mention")
 
-Navigation Panel helps to navigate between objects that have [Object Links](broken-reference) or [Relations](../self-onboarding/relation.md) to each other. Hit ![](<../.gitbook/assets/nav (1).svg>) button on the top bar to open Navigation Panel.
+Navigation Panel helps to navigate between objects that have [Object Links](broken-reference/) or [Relations](../self-onboarding/relation.md) to each other. Hit ![](../.gitbook/assets/nav.svg) button on the top bar to open Navigation Panel.
 
 ![](../.gitbook/assets/ezgif-2-61fd939d2515.gif)
 
@@ -44,7 +44,7 @@ If you want to change focus from one object to another, simply hit this object o
 
 Displays a graph representation of the Links and Relations between your objects. You can see the power of Anytype relations, with connections showing how each object relates to another.
 
-To access the Graph Mode, look for the ![](../.gitbook/assets/graph.svg) icon in the top-left corner from any opened object or just press `⌘ + Option + O` or `Ctrl + Alt + O`.
+To access the Graph Mode, look for the ![](<../.gitbook/assets/graph (1).svg>) icon in the top-left corner from any opened object or just press `⌘ + Option + O` or `Ctrl + Alt + O`.
 
 ![](<../.gitbook/assets/Screenshot 2021-11-11 at 17.40.40.png>)
 

@@ -22,12 +22,12 @@ Anytype stores data in a non-encrypted way locally. We have a prerequisite that 
 
 ### Tech details
 
-There are some technical details on encryption and data storage:
+Here are some technical details on encryption and data storage:
 
 * Anytype stores changes for each object you’ve created
-* Every object’s change has 2 encryption layers with different keys.&#x20;
+* Every object’s change has 2 encryption layers with different keys.
 * The First layer is used to connect changes within an object (for example, all this encrypted data belongs to the object with id \<abc>)
 * Second layer is used to encrypt the actual data. We using AES with stream **encryption** with CFB mode
 * When you create a new change for an object, we periodically send it to our backup node(with only the first-layer key). More info about sync [here](syncing-and-p2p.md).
 * Anytype backup nodes have access to the first layer key, so it can group changes for the object and send them in one pack when you want to restore your data
-* Anytype backup nodes HAVE NO access to the second layer key, so it can’t read the actual changes data
+* Anytype backup nodes HAVE NO access to the second layer key, so it can’t read the actual changes to the data

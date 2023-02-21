@@ -1,6 +1,6 @@
 # Syncing & P2P
 
-All your data primarily syncs to the encrypted backup node in the current alpha. Therefore, all data storage is at **no cost** to you. The application is always connected to the backup node and cannot be disconnected.
+All your data primarily syncs to the encrypted backup node in the current alpha. For alpha testers, the application is always connected to the backup node and cannot be disconnected.
 
 #### Local backups
 

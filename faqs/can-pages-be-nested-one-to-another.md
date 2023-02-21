@@ -21,4 +21,4 @@ All Anytype structures are based on links between objects. Links are directional
 
 All objects connections will soon look like an interconnected network:
 
-![Some objects have links from completely different context](<../.gitbook/assets/Screenshot 2021-11-09 at 12.54.59.png>)
+![Some objects have links from completely different context](<../.gitbook/assets/Screenshot 2021-11-09 at 12.54.59 (1).png>)

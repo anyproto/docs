@@ -10,7 +10,7 @@ Add some custom styling to your Object Link blocks using the block sidebar.
 
 Select a few objects to apply common styling for them.
 
-![](../../.gitbook/assets/ezgif-6-1174bdecb108.gif)
+![](<../../.gitbook/assets/ezgif-6-1174bdecb108 (1).gif>)
 
 ### Columns of blocks
 

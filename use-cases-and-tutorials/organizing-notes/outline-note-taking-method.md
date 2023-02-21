@@ -13,7 +13,7 @@ The outlining method emphasizes content as well as relationships between the mat
 ### Add Outline Note type
 
 1. Go to the Library and click the "Create a new type" button.​​​ By using a new type, you can customize templates and relations the way you want. Fill in the Type Title and choose the Icon you want\
-   ![](<../../.gitbook/assets/create a new type.png>) ![](<../../.gitbook/assets/set name in type (1).png>)​
+   ![](<../../.gitbook/assets/create a new type.png>) ![](<../../.gitbook/assets/set name in type.png>)​
 2. Customize our type by adding your own Relations and choosing a layout. If you want to use a Title, you need to choose a Basic layout. Otherwise — Note. Due to the [Ebbinghaus forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/), it's always best to start the reciting and reviewing stage as soon as possible. Studies have shown that reviewing your notes within the [24-hour point](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644) achieves the best results. So we also propose to have a "Reflection" relation and "Tag" for categorization ​​\
    ![](<../../.gitbook/assets/set relation and layout.png>)​
 
@@ -48,9 +48,9 @@ All the Outline Notes will be collected in the set. So you can create a flow to 
 
 1. Add "Reflection" relation and "Tag" to the Set. Create a view calling "Inbox"\
    ![](../../.gitbook/assets/2\_custom\_relations.png) ![](../../.gitbook/assets/2\_add\_view.png)
-2. Add filter "Reflection" is unchecked. You can also add filter by Creation Date, so you will see only newly created. You can review all your Outline Method notes in one place
+2.  Add filter "Reflection" is unchecked. You can also add filter by Creation Date, so you will see only newly created. You can review all your Outline Method notes in one place
 
-    <img src="../../.gitbook/assets/2_add_filter.png" alt="" data-size="original"><img src="../../.gitbook/assets/2_finished.png" alt="" data-size="original">
+    ![](../../.gitbook/assets/2\_add\_filter.png) ![](../../.gitbook/assets/2\_finished.png)
 
 {% hint style="info" %}
 1. You can add more templates and use them in different contexts
