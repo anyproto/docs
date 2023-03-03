@@ -2,7 +2,7 @@
 
 Anytype is a local-first, E2E encrypted software designed as a secure place to create and store digital assets.
 
-You can use Anytype to create and connect your tasks, notes, ideas, documents, workflows, and more. \
+You can use Anytype to create and connect your tasks, notes, ideas, documents, workflows, and more.\
 \
 Future versions will allow you to share your work and safely collaborate with others. Our long-term vision is for Anytype to enable large-scale collaboration to create a global repository of interconnected knowledge.
 
@@ -12,7 +12,7 @@ Future versions will allow you to share your work and safely collaborate with ot
 
 The content you create in Anytype is local-first and everything happens on-[device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi and continue to access your content with 100% data availability.
 
-### Privacy: Your data is encrypted &#x20;
+### Privacy: Your data is encrypted
 
 Your data is E2E encrypted from the moment it leaves your device. As a participant in our alpha testers community, your data is automatically backed up to our node to prevent data loss.\
 \
@@ -20,15 +20,13 @@ We cannot however, understand anything about your data even if we look at it on 
 \
 To understand more about how data is treated in the alpha program, please have a look at [Privacy & Security](https://doc.anytype.io/d/features/privacy-and-security).
 
-### Community-first: Build Anytype Together with Us 💚&#x20;
+### Community-first: Build Anytype Together with Us 💚
 
 We have a vibrant community of more than 10,000 alpha testers who regularly test new features, make bug reports, [improve our docs](https://github.com/anytypeio/docs), and share cool playlists.
 
 We would not be who we are without your support, and would love to see you making your own mark on our community:
 
 {% embed url="https://community.anytype.io" %}
-
-
 
 ## Use cases
 
@@ -50,6 +48,6 @@ We would not be who we are without your support, and would love to see you makin
 
 ## Summary
 
-Anytype is in its first version. An encrypted, offline-first tool for thought with robust sync on mobile and desktop. Want to see the future? Take a look at the [Vision](https://vision.anytype.io) and [Roadmap](https://community.anytype.io/t/roadmap-18-apr-2022).
+Anytype is in its first version. An encrypted, offline-first tool for thought with robust sync on mobile and desktop. Please feel free to our [Vision](https://vision.anytype.io) and [Roadmap](https://github.com/orgs/anytypeio/projects/11).
 
-This is an alpha-stage software. Some things might still be rough around the edges, so please write your thoughts and reports in the [community](https://community.anytype.io). You can make a bug report, feature request, or ask questions there. You can also join our telegram and discord groups for chatting with other Anytypers.
+This is an alpha-stage software. Some things might still be rough around the edges, so please share your thoughts and reports in the [community](https://community.anytype.io). You can make a bug report, feature request, or ask questions there.&#x20;
