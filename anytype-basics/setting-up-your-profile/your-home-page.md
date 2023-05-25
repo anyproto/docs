@@ -1,7 +1,7 @@
 ---
 description: >-
-  Using Anytype for yourself means you want it to feel like YOU. Here you can do
-  exactly that.
+  Anytype can be customised to your liking - choose any Object or your graph as
+  your home page to return to each time you open the app.
 ---
 
 # Your Home Page

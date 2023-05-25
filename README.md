@@ -6,7 +6,17 @@ description: >-
 
 # 👋 Welcome!
 
-### Helpful Resources
+## Intro
+
+Anytype is a local-first, E2E encrypted software designed as a secure place to create and store digital assets.
+
+You can use Anytype to create and connect your tasks, notes, ideas, documents, workflows, and more. \
+\
+Future versions will allow you to share your work and safely collaborate with others. Our long-term vision is for Anytype to enable large-scale collaboration to create a global repository of interconnected knowledge.
+
+Explore the rest of the documentation here and&#x20;
+
+### Helpful Resources to Get Started:
 
 | Download Links   | Download the app for Desktop (Windows, Mac, Linux), iOS, and Android | ​[https://download.anytype.io](https://download.anytype.io/)​                                                    |
 | ---------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |

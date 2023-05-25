@@ -14,7 +14,7 @@ Changing it is impossible, and it's extremely important you keep it safe.
 
 When you create your account, you will receive your very own _12 word mnemonic phrase._ This phrase is generated on-device and is the only way to access your account and decrypt your data.
 
-![](<../../.gitbook/assets/image (16).png>)
+<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Don't forget to save it!
 
