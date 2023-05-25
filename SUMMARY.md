@@ -43,7 +43,13 @@
 
 ## 🧑🏫 Use Cases & Tutorials
 
-* [Daily Notes](use-cases-and-tutorials/anytype-editor.md)
+* [✏ Daily Notes](use-cases-and-tutorials/anytype-editor.md)
+* [✈ Travel Wiki](use-cases-and-tutorials/travel-wiki.md)
+* [🍎 Study Notes](use-cases-and-tutorials/study-notes.md)
+* [🎬 Movie Database](use-cases-and-tutorials/movie-database.md)
+* [✨ Simple Dashboard](use-cases-and-tutorials/simple-dashboard.md)
+* [💫 Deep dive: Templates](use-cases-and-tutorials/deep-dive-templates.md)
+* [🌟 Deep dive: Sets](use-cases-and-tutorials/deep-dive-sets.md)
 
 ## 📱 Mobile
 
@@ -65,7 +71,7 @@
 
 ## 🔐 Data & Security
 
-* [Journey of Your Data](data-and-security/journey-of-your-data.md)
+* [How we keep your data safe](data-and-security/how-we-keep-your-data-safe.md)
 * [What is a Recovery Phrase?](data-and-security/what-is-a-recovery-phrase.md)
 * [Data Storage & Deletion](data-and-security/data-storage-and-deletion.md)
 * [Analytics & Tracking](data-and-security/analytics-and-tracking.md)

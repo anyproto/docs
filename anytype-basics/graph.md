@@ -1,12 +1,12 @@
 ---
-description: Finally a dive into the great big Graph.
+description: Finally a dive into your graph of objects.
 ---
 
 # Graph
 
-### From any object, you'll see he graph icon in the top toolbar.
+### From anywhere in the app, you'll see the graph icon  in the bottom navigation panel
 
-![](<../.gitbook/assets/image (41).png>)
+<figure><img src="../.gitbook/assets/Graph Icon.png" alt="" width="375"><figcaption><p>Locate the graph icon in the middle of your navigation panel</p></figcaption></figure>
 
 ### Open your Graph to see all of your objects and their relations.
 
