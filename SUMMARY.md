@@ -1,50 +1,75 @@
 # Table of contents
 
-* [Intro](README.md)
-* [Fundamentals](fundamental-concepts.md)
+* [👋 Welcome!](README.md)
 
-## Self-Onboarding
+## 🚼 Anytype Basics
 
-* [Get to Know the Editor](self-onboarding/Anytype-editor/README.md)
-  * [Link block view & layout](self-onboarding/Anytype-editor/link-block-view-and-layout.md)
-* [Connect Everything with Relations](self-onboarding/relation.md)
-* [Work Faster with Templates](self-onboarding/work-faster-with-templates.md)
-* [Sort, Filter, & Edit Objects with Sets](self-onboarding/set.md)
+* [Setting Up Your Profile](anytype-basics/setting-up-your-profile/README.md)
+  * [Recovery Phrase](anytype-basics/setting-up-your-profile/recovery-phrase.md)
+  * [Your Home Page](anytype-basics/setting-up-your-profile/your-home-page.md)
+  * [Account & Data](anytype-basics/setting-up-your-profile/account-and-data.md)
+  * [Customization](anytype-basics/setting-up-your-profile/customization.md)
+  * [Sidebar](anytype-basics/setting-up-your-profile/sidebar/README.md)
+    * [Customize & Edit the Sidebar](anytype-basics/setting-up-your-profile/sidebar/customize-and-edit-the-sidebar.md)
+* [Object Editor](anytype-basics/object-editor/README.md)
+  * [Create an Object](anytype-basics/object-editor/create-an-object.md)
+  * [Linking Objects](anytype-basics/object-editor/linking-objects.md)
+  * [Finding your Objects](anytype-basics/object-editor/finding-your-objects.md)
+* [Essentials](anytype-basics/essentials/README.md)
+  * [The Editor](anytype-basics/essentials/the-editor/README.md)
+    * [/ Commands](anytype-basics/essentials/the-editor/commands.md)
+    * [Blocks](anytype-basics/essentials/the-editor/blocks.md)
+* [Types](anytype-basics/types/README.md)
+  * [Create a New Type](anytype-basics/types/create-a-new-type.md)
+  * [Templates](anytype-basics/types/templates.md)
+* [Relations](anytype-basics/relations/README.md)
+  * [Create a New Relation](anytype-basics/relations/create-a-new-relation.md)
+* [Anytype Library](anytype-basics/anytype-library/README.md)
+  * [Types](anytype-basics/anytype-library/types.md)
+  * [Relations](anytype-basics/anytype-library/relations.md)
+* [Graph](anytype-basics/graph.md)
+* [Sets](anytype-basics/sets/README.md)
+  * [Creating Sets](anytype-basics/sets/creating-sets.md)
+  * [Customizing with Relations, Sort, & Filters](anytype-basics/sets/customizing-with-relations-sort-and-filters.md)
+* [Collections](anytype-basics/collections/README.md)
+  * [Collections Sets](anytype-basics/collections/collections-sets.md)
+* [Feature List by Platform](anytype-basics/feature-list-by-platform.md)
+* [Keyboard Shortcuts](anytype-basics/keyboard-shortcuts/README.md)
+  * [Main Commands](anytype-basics/keyboard-shortcuts/main-commands.md)
+  * [Navigation](anytype-basics/keyboard-shortcuts/navigation.md)
+  * [Markdown](anytype-basics/keyboard-shortcuts/markdown.md)
+  * [Commands](anytype-basics/keyboard-shortcuts/commands.md)
+* [Glossary](anytype-basics/anytype-editor.md)
 
-## How To
+## 🧑🏫 Use Cases & Tutorials
 
-* [Create New Types](how-to/library.md)
-* [View all of your Objects](how-to/navigation.md)
-* [Recover/Reset your Account](how-to/how-to-restore-my-account.md)
-* [Change your Spellcheck Language](how-to/change-your-spellcheck-language.md)
+* [Daily Notes](use-cases-and-tutorials/anytype-editor.md)
 
-## Use cases & tutorials
+## 📱 Mobile
 
-* [Organizing notes](use-cases-and-tutorials/organizing-notes/README.md)
-  * [Capture simple notes](use-cases-and-tutorials/organizing-notes/capture-simple-notes.md)
-  * [Outline note-taking method](use-cases-and-tutorials/organizing-notes/outline-note-taking-method.md)
-* [Creating a Task Tracker](use-cases-and-tutorials/creating-a-task-tracker.md)
-* [Creating a place for Studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
-* [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
+* [Installing iOS & Android Apps](mobile/anytype-editor.md)
+* [Widgets](mobile/widgets.md)
+* [Navigation](mobile/navigation.md)
+* [Customize & Personalize](mobile/customize-and-personalize.md)
 
-## Migrating
+## 🔍 Troubleshooting
 
-* [From Notion](migrating/start/README.md)
-  * [Architecture and Fundamentals comparison](migrating/start/fundamentaldifferences.md)
-  * [Missing Features](migrating/start/missingfeatures.md)
+* [How to](troubleshooting/how-to/README.md)
+  * [General Discussion / Feedback](troubleshooting/how-to/general-discussion-feedback.md)
+  * [How To](troubleshooting/how-to/how-to.md)
+  * [Bug Reports](troubleshooting/how-to/bug-reports.md)
+  * [Request a Feature & Vote](troubleshooting/how-to/request-a-feature-and-vote.md)
+* [Delete or Reset Your Account](troubleshooting/delete-or-reset-your-account.md)
+* [Self Host Your Backups](troubleshooting/self-host-your-backups.md)
+* [Sign Up for Our Newsletter!](troubleshooting/sign-up-for-our-newsletter.md)
 
-## FAQ's
+## 🔐 Data & Security
 
-* [Privacy & Security](faqs/privacy-and-security.md)
-* [Storage & Deletion](faqs/storage-and-deletion.md)
-* [Syncing & P2P](faqs/syncing-and-p2p.md)
-* [We are using IPFS. What is that?](faqs/we-are-using-ipfs.-what-is-that.md)
-* [Can pages be nested one to another?](faqs/can-pages-be-nested-one-to-another.md)
-* [How is my Recovery Phrase generated?](faqs/how-does-passphrase-login-work.md)
-* [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
-* [What Trackers does Anytype Use?](faqs/what-trackers-does-anytype-use.md)
-* [Free forever? How will Anytype make money?](faqs/free-forever-how-will-anytype-make-money.md)
+* [Journey of Your Data](data-and-security/journey-of-your-data.md)
+* [What is a Recovery Phrase?](data-and-security/what-is-a-recovery-phrase.md)
+* [Data Storage & Deletion](data-and-security/data-storage-and-deletion.md)
+* [Analytics & Tracking](data-and-security/analytics-and-tracking.md)
 
 ***
 
-* [Community](https://community.anytype.io)
+* [🌐 CONNECT WITH US!](connect-with-us.md)
