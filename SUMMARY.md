@@ -53,7 +53,7 @@
 
 ## 📱 Mobile
 
-* [Installing iOS & Android Apps](mobile/anytype-editor.md)
+* [Installing iOS & Android Apps](mobile/installation.md)
 * [Widgets](mobile/widgets.md)
 * [Navigation](mobile/navigation.md)
 * [Customize & Personalize](mobile/customize-and-personalize.md)

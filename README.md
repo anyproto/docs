@@ -14,7 +14,7 @@ You can use Anytype to create and connect your tasks, notes, ideas, documents, w
 \
 Future versions will allow you to share your work and safely collaborate with others. Our long-term vision is for Anytype to enable large-scale collaboration to create a global repository of interconnected knowledge.
 
-Explore the rest of the documentation here and&#x20;
+Explore the documentation here to learn more about using the product, troubleshooting your account, and data privacy.
 
 ### Helpful Resources to Get Started:
 
@@ -25,6 +25,8 @@ Explore the rest of the documentation here and&#x20;
 | Feature Roadmap  | See what we've got planned for the next few quarters                 | ​[https://github.com/orgs/anytypeio/projects/11/views/1](https://github.com/orgs/anytypeio/projects/11/views/1)​ |
 | Github           | Check our repos, verify our code, and contribute!                    | [​​](https://github.com/anyproto)[https://github.com/anyproto](https://github.com/anyproto)                      |
 
+​
 
-
-​​
+{% hint style="info" %}
+There's no browser version of the app. Anytype is a stand-alone software, that works on desktop or mobile devices. There are many points of vulnerability in-browser apps that would comprise our commitment to data security and encryption.
+{% endhint %}
