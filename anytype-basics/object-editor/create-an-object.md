@@ -14,7 +14,7 @@ This plus sign is the magic butting to create a new object at any time.&#x20;
 
 From there you will have the default choices of types to select, and you can also search through your other types.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Object Create - Anytype.png" alt=""><figcaption></figcaption></figure>
 
 ### Forward Slash Command
 
