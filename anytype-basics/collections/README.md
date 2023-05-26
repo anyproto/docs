@@ -1,3 +1,9 @@
+---
+description: >-
+  A folder-like structure where where you can visualize and batch edit objects
+  of any type
+---
+
 # Collections
 
 ### Understanding Collections

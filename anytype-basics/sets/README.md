@@ -1,5 +1,5 @@
 ---
-description: The organization for your Objects
+description: A live search of all objects which share a common type or relation
 ---
 
 # Sets
