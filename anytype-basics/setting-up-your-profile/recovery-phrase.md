@@ -1,7 +1,5 @@
 ---
-description: >-
-  There are no passwords in Anytype - only your recovery phrase. Learn how to
-  save your recovery phrase and get access on all your devices.
+description: There are no passwords in Anytype - only your recovery phrase.
 ---
 
 # Recovery Phrase

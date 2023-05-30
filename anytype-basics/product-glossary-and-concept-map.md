@@ -4,7 +4,7 @@ description: Working your way through the anytype primitives
 
 # Product Glossary & Concept Map
 
-Getting the most out of Anytype means getting comfortable with the basic terminology and how each piece fits together. These primitives are the components you'll use to create everything from simple notes, to complex dashboards, and ultimately - your own little web.
+Getting the most out of anytype means getting comfortable with the basic terminology and how each piece fits together. These primitives are the components you'll use to create everything from simple notes, to complex dashboards, and ultimately - your own little web.
 
 These include:
 
