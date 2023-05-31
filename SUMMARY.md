@@ -4,7 +4,6 @@
 
 ## 🚼 Anytype Basics
 
-* [Product Glossary & Concept Map](anytype-basics/product-glossary-and-concept-map.md)
 * [Setting Up Your Profile](anytype-basics/setting-up-your-profile/README.md)
   * [Recovery Phrase](anytype-basics/setting-up-your-profile/recovery-phrase.md)
   * [Your Home Page](anytype-basics/setting-up-your-profile/your-home-page.md)
@@ -40,7 +39,7 @@
   * [Navigation](anytype-basics/keyboard-shortcuts/navigation.md)
   * [Markdown](anytype-basics/keyboard-shortcuts/markdown.md)
   * [Commands](anytype-basics/keyboard-shortcuts/commands.md)
-* [Glossary](anytype-basics/anytype-editor.md)
+* [Glossary](anytype-basics/glossary.md)
 
 ## 🧑🏫 Use Cases & Tutorials
 
