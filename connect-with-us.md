@@ -14,4 +14,4 @@ Stay tuned for more from your Anyteam!
 
 **Reddit:** [**https://www.reddit.com/r/Anytype/**](https://www.reddit.com/r/Anytype/)
 
-**Github:** [**https://github.com/anytypeio**](https://github.com/anytypeio)
+**Github:** [**https://github.com/anyproto**](https://github.com/anyproto)
