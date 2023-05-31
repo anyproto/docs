@@ -20,7 +20,7 @@ Anytype gives you the possibility to see your sets easily. For example; your tas
 
 You can replicate this view multiple times with various other sets, optimizing your workflow.
 
-![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/image (29).png>)
 
 ### Recents
 

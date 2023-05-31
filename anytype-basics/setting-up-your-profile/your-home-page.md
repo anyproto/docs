@@ -20,7 +20,7 @@ Here's what you can do:
 2. Add your **space name**
 3. Choose your **home page**
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Changing the name of your Space in settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Changing the name of your Space in settings</p></figcaption></figure>
 
 ### Home page
 
@@ -30,6 +30,6 @@ Simply click the dropdown "Select" and choose your page.&#x20;
 
 You may already want to create your homepage and then come back to select it in settings.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Choosing your Home page in settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Choosing your Home page in settings</p></figcaption></figure>
 
 For more on building pages see the page linked here: [object-editor](../object-editor/ "mention")

@@ -12,7 +12,7 @@ Changing it is impossible, and it's extremely important you keep it safe.
 
 When you create your account, you will receive your very own _12 word mnemonic phrase._ This phrase is generated on-device and is the only way to access your account and decrypt your data.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Don't forget to save it!
 
@@ -26,7 +26,7 @@ You can login on your mobile device (iOS or Android), either by using your recov
 
 Simply launch the Anytype app on your device, tap "Login" and "Scan QR code".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt="" width="375"><figcaption></figcaption></figure>
 
 To access your QR code in the desktop app, navigate to Settings > Recovery Phrase.
 

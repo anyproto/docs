@@ -8,7 +8,7 @@ description: Let's explore the features we have in building a page.
 
 You should have a screen looking like this:
 
-![](<../../../.gitbook/assets/image (34).png>)
+![](<../../../.gitbook/assets/image (37).png>)
 
 ### Give it a name and a description if you'd like.&#x20;
 

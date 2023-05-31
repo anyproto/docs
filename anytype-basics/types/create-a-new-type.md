@@ -22,7 +22,7 @@ Next you will be prompted to give a name to your Type.
 
 Underneath, you can create new templates for your type. Create as many as you'd like. When selecting the type in a new document, you will be prompted with your choices of templates.
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (40).png>)
 
 Here in the Type you can also add any Relations that go with this type.&#x20;
 

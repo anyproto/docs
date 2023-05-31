@@ -14,7 +14,7 @@ You can also find your data here, clear your file cache.&#x20;
 
 Also, delete your account or log out, which we hope you never do.
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Customizing your profile name in settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption><p>Customizing your profile name in settings</p></figcaption></figure>
 
 ### Recovery Phrase
 
