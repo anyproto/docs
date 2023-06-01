@@ -1,17 +1,15 @@
+---
+description: We'd love to stay in touch - find us here and
+---
+
 # 🌐 CONNECT WITH US!
 
-### Follow Anytype on social media, stay connected with us, and join our community!
+[**Sign up for our newsletter**](https://cdn.forms-content.sg-form.com/90f1040f-0c63-11ea-a2a3-3643d2ac245c) to stay on top of product updates, company news, and musings from the anyteam
 
-We promise to keep you updated on future opportunities for you to engage with us, and be a part of what we are building.&#x20;
+[**Follow us on twitter** ](https://twitter.com/anytypelabs?lang=en)to catch some hot takes on what's happening in the industry
 
-Stay tuned for more from your Anyteam!
+[**Check out our Youtube**](https://www.youtube.com/c/anytype) for fun educational content about why data ownership matters
 
-**Twitter:** [**https://twitter.com/anytypelabs?lang=en**](https://twitter.com/anytypelabs?lang=en)
+[**Join Our Community**](https://community.anytype.io/) to engage with our team and other anytypers regularly, and to submit feature requests & bug reports
 
-**Youtube:** [**https://www.youtube.com/c/anytype**](https://www.youtube.com/c/anytype)
-
-**Community:** [**https://community.anytype.io/**](https://community.anytype.io/)
-
-**Reddit:** [**https://www.reddit.com/r/Anytype/**](https://www.reddit.com/r/Anytype/)
-
-**Github:** [**https://github.com/anyproto**](https://github.com/anyproto)
+[**Follow our Github** ](https://github.com/anyproto)to check our repos and engage with other contributors
