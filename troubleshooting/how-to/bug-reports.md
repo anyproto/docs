@@ -1,4 +1,4 @@
-# Bug Reports
+# Report A Bug
 
 ### Squash that bug!
 
