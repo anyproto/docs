@@ -4,8 +4,8 @@
 
 Experiencing something weird? Tell the team and let's get it solved. We want this application to be as spotless as possible.&#x20;
 
-When you're there you'll find a special format to follow. We kindly ask you to please respect this format and follow as explicitly as you can.&#x20;
+When creating a bug report on the Community Forum, you'll be presented with template which will give our team the precise information necessary to comprehend the issue. We kindly ask you to please follow this format as explicitly as you can.&#x20;
 
-We also ask you to please explain your problem as accurately and detailed as you can. This will later help our Nightly Ops team to go back and try to recreate the bug in and report furthermore to the team.&#x20;
+Providing a clear and accurate explanation of the bug you encountered will assist our Nightly Ops team in reproducing the issue, which will establish that the problem is widespread and should be escalated to our dev team for more immediate attention.&#x20;
 
 {% embed url="https://community.anytype.io/c/bug-reports/7" %}
