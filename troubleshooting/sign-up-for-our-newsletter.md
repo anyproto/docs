@@ -8,4 +8,4 @@ At Anytype our community is very important to us, and we prioritize informing th
 
 Whether you are in our community or following our social media, you will be connected. However, we suggest signing up to our newsletter as we always push announcements out first through email (sometimes time sensitive) and you wouldn't want to be last to hear about something new.
 
-**Sign up here:** [https://cdn.forms-content.sg-form.com/90f1040f-0c63-11ea-a2a3-3643d2ac245c](https://cdn.forms-content.sg-form.com/90f1040f-0c63-11ea-a2a3-3643d2ac245c)
+**Sign up here:** [https://cdn.forms-content.sg-form.com/168cc8e2-00a0-11ee-b0fd-be5ac30cd062](https://cdn.forms-content.sg-form.com/168cc8e2-00a0-11ee-b0fd-be5ac30cd062)
