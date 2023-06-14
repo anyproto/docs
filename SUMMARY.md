@@ -47,6 +47,7 @@
 * [✈ Travel Wiki](use-cases-and-tutorials/travel-wiki.md)
 * [🍎 Study Notes](use-cases-and-tutorials/study-notes.md)
 * [🎬 Movie Database](use-cases-and-tutorials/movie-database.md)
+* [🍛 Meal Planner / Recipe Book](use-cases-and-tutorials/meal-planner-recipe-book.md)
 * [✨ Simple Dashboard](use-cases-and-tutorials/simple-dashboard.md)
 * [💫 Deep dive: Templates](use-cases-and-tutorials/deep-dive-templates.md)
 * [🌟 Deep dive: Sets](use-cases-and-tutorials/deep-dive-sets.md)
