@@ -13,6 +13,4 @@ We use these to understand our main product metrics and whether overall, we’re
 
 In practice, this means that we know for instance that custom Types are very popular, but we cannot see what these custom types are (nor which Objects you’ve created with those types).
 
-Besides Amplitude, our iOS and Android teams use **Crashlytics** to understand the pervasiveness of crashes.
-
-Once we open our beta we are eager to provide analytics opt-out.
+Besides Amplitude, our engineering teams use Sentry to track the prevalence of crashes.
