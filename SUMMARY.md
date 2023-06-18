@@ -61,14 +61,9 @@
 
 ## 🔍 Troubleshooting
 
-* [How to](troubleshooting/how-to/README.md)
-  * [General Discussion / Feedback](troubleshooting/how-to/general-discussion-feedback.md)
-  * [How To](troubleshooting/how-to/how-to.md)
-  * [Bug Reports](troubleshooting/how-to/bug-reports.md)
-  * [Request a Feature & Vote](troubleshooting/how-to/request-a-feature-and-vote.md)
 * [Delete or Reset Your Account](troubleshooting/delete-or-reset-your-account.md)
 * [Self Host Your Backups](troubleshooting/self-host-your-backups.md)
-* [Sign Up for Our Newsletter!](troubleshooting/sign-up-for-our-newsletter.md)
+* [Migration from the Legacy App](troubleshooting/migration-from-the-legacy-app.md)
 
 ## 🔐 Data & Security
 
@@ -76,6 +71,16 @@
 * [What is a Recovery Phrase?](data-and-security/what-is-a-recovery-phrase.md)
 * [Data Storage & Deletion](data-and-security/data-storage-and-deletion.md)
 * [Analytics & Tracking](data-and-security/analytics-and-tracking.md)
+
+## 🌍 OUR COMMUNITY <a href="#community" id="community"></a>
+
+* [Community Forum](community/community-forum/README.md)
+  * [Report Bugs](community/community-forum/report-bugs.md)
+  * [Request a Feature & Vote](community/community-forum/request-a-feature-and-vote.md)
+  * [Get Help from the Community](community/community-forum/get-help-from-the-community.md)
+  * [Share Your Feedback](community/community-forum/share-your-feedback.md)
+* [Join the Open-Source Project](community/join-the-open-source-project.md)
+* [Sign Up for Our Newsletter](community/sign-up-for-our-newsletter.md)
 
 ***
 

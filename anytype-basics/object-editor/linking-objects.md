@@ -10,7 +10,7 @@ In your documents you may have multiple references or connections which could be
 
 Learn more about [relations](../relations/ "mention") & The [graph.md](../graph.md "mention") here.&#x20;
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 ### Use the Flow
 

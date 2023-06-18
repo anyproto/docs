@@ -6,7 +6,7 @@ The **Relations** library is organized the same as with **Types**, but your icon
 
 Clicking on a Relation here will give you the choice to install to your library.&#x20;
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
 Create a new Relation by clicking the bar in the middle.
 

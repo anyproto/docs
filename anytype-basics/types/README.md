@@ -18,7 +18,7 @@ Organizing your objects becomes easy when working with [Broken link](broken-refe
 
 #### Opening types from an empty page
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (38).png>)
 
 #### When editing sets in an existing page
 

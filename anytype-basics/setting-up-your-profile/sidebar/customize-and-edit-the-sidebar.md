@@ -14,4 +14,4 @@ Clicking "add" will give you the choice to choose your widget source. It can be 
 
 After choosing your widget source, you can change the appearance too. From Tree, List, or Link.
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>

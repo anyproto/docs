@@ -4,7 +4,7 @@
 
 In Text we can create all of your classic typing blocks. Here is what they look like on the page:
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 ### List
 
@@ -22,7 +22,7 @@ Upload media in various formats like; files, images, videos, audio, PDF's, link,
 
 Organize your page using dividers, table of contents. Create tables and add inline sets or collections.
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (24).png>)
 
 ### Objects
 

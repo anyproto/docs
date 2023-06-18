@@ -19,7 +19,7 @@ After downloading the application, you will be taken through a series of short o
 
 ### Open the Anytype app and click  'Join'.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Opening screen after downloading Anytype</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Opening screen after downloading Anytype</p></figcaption></figure>
 
 ### Create your Profile by adding your name and photo
 
