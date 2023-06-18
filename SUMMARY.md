@@ -75,6 +75,7 @@
 ## 🌍 OUR COMMUNITY <a href="#community" id="community"></a>
 
 * [Community Forum](community/community-forum/README.md)
+  * [How to Join the Community?](community/community-forum/how-to-join-the-community.md)
   * [Report Bugs](community/community-forum/report-bugs.md)
   * [Request a Feature & Vote](community/community-forum/request-a-feature-and-vote.md)
   * [Get Help from the Community](community/community-forum/get-help-from-the-community.md)

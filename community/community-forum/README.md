@@ -2,10 +2,6 @@
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-### Join our Community Forum
-
-**Invite Link**: [https://community.anytype.io/invites/51otAfPFv8](https://community.anytype.io/invites/51otAfPFv8)
-
 In our community, you will find various **categories** and **tags** in which you can find previous posts from others who may have had similar experiences to yours.&#x20;
 
 The various categories are:
