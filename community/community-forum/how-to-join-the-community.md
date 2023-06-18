@@ -2,11 +2,11 @@
 
 If you want to post on the Anytype Community Forum, you need an account there. Open your desktop app, go to the top menu, click on Help, and chose Anytype Community:&#x20;
 
-![](<../../.gitbook/assets/Join Anytype Community on desktop (1).jpg>)
+![](<../../.gitbook/assets/Join Anytype Community on desktop.png>)
 
 Then accept the invitation:
 
-![](<../../.gitbook/assets/Join community - last step.jpg>)
+![](<../../.gitbook/assets/Join Community - last step.png>)
 
 Now you will be able to create and comment on topics.&#x20;
 
