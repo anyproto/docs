@@ -63,7 +63,10 @@
 
 * [Delete or Reset Your Account](troubleshooting/delete-or-reset-your-account.md)
 * [Self Host Your Backups](troubleshooting/self-host-your-backups.md)
-* [Migration from the Legacy App](troubleshooting/migration-from-the-legacy-app.md)
+
+## ⚙ MIgration
+
+* [Migration from the Legacy App](migration/migration-from-the-legacy-app.md)
 
 ## 🔐 Data & Security
 
