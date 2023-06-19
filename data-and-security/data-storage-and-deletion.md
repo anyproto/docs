@@ -8,6 +8,12 @@
 Currently, you can not change the directory of your local data storage. We have it in [plans for Q3 2023](https://github.com/orgs/anyproto/projects/1/views/1). You might consider using a [workaround from our user](https://community.anytype.io/t/custom-storage-location/994) as a temporary solution for Windows and MacOS.
 {% endhint %}
 
+{% hint style="warning" %}
+**Self-hosting only without a backup node is currently unavailable**
+
+The self-hosting-only feature is not released yet. If you don’t want to use Anytype node and instead use p2p sync between your devices, you can [block Anytype network traffic](https://community.anytype.io/t/is-there-a-way-to-limit-storage-of-data-only-local/6982) (Anytype & Anytype Helper) via your firewall.
+{% endhint %}
+
 ### Storage <a href="#storage" id="storage"></a>
 
 Anytype is offline first; hence, all data you create will be stored locally first. After that, the data is synced to the backup node and your devices for redundancy. We use a private [IPFS](https://docs.ipfs.tech/concepts/what-is-ipfs/) network to handle storage. It is a Peer-To-Peer file system that facilitates decentralized data storage across devices. Furthermore, we use the deduplication feature to reduce storage. For example, if the same picture is uploaded three times, there is only one image copy stored to reduce storage consumption.
