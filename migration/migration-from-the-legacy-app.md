@@ -51,3 +51,5 @@ For these options, you’ll need to create a new account, which will generate a 
 * Error "open profile: file does not exist"
   * Reason: this happens with old Legacy versions (e.g. 0.31.0).
   * Solution: update the Legacy app via the instructions above.
+* Error "can't run service 'client.clientspace': EOF"
+  *
