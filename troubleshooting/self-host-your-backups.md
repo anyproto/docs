@@ -4,13 +4,11 @@ All your data primarily syncs to the encrypted backup node in the current alpha.
 
 #### Local backups
 
-Anytype is offline-first, and our backup nodes are still in early testing (we can't guarantee data recovery in 100% cases yet), it may be a good idea to do a regular backup of your Anytype folder (bottom-right question mark → Status → Folder path) to some safe place or with markdown Export.
+Anytype is offline-first, and our backup nodes are still in early testing (we can't guarantee data recovery in 100% of cases yet), it may be a good idea to do a regular backup of your Anytype folder to some safe place or with markdown Export. Here's how to find your Anytype folder:
 
-#### Page history
+![](<../.gitbook/assets/Show work directory.png>)
 
-We have a history of the document changes that you can use if you lose some data and restore previous versions. So the overall risk of losing some data because of the bug is marginal/non-existent. The only part that we can't guarantee is total recovery from our backup node. It's still in testing mode, an Alpha.
-
-### Syncing. How does it work?
+#### Syncing. How does it work?
 
 All objects are syncing separately. You can have 1 object in the actual state while another is downloading. Every object syncs with all historical changes being merged together. You can work being offline, with different devices different document states.
 
@@ -18,11 +16,11 @@ The app will transfer small chunks (those changes) of data that will build the d
 
 Later we will introduce more features bringing transparency into syncing.
 
-### P2P
+#### P2P
 
 We transfer objects directly between devices and backup nodes. That means that you can use the app on several devices in one network without connecting to the world wide web. Interconnections trying to establish with all machines being used with time intervals and if connected then checking changes, transfer data online. We can't broadcast every used device every second, so it can take some time to retrieve data from another device (restarting the app can help).
 
-### Status
+#### Status
 
 ![](<../.gitbook/assets/Screenshot 2021-11-05 at 16.27.07.png>)
 
@@ -34,5 +32,5 @@ We transfer objects directly between devices and backup nodes. That means that y
 
 Overall status (for an object):
 
-* If the Object is not fully synced with some device or backup node and something is syncing (like device), → then it is in `Syncing…` state
+* If the Object is not fully synced with some device or backup node and something is syncing (like a device), → then it is in `Syncing…` state
 
