@@ -14,6 +14,12 @@ Learn more by viewing [**A First Look At Our New Beta Software**](https://commun
 
 
 
+**Where to download the latest Alpha (Legacy) app**
+
+If you have already deleted your Alpha app prior to exporting your data from it, you might want to download it again in order to complete the export. You can download the 0.31.9 desktop app for Mac, Windows, and Linux [via the following link](../).&#x20;
+
+
+
 **Alternatives**&#x20;
 
 Instead of migrating, you’ll have the following alternatives:
