@@ -1,5 +1,7 @@
 ---
-description: We'd love to stay in touch - find us here and
+description: >-
+  We'd love to keep in touch. Find us online to stay updated with the latest
+  happenings in the Anyverse:
 ---
 
 # 🌐 CONNECT WITH US!
