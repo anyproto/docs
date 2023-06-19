@@ -45,3 +45,9 @@ Instead of migrating, you’ll have the following alternatives:
 * Manually import selected Objects one by one from Legacy to Beta. You may want to do this if your Legacy account has become messy but you have a few projects you’d like to carry over to Beta.
 
 For these options, you’ll need to create a new account, which will generate a new Recovery Phrase.
+
+#### Troubleshooting
+
+* Error "open profile: file does not exist"
+  * Reason: this happens with old Legacy versions (e.g. 0.31.0).
+  * Solution: update the Legacy app via the instructions above.
