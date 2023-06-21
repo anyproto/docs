@@ -40,8 +40,9 @@
   * [Markdown](anytype-basics/keyboard-shortcuts/markdown.md)
   * [Commands](anytype-basics/keyboard-shortcuts/commands.md)
 * [Glossary](anytype-basics/glossary.md)
+* [Comparison with other Apps](anytype-basics/comparison-with-other-apps.md)
 
-## 🧑🏫 🧑🏫 Use Cases & Tutorials
+## 🧑🏫 🧑🏫 🧑🏫 Use Cases & Tutorials
 
 * [✏ Daily Notes](use-cases-and-tutorials/anytype-editor.md)
 * [✈ Travel Wiki](use-cases-and-tutorials/travel-wiki.md)
