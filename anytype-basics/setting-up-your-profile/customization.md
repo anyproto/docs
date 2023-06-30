@@ -6,7 +6,7 @@ description: Check out the section for customizing your Anytype.
 
 ### Preferences
 
-Select your **default object type** and you'll the option to choose from any of the default types, types you've created, or create a new type.&#x20;
+Select your **default object type** and you'll have the option to choose from any of the default types, types you've created, or create a new type.&#x20;
 
 This defines the type of object that opens up when you create a new object (hitting the plus sign).
 
