@@ -30,5 +30,5 @@ Explore the documentation here to learn more about using the product, troublesho
 | Github           | Check our repos, verify our code, and contribute!                    | [​​](https://github.com/anyproto)[https://github.com/anyproto](https://github.com/anyproto)                                                                         |
 
 {% hint style="info" %}
-There's no browser version of the app. Anytype is a stand-alone software, that works on desktop or mobile devices. There are many points of vulnerability in-browser apps that would comprise our commitment to data security and encryption.
+There's no browser version of the app. Anytype is a stand-alone software, that works on desktop or mobile devices. There are many points of vulnerability in-browser apps that would compromise our commitment to data security and encryption.
 {% endhint %}
