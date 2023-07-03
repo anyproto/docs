@@ -1,9 +1,13 @@
 ---
-description: Yes, we do have some default and pre-built types already setup for you!
+description: We have default and pre-built types already set up for you!
 ---
 
 # Anytype Library
 
-### Navigate to the bottom of your sidebar just above the Bin.
+{% hint style="danger" %}
+The Library widget is currently available on desktop and Android. You won't be able to find it on iOS — please use the desktop app to edit types.
+{% endhint %}
+
+On the desktop or Android, navigate to the bottom of your sidebar just above the Bin:
 
 ![](<../../.gitbook/assets/image (31).png>)
