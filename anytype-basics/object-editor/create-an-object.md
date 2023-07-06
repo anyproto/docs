@@ -8,7 +8,7 @@ description: How do you create an object?
 
 On the bottom navigation panel you will see a white "+" button.
 
-This plus sign is the magic button to create a new object from anywhere in teh app.
+This plus sign is the magic button to create a new object from anywhere in the app.
 
 From there you will see your editor canvas and a menu of types to choose from, depending on what you want to create. Typing directly in the canvas will create an object of your chosen default type. You can change your default type at any time by tapping on your Account Settings Menu > Preferences.
 
