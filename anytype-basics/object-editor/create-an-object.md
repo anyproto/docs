@@ -10,7 +10,7 @@ description: How do you create an object?
 
 On the bottom left hand corner you will see a grey circle with a white "+" inside.&#x20;
 
-This plus sign is the magic butting to create a new object at any time.&#x20;
+This plus sign is the magic button to create a new object at any time.&#x20;
 
 From there you will have the default choices of types to select, and you can also search through your other types.
 
