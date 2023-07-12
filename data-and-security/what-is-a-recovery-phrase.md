@@ -14,7 +14,7 @@ Recovery Phrases follow a standardized protocol called BIP-39 (Bitcoin Improveme
 
 The strength of a Recovery Phrase lies in its ability to safeguard your digital assets. When properly generated, managed, and stored, it is nearly impossible for anyone to obtain your Recovery Phrase without your consent or knowledge. Recovery Phrases are generated using complex mathematical algorithms, and the sheer number of possible combinations makes it extremely challenging for an attacker to guess or brute-force their way to your Recovery Phrase.
 
-However, it's crucial to understand that the responsibility of protecting your Recovery Phrase ultimately lies with you. While it may be tempting to write it down or store it digitally for convenience, these methods can introduce vulnerabilities. Instead, it is recommended to write down your Recovery Phrase on a physical medium, such as paper or metal, and store it securely in a location known only to you. Avoid storing your Recovery Phrase on devices connected to the internet or in cloud storage, as they can be compromised by hackers or unauthorized access.
+However, it's crucial to understand that the responsibility of protecting your Recovery Phrase ultimately lies with you. While it may be tempting to store it digitally for convenience, these methods can introduce vulnerabilities. Instead, it is recommended to write down your Recovery Phrase on a physical medium, and store it securely in a location known only to you. Avoid storing your Recovery Phrase on devices connected to the internet or in cloud storage, as they can be compromised by hackers or unauthorized access.
 
 ### Login issues on Linux
 
