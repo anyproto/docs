@@ -19,7 +19,7 @@ If you’ve created content in the Alpha/Legacy version (0.31.\* and older) that
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/Export.png" alt="" width="336"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Anytype Export.gif" alt="" width="336"><figcaption></figcaption></figure>
 
     </div>
 3. [Download](https://download.anytype.io/), install, and open the Beta app.
