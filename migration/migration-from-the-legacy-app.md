@@ -15,7 +15,7 @@ If you’ve created content in the Alpha/Legacy version (0.31.\* and older) that
     <figure><img src="../.gitbook/assets/Check updates.png" alt="" width="331"><figcaption></figcaption></figure>
 
     </div>
-2.  Export from the updated Legacy app: File > Export.
+2.  Export from the updated Legacy app: File > Export > Protobuf.
 
     <div align="left">
 
