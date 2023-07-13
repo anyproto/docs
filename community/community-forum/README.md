@@ -1,8 +1,20 @@
+---
+description: A special space just for Anytypers!
+---
+
 # Community Forum
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-In our community, you will find various **categories** and **tags** in which you can find previous posts from others who may have had similar experiences to yours.&#x20;
+Just click _**Help > Anytype Community**_ inside the app to join us there.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Join the Community.png" alt="" width="273"><figcaption></figcaption></figure>
+
+</div>
+
+In our community, you'll find various **categories** and **tags** in which you can find previous posts from others who may have had similar experiences to yours.&#x20;
 
 The various categories are:
 

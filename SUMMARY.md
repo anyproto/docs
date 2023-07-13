@@ -2,7 +2,7 @@
 
 * [👋 Welcome!](README.md)
 
-## 🚼 Anytype Basics
+## 🚶♀ Anytype Basics
 
 * [Setting Up Your Profile](anytype-basics/setting-up-your-profile/README.md)
   * [Recovery Phrase](anytype-basics/setting-up-your-profile/recovery-phrase.md)
@@ -64,7 +64,7 @@
 * [Delete or Reset Your Account](troubleshooting/delete-or-reset-your-account.md)
 * [Self Host Your Backups](troubleshooting/self-host-your-backups.md)
 
-## ⚙ MIgration
+## 🚵 MIgration
 
 * [Migration from the Legacy App](migration/migration-from-the-legacy-app.md)
 
