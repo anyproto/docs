@@ -29,7 +29,7 @@ For more details, please check our [Migration Trail Guide](https://community.any
 
 #### **Where to download the latest Alpha (Legacy) app**
 
-If you have already deleted your Alpha app prior to exporting your data from it, you might want to download it again in order to complete the export. You can download the 0.31.9 desktop app for Mac, Windows, and Linux [via the following link](../).
+If you have already deleted your Alpha app prior to exporting your data from it, you might want to download it again in order to complete the export. You can download the 0.31.9 desktop app for Mac, Windows, and Linux [via the following link](https://download.anytype.io/?ref=migration\&platform=desktop).
 
 #### How can I skip the import backup step?
 
@@ -51,5 +51,4 @@ For these options, you’ll need to create a new account, which will generate a 
 * Error "open profile: file does not exist"
   * Reason: this happens with old Legacy versions (e.g. 0.31.0).
   * Solution: update the Legacy app via the instructions above.
-* Error "can't run service 'client.clientspace': EOF"
-  *
+* Error "can't run service 'client.clientspace': EOF" \*
