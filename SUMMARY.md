@@ -2,7 +2,7 @@
 
 * [👋 Welcome!](README.md)
 
-## 🚶♀ 🚶♀ Anytype Basics
+## 🚶♀ Anytype Basics
 
 * [Setting Up Your Profile](anytype-basics/setting-up-your-profile/README.md)
   * [Recovery Phrase](anytype-basics/setting-up-your-profile/recovery-phrase.md)
