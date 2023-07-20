@@ -8,10 +8,11 @@
 Currently, you can not change the directory of your local data storage. We have it in [plans for Q3 2023](https://github.com/orgs/anyproto/projects/1/views/1). You might consider using a [workaround from our user](https://community.anytype.io/t/custom-storage-location/994) as a temporary solution for Windows and MacOS.
 {% endhint %}
 
-{% hint style="warning" %}
-**Self-hosting only without a backup node is currently unavailable**
+{% hint style="success" %}
+**Self-hosting is available**
 
-The self-hosting-only feature is not released yet. If you don’t want to use Anytype node and instead use p2p sync between your devices, you can [block Anytype network traffic](https://community.anytype.io/t/is-there-a-way-to-limit-storage-of-data-only-local/6982) (Anytype & Anytype Helper) via your firewall.
+If you don’t want to use Anytype node, you can self-host your own using [this guide](https://tech.anytype.io/how-to/self-hosting). \
+It's also possible to use p2p sync between your devices, you can [block Anytype network traffic](https://community.anytype.io/t/is-there-a-way-to-limit-storage-of-data-only-local/6982) (Anytype & Anytype Helper) via your firewall.
 {% endhint %}
 
 ### Storage <a href="#storage" id="storage"></a>
