@@ -61,7 +61,6 @@
 ## 🔍 Troubleshooting
 
 * [Delete or Reset Your Account](troubleshooting/delete-or-reset-your-account.md)
-* [Self Host Your Backups](troubleshooting/self-host-your-backups.md)
 
 ## 🚵 MIgration
 
