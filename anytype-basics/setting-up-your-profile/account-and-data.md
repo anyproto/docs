@@ -30,6 +30,10 @@ You can set a color mode (light, dark, or system) and enable/disable automatical
 
 ### Pin Code
 
+{% hint style="info" %}
+This feature is currently available only on desktop.
+{% endhint %}
+
 If you need some extra privacy, e.g. while sharing a computer, you can set up a pin code that will lock the app while using and protect your recovery phrase. You will need to enter the pin code each time your Anytype session expires (1 min, 5 min, 10 min, or 1 hour) or if you want to access your recovery phrase:
 
 <figure><img src="../../.gitbook/assets/Account settings - Pin code.png" alt=""><figcaption><p>After enabling a pin code, you will be able to set up the timeout — desktop v0.33.3</p></figcaption></figure>
