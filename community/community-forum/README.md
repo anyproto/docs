@@ -4,27 +4,12 @@ description: A special space just for Anytypers!
 
 # Community Forum
 
-![](<../../.gitbook/assets/image (2).png>)
+[https://community.anytype.io](https://community.anytype.io/)
 
-Just click _**Help > Anytype Community**_ inside the app to join us there.
+In our community, you'll find various **categories** and **tags** in which you can find previous posts from others who may have had similar experiences to yours. The various categories include: News & Announcements, General Discussion, How To, Feature Requests, Bug Reports, and Lounge.
 
-<div align="left">
+### How to Join the Community?
 
-<figure><img src="../../.gitbook/assets/Join the Community.png" alt="" width="273"><figcaption></figcaption></figure>
+If you want to post on the Anytype Community Forum, you need an account there. In your desktop app, click _**Help > Anytype Community**_:
 
-</div>
-
-In our community, you'll find various **categories** and **tags** in which you can find previous posts from others who may have had similar experiences to yours.&#x20;
-
-The various categories are:
-
-* News & Announcements
-* General Discussion
-* How To
-* Feature Requests
-* Bug Reports
-* Lounge
-
-Once you have requested your invite, please create a profile, and join our discussions!
-
-For more on the different categories read onto the next pages.
+<figure><img src="../../.gitbook/assets/Join Anytype Community on desktop (1).jpg" alt=""><figcaption></figcaption></figure>
