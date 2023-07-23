@@ -4,7 +4,7 @@
 
 To find all of your objects and how they are connected, you can look to the Graph for your main source of truth.
 
-Read more about the [Broken link](broken-reference "mention")
+Read more about the [graph.md](../graph.md "mention") here.
 
 ### Browse through EVERYTHING
 
