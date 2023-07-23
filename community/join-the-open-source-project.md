@@ -1,11 +1,11 @@
-# Join the Open-Source Project
+# Join the Open Any Initiative
 
-**GitHub repos**
+## **GitHub repos**
 
 {% embed url="https://github.com/anytypeio" %}
 
-**How to contribute**
+## **How to contribute**
 
-If you are a developer and want to contribute to the Anytype ecosystem, please [join the contribution list](https://anytype.typeform.com/to/rH2kWW92?typeform-source=anytype.io). We will let you know once we open the repos.
+If you are a developer and want to contribute to the Anytype ecosystem, please check `CONTRIBUTING` docs inside a repository.&#x20;
 
-If you are interested in translating Anytype to other languages (e.g. Chinese, Korean, and many others) — please join the list, too!
+Follow us on [Github](https://github.com/anyproto) and join [Contributors Community](https://github.com/orgs/anyproto/discussions) to build Anytype together.
