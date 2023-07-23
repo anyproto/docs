@@ -21,7 +21,7 @@ Here are some technical details on encryption and data storage:
 * Anytype stores the history of changes for each object you’ve created.
 * Every object’s change has 2 encryption layers with different keys.
 * The first layer is used to connect changes within an object, e.g. "all this encrypted data belongs to the object with id \<abc>".
-* The second layer is used to encrypt the actual data. We using AES with stream encryption with CFB mode.
+* The second layer is used to encrypt the actual data. We use AES with stream encryption with CFB mode.
 * When you create a new change for an object, we periodically send it to our backup node (with only the first-layer key). More info about sync [here](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/JbcKxgThRdSa4vZyLbvH/faqs/syncing-and-p2p).
 * Anytype backup nodes have access to the first layer key, so it can group changes for the object and send them in one pack when you want to restore your data.
 * Anytype backup nodes HAVE NO access to the second layer key, so it can’t read the actual changes to the data.
