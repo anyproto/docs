@@ -32,5 +32,3 @@ At the moment you can delete only the [Fundamentals](https://app.gitbook.com/o/S
 #### Media <a href="#media-1" id="media-1"></a>
 
 Objects like Media and those with Anytype (Types, Relations) might be deleted in further releases. You can delete all the content via the clear cache option in iOS and Android. This will remove all the data altogether and force the app to sync once again entirely. Since the media download works on-premise, you will remove all cached media and clear some storage.
-
-### Root Folder <a href="#root-folder" id="root-folder"></a>
