@@ -4,23 +4,27 @@ description: Types are the classification system we use to categorize Objects
 
 # Types
 
-### Your type is the label for organizing different styles of documents.
+Just as in the physical world, types are useful for defining objects which are categorically different from one another.
 
-Have you created a document that isn't an actual page on something, but just a note?&#x20;
+A banana is something inherently different from a sofa. Its functions, properties, and relationships to other objects is more similar to those of apples and oranges, rather than sofas. For this reason, we might categorize apples, oranges, and bananas as _fruit_, whereas sofas would fall into a different category: that of _furniture._
 
-Did you save just a specific bookmark to a reference which holds its details and description, a recipe with the link and video?&#x20;
+By the same principle, in Anytype there are two important concepts to keep in mind:
 
-Types can be as specific and definitive or broad as you'd like, for example; a type for a contact can be just human, or it can be friend & colleague.&#x20;
+1\) Every object has a type, which is defined at the time of object creation (and can be changed later)
 
-Create your own types and templates attached to them. Choose from your templates to easily repeat the process of adding information and documents that you want to store, use later, or continue working on.&#x20;
+2\) Different types are used to define objects which are categorically different from each other
 
-Organizing your objects becomes easy when working with [Broken link](broken-reference "mention").
+Colleagues, friends, and neighbours might all be considered type: _Human_ in your Anytype graph. Here are other examples of types you might have in your graph:
 
-#### Opening types from an empty page
+* Task
+* Note
+* Book
+* Movie
+* Idea
 
-![](<../../.gitbook/assets/image (38).png>)
+It's up to you how narrow or broad you'd like your types to be, but generally we recommend using general types for categorizing your objects, and further refining the use of your types through [templates](../../use-cases-and-tutorials/deep-dive-templates.md).&#x20;
 
-#### When editing sets in an existing page
+You can always view and manage your types from the Types Library, found in the _Library_ widget on your sidebar.
 
-![](<../../.gitbook/assets/image (4).png>)
+
 
