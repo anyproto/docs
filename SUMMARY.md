@@ -2,7 +2,7 @@
 
 * [👋 Welcome!](README.md)
 
-## 🚶♀ 🚶♀ Anytype Basics
+## 🚶♀ 🚶♀ 🚶♀ Anytype Basics
 
 * [Setting Up Your Profile](anytype-basics/setting-up-your-profile/README.md)
   * [Recovery Phrase](anytype-basics/setting-up-your-profile/recovery-phrase.md)
@@ -40,7 +40,7 @@
   * [Commands](anytype-basics/keyboard-shortcuts/commands.md)
 * [Glossary](anytype-basics/glossary.md)
 
-## 🧑🏫 🧑🏫 🧑🏫 Use Cases & Tutorials
+## 🧑🏫 🧑🏫 🧑🏫 🧑🏫 Use Cases & Tutorials
 
 * [✏ Daily Notes](use-cases-and-tutorials/anytype-editor.md)
 * [✈ Travel Wiki](use-cases-and-tutorials/travel-wiki.md)

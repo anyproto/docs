@@ -6,7 +6,7 @@ description: >-
 
 # 🌐 CONNECT WITH US!
 
-[**Sign up for our newsletter**](https://cdn.forms-content.sg-form.com/90f1040f-0c63-11ea-a2a3-3643d2ac245c) to stay on top of product updates, company news, and musings from the anyteam
+[**Sign up for our newsletter**](https://anytype.io/?popup=mailinglist) to stay on top of product updates, company news, and musings from the anyteam
 
 [**Follow us on twitter** ](https://twitter.com/anytypelabs?lang=en)to catch some hot takes on what's happening in the industry
 
