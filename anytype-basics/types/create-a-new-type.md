@@ -8,7 +8,7 @@ The [anytype-library](../anytype-library/ "mention") is the central place to man
 
 ### Creating Types from the Library
 
-Click on the search bar and input the name of the type you'd like to create. The dropdown menu will be populated with any matching terms from the Anytype lbirary. You can select any of these, and they'll be installed newly in your types library. If you'd prefer instead to create your own type, simply choose the option `+ Create type "Type name".`
+Click on the search bar and input the name of the type you'd like to create. The dropdown menu will be populated with any matching terms from the Anytype library. You can select any of these, and they'll be installed newly in your types library. If you'd prefer instead to create your own type, simply choose the option `+ Create type "Type name".`
 
 <figure><img src="../../.gitbook/assets/Types Library.png" alt=""><figcaption></figcaption></figure>
 
