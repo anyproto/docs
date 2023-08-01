@@ -2,17 +2,17 @@
 
 ## Storage & Deletion
 
+{% hint style="info" %}
+**Self-hosting is available**
+
+If you don’t want to use Anytype backup node, you can self-host your own using [this guide](https://tech.anytype.io/how-to/self-hosting).\
+It's also possible to use p2p sync between your devices, you can [block Anytype network traffic](https://community.anytype.io/t/is-there-a-way-to-limit-storage-of-data-only-local/6982) (Anytype & Anytype Helper) via your firewall.
+{% endhint %}
+
 {% hint style="warning" %}
 **Custom storage location is currently unavailable**
 
 Currently, you can not change the directory of your local data storage. We have it in [plans for Q3 2023](https://github.com/orgs/anyproto/projects/1/views/1). You might consider using a [workaround from our user](https://community.anytype.io/t/custom-storage-location/994) as a temporary solution for Windows and MacOS.
-{% endhint %}
-
-{% hint style="success" %}
-**Self-hosting is available**
-
-If you don’t want to use Anytype node, you can self-host your own using [this guide](https://tech.anytype.io/how-to/self-hosting). \
-It's also possible to use p2p sync between your devices, you can [block Anytype network traffic](https://community.anytype.io/t/is-there-a-way-to-limit-storage-of-data-only-local/6982) (Anytype & Anytype Helper) via your firewall.
 {% endhint %}
 
 ### Storage <a href="#storage" id="storage"></a>
