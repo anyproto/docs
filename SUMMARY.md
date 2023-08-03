@@ -71,6 +71,7 @@
 * [How we keep your data safe](data-and-security/how-we-keep-your-data-safe.md)
 * [What is a Recovery Phrase?](data-and-security/what-is-a-recovery-phrase.md)
 * [Data Storage & Deletion](data-and-security/data-storage-and-deletion.md)
+* [Self-hosting](data-and-security/self-hosting.md)
 * [Analytics & Tracking](data-and-security/analytics-and-tracking.md)
 
 ## 🌍 OUR COMMUNITY <a href="#community" id="community"></a>
