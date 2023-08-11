@@ -2,7 +2,7 @@
 
 ## **GitHub repos**
 
-{% embed url="https://github.com/anytypeio" %}
+{% embed url="https://github.com/anyproto" %}
 
 ## **How to contribute**
 
