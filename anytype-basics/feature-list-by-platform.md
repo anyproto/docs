@@ -77,12 +77,13 @@ Here is a running list of features and their implementation status, by platform.
 | Library                                 | Yes             | No          | Yes             |
 | Edit & Delete Type (name, templates)    | Yes             | No          | Type only       |
 | Edit & Delete Relation                  | Yes             | No          | Yes             |
-| Create, edit, delete Template           | Yes             | No          | No              |
+| Create, delete Template                 | Yes             | No          | No              |
+| Edit Template                           | Yes             | Yes         | Yes             |
+| Apply default template                  | Yes             | Yes         | Yes             |
 | Create tag                              | Yes             | Yes         | Yes             |
 | **Integrations & Imports**              |                 |             |                 |
 | Notion                                  | Yes             | No          | No              |
 | Markdown                                | Yes             | No          | No              |
-| Other                                   |                 |             |                 |
 | Onboarding tool tips                    | Yes             | No          | No              |
 | In-app feedback questionnaires          | Yes             | No          | No              |
 | Help menu                               | Yes             | No          | No              |
