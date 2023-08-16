@@ -1,5 +1,5 @@
 ---
-description: Contributed by A manual from our user Roland
+description: Contributed by our user Roland
 ---
 
 # 🇨🇳 基本概念介绍
