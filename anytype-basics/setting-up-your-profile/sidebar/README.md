@@ -24,7 +24,7 @@ You can replicate this view multiple times with various other sets, optimizing y
 
 ### Recents
 
-All of the pages you've recently visited will show here.&#x20;
+All of the pages you've recently visited or recently modified (depending on which widget you choose) will show here. The recently visited widget is not synced across devices.&#x20;
 
 Changing between pages? Here you can find the ones you were just in.
 

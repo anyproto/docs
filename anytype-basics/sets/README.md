@@ -29,6 +29,6 @@ Sets are a way to see a portion of your graph, and objects you've created, based
    \
    Sets also provide a way to batch-edit Objects. \
    \
-   You can use multi-select in Sets to delete multiple Objects at once. You can also batch-add or edit Relations for Objects from Set view, instead of entering them one-by-one.
+   You can use multi-select in Sets to delete multiple Objects at once or to batch update the Object Type. You can also batch-add or edit Relations for Objects from Set view, instead of entering them one-by-one.&#x20;
 
 {% embed url="https://vimeo.com/717016770" %}

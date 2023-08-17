@@ -25,6 +25,6 @@ There are two ways to add a Template:&#x20;
 
 ### Using & Managing Templates
 
-Once you've created your Template, each time you add a new Object you will be prompted to select the Template you'd like to use.
+Once you've created your Template, each time you add a new Object you will be prompted to select the Template you'd like to use. If you would like to bypass this, you can alsways use the default Blank template.
 
 You can view, edit, duplicate, or delete the Templates you've added for each Object Type in the Types Library.
