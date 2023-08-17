@@ -4,27 +4,36 @@ description: >-
   chapter.
 ---
 
-# Setting Up Your Profile
+# Setting Up Your Space
 
-Start off your journey with Anytype by setting up your account and customizing your preferences.
+### Space customization
 
-The setup chapter includes:
+Personalize your space here. At the top left of the application you'll find your space name and settings.&#x20;
 
-1. How to properly store and save your recovery phrase and log in across all your devices.
-2. How to customize your homepage and dashboard.
-3. How to customize your preferences, light or dark mode, and language preferences.
-4. How to customize the sidebar and edit your widgets to maximize your productivity.
+Clicking on your space name will open up your space settings.
 
-After downloading the application, you will be taken through a series of short onboarding steps:
+These are the customization options for your space:
 
-### Open the Anytype app and click  'Join'.
+1. Customize your **Space icon**
+2. Add your **space name**
+3. Choose your **homepage**
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Opening screen after downloading Anytype</p></figcaption></figure>
+### Choose your space icon
 
-### Create your Profile by adding your name and photo
+Your space icon is automatically generated during the onboarding process. To change it, simply click on the icon and choose from the emoji menu or upload your own image.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Creating your profile</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.13.04.png" alt=""><figcaption></figcaption></figure>
 
-### Enter your invite code, which is found in your email.
+### Choose your Homepage
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+Your homepage is what you will see each time you open Anytype. By default, your homepage has been set to a pre-installed 'Dashboard' object whih serves to get your oriented within your space.&#x20;
+
+However, you can change your homepage by using the dropdown menu in your space settings and choosing between your graph, your last opened object, or a specific object you've created.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.27.47.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+For more on building pages, see [object-editor](../object-editor/ "mention")
