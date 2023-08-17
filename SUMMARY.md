@@ -51,10 +51,6 @@
 * [💫 Deep dive: Templates](use-cases-and-tutorials/deep-dive-templates.md)
 * [🌟 Deep dive: Sets](use-cases-and-tutorials/deep-dive-sets.md)
 
-## 🦸♀ Guides from our users
-
-* [🇨🇳 基本概念介绍](guides-from-our-users/ji-ben-gai-nian-jie-shao.md)
-
 ## 📱 Mobile
 
 * [Installing iOS & Android Apps](mobile/installation.md)
