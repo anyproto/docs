@@ -6,7 +6,7 @@ description: Anytype is available on Mac, Windows, Linux, iOS, and Android.
 
 Here is a running list of features and their implementation status, by platform. This list will be updated with each release.
 
-| Feature/Action                          | Desktop 0.32.\* | iOS 0.22.\* | Android 0.22.\* |
+| Feature/Action                          | Desktop 0.34.\* | iOS 0.24.\* | Android 0.24.\* |
 | --------------------------------------- | --------------- | ----------- | --------------- |
 | **Appearance & Account Settings**       |                 |             |                 |
 | Spellcheck                              | Yes             | No          | No              |
