@@ -40,7 +40,7 @@ We do not store this data so we cannot help you in recovering. Make sure to writ
 
 ### Data Management
 
-If you want to delete your account, you can do it in this section:
+In this area, you can choose to offload files stored in Anytype to our encrypted backup node or, delete your account.&#x20;
 
 ### Recovery Phrase
 
