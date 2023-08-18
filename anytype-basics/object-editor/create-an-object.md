@@ -20,14 +20,9 @@ This will perform the same action as clicking the "+" sign.
 
 ### Turn Into Object
 
-If you are working on something in a current existing Object and would like to transform only a certain block into an Object, you can.
+If you are working on something in an existing Object and would like to transform only a certain block into an Object, you can do that trough the action menu by either:
 
-Using two ways...
+1. Hovering to the left side of the block that you are working on and clicking the 3 dots.
+2. Using the ⌘+/ keyboard shortcut.&#x20;
 
-\#1, Hover to the left side of the block that you are working on and click the 3 dots.
-
-\#2, use ⌘+/.
-
-It will bring up this menu:
-
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Action menu</p></figcaption></figure>

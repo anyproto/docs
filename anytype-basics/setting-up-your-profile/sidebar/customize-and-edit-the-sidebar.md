@@ -1,5 +1,5 @@
 ---
-description: Your sidebar is a modular pane designed to help you easily find your objects
+description: How do we customize and edit?
 ---
 
 # Sidebar & Widgets

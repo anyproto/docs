@@ -9,11 +9,11 @@
   * [Recovery Phrase](anytype-basics/setting-up-your-profile/recovery-phrase.md)
   * [Sidebar & Widgets](anytype-basics/setting-up-your-profile/sidebar/customize-and-edit-the-sidebar.md)
 * [Object Editor](anytype-basics/object-editor/README.md)
-  * [Opening the Editor](anytype-basics/object-editor/the-editor.md)
+  * [Opening the Editor](anytype-basics/essentials/the-editor/README.md)
   * [Working with Blocks](anytype-basics/object-editor/blocks.md)
   * [More Ways to Create Objects](anytype-basics/object-editor/create-an-object.md)
   * [Locating your Objects](anytype-basics/object-editor/finding-your-objects.md)
-* [Linking Objects](anytype-basics/linking-objects.md)
+* [Linking Objects](anytype-basics/object-editor/linking-objects.md)
 * [Types](anytype-basics/types/README.md)
   * [Create a New Type](anytype-basics/types/create-a-new-type.md)
   * [Templates](anytype-basics/types/templates.md)
@@ -53,21 +53,18 @@
 * [Navigation](mobile/navigation.md)
 * [Customize & Personalize](mobile/customize-and-personalize.md)
 
-## 🔍 Troubleshooting
-
-* [Delete or Reset Your Account](troubleshooting/delete-or-reset-your-account.md)
-
-## 🚵 MIgration
-
-* [Migration from the Legacy App](migration/migration-from-the-legacy-app.md)
-
 ## 🔐 Data & Security
 
+* [Delete or Reset Your Account](data-and-security/delete-or-reset-your-account.md)
 * [How we keep your data safe](data-and-security/how-we-keep-your-data-safe.md)
 * [What is a Recovery Phrase?](data-and-security/what-is-a-recovery-phrase.md)
 * [Data Storage & Deletion](data-and-security/data-storage-and-deletion.md)
 * [Backup and self-hosting](data-and-security/self-hosting.md)
 * [Analytics & Tracking](data-and-security/analytics-and-tracking.md)
+
+## 🚵 MIgration
+
+* [Migration from the Legacy App](migration/migration-from-the-legacy-app.md)
 
 ## 🌍 OUR COMMUNITY <a href="#community" id="community"></a>
 

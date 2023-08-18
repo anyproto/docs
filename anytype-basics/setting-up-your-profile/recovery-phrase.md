@@ -4,6 +4,10 @@ description: There are no passwords in Anytype - only your recovery phrase.
 
 # Recovery Phrase
 
+{% hint style="danger" %}
+Store your Recovery Phrase somewhere safe and share it with no one!
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.31.38.png" alt=""><figcaption><p>You can access your recovery phrase at any time by navigating to Profile > Settings > Recovery Phrase.</p></figcaption></figure>
 
 When you create your account, you will receive your very own 12 word mnemonic phrase_._ This phrase is generated on-device and is the only way to access your account and decrypt your data.
