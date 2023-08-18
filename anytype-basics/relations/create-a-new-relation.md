@@ -25,5 +25,3 @@ Here are the currently available Relation-types within Anytype:
 * **Checkbox**: an object with a boolean, string, or link to an object.
 * **Media**: audio, movies, or pictures which you can view, play, or download.
 * **Object**: reference to a specific object, like a person, task, or document.
-
-At present, you cannot delete relations. So be careful to avoid duplicate relations with
