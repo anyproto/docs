@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome!](README.md)
+* [🌐 Connect with Us!](connect-with-us.md)
 
 ## Anytype Basics
 
@@ -74,7 +75,3 @@
   * [Get Help from the Community](community/community-forum/get-help-from-the-community.md)
   * [Share Your Feedback](community/community-forum/share-your-feedback.md)
 * [Join the Open Any Initiative](community/join-the-open-source-project.md)
-
-***
-
-* [🌐 CONNECT WITH US!](connect-with-us.md)
