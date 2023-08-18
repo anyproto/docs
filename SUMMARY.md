@@ -6,7 +6,7 @@
 ## Anytype Basics
 
 * [Setting Up Your Space](anytype-basics/setting-up-your-profile/README.md)
-  * [Account settings](anytype-basics/setting-up-your-profile/account-and-data.md)
+  * [Account Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
   * [Recovery Phrase](anytype-basics/setting-up-your-profile/recovery-phrase.md)
   * [Sidebar & Widgets](anytype-basics/setting-up-your-profile/sidebar/customize-and-edit-the-sidebar.md)
 * [Object Editor](anytype-basics/object-editor/README.md)
