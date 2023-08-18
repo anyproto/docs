@@ -16,7 +16,7 @@ Additionally, Anytype provides several options for _non-object_ widgets which yo
 * Sets: All Set-type objects
 * Collections: All Collection-type objects
 * Recently edited: Your recently edited objects (globally synced across devices)
-* Recently opened: Your recently opened objects (device-specific
+* Recently opened: Your recently opened objects (device-specific)
 
 ### Edit your Sidebar Widgets
 
