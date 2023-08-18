@@ -9,7 +9,7 @@
   * [Account Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
   * [Recovery Phrase](anytype-basics/setting-up-your-profile/recovery-phrase.md)
   * [Sidebar & Widgets](anytype-basics/setting-up-your-profile/sidebar/customize-and-edit-the-sidebar.md)
-* [Object Editor](anytype-basics/object-editor/README.md)
+* [Objects](anytype-basics/object-editor/README.md)
   * [Opening the Editor](anytype-basics/essentials/the-editor/README.md)
   * [Working with Blocks](anytype-basics/object-editor/blocks.md)
   * [More Ways to Create Objects](anytype-basics/object-editor/create-an-object.md)
