@@ -4,6 +4,10 @@ description: Anytype is available on Mac, Windows, Linux, iOS, and Android.
 
 # Feature List by Platform
 
+{% hint style="info" %}
+The library has not been yet implemented on the iOS, and there is no graph on Android or iOS either.
+{% endhint %}
+
 Here is a running list of features and their implementation status, by platform. This list will be updated with each release.
 
 | Feature/Action                          | Desktop 0.34.\* | iOS 0.24.\* | Android 0.24.\* |
