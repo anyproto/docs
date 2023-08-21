@@ -1,17 +1,13 @@
 # Delete or Reset Your Account
 
-### Anytype > Settings > Profile
+### Anytype > Account Settings > Data management > Delete account
 
-Navigate to your profile settings, and select **Delete account.** This will delete your profile, and your recovery phrase:
+Navigate to Account Settings, Data management, and select **Delete account.** This will delete your profile, and your recovery phrase:
 
-![](<../.gitbook/assets/Anytype settings + delete account.jpg>)&#x20;
-
-Alternatively, you can open your Profile in one click:
-
-![](<../.gitbook/assets/Anytype settings + delete account #2.png>)
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-21 at 13.33.28.png" alt=""><figcaption></figcaption></figure>
 
 If you would like to start a new account instead, do the following:
 
-1. Anytype>Settings>Profile>Delete Account
-2. Anytype>Settings>Profile>Log Out
-3. Click: “_Join_” (instead of Log in)
+1. Anytype>Account Settings>Data Management>Delete Account
+2. Anytype>Account Settings>Profile>Log Out
+3. Click: “_**Join**_” (instead of "Log in")
