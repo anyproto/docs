@@ -4,7 +4,7 @@ description: A special space just for Anytypers!
 
 # Community Forum
 
-[https://community.anytype.io](https://community.anytype.io/)
+{% embed url="https://community.anytype.io" %}
 
 In our community, you'll find various **categories** and **tags** in which you can find previous posts from others who may have had similar experiences to yours. The various categories include: News & Announcements, General Discussion, How To, Feature Requests, Bug Reports, and Lounge.
 
