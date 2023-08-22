@@ -15,7 +15,7 @@ It's also possible to use p2p sync between your devices, you can [block Anytype 
 
 If you don’t want to use Anytype backup node, you can self-host your own using [this guide](https://tech.anytype.io/how-to/self-hosting). It is our first step in this direction, so it requires some technical skills from users and depends on several external solutions.
 
-Our contributors are already working on creating a Docker image to simplify the setup of self-hosted infrastructure. You can join if you wish: [https://github.com/orgs/anyproto/discussions/17](https://github.com/orgs/anyproto/discussions/17).
+Our contributors are already working on creating a Docker image to simplify the setup of self-hosted infrastructure. You can join by following this [discussion](https://github.com/orgs/anyproto/discussions/17) on our GitHub page.
 
 Internally, we're already working on adding network configuration ability into the apps. This will make the process of rebuilding clients optional and greatly simplify the self-hosting flow. We expect to deliver this feature in upcoming releases.
 
