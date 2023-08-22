@@ -12,7 +12,7 @@ Media files are not directly downloaded in overall syncing to save bandwidth. In
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2Fgit-blob-dcb526128401892f1a4773091dbf735febb4a875%2FScreenshot%202021-11-02%20at%2016.25.23.png?alt=media" alt=""><figcaption><p>Complete deletion in Bin</p></figcaption></figure>
 
-At the moment you can delete only the [Fundamentals](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/JbcKxgThRdSa4vZyLbvH/fundamental-concepts) that you create inside Anytype. At first, you can move them to a bin that will remove them from navigation. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online. This action is irreversible, so please be careful.
+At the moment you can delete only the Objects that you've created inside Anytype. At first, you can move them to a bin that will remove them from navigation. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online. This action is irreversible, so please be careful.
 
 #### Media <a href="#media-1" id="media-1"></a>
 
