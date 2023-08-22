@@ -28,13 +28,16 @@
   * [Creating Sets](anytype-basics/sets/creating-sets.md)
   * [Customizing with Relations, Sort, & Filters](anytype-basics/sets/customizing-with-relations-sort-and-filters.md)
 * [Collections](anytype-basics/collections.md)
-* [Feature List by Platform](anytype-basics/feature-list-by-platform.md)
-* [Keyboard Shortcuts](anytype-basics/keyboard-shortcuts/README.md)
-  * [Main Commands](anytype-basics/keyboard-shortcuts/main-commands.md)
-  * [Navigation](anytype-basics/keyboard-shortcuts/navigation.md)
-  * [Markdown](anytype-basics/keyboard-shortcuts/markdown.md)
-  * [Commands](anytype-basics/keyboard-shortcuts/commands.md)
-* [Glossary](anytype-basics/glossary.md)
+
+## Miscellaneous&#x20;
+
+* [Glossary](miscellaneous/glossary.md)
+* [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
+* [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
+  * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
+  * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
+  * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
+  * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
 
 ## Use Cases & Tutorials
 
