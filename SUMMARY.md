@@ -61,11 +61,11 @@
 
 ## 🔐 Data & Security
 
-* [Delete or Reset Your Account](data-and-security/delete-or-reset-your-account.md)
-* [How we keep your data safe](data-and-security/how-we-keep-your-data-safe.md)
 * [What is a Recovery Phrase?](data-and-security/what-is-a-recovery-phrase.md)
-* [Data Storage & Deletion](data-and-security/data-storage-and-deletion.md)
-* [Backup and self-hosting](data-and-security/self-hosting.md)
+* [Privacy & Encryption](data-and-security/how-we-keep-your-data-safe.md)
+* [Storage & Deletion](data-and-security/data-storage-and-deletion/README.md)
+  * [Backup & Self-Hosting](data-and-security/data-storage-and-deletion/self-hosting.md)
+* [Delete or Reset Your Account](data-and-security/delete-or-reset-your-account.md)
 * [Analytics & Tracking](data-and-security/analytics-and-tracking.md)
 
 ## 🚵 MIgration
