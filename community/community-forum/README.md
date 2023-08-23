@@ -10,6 +10,6 @@ In our community, you'll find various **categories** and **tags** in which you c
 
 ### How to Join the Community?
 
-If you want to post in the Anytype Community, you'll need an account. In your desktop app, click _**Help>Anytype Community**_
+If you want to post in the Anytype Community, you'll need an account. In your desktop app, click the **?** button in the lower right, then _**Join Our Community**_.
 
-<figure><img src="../../.gitbook/assets/Join Anytype Community on desktop (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
