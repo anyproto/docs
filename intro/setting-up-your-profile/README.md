@@ -30,10 +30,8 @@ Your homepage is what you will see each time you open Anytype. By default, your 
 
 However, you can change your homepage by using the dropdown menu in your space settings and choosing between your graph, your last opened object, or a specific object you've created.
 
+{% content-ref url="../../tutorials-and-use-cases/tutorials/simple-dashboard.md" %}
+[simple-dashboard.md](../../tutorials-and-use-cases/tutorials/simple-dashboard.md)
+{% endcontent-ref %}
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.27.47.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-For more on building pages, see [object-editor](../../basics/object-editor/ "mention")

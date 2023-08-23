@@ -42,16 +42,18 @@
   * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
   * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
 
-## Use Cases & Tutorials
+## 📽 Tutorials & Use Cases
 
-* [✏ Daily Notes](use-cases-and-tutorials/anytype-editor.md)
-* [✈ Travel Wiki](use-cases-and-tutorials/travel-wiki.md)
-* [🍎 Study Notes](use-cases-and-tutorials/study-notes.md)
-* [🎬 Movie Database](use-cases-and-tutorials/movie-database.md)
-* [🍛 Meal Planner / Recipe Book](use-cases-and-tutorials/meal-planner-recipe-book.md)
-* [✨ Simple Dashboard](use-cases-and-tutorials/simple-dashboard.md)
-* [💫 Deep dive: Templates](use-cases-and-tutorials/deep-dive-templates.md)
-* [🌟 Deep dive: Sets](use-cases-and-tutorials/deep-dive-sets.md)
+* [Tutorials](tutorials-and-use-cases/tutorials/README.md)
+  * [✨ Simple Dashboard](tutorials-and-use-cases/tutorials/simple-dashboard.md)
+  * [💫 Deep dive: Templates](tutorials-and-use-cases/tutorials/deep-dive-templates.md)
+  * [🌟 Deep dive: Sets](tutorials-and-use-cases/tutorials/deep-dive-sets.md)
+* [Use Cases](tutorials-and-use-cases/use-cases/README.md)
+  * [✏ Daily Notes](tutorials-and-use-cases/use-cases/anytype-editor.md)
+  * [✈ Travel Wiki](tutorials-and-use-cases/use-cases/travel-wiki.md)
+  * [🍎 Study Notes](tutorials-and-use-cases/use-cases/study-notes.md)
+  * [🎬 Movie Database](tutorials-and-use-cases/use-cases/movie-database.md)
+  * [🍛 Meal Planner / Recipe Book](tutorials-and-use-cases/use-cases/meal-planner-recipe-book.md)
 
 ## 🔐 Data & Security
 

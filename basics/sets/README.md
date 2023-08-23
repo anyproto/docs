@@ -10,6 +10,10 @@ Lots of people compare Sets with databases, but there's a key difference: Sets d
 
 Sets are a way to see a portion of your graph, and objects you've created, based on your filtered criteria, and several secondary filters which you can customize. You can think of them as a live filter or query for Objects which share certain criteria - specifically, a type or a relation.
 
+{% content-ref url="../../tutorials-and-use-cases/tutorials/deep-dive-sets.md" %}
+[deep-dive-sets.md](../../tutorials-and-use-cases/tutorials/deep-dive-sets.md)
+{% endcontent-ref %}
+
 #### Sets serve two primary functions:
 
 1. **Organizing and Accessing Objects**\
@@ -30,5 +34,3 @@ Sets are a way to see a portion of your graph, and objects you've created, based
    Sets also provide a way to batch-edit Objects. \
    \
    You can use multi-select in Sets to delete multiple Objects at once or to batch update the Object Type. You can also batch-add or edit Relations for Objects from Set view, instead of entering them one-by-one.&#x20;
-
-{% embed url="https://vimeo.com/717016770" %}

@@ -13,7 +13,9 @@ Templates are one of our most-beloved ways to work at Anytype, designed to help 
 
 Templates are saved on the Type level, and each Type can support multiple Templates. For example, you can have different Templates for different kinds of Books, like academic, fiction, or non-fiction.&#x20;
 
-{% embed url="https://vimeo.com/717028105" %}
+{% content-ref url="../../tutorials-and-use-cases/tutorials/deep-dive-templates.md" %}
+[deep-dive-templates.md](../../tutorials-and-use-cases/tutorials/deep-dive-templates.md)
+{% endcontent-ref %}
 
 ### How to Create a Template
 
@@ -25,6 +27,6 @@ There are two ways to add a Template:&#x20;
 
 ### Using & Managing Templates
 
-Once you've created your Template, each time you add a new Object you will be prompted to select the Template you'd like to use. If you would like to bypass this, you can alsways use the default Blank template.
+Once you've created your Template, each time you add a new Object you will be prompted to select the Template you'd like to use. If you would like to bypass this, you can always use the default Blank template.
 
 You can view, edit, duplicate, or delete the Templates you've added for each Object Type in the Types Library.
