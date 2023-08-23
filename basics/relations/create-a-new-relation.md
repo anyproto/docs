@@ -1,10 +1,8 @@
-# Create a New Relation
-
-
+# Add a New Relation
 
 #### Adding & Managing Relations <a href="#adding-and-managing-relations" id="adding-and-managing-relations"></a>
 
-You can add a Relation to your Objects as you would with any other block in the editor: by using the `+` button or the in-line `/` menu.You can also manage the Relations for a given Object via its **Relations Panel:** the triangular icon that appears when hovering above the Object name. This Panel shows all relations for that Object.
+You can add a Relation to your Objects as you would with any other block in the editor: by using the `+` button or the in-line `/` menu. You can also manage the Relations for a given Object via its **Relations Panel:** the triangular icon that appears when hovering above the Object name. This Panel shows all relations for that Object.
 
 **Featuring Relations**
 

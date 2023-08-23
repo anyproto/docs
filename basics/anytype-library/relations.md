@@ -15,3 +15,5 @@ Moving over to **My relations** is where you can see the objects in which you ha
 ![](<../../.gitbook/assets/image (13).png>)
 
 When you click on a specific **Relation** you are prompted with a set view of the details of the other objects which are linked.
+
+You can also [create-a-new-relation-1.md](../relations/create-a-new-relation-1.md "mention") from the middle bar in your Anytype library.
