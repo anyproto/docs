@@ -4,7 +4,7 @@ description: >-
   chapter.
 ---
 
-# Setting Up Your Space
+# 👾 Setting Up Your Space
 
 ### Space customization
 
@@ -36,4 +36,4 @@ However, you can change your homepage by using the dropdown menu in your space s
 
 
 
-For more on building pages, see [object-editor](../object-editor/ "mention")
+For more on building pages, see [object-editor](../../basics/object-editor/ "mention")

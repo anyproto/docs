@@ -1,33 +1,35 @@
 # Table of contents
 
+## Intro
+
 * [👋 Welcome!](README.md)
-* [🌐 Connect with Us!](connect-with-us.md)
+* [🌐 Connect with Us!](intro/connect-with-us.md)
+* [👾 Setting Up Your Space](intro/setting-up-your-profile/README.md)
+  * [Account Settings](intro/setting-up-your-profile/account-and-data.md)
+  * [Recovery Phrase](intro/setting-up-your-profile/recovery-phrase.md)
+  * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
 
-## Anytype Basics
+## Basics
 
-* [Setting Up Your Space](anytype-basics/setting-up-your-profile/README.md)
-  * [Account Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
-  * [Recovery Phrase](anytype-basics/setting-up-your-profile/recovery-phrase.md)
-  * [Sidebar & Widgets](anytype-basics/setting-up-your-profile/sidebar/customize-and-edit-the-sidebar.md)
-* [Objects](anytype-basics/object-editor/README.md)
-  * [Opening the Editor](anytype-basics/essentials/the-editor/README.md)
-  * [Working with Blocks](anytype-basics/object-editor/blocks.md)
-  * [More Ways to Create Objects](anytype-basics/object-editor/create-an-object.md)
-  * [Locating your Objects](anytype-basics/object-editor/finding-your-objects.md)
-* [Linking Objects](anytype-basics/object-editor/linking-objects.md)
-* [Types](anytype-basics/types/README.md)
-  * [Create a New Type](anytype-basics/types/create-a-new-type.md)
-  * [Templates](anytype-basics/types/templates.md)
-* [Relations](anytype-basics/relations/README.md)
-  * [Create a New Relation](anytype-basics/relations/create-a-new-relation.md)
-* [Anytype Library](anytype-basics/anytype-library/README.md)
-  * [Types](anytype-basics/anytype-library/types.md)
-  * [Relations](anytype-basics/anytype-library/relations.md)
-* [Graph](anytype-basics/graph.md)
-* [Sets](anytype-basics/sets/README.md)
-  * [Creating Sets](anytype-basics/sets/creating-sets.md)
-  * [Customizing with Relations, Sort, & Filters](anytype-basics/sets/customizing-with-relations-sort-and-filters.md)
-* [Collections](anytype-basics/collections.md)
+* [Objects](basics/object-editor/README.md)
+  * [Opening the Editor](basics/object-editor/the-editor.md)
+  * [Working with Blocks](basics/object-editor/blocks.md)
+  * [More Ways to Create Objects](basics/object-editor/create-an-object.md)
+  * [Locating your Objects](basics/object-editor/finding-your-objects.md)
+* [Linking Objects](basics/linking-objects.md)
+* [Types](basics/types/README.md)
+  * [Create a New Type](basics/types/create-a-new-type.md)
+  * [Templates](basics/types/templates.md)
+* [Relations](basics/relations/README.md)
+  * [Create a New Relation](basics/relations/create-a-new-relation.md)
+* [Anytype Library](basics/anytype-library/README.md)
+  * [Types](basics/anytype-library/types.md)
+  * [Relations](basics/anytype-library/relations.md)
+* [Graph](basics/graph.md)
+* [Sets](basics/sets/README.md)
+  * [Creating Sets](basics/sets/creating-sets.md)
+  * [Customizing with Relations, Sort, & Filters](basics/sets/customizing-with-relations-sort-and-filters.md)
+* [Collections](basics/collections.md)
 
 ## Miscellaneous&#x20;
 
