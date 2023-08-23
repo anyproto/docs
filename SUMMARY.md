@@ -8,6 +8,7 @@
   * [Account Settings](intro/setting-up-your-profile/account-and-data.md)
   * [Recovery Phrase](intro/setting-up-your-profile/recovery-phrase.md)
   * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
+* [📱 Mobile](intro/installation.md)
 
 ## Basics
 
@@ -51,13 +52,6 @@
 * [✨ Simple Dashboard](use-cases-and-tutorials/simple-dashboard.md)
 * [💫 Deep dive: Templates](use-cases-and-tutorials/deep-dive-templates.md)
 * [🌟 Deep dive: Sets](use-cases-and-tutorials/deep-dive-sets.md)
-
-## 📱 Mobile
-
-* [Installing iOS & Android Apps](mobile/installation.md)
-* [Widgets](mobile/widgets.md)
-* [Navigation](mobile/navigation.md)
-* [Customize & Personalize](mobile/customize-and-personalize.md)
 
 ## 🔐 Data & Security
 
