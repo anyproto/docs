@@ -1,5 +1,9 @@
 # Analytics & Tracking
 
+{% hint style="info" %}
+The timeline for the option to disable Analytics & Tracking has moved from the open beta launch to **2023Q4**. You can follow the issue [here](https://github.com/anyproto/roadmap/issues/8) or on our GitHub [roadmap](https://github.com/orgs/anyproto/projects/1).
+{% endhint %}
+
 While the product is in alpha, we use analytics services to help us understand performance of the app as a whole, adoption of certain features, and how the latter impacts retention.
 
 **Amplitude** is the main service we use for tracking _events_ inside the app. It allows us to track metrics such as:
