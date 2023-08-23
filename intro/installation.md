@@ -4,21 +4,13 @@
 
 Please use [download.anytype.io](https://download.anytype.io) to download the most recent version of the app.
 
-{% hint style="warning" %}
-The iOS app is temporarily available [via App Store](https://apps.apple.com/pt/app/anytype-private-notes/id6449487029?l=en) only for EU accounts. If you are in a different region, please use the [TestFlight link](https://testflight.apple.com/join/BPMIR4Fk) to get the app.
-{% endhint %}
-
-{% hint style="info" %}
-To download Anytype for iPad, simply click the iOS link and follow the instructions for installing TestFlight to use the iPad Anytype Alpha version.
-{% endhint %}
-
 #### Log in using the QR code
 
 To log in using the QR code, simply navigate to your recovery phrase.&#x20;
 
 Settings > Recovery Phrase.
 
-Underneath your recovery phrase you'll find your blurred out QR code, when you click the image it will display.&#x20;
+Underneath your recovery phrase, you'll find your blurred out QR code, when you click the image it will display.&#x20;
 
 Now you can scan this code with your mobile device and install the app.
 
@@ -40,7 +32,7 @@ When you open up Anytype on your mobile device you will see your current **Widge
 
 Your **widgets** are customizable in the same way they are in the sidebar of your desktop application.
 
-To edit and move around your widgets: scroll to the bottom of the list, underneath the Bin you'll find "Edit Widgets"
+To edit and move around your widgets: scroll to the bottom of the list, and underneath the Bin you'll find "Edit Widgets"
 
 When you click the button, you'll see a small grey minus sign on the corner of each block. Now you can delete, add, or rearrange your widgets.&#x20;
 
@@ -56,11 +48,11 @@ Add sets to your widgets, like task managers for a quick view of what's next to 
 
 ### Navigation
 
-On your mobile device the navigation using a minimalistic design.
+On your mobile device, the navigation uses a minimalistic design.
 
 The 3 options you have are; Search, New object, and Profile.&#x20;
 
-**Search** - Browse your recent objects, search for a specific object.&#x20;
+**Search** - Browse your recent objects, and search for a specific object.&#x20;
 
 **New Object** - Create a new object, page, note, etc.&#x20;
 
