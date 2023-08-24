@@ -16,4 +16,4 @@ If you click on the type name, you will see the templates which have been create
 
 Default types cannot be removed.&#x20;
 
-You can also [create-a-new-type.md](../../anytype-basics/types/create-a-new-type.md "mention") from the middle bar in your Anytype library.
+You can also [create-a-new-type.md](../types/create-a-new-type.md "mention") from the middle bar in your Anytype library.
