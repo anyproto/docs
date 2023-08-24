@@ -35,3 +35,25 @@ It is possible to view widgets sourced from a single object created in the edito
 When creating widgets from sets and collections on the other hands, you'll see the view options of 'List' or 'Compact list'. Both render a preview of objects contained within the given set/collection, with differences in line spacing and description previews.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-18 at 09.08.53 (1).png" alt=""><figcaption><p>Above, the 'Disco Room' widget displayed as a compact list (top) and list (bottom).</p></figcaption></figure>
+
+### Mobile Widgets
+
+#### Organizing your widgets
+
+When you open up Anytype on your mobile device you will see your current **Widgets** along with 3 navigation options at the bottom.
+
+Your **widgets** are customizable in the same way they are in the sidebar of your desktop application.
+
+To edit and move around your widgets: scroll to the bottom of the list, underneath the Bin you'll find "Edit Widgets".
+
+When you click the button, you'll see a small grey minus sign on the corner of each block. Now you can delete, add, or rearrange your widgets.&#x20;
+
+#### Using Widgets
+
+The best way to customize and optimize your mobile usage of Anytype, widgets are your best friend.&#x20;
+
+Setting up your widgets for mobile allows you to create quick access and manage your preferred objects to visit.&#x20;
+
+Add specific objects to the top for quick access.
+
+Add sets to your widgets, like task managers for a quick view of what's next to do.

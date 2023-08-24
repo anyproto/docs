@@ -2,16 +2,18 @@
 
 ## Intro
 
-* [👋 Welcome!](README.md)
-* [🌐 Connect with Us!](intro/connect-with-us.md)
-* [👾 Setting Up Your Space](intro/setting-up-your-profile/README.md)
+* [👋 Welcome](README.md)
+* [🌐 Connect with Us](intro/connect-with-us.md)
+* [👾 Setting Up Your Account](intro/setting-up-your-profile/README.md)
   * [Account Settings](intro/setting-up-your-profile/account-and-data.md)
   * [Recovery Phrase](intro/setting-up-your-profile/recovery-phrase.md)
+  * [Space Settings](intro/setting-up-your-profile/space-settings.md)
   * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
-* [📱 Mobile](intro/installation.md)
+  * [Navigation](intro/setting-up-your-profile/installation.md)
 
 ## Basics
 
+* [Space](basics/space.md)
 * [Objects](basics/object-editor/README.md)
   * [Opening the Editor](basics/object-editor/the-editor.md)
   * [Working with Blocks](basics/object-editor/blocks.md)
@@ -33,7 +35,7 @@
   * [Customizing with Relations, Sort, & Filters](basics/sets/customizing-with-relations-sort-and-filters.md)
 * [Collections](basics/collections.md)
 
-## Miscellaneous&#x20;
+## Miscellaneous
 
 * [Glossary](miscellaneous/glossary.md)
 * [Feature List by Platform](miscellaneous/feature-list-by-platform.md)

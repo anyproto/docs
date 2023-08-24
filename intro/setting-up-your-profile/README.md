@@ -4,34 +4,36 @@ description: >-
   chapter.
 ---
 
-# 👾 Setting Up Your Space
+# 👾 Setting Up Your Account
 
-### Space customization
+### Download the app
 
-Personalize your space here. At the top left of the application you'll find your space name and settings.&#x20;
+Please use [download.anytype.io](https://download.anytype.io) to download the most recent version of the app.
 
-Clicking on your space name will open up your space settings.
+{% hint style="warning" %}
+The iOS app is temporarily available [via App Store](https://apps.apple.com/pt/app/anytype-private-notes/id6449487029?l=en) only for EU accounts. If you are in a different region, please use the [TestFlight link](https://testflight.apple.com/join/BPMIR4Fk) to get the app.
+{% endhint %}
 
-These are the customization options for your space:
+{% hint style="info" %}
+To download Anytype for iPad, simply click the iOS link and follow the instructions for installing TestFlight to use the iPad Anytype Alpha version.
+{% endhint %}
 
-1. Customize your **Space icon**
-2. Add your **space name**
-3. Choose your **homepage**
+### Create an account
 
-### Choose your space icon
+If you don't have one already, you can create an account by clicking on **Join** instead of **Login**, and then follow the instructions provided.
 
-Your space icon is automatically generated during the onboarding process. To change it, simply click on the icon and choose from the emoji menu or upload your own image.
+#### Log in using your recovery phrase
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.13.04.png" alt=""><figcaption></figcaption></figure>
+If you already have an account, click on **Login** and enter your recovery phrase to login.
 
-### Choose your Homepage
+#### Log in using the QR code
 
-Your homepage is what you will see each time you open Anytype. By default, your homepage has been set to a pre-installed 'Dashboard' object whih serves to get your oriented within your space.&#x20;
+In addition to using the recovery phrase to log in, you can also use the QR code to login faster if your desktop is close by.
 
-However, you can change your homepage by using the dropdown menu in your space settings and choosing between your graph, your last opened object, or a specific object you've created.
+To log in using the QR code, simply navigate to your recovery phrase.&#x20;
 
-{% content-ref url="../../tutorials-and-use-cases/tutorials/simple-dashboard.md" %}
-[simple-dashboard.md](../../tutorials-and-use-cases/tutorials/simple-dashboard.md)
-{% endcontent-ref %}
+Settings > Recovery Phrase.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.27.47.png" alt=""><figcaption></figcaption></figure>
+Underneath your recovery phrase you'll find your blurred out QR code, when you click the image it will display.&#x20;
+
+Now you can scan this code with your mobile device and install the app.
