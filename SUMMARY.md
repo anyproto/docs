@@ -12,6 +12,7 @@
 
 ## Basics
 
+* [Overview](basics/glossary.md)
 * [Space](basics/space.md)
 * [Objects](basics/object-editor/README.md)
   * [Opening the Editor](basics/object-editor/the-editor.md)
@@ -37,12 +38,12 @@
 ## Advanced
 
 * [Glossary](advanced/glossary.md)
-* [Feature List by Platform](advanced/feature-list-by-platform.md)
-* [Keyboard Shortcuts](advanced/keyboard-shortcuts/README.md)
-  * [Main Commands](advanced/keyboard-shortcuts/main-commands.md)
-  * [Navigation](advanced/keyboard-shortcuts/navigation.md)
-  * [Markdown](advanced/keyboard-shortcuts/markdown.md)
-  * [Commands](advanced/keyboard-shortcuts/commands.md)
+* [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
+* [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
+  * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
+  * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
+  * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
+  * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
 
 ## 📽 Tutorials & Use Cases
 
