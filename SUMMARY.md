@@ -12,7 +12,7 @@
 
 ## Basics
 
-* [Overview](basics/glossary.md)
+* [Overview](miscellaneous/glossary.md)
 * [Space](basics/space.md)
 * [Objects](basics/object-editor/README.md)
   * [Opening the Editor](basics/object-editor/the-editor.md)
