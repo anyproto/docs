@@ -2,7 +2,7 @@
 description: Customize your profile, set up additional security, or delete your account
 ---
 
-# Account preferences
+# Account Settings
 
 ### Profile
 
@@ -46,4 +46,4 @@ We do not store this data so we cannot help you in recovering. Make sure to writ
 
 ### Recovery Phrase
 
-You can access your recovery phrase or scan the QR code to connect your mobile device. For more details, please check [recovery-phrase.md](recovery-phrase.md "mention").
+You can access your recovery phrase or scan the QR code to connect your mobile device. For more details, please check [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention").

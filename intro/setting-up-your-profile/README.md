@@ -20,11 +20,15 @@ To download Anytype for iPad, simply click the iOS link and follow the instructi
 
 ### Create an account
 
-If you don't have one already, you can create an account by clicking on **Join** instead of **Login**, and then follow the instructions provided.
+If you haven't created an account yet, you can easily create one by clicking **Join** and then following the provided instructions.
 
 #### Log in using your recovery phrase
 
-If you already have an account, click on **Login** and enter your recovery phrase to login.
+On the contrary, if you already do have an account, click on **Login** and enter your recovery phrase to proceed.
+
+{% hint style="danger" %}
+Store your [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention") somewhere safe and share it with no one!
+{% endhint %}
 
 #### Log in using the QR code
 

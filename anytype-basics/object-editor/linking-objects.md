@@ -8,9 +8,9 @@ description: How to link your objects using relations.
 
 In your documents you may have multiple references or connections which could be attached to other work in your library. The Graph is the visualizer for this. Objects connected to other objects, connected to humans, or tasks.&#x20;
 
-Learn more about [relations](relations/ "mention") & The [graph.md](graph.md "mention") here.&#x20;
+Learn more about [relations](../relations/ "mention") & The [graph.md](../../basics/graph.md "mention") here.&#x20;
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 ### Use the Flow
 

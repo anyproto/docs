@@ -4,7 +4,7 @@ description: How to create new types from the library and your editor
 
 # Create a New Type
 
-The [anytype-library](../anytype-library/ "mention") is the central place to manage, search for, and create new types.
+The [anytype-library](../../basics/anytype-library/ "mention") is the central place to manage, search for, and create new types.
 
 ### Creating Types from the Library
 

@@ -2,7 +2,7 @@
 description: Let's discover what Objects are, and how to use them to optimize your work.
 ---
 
-# Object Editor
+# Objects
 
 ### What is an Object?
 
