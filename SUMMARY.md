@@ -34,15 +34,15 @@
   * [Customizing with Relations, Sort, & Filters](basics/sets/customizing-with-relations-sort-and-filters.md)
 * [Collections](basics/collections.md)
 
-## Miscellaneous
+## Advanced
 
-* [Glossary](miscellaneous/glossary.md)
-* [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
-* [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
-  * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
-  * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
-  * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
-  * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
+* [Glossary](advanced/glossary.md)
+* [Feature List by Platform](advanced/feature-list-by-platform.md)
+* [Keyboard Shortcuts](advanced/keyboard-shortcuts/README.md)
+  * [Main Commands](advanced/keyboard-shortcuts/main-commands.md)
+  * [Navigation](advanced/keyboard-shortcuts/navigation.md)
+  * [Markdown](advanced/keyboard-shortcuts/markdown.md)
+  * [Commands](advanced/keyboard-shortcuts/commands.md)
 
 ## 📽 Tutorials & Use Cases
 
@@ -65,6 +65,10 @@
   * [Backup & Self-Hosting](data-and-security/data-storage-and-deletion/self-hosting.md)
 * [Delete or Reset Your Account](data-and-security/delete-or-reset-your-account.md)
 * [Analytics & Tracking](data-and-security/analytics-and-tracking.md)
+
+## 💰 Monetization
+
+* [Monetization](monetization/monetization.md)
 
 ## 🚵 MIgration
 
