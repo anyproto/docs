@@ -41,3 +41,7 @@ Settings > Recovery Phrase.
 Underneath your recovery phrase you'll find your blurred out QR code, when you click the image it will display.&#x20;
 
 Now you can scan this code with your mobile device and install the app.
+
+### Migrate existing data
+
+If you would like to import your existing data, you can check out [#import-and-export](space-settings.md#import-and-export "mention").

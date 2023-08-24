@@ -34,6 +34,24 @@ However, you can change your homepage by using the dropdown menu in your space s
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.27.47.png" alt=""><figcaption></figcaption></figure>
 
+### Import & Export
+
+You can import to or export from your space by going into Anytype > Space Settings > Integrations > Import to space / Export space.
+
+When it comes to apps, we currently only offer imports from **Notion**, and when it comes to file formats, we currently offer these:
+
+* Markdown
+* HTML
+* TXT
+* Protobuf
+* CSV
+
+{% hint style="info" %}
+Because not all Notion features are present in Anytype yet, some Notion data might not end up being imported properly.
+{% endhint %}
+
+When it comes to export formats, we currently offer **Markdown** and **Protobuf**.
+
 ### Mobile space settings
 
 Click on the button on the far right of your bottom-screen navigation.&#x20;
