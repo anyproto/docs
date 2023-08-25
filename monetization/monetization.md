@@ -9,3 +9,11 @@ When we do begin to charge, our principles are as follows:
 Users should be charged only for the resources they consume. That means that in the short term, we will charge for paid backups of spaces above a certain storage limit. This limit has not been determined, as we still need to understand the true load and cost of hosting spaces on our infrastructure.
 
 In the medium term, our goal is to evolve from an app into a digital cooperative in which you can pay to become a member. Membership comes with benefits such as the ability to publish objects and spaces under a name of your choosing, discoverability in the Any ecosystem, and the right to participate in the earnings of the cooperative based on your contributions.
+
+## Read more
+
+If you want to learn more about our monetization philosophy, you can check these two articles on the Anyblog:
+
+{% embed url="https://blog.anytype.io/our-open-philosophy/" %}
+
+{% embed url="https://blog.anytype.io/why-we-dont-pay-for-user-acquisition/" %}
