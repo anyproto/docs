@@ -19,7 +19,7 @@ Here you can add your **name, bio,** and **profile picture.** Your profile repre
 **Interface language:** You can choose amongst the community-translated versions to localize your interface.
 
 {% hint style="info" %}
-RTLs are not yet fully supported.&#x20;
+RTL is not yet fully supported.&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.24.05.png" alt=""><figcaption></figcaption></figure>
