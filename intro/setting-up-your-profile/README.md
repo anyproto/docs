@@ -10,14 +10,6 @@ description: >-
 
 Please use [download.anytype.io](https://download.anytype.io) to download the most recent version of the app.
 
-{% hint style="warning" %}
-The iOS app is temporarily available [via App Store](https://apps.apple.com/pt/app/anytype-private-notes/id6449487029?l=en) only for EU accounts. If you are in a different region, please use the [TestFlight link](https://testflight.apple.com/join/BPMIR4Fk) to get the app.
-{% endhint %}
-
-{% hint style="info" %}
-To download Anytype for iPad, simply click the iOS link and follow the instructions for installing TestFlight to use the iPad Anytype Alpha version.
-{% endhint %}
-
 ### Create an account
 
 If you haven't created an account yet, you can easily create one by clicking **Join** and then following the provided instructions.
