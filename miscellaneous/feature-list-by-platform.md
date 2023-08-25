@@ -12,6 +12,7 @@ Here is a running list of features and their implementation status, by platform.
 
 | Feature/Action                          | Desktop 0.34.\* | iOS 0.24.\* | Android 0.24.\* |
 | --------------------------------------- | --------------- | ----------- | --------------- |
+|                                         |                 |             |                 |
 | **Appearance & Account Settings**       |                 |             |                 |
 | Spellcheck                              | Yes             | No          | No              |
 | Light mode/dark mode                    | Yes             | Yes         | Yes             |
@@ -19,6 +20,7 @@ Here is a running list of features and their implementation status, by platform.
 | Default Object Type                     | Yes             | Yes         | Yes             |
 | Pin Code                                | Yes             | No          | No              |
 | Account Delete                          | Yes             | Yes         | Yes             |
+|                                         |                 |             |                 |
 | **Navigation**                          |                 |             |                 |
 | Keyboard Shortcuts                      | Yes             | No          | No              |
 | Navigation (backlink) menu              | Yes             | No          | No              |
@@ -27,6 +29,7 @@ Here is a running list of features and their implementation status, by platform.
 | Global search                           | Yes             | Yes         | Yes             |
 | Document search (Ctrl + F)              | Yes             | No          | No              |
 | Sidebar                                 | Yes             | No          | No              |
+|                                         |                 |             |                 |
 | **Editor & Block Actions**              |                 |             |                 |
 | Markdown                                | Yes             | No          | No              |
 | Export to PDF, Markdown, HTML, Protobuf | Yes             | No          | No              |
@@ -42,6 +45,7 @@ Here is a running list of features and their implementation status, by platform.
 | Create Custom Relation                  | Yes             | Yes         | Yes             |
 | Change Object Type                      | Yes             | Yes         | Yes             |
 | Text block - Turn into Object           | Yes             | No          | No              |
+|                                         |                 |             |                 |
 | **Block Types**                         |                 |             |                 |
 | Text                                    | Yes             | Yes         | Yes             |
 | Title                                   | Yes             | Yes         | Yes             |
@@ -67,6 +71,7 @@ Here is a running list of features and their implementation status, by platform.
 | Inline Set                              | Yes             | Supported   | Supported       |
 | Link-to-Objects                         | Yes             | Yes         | Yes             |
 | Relation                                | Yes             | Yes         | Yes             |
+|                                         |                 |             |                 |
 | **Set views & Actions**                 |                 |             |                 |
 | Grid view                               | Yes             | Yes         | Yes             |
 | List View                               | Yes             | Yes         | Yes             |
@@ -77,6 +82,7 @@ Here is a running list of features and their implementation status, by platform.
 | Sort & Filter                           | Yes             | Yes         | Yes             |
 | Batch select                            | Yes             | No          | No              |
 | Set by relation                         | Yes             | Yes         | Yes             |
+|                                         |                 |             |                 |
 | **Types, Tags, Templates, Relations**   |                 |             |                 |
 | Library                                 | Yes             | No          | Yes             |
 | Edit & Delete Type (name, templates)    | Yes             | No          | Type only       |
@@ -85,6 +91,7 @@ Here is a running list of features and their implementation status, by platform.
 | Edit Template                           | Yes             | Yes         | Yes             |
 | Apply default template                  | Yes             | Yes         | Yes             |
 | Create tag                              | Yes             | Yes         | Yes             |
+|                                         |                 |             |                 |
 | **Integrations & Imports**              |                 |             |                 |
 | Notion                                  | Yes             | No          | No              |
 | Markdown                                | Yes             | No          | No              |
