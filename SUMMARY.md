@@ -71,10 +71,6 @@
 
 * [Monetization](monetization/monetization.md)
 
-## 🚵 MIgration
-
-* [Migration from the Legacy App](migration/migration-from-the-legacy-app.md)
-
 ## 🌍 OUR COMMUNITY <a href="#community" id="community"></a>
 
 * [Community Forum](community/community-forum/README.md)
@@ -83,3 +79,7 @@
   * [Get Help from the Community](community/community-forum/get-help-from-the-community.md)
   * [Share Your Feedback](community/community-forum/share-your-feedback.md)
 * [Join the Open Any Initiative](community/join-the-open-source-project.md)
+
+## 🚵 MIgration
+
+* [Migration from the Legacy App](migration/migration-from-the-legacy-app.md)
