@@ -4,14 +4,25 @@ description: How to link your objects either trough relations or directly.
 
 # Links
 
-## Linking New Objects
+## Creating new links
+
+### Link to another object in Anytype
 
 You have 3 ways to link an object to another existing object:
 
-1. Trough the canvas directly by either using:
-   1. **Block Links.** The slash character to invoke a command bar, and then looking for the link to object option in the menu.
+1. Through the canvas directly by either using:
+   1. **Block Links.** Add the slash character ("/") to invoke a command bar, and then look for the link to object option in the menu.
    2. **Inline Links**. The @ character to invoke the object picker menu.
-2. Trough relations by using an object relation type and then going trough the same object picker menu.
+2. Through relations by using an object relation type and then going through the same object picker menu.
+
+### Link to external object on your device
+
+If you want to add a link to an external object on your desktop, please use the links **starting with file:///** plus the local file destination. For example:
+
+* file:///Users/Alex/Downloads/Protocol-Berg.pdf — to open PDFs;
+* file:///Users/Alex/Downloads/my\_budget.xlsx — to open spreadsheets (Excel, Numbers).
+
+To add such a link, pick up "Link to website" just like when you add a new link to a website.
 
 ### Date mentions
 
