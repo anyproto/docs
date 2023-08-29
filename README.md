@@ -6,13 +6,9 @@ description: >-
 
 # 👋 Welcome
 
-{% hint style="info" %}
-Check out the new Lens feature for easier and quicker searchers!&#x20;
-
-Access it by opening the search bar, and then either choosing one of the default questions, or by asking one of your own by clicking on the Lens button in the top right corner.
-{% endhint %}
-
 ## Intro
+
+{% embed url="https://vimeo.com/848056412" %}
 
 Anytype is a local-first, E2E encrypted software designed as a secure place to create and store digital assets.
 
