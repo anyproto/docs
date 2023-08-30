@@ -48,6 +48,7 @@
 ## 📽 Tutorials & Use Cases
 
 * [Tutorials](tutorials-and-use-cases/tutorials/README.md)
+  * [🎇 Onboarding](tutorials-and-use-cases/tutorials/onboarding.md)
   * [✨ Simple Dashboard](tutorials-and-use-cases/tutorials/simple-dashboard.md)
   * [💫 Deep dive: Templates](tutorials-and-use-cases/tutorials/deep-dive-templates.md)
   * [🌟 Deep dive: Sets](tutorials-and-use-cases/tutorials/deep-dive-sets.md)
