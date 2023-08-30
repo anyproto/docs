@@ -70,8 +70,7 @@
 
 ## 💰 Monetization
 
-* [Monetization](monetization/monetization/README.md)
-  * [Pricing](monetization/monetization/pricing.md)
+* [Monetization](monetization/monetization.md)
 
 ## 🌍 OUR COMMUNITY <a href="#community" id="community"></a>
 
