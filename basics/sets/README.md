@@ -10,8 +10,8 @@ Lots of people compare Sets with databases, but there's a key difference: Sets d
 
 Sets are a way to see a portion of your graph, and objects you've created, based on your filtered criteria, and several secondary filters which you can customize. You can think of them as a live filter or query for Objects which share certain criteria - specifically, a type or a relation.
 
-{% content-ref url="../../tutorials-and-use-cases/tutorials/deep-dive-sets.md" %}
-[deep-dive-sets.md](../../tutorials-and-use-cases/tutorials/deep-dive-sets.md)
+{% content-ref url="../../guides/tutorials/deep-dive-sets.md" %}
+[deep-dive-sets.md](../../guides/tutorials/deep-dive-sets.md)
 {% endcontent-ref %}
 
 #### Sets serve two primary functions:

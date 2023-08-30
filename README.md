@@ -24,11 +24,11 @@ There's no browser version of the app. Anytype is a stand-alone software, that w
 
 For a more detailed walk-trough, you can check our onboarding video below:
 
-{% content-ref url="tutorials-and-use-cases/tutorials/onboarding.md" %}
-[onboarding.md](tutorials-and-use-cases/tutorials/onboarding.md)
+{% content-ref url="guides/tutorials/onboarding.md" %}
+[onboarding.md](guides/tutorials/onboarding.md)
 {% endcontent-ref %}
 
 ### ​Featured Guides
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Deep dive: Sets</strong></td><td>Learn how to 10x your work with sets</td><td></td><td><a href="tutorials-and-use-cases/tutorials/deep-dive-sets.md">deep-dive-sets.md</a></td><td><a href=".gitbook/assets/Screenshot 2023-05-30 at 14.59.37.png">Screenshot 2023-05-30 at 14.59.37.png</a></td></tr><tr><td><strong>Daily journal</strong></td><td>Cultivate a ritual of daily journaling in your private space</td><td></td><td><a href="tutorials-and-use-cases/use-cases/anytype-editor.md">anytype-editor.md</a></td><td><a href=".gitbook/assets/Screenshot 2023-05-31 at 09.49.05.png">Screenshot 2023-05-31 at 09.49.05.png</a></td></tr><tr><td><strong>Travel wiki</strong></td><td>Put everything into one, offline-accessible place</td><td></td><td><a href="tutorials-and-use-cases/use-cases/travel-wiki.md">travel-wiki.md</a></td><td><a href=".gitbook/assets/Screenshot 2023-05-31 at 09.47.46 (1).png">Screenshot 2023-05-31 at 09.47.46 (1).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Deep dive: Sets</strong></td><td>Learn how to 10x your work with sets</td><td></td><td><a href="guides/tutorials/deep-dive-sets.md">deep-dive-sets.md</a></td><td><a href=".gitbook/assets/Screenshot 2023-05-30 at 14.59.37.png">Screenshot 2023-05-30 at 14.59.37.png</a></td></tr><tr><td><strong>Daily journal</strong></td><td>Cultivate a ritual of daily journaling in your private space</td><td></td><td><a href="guides/use-cases/anytype-editor.md">anytype-editor.md</a></td><td><a href=".gitbook/assets/Screenshot 2023-05-31 at 09.49.05.png">Screenshot 2023-05-31 at 09.49.05.png</a></td></tr><tr><td><strong>Travel wiki</strong></td><td>Put everything into one, offline-accessible place</td><td></td><td><a href="guides/use-cases/travel-wiki.md">travel-wiki.md</a></td><td><a href=".gitbook/assets/Screenshot 2023-05-31 at 09.47.46 (1).png">Screenshot 2023-05-31 at 09.47.46 (1).png</a></td></tr></tbody></table>
 

@@ -10,7 +10,7 @@
   * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
   * [Navigation](intro/setting-up-your-profile/installation.md)
 
-## Basics
+## ⬛ Basics
 
 * [Overview](miscellaneous/glossary.md)
 * [Space](basics/space.md)
@@ -35,29 +35,19 @@
   * [Customizing with Relations, Sort, & Filters](basics/sets/customizing-with-relations-sort-and-filters.md)
 * [Collections](basics/collections.md)
 
-## Advanced
+## 📽 Guides
 
-* [Glossary](advanced/glossary.md)
-* [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
-* [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
-  * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
-  * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
-  * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
-  * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
-
-## 📽 Tutorials & Use Cases
-
-* [Tutorials](tutorials-and-use-cases/tutorials/README.md)
-  * [🎇 Onboarding](tutorials-and-use-cases/tutorials/onboarding.md)
-  * [✨ Simple Dashboard](tutorials-and-use-cases/tutorials/simple-dashboard.md)
-  * [💫 Deep dive: Templates](tutorials-and-use-cases/tutorials/deep-dive-templates.md)
-  * [🌟 Deep dive: Sets](tutorials-and-use-cases/tutorials/deep-dive-sets.md)
-* [Use Cases](tutorials-and-use-cases/use-cases/README.md)
-  * [✏ Daily Notes](tutorials-and-use-cases/use-cases/anytype-editor.md)
-  * [✈ Travel Wiki](tutorials-and-use-cases/use-cases/travel-wiki.md)
-  * [🍎 Study Notes](tutorials-and-use-cases/use-cases/study-notes.md)
-  * [🎬 Movie Database](tutorials-and-use-cases/use-cases/movie-database.md)
-  * [🍛 Meal Planner / Recipe Book](tutorials-and-use-cases/use-cases/meal-planner-recipe-book.md)
+* [Tutorials](guides/tutorials/README.md)
+  * [🎇 Onboarding](guides/tutorials/onboarding.md)
+  * [✨ Simple Dashboard](guides/tutorials/simple-dashboard.md)
+  * [💫 Deep dive: Templates](guides/tutorials/deep-dive-templates.md)
+  * [🌟 Deep dive: Sets](guides/tutorials/deep-dive-sets.md)
+* [Use Cases](guides/use-cases/README.md)
+  * [✏ Daily Notes](guides/use-cases/anytype-editor.md)
+  * [✈ Travel Wiki](guides/use-cases/travel-wiki.md)
+  * [🍎 Study Notes](guides/use-cases/study-notes.md)
+  * [🎬 Movie Database](guides/use-cases/movie-database.md)
+  * [🍛 Meal Planner / Recipe Book](guides/use-cases/meal-planner-recipe-book.md)
 
 ## 🔐 Data & Security
 
@@ -71,6 +61,16 @@
 ## 💰 Monetization
 
 * [Monetization](monetization/monetization.md)
+
+## 🌈 Miscellaneous&#x20;
+
+* [Glossary](<miscellaneous/glossary (1).md>)
+* [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
+* [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
+  * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
+  * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
+  * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
+  * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
 
 ## 🌍 OUR COMMUNITY <a href="#community" id="community"></a>
 
