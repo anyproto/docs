@@ -49,6 +49,16 @@
   * [🎬 Movie Database](guides/use-cases/movie-database.md)
   * [🍛 Meal Planner / Recipe Book](guides/use-cases/meal-planner-recipe-book.md)
 
+## 🌈 Miscellaneous&#x20;
+
+* [Glossary](<miscellaneous/glossary (1).md>)
+* [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
+* [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
+  * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
+  * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
+  * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
+  * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
+
 ## 🔐 Data & Security
 
 * [Recovery Phrase](data-and-security/what-is-a-recovery-phrase.md)
@@ -61,16 +71,6 @@
 ## 💰 Monetization
 
 * [Monetization](monetization/monetization.md)
-
-## 🌈 Miscellaneous&#x20;
-
-* [Glossary](<miscellaneous/glossary (1).md>)
-* [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
-* [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
-  * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
-  * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
-  * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
-  * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
 
 ## 🌍 OUR COMMUNITY <a href="#community" id="community"></a>
 
