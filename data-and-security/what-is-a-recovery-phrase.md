@@ -38,4 +38,4 @@ However, it's crucial to understand that the responsibility of protecting your R
 
 ### Login issues on Linux
 
-Linux users may be asked for their Recovery Phrase each time they log in. To resolve this issue, please install a keychain. The most popular is [GNOME Keyring](https://wiki.gnome.org/Projects/GnomeKeyring) — check the [discussion on the Community Forum](https://community.anytype.io/t/linux-version-does-not-keep-me-logged-in/4859).
+Linux users may be asked for their Recovery Phrase each time they log in. To resolve this issue, please install a keychain. The most popular is [GNOME Keyring](https://wiki.gnome.org/Projects/GnomeKeyring) — check the [discussion on the Community Forum](https://community.anytype.io/t/linux-version-does-not-keep-me-logged-in/4859). Additionally, ensure that you have met all the [dependencies](https://github.com/anyproto/anytype-ts#dependencies) beforehand.
