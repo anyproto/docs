@@ -2,17 +2,15 @@
 
 ## Backup node
 
-Every Anytype user has access to a remote backup node provided by Anytype. Its capacity is currently limited to 1 Gb. If you go over the limit, a warning will appear, and you'll be able to ask for more storage.
+Every Anytype user has access to a remote backup node provided by Anytype. Its capacity is currently limited to 1 Gb. If you go over the limit, a warning will appear, and you'll be able to ask for more storage. Our backup nodes are located in Switzerland.
 
-Our backup nodes are located in Switzerland.
+We plan on introducing third party sync providers in the future.
 
 #### Disable the Anytype backup node
 
-This is currently not possible, but it's planned to be [implemented soon](https://github.com/anyproto/roadmap/issues/34) (**2023Q3**).
+There is currently no option in the account settings to disable the backup node, but this is something we are planning on [introducing soon](https://github.com/anyproto/roadmap/issues/34) (**2023Q3**).
 
-{% hint style="info" %}
-It's also possible to use p2p sync between your devices, you can [block Anytype network traffic](https://community.anytype.io/t/is-there-a-way-to-limit-storage-of-data-only-local/6982) (Anytype & Anytype Helper) via your firewall.
-{% endhint %}
+Alternatively, you can [block Anytype network traffic](https://community.anytype.io/t/is-there-a-way-to-limit-storage-of-data-only-local/6982) (Anytype & Anytype Helper) via your firewall.
 
 ## **How to self-host Anytype**
 
