@@ -8,7 +8,7 @@ description: >-
 
 ### Download the app
 
-Please use [download.anytype.io](https://download.anytype.io) to download the most recent version of the app.
+Find the latest version of Anytype for your OS at [download.anytype.io](https://download.anytype.io)
 
 Anytype is installed:
 
