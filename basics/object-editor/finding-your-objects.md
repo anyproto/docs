@@ -16,4 +16,10 @@ Look for an object titled Everything with this emoji: :globe\_with\_meridians:
 
 As a last resort, if you still can't find what you're looking for, try and search for it.
 
-To navigate to the search, head to your graph page, and find the magnifier in the top right corner.
+To navigate to the search, head to your navigation bar, and click on the magnifier.
+
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The search feature mentioned above doesn't currently search inside relations.
+{% endhint %}
