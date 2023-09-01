@@ -2,10 +2,10 @@
 
 ### Storage <a href="#storage" id="storage"></a>
 
-Anytype is offline first; hence, all data you create will be stored locally first. After that, the data is synced to the backup node and your devices for redundancy. We use a private [IPFS](https://docs.ipfs.tech/concepts/what-is-ipfs/) network to handle storage. It is a Peer-To-Peer file system that facilitates decentralized data storage across devices.
+Anytype is offline first; hence, all data you create will be stored locally first. After that, the data is synced to the backup node and your devices for redundancy. We use a private [IPFS](https://docs.ipfs.tech/concepts/what-is-ipfs/) network to handle storage. It is a Peer-To-Peer file system that facilitates decentralized data storage across devices. If you wish to bypass the backup node and sync directly (p2p) between your devices, you'll need to connect them to the same local network.
 
 {% hint style="info" %}
-It is also possible to use p2p to sync between your devices if they are connected to the same local network.&#x20;
+Currently, you can not change the directory of your local data storage. We have it in [plans for Q3 2023](https://github.com/orgs/anyproto/projects/1/views/1). You might consider using a [workaround from our user](https://community.anytype.io/t/custom-storage-location/994) as a temporary solution for Windows and MacOS.
 {% endhint %}
 
 #### Media <a href="#media" id="media"></a>
@@ -14,10 +14,8 @@ Media files are not directly downloaded in overall syncing to save bandwidth. In
 
 Furthermore, we use the deduplication feature to reduce storage. For example, if the same picture is uploaded three times, there is only one image copy stored to reduce storage consumption.
 
-#### Custom storage location
-
-{% hint style="warning" %}
-Currently, you can not change the directory of your local data storage. We have it in [plans for Q3 2023](https://github.com/orgs/anyproto/projects/1/views/1). You might consider using a [workaround from our user](https://community.anytype.io/t/custom-storage-location/994) as a temporary solution for Windows and MacOS.
+{% hint style="info" %}
+Because of a legacy file system, some files might disappear from your graph if they are no longer linked to any objects. But fear not; all of your files are still there. We are working on [fixing the problem](https://community.anytype.io/t/are-unlinked-images-automatically-deleted/10810/3?u=isle9) already.
 {% endhint %}
 
 ### Deletion <a href="#deletion" id="deletion"></a>
