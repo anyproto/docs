@@ -4,11 +4,11 @@ description: How do we customize and edit?
 
 # Sidebar & Widgets
 
-Your sidebar is comprised of a series of widgets which allow you to preview and navigate to objects you've previously created.
+Your sidebar is comprised of customizable widgets which allow you to preview and navigate your Objects.
 
 By default, your sidebar includes widgets which link to your [Library](../../basics/anytype-library/) and Bin.
 
-In general, _any_ object you've created using Anytype's editor can be used as a widget and formatted using link or tree view. Sets and collections - objects in and of themselves - can be used as widgets with a list of objects contained therein.
+In general, _any_ object you've created using Anytype's editor can be used as a widget and formatted using link or tree view. Sets and Collections - Objects in and of themselves - can be used as widgets with a list of objects contained therein.
 
 Additionally, Anytype provides several options for _non-object_ widgets which you can add or remove from your sidebar, including:
 
@@ -18,7 +18,7 @@ Additionally, Anytype provides several options for _non-object_ widgets which yo
 * Recently edited: Your recently edited objects (globally synced across devices)
 * Recently opened: Your recently opened objects (device-specific)
 
-### Edit your Sidebar Widgets
+### Customize your Sidebar Widgets
 
 At the bottom of your sidebar you'll find an "Edit widgets" button, which upon clicking will reveal options to add or remove widgets from your sidebar.
 
@@ -28,7 +28,7 @@ Clicking "Add" will give you the choice to choose your widget source. Again, a w
 
 Depending on the widget source, you can choose from a variety of layouts.
 
-It is possible to view widgets sourced from a single object created in the editor (Pages, Notes, etc.) as a 'link' or a 'tree'. A link widget displays only the object name, whereas a tree widget displays all of objects connected to the source object by first and second-degree connections.&#x20;
+It is possible to view widgets sourced from a single Object created in the editor (Pages, Notes, etc.) as a 'link' or a 'tree'. A link widget displays only the object name, whereas a tree widget displays all of objects connected to the source object by first and second-degree connections.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-18 at 09.01.31.png" alt=""><figcaption><p>Above, 'the 'Self' widget is displayed using tree view whereas the 'Home' widget is displayed using link view.</p></figcaption></figure>
 
@@ -54,6 +54,6 @@ The best way to customize and optimize your mobile usage of Anytype, widgets are
 
 Setting up your widgets for mobile allows you to create quick access and manage your preferred objects to visit.&#x20;
 
-Add specific objects to the top for quick access.
+Add specific Objects to the top for quick access.
 
-Add sets to your widgets, like task managers for a quick view of what's next to do.
+Add Sets to your widgets, like task managers for a quick view of what's next to do.
