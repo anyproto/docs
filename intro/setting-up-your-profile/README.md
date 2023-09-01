@@ -10,6 +10,14 @@ description: >-
 
 Please use [download.anytype.io](https://download.anytype.io) to download the most recent version of the app.
 
+Anytype is installed:
+
+* In Windows 10 or above, it is usually located:\
+  `C:\Users\<username>\Appdata\Local\Programs\anytype2\Anytype.exe`\
+  **username** stands for the name of your user aka working directory.
+* For Android, it’s your default location, usually: _device/data/app_​.\
+  We also store some caches: _device/data/data/io.anytype.app_
+
 ### Create an account
 
 If you haven't created an account yet, you can easily create one by clicking **Join** and then following the provided instructions.
