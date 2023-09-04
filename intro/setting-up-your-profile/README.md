@@ -15,8 +15,11 @@ Anytype is installed:
 * In Windows 10 or above, it is usually located:\
   `C:\Users\<username>\Appdata\Local\Programs\anytype2\Anytype.exe`\
   **username** stands for the name of your user aka working directory.
-* For Android, it’s your default location, usually: _device/data/app_​.\
+* For MacOS, it's the standard install path determined by MacOS.
+* For Linux, you'll find your work directory in `~/.config/anytype`
+* For Android, it’s your default location, usually: \_device/data/app\_​.\
   We also store some caches: _device/data/data/io.anytype.app_
+* For iOS, it's the standard install path determined by the iOS.
 
 ### Create an account
 
@@ -34,11 +37,11 @@ Store your [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-reco
 
 In addition to using the recovery phrase to log in, you can also use the QR code to login faster if your desktop is close by.
 
-To log in using the QR code, simply navigate to your recovery phrase.&#x20;
+To log in using the QR code, simply navigate to your recovery phrase.
 
 Settings > Recovery Phrase.
 
-Underneath your recovery phrase you'll find your blurred out QR code, when you click the image it will display.&#x20;
+Underneath your recovery phrase you'll find your blurred out QR code, when you click the image it will display.
 
 Now you can scan this code with your mobile device and install the app.
 
