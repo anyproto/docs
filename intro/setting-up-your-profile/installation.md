@@ -1,6 +1,12 @@
 # Navigation
 
-### Mobile Navigation
+## Old Homepage
+
+<figure><img src="../../.gitbook/assets/w=3840,quality=80 (1).webp" alt=""><figcaption></figcaption></figure>
+
+The homepage from the alpha app has been removed, and replaced with the new sidebar and widgets. If you really liked this layout, you can try recreating it using a set with a gallery view.
+
+## Mobile Navigation
 
 On your mobile device the navigation using a minimalistic design.
 
