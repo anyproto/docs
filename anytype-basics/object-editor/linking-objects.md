@@ -11,7 +11,7 @@ description: How to link your objects either trough relations or directly.
 You have 3 ways to link an object to another existing object:
 
 1. Through the canvas directly by either using:
-   1. **Block Links.** Add the slash character ("/") to invoke a command bar, and then look for the link to object option in the menu.
+   1. **Block Links.** Add the slash character ("/") to invoke a command bar, and then look for the link to object option in the menu. These can appear either as text or as cards.
    2. **Inline Links**. The @ character to invoke the object picker menu.
 2. Through relations by using an object relation type and then going through the same object picker menu.
 
