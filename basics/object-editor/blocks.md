@@ -22,6 +22,8 @@ You can select one block or several at once, and batch edit to create different 
 
 You can use the orange 'handle' to the left of each block to create parent/child blocks or new columns in your editor.
 
+{% embed url="https://www.loom.com/share/00021ba3598447309722ec3a408d33ac?sid=eb244417-2273-4ab2-8da3-bd47e62e82cf" %}
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 19.02.30.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.57.02.png" alt=""><figcaption></figcaption></figure>
