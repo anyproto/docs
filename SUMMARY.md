@@ -50,8 +50,9 @@
   * [🎬 Movie Database](guides/use-cases/movie-database.md)
   * [🍛 Meal Planner / Recipe Book](guides/use-cases/meal-planner-recipe-book.md)
 
-## 🌈 Miscellaneous&#x20;
+## 🌈 Miscellaneous
 
+* [Missing Features](miscellaneous/missing-features.md)
 * [Glossary](<miscellaneous/glossary (1).md>)
 * [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
 * [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
