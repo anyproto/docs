@@ -18,6 +18,10 @@ Additionally, Anytype provides several options for _non-object_ widgets which yo
 * Recently edited: Your recently edited objects (globally synced across devices)
 * Recently opened: Your recently opened objects (device-specific)
 
+{% hint style="info" %}
+Objects in these widgets can't be sorted manually. You'll need to create your own widget to be able to do that.
+{% endhint %}
+
 ### Customize your Sidebar Widgets
 
 At the bottom of your sidebar you'll find an "Edit widgets" button, which upon clicking will reveal options to add or remove widgets from your sidebar.
@@ -28,7 +32,7 @@ Clicking "Add" will give you the choice to choose your widget source. Again, a w
 
 Depending on the widget source, you can choose from a variety of layouts.
 
-It is possible to view widgets sourced from a single Object created in the editor (Pages, Notes, etc.) as a 'link' or a 'tree'. A link widget displays only the object name, whereas a tree widget displays all of objects connected to the source object by first and second-degree connections.&#x20;
+It is possible to view widgets sourced from a single Object created in the editor (Pages, Notes, etc.) as a 'link' or a 'tree'. A link widget displays only the object name, whereas a tree widget displays all of objects connected to the source object by first and second-degree connections.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-18 at 09.01.31.png" alt=""><figcaption><p>Above, 'the 'Self' widget is displayed using tree view whereas the 'Home' widget is displayed using link view.</p></figcaption></figure>
 
@@ -46,13 +50,13 @@ Your **widgets** are customizable in the same way they are in the sidebar of you
 
 To edit and move around your widgets: scroll to the bottom of the list, underneath the Bin you'll find "Edit Widgets".
 
-When you click the button, you'll see a small grey minus sign on the corner of each block. Now you can delete, add, or rearrange your widgets.&#x20;
+When you click the button, you'll see a small grey minus sign on the corner of each block. Now you can delete, add, or rearrange your widgets.
 
 #### Using Widgets
 
-The best way to customize and optimize your mobile usage of Anytype, widgets are your best friend.&#x20;
+The best way to customize and optimize your mobile usage of Anytype, widgets are your best friend.
 
-Setting up your widgets for mobile allows you to create quick access and manage your preferred objects to visit.&#x20;
+Setting up your widgets for mobile allows you to create quick access and manage your preferred objects to visit.
 
 Add specific Objects to the top for quick access.
 
