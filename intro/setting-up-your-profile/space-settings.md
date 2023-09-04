@@ -50,6 +50,8 @@ When it comes to apps, we currently only offer imports from **Notion**, and when
 Because not all Notion features are present in Anytype yet, some Notion data might not end up being imported properly.
 {% endhint %}
 
+After your import is done, a new collection should appear in your favorites widget in your sidebar. All of your imported objects should be there.
+
 When it comes to export formats, we currently offer **Markdown** and **Protobuf**.
 
 ### Mobile space settings
