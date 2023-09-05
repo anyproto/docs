@@ -18,7 +18,7 @@ Block — a container for actual content.
 
 Block Type — defines the behavior of the Block.
 
-Canvas — the place or area where Blocks live together to form the content of an Object.
+Canvas — the place or area where Blocks live together to form the content of an Object. Sometimes reffered to as Object Editor.
 
 Relation — a property of the Object.
 
