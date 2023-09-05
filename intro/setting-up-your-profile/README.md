@@ -21,6 +21,10 @@ Anytype is installed:
   We also store some caches: _device/data/data/io.anytype.app_
 * For iOS, it's the standard install path determined by the iOS.
 
+{% hint style="info" %}
+There's no browser version of the app. Anytype is a stand-alone software, that works on desktop or mobile devices. There are many points of vulnerability in-browser apps that would compromise our commitment to data security and encryption.
+{% endhint %}
+
 ### Create an account
 
 If you haven't created an account yet, you can easily create one by clicking **Join** and then following the provided instructions.

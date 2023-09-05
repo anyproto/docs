@@ -18,10 +18,6 @@ Future versions will allow you to share your work and safely collaborate with ot
 
 Explore the documentation here to learn more about using the product, troubleshooting your account, and data privacy.
 
-{% hint style="info" %}
-There's no browser version of the app. Anytype is a stand-alone software, that works on desktop or mobile devices. There are many points of vulnerability in-browser apps that would compromise our commitment to data security and encryption.
-{% endhint %}
-
 For a more detailed walk-trough, you can check our onboarding video below:
 
 {% content-ref url="guides/tutorials/onboarding.md" %}
