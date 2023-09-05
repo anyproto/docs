@@ -2,7 +2,7 @@
 description: How do you create an object?
 ---
 
-# More Ways to Create Objects
+# Ways to Create Objects
 
 ### Forward Slash Command
 
@@ -16,7 +16,7 @@ You can also link to an existing Object here.
 
 For a quick creation of a new Object, you can use this shortcut: ⌘+N
 
-This will perform the same action as clicking the "+" sign.
+This will perform the same action as clicking the "+" sign in the navigation bar.
 
 ### Turn Into Object
 
