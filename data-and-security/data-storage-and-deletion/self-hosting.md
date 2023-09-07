@@ -2,7 +2,9 @@
 
 ## Backup node
 
-Every Anytype user has access to a remote backup node provided by Anytype. Its capacity is currently limited to 1 Gb. If you go over the limit, a warning will appear, and you'll be able to ask for more storage. Our backup nodes are located in Switzerland.
+Every Anytype user has access to a remote backup node provided by Anytype. Its capacity is currently limited to 1 Gb. Objects and other content have no impact on this limit; only files are limited. If you go over the limit, a warning will appear, and you'll be able to ask for more storage.
+
+Our backup nodes are located in Switzerland.
 
 We plan on introducing third party sync providers in the future.
 
