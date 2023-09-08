@@ -2,7 +2,7 @@
 
 ## Pricing
 
-Anyone can get started with Anytype, free of charge. If you self-host your data, Anytype is and will always be free to use. For those who use our backup services, you can use Anytype up to 1GB of storage for free. If you need more, please [contact us](mailto:team@anytype.io).
+Anyone can get started with Anytype, free of charge. If you self-host your data, Anytype is and will always be free to use. For those who use our backup services, you can use Anytype up to 1GB of storage for free. If you need more, please [contact us](mailto:storage@anytype.io).
 
 We are not prepared to begin charging for usage of Anytype while the app is still in beta, and we rely on our community not to take advantage of the free storage that’s currently offered.
 
