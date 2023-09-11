@@ -51,6 +51,7 @@
 
 ## 🌈 Miscellaneous
 
+* [App Comparison](miscellaneous/app-comparison.md)
 * [Missing Features](miscellaneous/missing-features.md)
 * [Glossary](<miscellaneous/glossary (1).md>)
 * [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
