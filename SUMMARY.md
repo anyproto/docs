@@ -75,7 +75,7 @@
 
 * [Monetization](monetization/monetization.md)
 
-## 🌍 OUR COMMUNITY <a href="#community" id="community"></a>
+## 🌍 COMMUNITY
 
 * [Community Forum](community/community-forum/README.md)
   * [Report Bugs](community/community-forum/report-bugs.md)
