@@ -51,10 +51,11 @@
 
 ## 🌈 Miscellaneous
 
+* [Troubleshooting](miscellaneous/troubleshooting.md)
 * [App Comparison](miscellaneous/app-comparison.md)
 * [Missing Features](miscellaneous/missing-features.md)
-* [Glossary](<miscellaneous/glossary (1).md>)
 * [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
+* [Glossary](<miscellaneous/glossary (1).md>)
 * [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
   * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
   * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
