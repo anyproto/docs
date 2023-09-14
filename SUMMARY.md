@@ -38,6 +38,7 @@
   * [Customizing with Relations, Sort, & Filters](basics/sets/customizing-with-relations-sort-and-filters.md)
   * [🌟 Deep dive: Sets](basics/sets/deep-dive-sets.md)
 * [Collections](basics/collections.md)
+* [Other](basics/glossary-1.md)
 
 ## 📽 Use Cases
 
@@ -53,7 +54,6 @@
 * [App Comparison](miscellaneous/app-comparison.md)
 * [Missing Features](miscellaneous/missing-features.md)
 * [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
-* [Glossary](<miscellaneous/glossary (1).md>)
 * [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
   * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
   * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)

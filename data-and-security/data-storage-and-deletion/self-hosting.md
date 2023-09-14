@@ -10,7 +10,7 @@ We plan on introducing third party sync providers in the future.
 
 #### Disable the Anytype backup node
 
-There is currently no option in the account settings to disable the backup node, but this is something we are planning on [introducing soon](https://github.com/anyproto/roadmap/issues/34) (**2023Q3**).
+There is currently no option in the account settings to disable the backup node, but this is something we are planning on [introducing soon](https://github.com/orgs/anyproto/projects/1/views/1?pane=issue\&itemId=34713319) (**2023Q3**).
 
 Alternatively, you can [block Anytype network traffic](https://community.anytype.io/t/is-there-a-way-to-limit-storage-of-data-only-local/6982) (Anytype & Anytype Helper) via your firewall.
 
