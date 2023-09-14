@@ -3,12 +3,14 @@
 ## Intro
 
 * [👋 Welcome](README.md)
+  * [🎇 Onboarding](intro/readme/onboarding.md)
 * [🌐 Connect with Us](intro/connect-with-us.md)
 * [👾 Setting Up Your Account](intro/setting-up-your-profile/README.md)
   * [Account Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
   * [Space Settings](intro/setting-up-your-profile/space-settings.md)
-  * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
-  * [Navigation](intro/setting-up-your-profile/installation.md)
+  * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar/README.md)
+    * [✨ Simple Dashboard](intro/setting-up-your-profile/customize-and-edit-the-sidebar/simple-dashboard.md)
+  * [Other Navigation](intro/setting-up-your-profile/installation.md)
 
 ## ⬛ Basics
 
@@ -21,7 +23,8 @@
 * [Types](basics/types/README.md)
   * [Create a New Type](basics/types/create-a-new-type.md)
   * [Layouts](basics/types/layouts.md)
-  * [Templates](basics/types/templates.md)
+  * [Templates](basics/types/templates/README.md)
+    * [💫 Deep dive: Templates](basics/types/templates/deep-dive-templates.md)
 * [Relations](basics/relations/README.md)
   * [Add a New Relation](basics/relations/create-a-new-relation.md)
   * [Create a New Relation](basics/relations/create-a-new-relation-1.md)
@@ -33,21 +36,16 @@
 * [Sets](basics/sets/README.md)
   * [Creating Sets](basics/sets/creating-sets.md)
   * [Customizing with Relations, Sort, & Filters](basics/sets/customizing-with-relations-sort-and-filters.md)
+  * [🌟 Deep dive: Sets](basics/sets/deep-dive-sets.md)
 * [Collections](basics/collections.md)
 
-## 📽 Guides
+## 📽 Use Cases
 
-* [Tutorials](guides/tutorials/README.md)
-  * [🎇 Onboarding](guides/tutorials/onboarding.md)
-  * [✨ Simple Dashboard](guides/tutorials/simple-dashboard.md)
-  * [💫 Deep dive: Templates](guides/tutorials/deep-dive-templates.md)
-  * [🌟 Deep dive: Sets](guides/tutorials/deep-dive-sets.md)
-* [Use Cases](guides/use-cases/README.md)
-  * [✏ Daily Notes](guides/use-cases/anytype-editor.md)
-  * [✈ Travel Wiki](guides/use-cases/travel-wiki.md)
-  * [🍎 Study Notes](guides/use-cases/study-notes.md)
-  * [🎬 Movie Database](guides/use-cases/movie-database.md)
-  * [🍛 Meal Planner / Recipe Book](guides/use-cases/meal-planner-recipe-book.md)
+* [✏ Daily Notes](use-cases/anytype-editor.md)
+* [✈ Travel Wiki](use-cases/travel-wiki.md)
+* [🍎 Study Notes](use-cases/study-notes.md)
+* [🎬 Movie Database](use-cases/movie-database.md)
+* [🍛 Meal Planner / Recipe Book](use-cases/meal-planner-recipe-book.md)
 
 ## 🌈 Miscellaneous
 

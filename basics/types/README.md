@@ -22,7 +22,7 @@ Colleagues, friends, and neighbours might all be considered type: _Human_ in you
 * Movie
 * Idea
 
-It's up to you how narrow or broad you'd like your types to be, but generally we recommend using general types for categorizing your objects, and further refining the use of your types through [templates](../../guides/tutorials/deep-dive-templates.md).&#x20;
+It's up to you how narrow or broad you'd like your types to be, but generally we recommend using general types for categorizing your objects, and further refining the use of your types through [templates](templates/deep-dive-templates.md).&#x20;
 
 You can always view and manage your types from the Types Library, found in the _Library_ widget on your sidebar.
 

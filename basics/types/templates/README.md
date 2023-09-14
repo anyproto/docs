@@ -13,10 +13,6 @@ Templates are one of our most-beloved ways to work at Anytype, designed to help 
 
 Templates are saved on the Type level, and each Type can support multiple Templates. For example, you can have different Templates for different kinds of Books, like academic, fiction, or non-fiction.&#x20;
 
-{% content-ref url="../../guides/tutorials/deep-dive-templates.md" %}
-[deep-dive-templates.md](../../guides/tutorials/deep-dive-templates.md)
-{% endcontent-ref %}
-
 ### How to Create a Template
 
 There are two ways to add a Template:&#x20;
