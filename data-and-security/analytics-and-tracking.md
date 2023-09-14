@@ -1,7 +1,7 @@
 # Analytics & Tracking
 
 {% hint style="info" %}
-The timeline for the option to disable Analytics & Tracking has moved from the open beta launch to **2023Q4**. You can follow the issue [here](https://github.com/anyproto/roadmap/issues/8) or on our GitHub [roadmap](https://github.com/orgs/anyproto/projects/1).
+The timeline for the option to disable Analytics & Tracking has moved from the open beta launch to [**2024**](https://github.com/orgs/anyproto/projects/1/views/1?pane=issue\&itemId=29227689) at the earliest.
 {% endhint %}
 
 While the product is in alpha, we use analytics services to help us understand performance of the app as a whole, adoption of certain features, and how the latter impacts retention.
