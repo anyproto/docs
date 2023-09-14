@@ -14,6 +14,8 @@ Media files are not directly downloaded in overall syncing to save bandwidth. In
 
 Furthermore, we use the deduplication feature to reduce storage. For example, if the same picture is uploaded three times, there is only one image copy stored to reduce storage consumption.
 
+You can remove all the media content from your device via the clear cache option in iOS and Android. This will remove all the data altogether and force the app to sync once again entirely. Since the media download works on-premise, you will remove all cached media and clear some storage.
+
 {% hint style="info" %}
 Because of a legacy file system, some files might disappear from your graph if they are no longer linked to any objects. But fear not; all of your files are still there. We are working on [fixing the problem](https://community.anytype.io/t/are-unlinked-images-automatically-deleted/10810/3?u=isle9) already.
 {% endhint %}
@@ -22,10 +24,6 @@ Because of a legacy file system, some files might disappear from your graph if t
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2Fgit-blob-dcb526128401892f1a4773091dbf735febb4a875%2FScreenshot%202021-11-02%20at%2016.25.23.png?alt=media" alt=""><figcaption><p>Complete deletion in Bin</p></figcaption></figure>
 
-At the moment you can delete only the Objects that you've created inside Anytype. At first, you can move them to a bin that will remove them from navigation. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online. This action is irreversible, so please be careful.
+At the moment you can only delete the Objects that you've created inside Anytype. At first, you can move them to a bin that will remove them from navigation. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online. This action is irreversible, so please be careful.
 
-#### Undeletable objects <a href="#media-1" id="media-1"></a>
-
-Objects like Media and those created by Anytype (Types, Relations) can't be deleted at the moment, but might be deletable in future releases.&#x20;
-
-You can remove all the media content via the clear cache option in iOS and Android. This will remove all the data altogether and force the app to sync once again entirely. Since the media download works on-premise, you will remove all cached media and clear some storage.
+Types and relations created by Anytype can't be deleted at the moment, but might be deletable in future releases.&#x20;
