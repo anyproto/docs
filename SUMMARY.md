@@ -50,10 +50,8 @@
 
 ## 🌈 Miscellaneous
 
+* [Features & Comparison](miscellaneous/feature-list-by-platform.md)
 * [Troubleshooting](miscellaneous/troubleshooting.md)
-* [App Comparison](miscellaneous/app-comparison.md)
-* [Missing Features](miscellaneous/missing-features.md)
-* [Feature List by Platform](miscellaneous/feature-list-by-platform.md)
 * [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
   * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
   * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
