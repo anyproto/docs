@@ -1,14 +1,14 @@
 ---
-description: A live search of all objects which share a common type or relation
+description: A live search of all Objects which share a common Type or Relation
 ---
 
 # Sets
 
 ### Understanding Sets
 
-Lots of people compare Sets with databases, but there's a key difference: Sets don't _store_ objects like regular databases.&#x20;
+Lots of people compare Sets with databases, but there's a key difference: Sets don't _store_ Objects like regular databases.&#x20;
 
-Sets are a way to see a portion of your graph, and objects you've created, based on your filtered criteria, and several secondary filters which you can customize. You can think of them as a live filter or query for Objects which share certain criteria - specifically, a type or a relation.
+Sets are a way to see a portion of your graph, and Objects you've created, based on your filtered criteria, and several secondary filters which you can customize. You can think of them as a live filter or query for Objects which share certain criteria - specifically, a Type or a Relation.
 
 #### Sets serve two primary functions:
 
@@ -23,10 +23,10 @@ Sets are a way to see a portion of your graph, and objects you've created, based
    \
    For instance: Creation Date, Tags, or Priority. (In this sense, Relations behave like attributes).\
    \
-   You can then pin your Set to your Favorites menu, where it will sit on your sidebar, acting like a folder for all Objects that meet certain criteria.\
+   You can then pin your Set to your Favorites menu, where it will sit on your Sidebar, acting like a folder for all Objects that meet certain criteria.\
 
-2. **Batch editing Objects**\
+2. **Editing Objects**\
    \
-   Sets also provide a way to batch-edit Objects. \
+   Sets also provide a way to quickly edit Objects in a list View. \
    \
-   You can use multi-select in Sets to delete multiple Objects at once or to batch update the Object Type. You can also batch-add or edit Relations for Objects from Set view, instead of entering them one-by-one.&#x20;
+   You can use multi-select Objects in Sets to delete multiple Objects at once, or to batch update the Object Type. Any Relations added to a Set in the Relation Menu (top right), will be adopted by all new Objects created with the "+ New Object" button.&#x20;
