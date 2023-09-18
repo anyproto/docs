@@ -8,7 +8,7 @@ description: A live search of all Objects which share a common Type or Relation
 
 Lots of people compare Sets with databases, but there's a key difference: Sets don't _store_ Objects like regular databases.&#x20;
 
-Sets are a way to see a portion of your graph, and Objects you've created, based on your filtered criteria, and several secondary filters which you can customize. You can think of them as a live filter or query for Objects which share certain criteria - specifically, a Type or a Relation.
+Sets are a way to see a portion of your Graph, and Objects you've created, based on your filtered criteria, and several secondary filters which you can customize. You can think of them as a live filter or query for Objects which share certain criteria - specifically, a Type or a Relation.
 
 #### Sets serve two primary functions:
 
