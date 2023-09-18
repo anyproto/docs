@@ -8,7 +8,7 @@ Clicking on a Relation here will give you the choice to install to your Library.
 
 ![](<../../.gitbook/assets/image (39).png>)
 
-You can [create-a-new-relation-1.md](../relations/create-a-new-relation-1.md "mention") by entering a title in the search bar, and then select "+ Create Relation ...".
+[create-a-new-relation-1.md](../relations/create-a-new-relation-1.md "mention") by entering a title in the search bar, and then select "+ Create Relation ...".
 
 The **My Relations** tab is where you can access all installed Relations in your Anytype.&#x20;
 
