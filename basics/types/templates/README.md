@@ -17,9 +17,9 @@ Templates are saved on the Type level, and each Type can support multiple Templa
 
 There are two ways to add a Template:&#x20;
 
-1\) Navigate to the Types Library → Click the Type for which you'd like to create a Template → Click + to start creating a new template → Give your Template a name and start adding Relations and formatting → Your Template is Auto-saved
+1\) Navigate to the Types Library → Click the Type for which you'd like to create a Template → Click + to start creating a new template → Give your Template a name and start adding Relations and formatting → Your Template is auto-saved
 
-2\) If you're working within an Object and would like to save your work as a Template, you can: Navigate to ··· in the top-right corner → Click + Use as a template, and your content will automatically be saved as a new Template for this Object Type.
+2\) If you're working within an Object and would like to save your work as a Template, you can: Navigate to ··· in the top-right corner → Click + Use as a Template, and your content will automatically be saved as a new Template for this Object Type.
 
 ### Using & Managing Templates
 
