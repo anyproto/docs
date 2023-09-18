@@ -1,23 +1,23 @@
 ---
-description: How to link your objects either trough relations or directly.
+Description: How to link your Objects with Relations or Simple Links.
 ---
 
 # Links
 
-## Creating new links
+## Creating Lew Links
 
-### Link to another object in Anytype
+### Link to another Object in Anytype
 
-You have 3 ways to link an object to another existing object:
+You have 3 ways to link an Object to another existing Object:
 
-1. Through the canvas directly by either using:
-   1. **Block Links.** Add the slash character ("/") to invoke a command bar, and then look for the link to object option in the menu. These can appear either as text or as cards.
-   2. **Inline Links**. The @ character to invoke the object picker menu.
-2. Through relations by using an object relation type and then going through the same object picker menu.
+1. Directly in the Editor by using:
+   1. **Block Links.** Add the slash character ("/") to invoke a command bar, and then look for the link to Object option in the menu. These can appear either as text or as cards.
+   2. **Inline Links**. The @ character to invoke the Object picker menu.
+2. With Relations by assigning an Object Relation Type in the Object menu.
 
-### Link to external object on your device
+### Link to external Object on your device
 
-If you want to add a link to an external object on your desktop, please use the links **starting with file:///** plus the local file destination. For example:
+If you want to add a link to an external Object on your desktop, please use the links **starting with file:///** plus the local file destination. For example:
 
 * file:///Users/Alex/Downloads/Protocol-Berg.pdf — to open PDFs;
 * file:///Users/Alex/Downloads/my\_budget.xlsx — to open spreadsheets (Excel, Numbers).
@@ -44,7 +44,7 @@ These are unfortunately not yet available on our mobile apps.
 
 ### Relations on the Graph
 
-In your documents you may have multiple references or connections which could be attached to other work in your library. The Graph is the visualizer for this. Objects connected to other objects, connected to humans, or tasks.&#x20;
+In your documents you may have multiple references or connections which could be attached to other work in your library. The Graph is the visualizer for this. Objects connected to other Objects, connected to Humans, or Tasks.&#x20;
 
 Learn more about [relations](../../basics/relations/ "mention") & The [graph.md](../../basics/graph.md "mention") here.&#x20;
 
@@ -52,10 +52,10 @@ Learn more about [relations](../../basics/relations/ "mention") & The [graph.md]
 
 ### Use the Flow
 
-Another option to check which objects are linked together can be found in the tab just next to the Graph.&#x20;
+Another option to check which Objects are linked together can be found in the Flow tab next to the Graph.&#x20;
 
-On the top, center of your screen you will see the option to toggle to **Flow** view. This will show you which object is linked before and after the current object you are viewing.
+On the top, center of your screen you will see the option to toggle to **Flow** view. This will show you which Object is linked before and after the current Object you are viewing.
 
 ### Collections
 
-Collections also use links to manage what is shown in their canvas. To add an existing object to a collection, use the **Link To** option from the object context menu.
+Collections also use links to manage what is shown in their canvas. To add an existing Object to a Collection, use the **Link To** option from the Object context menu.
