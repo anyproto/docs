@@ -6,17 +6,17 @@ description: Customize your profile, set up additional security, or delete your 
 
 ### Profile
 
-Here you can add your **name, bio,** and **profile picture.** Your profile represents an object in your Anytype graph which you can freely link to other objects.
+Here you can add your **name, bio,** and **profile picture.** Your profile represents an Object in your Anytype Graph which you can freely link to other Objects.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.24.27.png" alt=""><figcaption></figcaption></figure>
 
 ### Preferences
 
-**Default object type:** You can choose a default object type (from the default set or your own types) — it defines the type of object that opens up each time you create a new object using the plus button.
+**Default Object Type:** You can choose a default Object Type (from the default set or your own Types) — it defines the Type of Object that opens up each time you create a new Object using the + button.
 
-**Spellcheck language:** You can enable automatic spellcheck from 40+ languages, or disable the spellcheck.
+**Spellcheck Language:** You can enable automatic spellcheck from 40+ languages, or disable the spellcheck.
 
-**Interface language:** You can choose amongst the community-translated versions to localize your interface.
+**Interface Language:** You can choose amongst the community-translated versions to localize your interface.
 
 {% hint style="info" %}
 RTL is not yet fully supported.&#x20;
@@ -26,7 +26,7 @@ RTL is not yet fully supported.&#x20;
 
 ### Appearance
 
-You can set a color mode (light, dark, or system) and enable/disable automatically showing the sidebar:
+You can set a color mode (light, dark, or system) and enable/disable automatically showing the Sidebar:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.26.01.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,18 +36,18 @@ You can set a color mode (light, dark, or system) and enable/disable automatical
 This feature is currently available only on desktop.
 {% endhint %}
 
-If you need some extra privacy, e.g. while sharing a computer, you can set up a pin code that will lock the app while using and protect your recovery phrase. You will need to enter the pin code each time your Anytype session expires (1 min, 5 min, 10 min, or 1 hour) or if you want to access your recovery phrase:
+If you need some extra privacy, e.g. while sharing a computer, you can set up a pin code that will lock the app while using and protect your recovery phrase. You will need to enter the pin code each time your Anytype session expires (1 min, 5 min, 10 min, or 1 hour) or if you want to access your Recovery Phrase:
 
 {% hint style="warning" %}
-We do not store this data so we cannot help you in recovering. Make sure to write down your pin code next to your recovery phrase note.
+We do not store this data so we cannot help you in recovering. Make sure to write down your pin code next to your Recovery Phrase note.
 {% endhint %}
 
 ### Data Management
 
-**Local files**. You can choose to offload files stored in Anytype to our encrypted backup node.
+**Local files**. You can choose to offload files stored in Anytype to our Encrypted Backup Node.
 
 **Account deletion**. Also, if you would like to delete your account, you can do it in this section.
 
 ### Recovery Phrase
 
-You can access your recovery phrase or scan the QR code to connect your mobile device. For more details, please check [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention").
+You can access your Recovery Phrase or scan the QR code to connect your mobile device. For more details, please check [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention").
