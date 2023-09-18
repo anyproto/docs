@@ -16,13 +16,13 @@ For a comparison between Anytype and Notion, check out this article by [Akshay H
 * Collaboration - [2023Q4](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227780)
 * API and plugins - [2023Q4](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227670)
 * Publish to web - [Backlog](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227800)
-* Calendar - [Planned](https://community.anytype.io/t/calendar-view-timeline-view/1576)
-* Formulas - [Planned](https://community.anytype.io/t/derived-relations-formulas/1554/47)
-* Reminders and notifications - [Planned](https://community.anytype.io/t/notification-system-larger-proposal-for-discussion/1024/21)
-* AI assistant - [Planned](https://community.anytype.io/t/ai-assistant/9404)
-* Transclusion - [Planned](https://community.anytype.io/t/link-to-blocks-transclusion-synced-blocks/1360)
-* Whiteboard / canvas - [Improbable](https://community.anytype.io/t/new-type-of-pages-whiteboard-canvas/1389/52)
-* Web app - [Improbable](https://community.anytype.io/t/web-app-web-client/1381)&#x20;
+* Calendar - [No ETA](https://community.anytype.io/t/calendar-view-timeline-view/1576)
+* Formulas - [No ETA](https://community.anytype.io/t/derived-relations-formulas/1554/47)
+* Reminders and notifications - [No ETA](https://community.anytype.io/t/notification-system-larger-proposal-for-discussion/1024/21)
+* AI assistant - [No ETA](https://community.anytype.io/t/ai-assistant/9404)
+* Transclusion - [No ETA](https://community.anytype.io/t/link-to-blocks-transclusion-synced-blocks/1360)
+* Whiteboard / canvas - [No ETA](https://community.anytype.io/t/new-type-of-pages-whiteboard-canvas/1389/52)
+* Web app - [No ETA](https://community.anytype.io/t/web-app-web-client/1381)
 
 ### Mobile Features
 

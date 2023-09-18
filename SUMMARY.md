@@ -46,7 +46,7 @@
 * [✈ Travel Wiki](use-cases/travel-wiki.md)
 * [🍎 Study Notes](use-cases/study-notes.md)
 * [🎬 Movie Database](use-cases/movie-database.md)
-* [🍛 Meal Planner / Recipe Book](use-cases/meal-planner-recipe-book.md)
+* [🍛 Recipe Book & Meal Planner](use-cases/meal-planner-recipe-book.md)
 
 ## 🌈 Miscellaneous
 
