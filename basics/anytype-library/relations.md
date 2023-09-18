@@ -14,4 +14,4 @@ The **My Relations** tab is where you can access all installed Relations in your
 
 ![](<../../.gitbook/assets/image (13).png>)
 
-When you click on a specific **Relation** you are presented with a Set View of all Objects utilizing that Relation.
+Clicking on a specific **Relation** will open a Set View of all Objects utilizing that Relation.
