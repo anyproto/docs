@@ -4,35 +4,35 @@ description: Anytype is available on Mac, Windows, Linux, iOS, and Android.
 
 # Features & Comparison
 
-## App Comparison
+### App Comparison
 
 For a comparison between Anytype and Notion, check out this article by [Akshay Hallur](https://bloggingx.com/author/akshay/).
 
 {% embed url="https://bloggingx.com/anytype-review/" %}
 
-## Major Features Missing
+### Major Features Missing
 
 * Web clipper / share - [2023Q3](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227788)
 * Collaboration - [2023Q4](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227780)
 * API and plugins - [2023Q4](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227670)
 * Publish to web - [Backlog](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227800)
-* Calendar - no ETA
-* Formulas - no ETA
-* Reminders and notifications - no ETA
-* AI companion - no ETA
-* Object transclusion - no ETA
-* Whiteboard / canvas - Improbable at the moment
-* Web app - Improbable at the moment
+* Calendar - [Planned](https://community.anytype.io/t/calendar-view-timeline-view/1576)
+* Formulas - [Planned](https://community.anytype.io/t/derived-relations-formulas/1554/47)
+* Reminders and notifications - [Planned](https://community.anytype.io/t/notification-system-larger-proposal-for-discussion/1024/21)
+* AI assistant - [Planned](https://community.anytype.io/t/ai-assistant/9404)
+* Transclusion - [Planned](https://community.anytype.io/t/link-to-blocks-transclusion-synced-blocks/1360)
+* Whiteboard / canvas - [Improbable](https://community.anytype.io/t/new-type-of-pages-whiteboard-canvas/1389/52)
+* Web app - [Improbable](https://community.anytype.io/t/web-app-web-client/1381)&#x20;
 
-## Mobile Features
+### Mobile Features
+
+Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.34.\*.
 
 {% hint style="info" %}
 The library is missing on iOS, and the graph on both iOS and Android.
 {% endhint %}
 
-Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.34.\*.
-
-### **Appearance & Account Settings**
+#### **Appearance & Account Settings**
 
 | Feature/Action       | iOS 0.24.\* | Android 0.24.\* |
 | -------------------- | ----------- | --------------- |
@@ -43,7 +43,7 @@ Here is a running list of features and their implementation status, by platform.
 | Pin Code             | No          | No              |
 | Account Delete       | Yes         | Yes             |
 
-### **Navigation**
+#### **Navigation**
 
 | Feature/Action             | iOS 0.24.\* | Android 0.24.\* |
 | -------------------------- | ----------- | --------------- |
@@ -55,7 +55,7 @@ Here is a running list of features and their implementation status, by platform.
 | Document search (Ctrl + F) | No          | No              |
 | Sidebar                    | No          | No              |
 
-### **Editor & Block Actions**
+#### **Editor & Block Actions**
 
 | Feature/Action                          | iOS 0.24.\* | Android 0.24.\* |
 | --------------------------------------- | ----------- | --------------- |
@@ -74,7 +74,7 @@ Here is a running list of features and their implementation status, by platform.
 | Change Object Type                      | Yes         | Yes             |
 | Text block - Turn into Object           | No          | No              |
 
-### **Block Types**
+#### **Block Types**
 
 | Feature/Action  | iOS 0.24.\* | Android 0.24.\* |
 | --------------- | ----------- | --------------- |
@@ -103,15 +103,15 @@ Here is a running list of features and their implementation status, by platform.
 | Link-to-Objects | Yes         | Yes             |
 | Relation        | Yes         | Yes             |
 
-### **Set views & Actions**
+#### **Set views & Actions**
 
 <table data-full-width="false"><thead><tr><th>Feature/Action</th><th>iOS 0.24.*</th><th>Android 0.24.*</th></tr></thead><tbody><tr><td>Grid view</td><td>Yes</td><td>Yes</td></tr><tr><td>List View</td><td>Yes</td><td>Yes</td></tr><tr><td>Gallery view</td><td>Yes</td><td>Yes</td></tr><tr><td>Kanban view</td><td>No</td><td>No</td></tr><tr><td>Add new view</td><td>Yes</td><td>Yes</td></tr><tr><td>Add new object</td><td>Yes</td><td>Yes</td></tr><tr><td>Sort &#x26; Filter</td><td>Yes</td><td>Yes</td></tr><tr><td>Batch select</td><td>No</td><td>No</td></tr><tr><td>Set by relation</td><td>Yes</td><td>Yes</td></tr></tbody></table>
 
-### **Types, Tags, Templates, Relations**
+#### **Types, Tags, Templates, Relations**
 
 <table data-full-width="false"><thead><tr><th>Feature/Action</th><th>iOS 0.24.*</th><th>Android 0.24.*</th></tr></thead><tbody><tr><td>Library</td><td>No</td><td>Yes</td></tr><tr><td>Edit &#x26; Delete Type (name, templates)</td><td>No</td><td>Type only</td></tr><tr><td>Edit &#x26; Delete Relation</td><td>No</td><td>Yes</td></tr><tr><td>Create, delete Template</td><td>No</td><td>No</td></tr><tr><td>Edit Template</td><td>Yes</td><td>Yes</td></tr><tr><td>Apply default template</td><td>Yes</td><td>Yes</td></tr><tr><td>Create tag</td><td>Yes</td><td>Yes</td></tr></tbody></table>
 
-### Integrations & Imports
+#### Integrations & Imports
 
 | Feature/Action                 | iOS 0.24.\* | Android 0.24.\* |
 | ------------------------------ | ----------- | --------------- |
