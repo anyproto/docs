@@ -28,10 +28,6 @@ For a comparison between Anytype and Notion, check out this article by [Akshay H
 
 Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.34.\*.
 
-{% hint style="info" %}
-The library is missing on iOS, and the graph on both iOS and Android.
-{% endhint %}
-
 #### **Appearance & Account Settings**
 
 | Feature/Action       | iOS 0.24.\* | Android 0.24.\* |

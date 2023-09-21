@@ -4,6 +4,10 @@ description: Finally a dive into your graph of objects.
 
 # Graph
 
+{% hint style="danger" %}
+The graph is currently unavailable on our mobile apps.
+{% endhint %}
+
 ### From anywhere in the app, you'll see the graph icon  in the bottom navigation panel
 
 <figure><img src="../.gitbook/assets/Graph Icon.png" alt="" width="375"><figcaption><p>Locate the graph icon in the middle of your navigation panel</p></figcaption></figure>
