@@ -6,8 +6,6 @@ description: >-
 
 # 👋 Welcome
 
-## Intro
-
 {% embed url="https://vimeo.com/848056412" %}
 
 Anytype is a local-first, E2E encrypted software designed as a secure place to create and store digital assets.
@@ -18,7 +16,7 @@ Future versions will allow you to share your work and safely collaborate with ot
 
 Explore the documentation here to learn more about using the product, troubleshooting your account, and data privacy.
 
-If you have more questions, check out our [FAQ](https://anytype.io/faq/) page.
+And for even more information, please check out our [website](https://anytype.io) or our [FAQ](https://anytype.io/faq/) page.
 
 ### ​Featured Guides
 
