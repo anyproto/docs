@@ -30,11 +30,11 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 
 ### Mobile Features
 
-Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.34.\*.
+Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.35.\*.
 
 #### **Appearance & Account Settings**
 
-| Feature/Action       | iOS 0.24.\* | Android 0.24.\* |
+| Feature/Action       | iOS 0.25.\* | Android 0.25.\* |
 | -------------------- | ----------- | --------------- |
 | Spellcheck           | No          | No              |
 | Light mode/dark mode | Yes         | Yes             |
@@ -45,7 +45,7 @@ Here is a running list of features and their implementation status, by platform.
 
 #### **Navigation**
 
-| Feature/Action             | iOS 0.24.\* | Android 0.24.\* |
+| Feature/Action             | iOS 0.25.\* | Android 0.25.\* |
 | -------------------------- | ----------- | --------------- |
 | Keyboard Shortcuts         | No          | No              |
 | Navigation (backlink) menu | No          | No              |
@@ -57,7 +57,7 @@ Here is a running list of features and their implementation status, by platform.
 
 #### **Editor & Block Actions**
 
-| Feature/Action                          | iOS 0.24.\* | Android 0.24.\* |
+| Feature/Action                          | iOS 0.25.\* | Android 0.25.\* |
 | --------------------------------------- | ----------- | --------------- |
 | Markdown                                | No          | No              |
 | Export to PDF, Markdown, HTML, Protobuf | No          | No              |
@@ -76,7 +76,7 @@ Here is a running list of features and their implementation status, by platform.
 
 #### **Block Types**
 
-| Feature/Action  | iOS 0.24.\* | Android 0.24.\* |
+| Feature/Action  | iOS 0.25.\* | Android 0.25.\* |
 | --------------- | ----------- | --------------- |
 | Text            | Yes         | Yes             |
 | Title           | Yes         | Yes             |
@@ -105,11 +105,11 @@ Here is a running list of features and their implementation status, by platform.
 
 #### **Set views & Actions**
 
-<table data-full-width="false"><thead><tr><th>Feature/Action</th><th>iOS 0.24.*</th><th>Android 0.24.*</th></tr></thead><tbody><tr><td>Grid view</td><td>Yes</td><td>Yes</td></tr><tr><td>List View</td><td>Yes</td><td>Yes</td></tr><tr><td>Gallery view</td><td>Yes</td><td>Yes</td></tr><tr><td>Kanban view</td><td>No</td><td>No</td></tr><tr><td>Add new view</td><td>Yes</td><td>Yes</td></tr><tr><td>Add new object</td><td>Yes</td><td>Yes</td></tr><tr><td>Sort &#x26; Filter</td><td>Yes</td><td>Yes</td></tr><tr><td>Batch select</td><td>No</td><td>No</td></tr><tr><td>Set by relation</td><td>Yes</td><td>Yes</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Feature/Action</th><th>iOS 0.25.*</th><th>Android 0.25.*</th></tr></thead><tbody><tr><td>Grid view</td><td>Yes</td><td>Yes</td></tr><tr><td>List View</td><td>Yes</td><td>Yes</td></tr><tr><td>Gallery view</td><td>Yes</td><td>Yes</td></tr><tr><td>Kanban view</td><td>No</td><td>No</td></tr><tr><td>Add new view</td><td>Yes</td><td>Yes</td></tr><tr><td>Add new object</td><td>Yes</td><td>Yes</td></tr><tr><td>Sort &#x26; Filter</td><td>Yes</td><td>Yes</td></tr><tr><td>Batch select</td><td>No</td><td>No</td></tr><tr><td>Set by relation</td><td>Yes</td><td>Yes</td></tr></tbody></table>
 
 #### **Types, Tags, Templates, Relations**
 
-<table data-full-width="false"><thead><tr><th>Feature/Action</th><th>iOS 0.24.*</th><th>Android 0.24.*</th></tr></thead><tbody><tr><td>Library</td><td>No</td><td>Yes</td></tr><tr><td>Edit &#x26; Delete Type (name, templates)</td><td>No</td><td>Type only</td></tr><tr><td>Edit &#x26; Delete Relation</td><td>No</td><td>Yes</td></tr><tr><td>Create, delete Template</td><td>No</td><td>No</td></tr><tr><td>Edit Template</td><td>Yes</td><td>Yes</td></tr><tr><td>Apply default template</td><td>Yes</td><td>Yes</td></tr><tr><td>Create tag</td><td>Yes</td><td>Yes</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Feature/Action</th><th>iOS 0.25.*</th><th>Android 0.25.*</th></tr></thead><tbody><tr><td>Library</td><td>No</td><td>Yes</td></tr><tr><td>Edit &#x26; Delete Type (name, templates)</td><td>No</td><td>Type only</td></tr><tr><td>Edit &#x26; Delete Relation</td><td>No</td><td>Yes</td></tr><tr><td>Create, delete Template</td><td>No</td><td>No</td></tr><tr><td>Edit Template</td><td>Yes</td><td>Yes</td></tr><tr><td>Apply default template</td><td>Yes</td><td>Yes</td></tr><tr><td>Create tag</td><td>Yes</td><td>Yes</td></tr></tbody></table>
 
 #### Integrations & Imports
 
