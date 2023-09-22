@@ -10,7 +10,11 @@ For a comparison between Anytype and Notion, check out this article by [Akshay H
 
 {% embed url="https://bloggingx.com/anytype-review/" %}
 
-### Major Features Missing
+### Highly Requested Features
+
+{% hint style="info" %}
+You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/1/views/1).
+{% endhint %}
 
 * Web clipper / share - [2023Q3](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227788)
 * Collaboration - [2023Q4](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227780)
