@@ -1,7 +1,7 @@
 # 🎇 Onboarding
 
 {% hint style="info" %}
-This is a recording of a previous demo call from June 2023.&#x20;
+This is a recording of a previous demo call from June 2023. Click [here](https://lu.ma/anytype) if you would like to join the next public call with the Anyteam!
 {% endhint %}
 
 Our co-founder Zhanna discusses Anytype's mission with the community, and why we believe that local-first, privacy-respecting and p2p-synced apps are a necessary foundation for storing your thoughts.
