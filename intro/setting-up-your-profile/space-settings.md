@@ -24,7 +24,7 @@ Your space icon is automatically generated during the onboarding process. To cha
 
 ### Choose your Homepage
 
-Your homepage is what you will see each time you open Anytype. By default, your homepage has been set to a pre-installed 'Dashboard' object whih serves to get your oriented within your space.&#x20;
+Your homepage is what you will see each time you open Anytype. By default, your homepage has been set to a pre-installed 'Dashboard' object which serves to get your oriented within your space.&#x20;
 
 However, you can change your homepage by using the dropdown menu in your space settings and choosing between your graph, your last opened object, or a specific object you've created.
 
