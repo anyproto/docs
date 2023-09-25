@@ -17,7 +17,7 @@
 * [Overview](miscellaneous/glossary.md)
 * [Space](basics/space.md)
 * [Objects](basics/object-editor/README.md)
-  * [Working with Blocks](basics/object-editor/blocks.md)
+  * [Blocks](basics/object-editor/blocks.md)
   * [Ways to Create Objects](basics/object-editor/create-an-object.md)
   * [Locating your Objects](basics/object-editor/finding-your-objects.md)
 * [Types](basics/types/README.md)
