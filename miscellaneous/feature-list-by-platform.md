@@ -27,6 +27,7 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 * Transclusion - [No ETA](https://community.anytype.io/t/link-to-blocks-transclusion-synced-blocks/1360)
 * Whiteboard / canvas - [No ETA](https://community.anytype.io/t/new-type-of-pages-whiteboard-canvas/1389/52)
 * Web app - [No ETA](https://community.anytype.io/t/web-app-web-client/1381)
+* Better Tag System - [No ETA](https://community.anytype.io/t/support-search-using-tags/6084)
 
 ### Mobile Features
 
