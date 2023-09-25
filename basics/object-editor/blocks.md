@@ -4,7 +4,7 @@ description: Understanding blocks, editing, and customizing to your preference.
 
 # Working with Blocks
 
-Your object is made up of different types of blocks to organize your information. Anytype's block-based editor works very similarly to that of blogging sites or website builders.
+Your object is made up of different types of blocks to organize your information, and the place where all of these Blocks live together is called the Canvas. Anytype's block-based editor works very similarly to that of blogging sites or website builders.
 
 All block styles originate from the command menu, which you can access by either clicking on the orange `+` symbol on the left-hand side of your editor, or typing `/`.&#x20;
 

@@ -38,7 +38,6 @@
   * [Customizing with Relations, Sort, & Filters](basics/sets/customizing-with-relations-sort-and-filters.md)
   * [🌟 Deep dive: Sets](basics/sets/deep-dive-sets.md)
 * [Collections](basics/collections.md)
-* [Other](basics/glossary-1.md)
 
 ## 📽 Use Cases
 
@@ -57,6 +56,7 @@
   * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
   * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
   * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
+* [Technical Glossary](miscellaneous/glossary-1.md)
 
 ## 🔐 Data & Security
 
