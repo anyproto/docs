@@ -2,9 +2,9 @@
 
 ### You can create a Set with the + in the bottom-left corner or using the / shortcut menu in the editor.
 
-OR
+You'll then need to choose if you want a Set by Type which lets you list all of your Objects of a certain Type, or a Set by Relation which will list all Objects that contain the Relation of your choosing.&#x20;
 
-You can create a set from the Object type toggle on a new document.
+You can also create a Set by Type from the Object type toggle on a new document.
 
 ![](<../../.gitbook/assets/image (18).png>)
 
