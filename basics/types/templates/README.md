@@ -11,18 +11,21 @@ Templates are one of our most-beloved ways to work at Anytype, designed to help 
 * Customize the Layouts and Relations you want to use to for certain object Types
 * Automatically re-use the same structure each time you add a new Object
 
-Templates are saved on the Type level, and each Type can support multiple Templates. For example, you can have different Templates for different kinds of Books, like academic, fiction, or non-fiction.&#x20;
+Templates are saved on the Type level, and each Type can support multiple Templates. For example, you can have different Templates for different kinds of Books, like academic, fiction, or non-fiction.
 
 ### How to Create a Template
 
-There are two ways to add a Template:&#x20;
+There are three ways to add a Template:
 
 1\) Navigate to the Types Library → Click the Type for which you'd like to create a Template → Click + to start creating a new template → Give your Template a name and start adding Relations and formatting → Your Template is auto-saved
 
-2\) If you're working within an Object and would like to save your work as a Template, you can: Navigate to ··· in the top-right corner → Click + Use as a Template, and your content will automatically be saved as a new Template for this Object Type.
+2\) If you're working within an Object and would like to save your work as a Template, you can: Navigate to `···` in the top-right corner → Click + Use as a Template, and your content will automatically be saved as a new Template for this Object Type.
+
+3\) If you are working in a Set / Collection and you would like to create / edit your templates, you can:\
+Navigate to `New|▾` in the top-right corner of the Set / Collection view -> Click on the `▾` button to open up the template modal. Then either create a new template by using the `+` button, or modify an existing one by clicking on `···` in the top right corner of the template button, and choosing either `Edit template`, `Duplicate` or `Delete`.
 
 ### Using & Managing Templates
 
-Once you've created your Template, each time you add a new Object you will be prompted to select the Template you'd like to use. If you would like to bypass this, you can always use the default Blank template.
+Depending on the way you created your new object, either the default template will be applied automatically, or you will be asked to choose a template yourself. You can choose the default template for each type trough the Type library, but you can also choose the default template for each Set & Collection view.
 
 You can view, edit, duplicate, or delete the Templates you've added for each Object Type in the Types Library.
