@@ -79,7 +79,7 @@
   * [Get Help from the Community](community/community-forum/get-help-from-the-community.md)
   * [Share Your Feedback](community/community-forum/share-your-feedback.md)
 * [Open Any Initiative](community/join-the-open-source-project.md)
-* [Anytype Timeline](community/anytype-timeline.md)
+* [Any Timeline](community/any-timeline.md)
 
 ## 🚵 MIgration
 
