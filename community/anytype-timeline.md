@@ -1,6 +1,6 @@
 # Anytype Timeline
 
-<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="Anytype stages represented on a timeline" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
 ### Pre-Alpha
 
