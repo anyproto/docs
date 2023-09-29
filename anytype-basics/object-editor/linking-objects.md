@@ -4,16 +4,16 @@ Description: How to link your Objects with Relations or Simple Links.
 
 # Links
 
-### Creating Lew Links
+### Creating New Links
 
 #### Link to another Object in Anytype
 
-You have 3 ways to link an Object to another existing Object:
+Directly trough the canvas by using:
 
-1. Directly in the Editor by using:
-   1. **Block Links.** Add the slash character ("/") to invoke a command bar, and then look for the link to Object option in the menu. These can appear either as text or as cards.
-   2. **Inline Links**. The @ character to invoke the Object picker menu.
-2. With Relations by assigning an Object Relation Type in the Object menu.
+1. **Block Links.** Add the slash character ("/") to invoke a command bar, and then look for the `Link to Object` option in the menu. These can appear either as text or as cards.
+2. **Inline Links**. Type @ to invoke the Object picker menu.
+
+With Relations by assigning an Object Relation Type in the Object menu.
 
 #### Link to external Object on your device
 
