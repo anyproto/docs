@@ -46,7 +46,7 @@
 * [🍎 Study Notes](use-cases/study-notes.md)
 * [🎬 Movie Database](use-cases/movie-database.md)
 * [🍛 Recipe Book & Meal Planner](use-cases/meal-planner-recipe-book.md)
-* [🧠 PARA Method for Notetaking](use-cases/para-method-for-notetaking.md)
+* [🧠 PARA Method for Note taking](use-cases/para-method-for-note-taking.md)
 
 ## 🌈 Miscellaneous
 
