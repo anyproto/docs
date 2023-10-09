@@ -19,4 +19,4 @@ Please note:
 * Your space name will be overwritten once you import, but you can change it back
 * Widgets will not automatically appear; you need to create them from the objects installed with this use case
 
-{% file src=".gitbook/assets/Flashcards_usecase.zip" %}
+{% file src="../.gitbook/assets/Flashcards_usecase.zip" %}

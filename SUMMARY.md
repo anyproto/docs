@@ -47,6 +47,7 @@
 * [🎬 Movie Database](use-cases/movie-database.md)
 * [🍛 Recipe Book & Meal Planner](use-cases/meal-planner-recipe-book.md)
 * [🧠 PARA Method for Note taking](use-cases/para-method-for-note-taking.md)
+* [🗨 Language Flashcards](use-cases/language-flashcards.md)
 
 ## 🌈 Miscellaneous
 
@@ -85,7 +86,3 @@
 ## 🚵 MIgration
 
 * [Migration from the Legacy App](migration/migration-from-the-legacy-app.md)
-
-***
-
-* [🗨 Language Flashcards](language-flashcards.md)
