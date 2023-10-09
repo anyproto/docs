@@ -85,3 +85,7 @@
 ## 🚵 MIgration
 
 * [Migration from the Legacy App](migration/migration-from-the-legacy-app.md)
+
+***
+
+* [🗨 Language Flashcards](language-flashcards.md)
