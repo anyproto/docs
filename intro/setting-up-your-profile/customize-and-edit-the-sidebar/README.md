@@ -12,7 +12,7 @@ In general, _any_ object you've created using Anytype's editor can be used as a 
 
 Additionally, Anytype provides several options for _non-object_ widgets which you can add or remove from your sidebar, including:
 
-* Favorites: All objects which you've starred as as a favorite, regardless of object type
+* Favorites: All objects which you've starred as a favorite, regardless of object type
 * Sets: All Set-type objects
 * Collections: All Collection-type objects
 * Recently edited: Your recently edited objects (globally synced across devices)
