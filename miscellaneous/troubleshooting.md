@@ -1,6 +1,6 @@
 # Troubleshooting
 
-If you get an error, you can try these steps before checking the [forum](https://community.anytype.io/) or contacting [support](mailto:storage@anytype.io).
+If you get an error, you can try these steps before checking the [forum](https://community.anytype.io/) or contacting [support](mailto:support@anytype.io).
 
 1. Ensure that the time on your computer is correct. If the local time is more than 2 hours off, a connection might not be possible.
 2. Check if you’re using a proxy, VPN, firewall, or a company network to connect. If yes, try connecting without these to see if it makes a difference.
