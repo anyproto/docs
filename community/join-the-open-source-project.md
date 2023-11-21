@@ -1,4 +1,4 @@
-# Join the Open Any Initiative
+# Open Any Initiative
 
 ## **How to contribute**
 
@@ -9,3 +9,5 @@ Follow us on [Github](https://github.com/anyproto) and join [Contributors Commun
 If you want to learn more about why we chose to open up our code, check the article below:&#x20;
 
 {% embed url="https://blog.anytype.io/our-open-philosophy/" %}
+
+For any questions about our licenses, please check [https://legal.any.coop/](https://legal.any.coop/), and for any tech questions, please check [https://tech.anytype.io/](https://tech.anytype.io/).
