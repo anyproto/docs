@@ -13,7 +13,7 @@ While the product is in alpha, we use analytics services to help us understand p
 * How much time people spend in the app, on average
 * Which devices are used to login to the app
 
-We use these to understand our main product metrics and whether overall, we’re moving in the correct direction. While we can track frequency and adoption of events, _we cannot in any way track the content you create._ I’d like to emphasize that this last point is foundational to us.
+We use these to understand our main product metrics and whether overall, we’re moving in the correct direction. While we can track frequency and adoption of events, _we cannot in any way track the content you create._&#x20;
 
 In practice, this means that we know for instance that custom Types are very popular, but we cannot see what these custom types are (nor which Objects you’ve created with those types).
 
