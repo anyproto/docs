@@ -28,7 +28,7 @@ At the bottom of your sidebar you'll find an "Edit widgets" button, which upon c
 
 Clicking "Add" will give you the choice to choose your widget source. Again, a widget source can be any object you've previously created or the list of widget options above.
 
-To quickly create a new widget, you can also drag & drop objects directly into the sidebar.
+On desktop, you can also drag & drop objects directly into the sidebar.
 
 ### Adjust your Widget Appearance
 

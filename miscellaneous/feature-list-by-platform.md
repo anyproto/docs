@@ -20,18 +20,21 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 * Collaboration - [2023Q4](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227780)
 * API and plugins - [2023Q4](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227670)
 * Publish to web - [Backlog](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227800)
-* Calendar - [No ETA](https://community.anytype.io/t/calendar-view-timeline-view/1576)
 * Formulas - [No ETA](https://community.anytype.io/t/derived-relations-formulas/1554/47)
 * Reminders and notifications - [No ETA](https://community.anytype.io/t/notification-system-larger-proposal-for-discussion/1024/21)
 * AI assistant - [No ETA](https://community.anytype.io/t/ai-assistant/9404)
 * Transclusion - [No ETA](https://community.anytype.io/t/link-to-blocks-transclusion-synced-blocks/1360)
 * Whiteboard / canvas - [No ETA](https://community.anytype.io/t/new-type-of-pages-whiteboard-canvas/1389/52)
 * Web app - [No ETA](https://community.anytype.io/t/web-app-web-client/1381)
-* Better Tag System - [No ETA](https://community.anytype.io/t/support-search-using-tags/6084)
+* Better tag system - [No ETA](https://community.anytype.io/t/support-search-using-tags/6084)
+
+#### Implemented
+
+* Calendar - [0.36.0](https://community.anytype.io/t/anytype-desktop-0-36-0-released/12198)
 
 ### Mobile Features
 
-Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.35.\*, and the mobile versions used for comparison are both 0.25.\*.
+Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.36.\*, and the mobile versions used for comparison are both 0.26.\*.
 
 {% tabs %}
 {% tab title="Account" %}
@@ -117,6 +120,6 @@ Here is a running list of features and their implementation status, by platform.
 {% endtab %}
 
 {% tab title="Sets" %}
-<table data-full-width="false"><thead><tr><th>Feature/Action</th><th>iOS</th><th>Android</th></tr></thead><tbody><tr><td>Grid view</td><td>Yes</td><td>Yes</td></tr><tr><td>List View</td><td>Yes</td><td>Yes</td></tr><tr><td>Gallery view</td><td>Yes</td><td>Yes</td></tr><tr><td>Kanban view</td><td>No</td><td>No</td></tr><tr><td>Add new view</td><td>Yes</td><td>Yes</td></tr><tr><td>Add new object</td><td>Yes</td><td>Yes</td></tr><tr><td>Sort &#x26; Filter</td><td>Yes</td><td>Yes</td></tr><tr><td>Batch select</td><td>No</td><td>No</td></tr><tr><td>Set by relation</td><td>Yes</td><td>Yes</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Feature/Action</th><th>iOS</th><th>Android</th></tr></thead><tbody><tr><td>Grid view</td><td>Yes</td><td>Yes</td></tr><tr><td>List View</td><td>Yes</td><td>Yes</td></tr><tr><td>Gallery view</td><td>Yes</td><td>Yes</td></tr><tr><td>Kanban view</td><td>No</td><td>No</td></tr><tr><td>Calendar view</td><td>No</td><td>No</td></tr><tr><td>Add new view</td><td>Yes</td><td>Yes</td></tr><tr><td>Add new object</td><td>Yes</td><td>Yes</td></tr><tr><td>Sort &#x26; Filter</td><td>Yes</td><td>Yes</td></tr><tr><td>Find in set</td><td>No</td><td>No</td></tr><tr><td>Batch select</td><td>No</td><td>No</td></tr><tr><td>Set by relation</td><td>Yes</td><td>Yes</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
