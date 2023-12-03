@@ -8,7 +8,7 @@ Description: How to link your Objects with Relations or Simple Links.
 
 #### Link to another Object in Anytype
 
-Directly trough the canvas by using:
+Directly through the canvas by using:
 
 1. **Block Links.** Add the slash character ("/") to invoke a command bar, and then look for the `Link to Object` option in the menu. These can appear either as text or as cards.
 2. **Inline Links**. Type @ to invoke the Object picker menu.
