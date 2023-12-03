@@ -26,6 +26,6 @@ Because of a legacy file system, some files might disappear from your graph if t
 
 At the moment you can only delete the Objects that you've created inside Anytype. At first, you can move them to the bin. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online. This action is irreversible, so please be careful.&#x20;
 
-The deleted objects are still accessible in read-only mode, either from the bin, or trough previously added links. You are also able to restore these objects directly trough the read-only mode without needing to go trough the bin.
+The deleted objects are still accessible in read-only mode, either from the bin, or through previously added links. You are also able to restore these objects directly through the read-only mode without needing to go through the bin.
 
 Types and relations created by Anytype can't be deleted at the moment, but might be deletable in future releases.&#x20;
