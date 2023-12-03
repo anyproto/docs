@@ -30,7 +30,7 @@ Depending on the way you've created your new object, either the default template
 
 <figure><img src="../../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Choose a template</p></figcaption></figure>
 
-You can also choose the default template for each type trough the Type library, or you can choose the default template for each Set & Collection view.
+You can also choose the default template for each type through the Type library, or you can choose the default template for each Set & Collection view.
 
 <figure><img src="../../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Choose the default template for this set</p></figcaption></figure>
 
