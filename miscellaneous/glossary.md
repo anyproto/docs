@@ -18,7 +18,7 @@ These include:
 * [templates](../basics/types/templates/ "mention"): Saved content formats for specific Types that can be applied upon Object creation. Templates are specific to types, while types can have multiple templates.
 * [relations](../basics/relations/ "mention"): Object connectors; either via shared properties or defined links.
 * [anytype-library](../basics/anytype-library/ "mention"): The place where all of your Types and Relations live.
-* [linking-objects.md](../anytype-basics/object-editor/linking-objects.md "mention"): For creating connections between objects either trough relations or directly.
+* [linking-objects.md](../anytype-basics/object-editor/linking-objects.md "mention"): For creating connections between objects either through relations or directly.
 * [graph.md](../basics/graph.md "mention"): A non-hierarchical data structure containing all objects you've ever created in a space, and their connections to each other.
 * [sets](../basics/sets/ "mention"): Live query of all Objects which share a common characteristic (ie: Type or Relation).
 * [collections.md](../basics/collections.md "mention"): Manually created compilation of multiple objects within a single one.&#x20;
