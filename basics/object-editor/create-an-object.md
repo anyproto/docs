@@ -20,7 +20,7 @@ This will perform the same action as clicking the "+" sign in the navigation bar
 
 ### Turn Into Object
 
-If you are working on something in an existing Object and would like to transform only a certain block into an Object, you can do that trough the action menu by either:
+If you are working on something in an existing Object and would like to transform only a certain block into an Object, you can do that through the action menu by either:
 
 1. Hovering to the left side of the block that you are working on and clicking the 3 dots.
 2. Using the ⌘+/ keyboard shortcut.&#x20;
