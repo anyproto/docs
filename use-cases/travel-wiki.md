@@ -6,7 +6,7 @@ description: >-
 
 # ✈ Travel Wiki
 
-{% embed url="https://vimeo.com/717017561?share=copy" %}
+{% embed url="https://www.youtube.com/watch?v=eSuYrgsRPMs" %}
 
 ### Import this use case to your space using the linked file below
 

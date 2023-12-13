@@ -6,7 +6,7 @@ description: >-
 
 # 👋 Welcome
 
-{% embed url="https://vimeo.com/848056412" %}
+{% embed url="https://www.youtube.com/watch?v=dh_3NHY5eVs" %}
 
 Anytype is a local-first, E2E encrypted software designed as a secure place to create and store digital assets.
 

@@ -6,4 +6,4 @@ description: >-
 
 # ✏ Daily Notes
 
-{% embed url="https://vimeo.com/720009350?share=copy" %}
+{% embed url="https://www.youtube.com/watch?v=Cl-sG9MialM" %}

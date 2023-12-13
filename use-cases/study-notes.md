@@ -6,7 +6,7 @@ description: >-
 
 # 🍎 Study Notes
 
-{% embed url="https://vimeo.com/717012006?share=copy" %}
+{% embed url="https://www.youtube.com/watch?v=Yu2-fkiKTdE" %}
 
 ### Import this use case to your space using the linked file below
 

@@ -1,3 +1,3 @@
 # 💫 Deep dive: Templates
 
-{% embed url="https://vimeo.com/717028105?share=copy" %}
+{% embed url="https://www.youtube.com/watch?v=DIReqsBST7Q" %}

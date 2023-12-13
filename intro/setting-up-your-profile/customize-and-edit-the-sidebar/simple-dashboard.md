@@ -6,4 +6,4 @@ description: >-
 
 # ✨ Simple Dashboard
 
-{% embed url="https://vimeo.com/717017993?share=copy" %}
+{% embed url="https://www.youtube.com/watch?v=NCVeIW28tq0" %}

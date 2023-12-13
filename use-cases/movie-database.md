@@ -6,7 +6,7 @@ description: >-
 
 # 🎬 Movie Database
 
-{% embed url="https://vimeo.com/717022383?share=copy" %}
+{% embed url="https://www.youtube.com/watch?v=fwZ_bx53uh4" %}
 
 ### Import this use case to your space using the linked file below
 

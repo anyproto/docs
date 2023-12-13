@@ -4,4 +4,4 @@ description: Short demo on how to use Sets to quickly access and manage Objects 
 
 # 🌟 Deep dive: Sets
 
-{% embed url="https://vimeo.com/717016770?share=copy" %}
+{% embed url="https://www.youtube.com/watch?v=FFSGVOQ5wT8" %}

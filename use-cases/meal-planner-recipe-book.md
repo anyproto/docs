@@ -4,6 +4,6 @@ description: >-
   create meal plans that suit your time, taste, and dietary preferences
 ---
 
-# 🍛 Meal Planner / Recipe Book
+# 🍛 Recipe Book & Meal Planner
 
-{% embed url="https://vimeo.com/722368109?share=copy" %}
+{% embed url="https://www.youtube.com/watch?v=I-TISp9vfk8" %}
