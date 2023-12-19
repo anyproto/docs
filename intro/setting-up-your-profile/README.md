@@ -18,7 +18,8 @@ Anytype is installed:
 * For MacOS, it's: `HHD > Users >`` `_`Username`_` ``> Library > Application Support > anytype`
 * For Linux, you'll find your work directory in `~/.config/anytype`
 * For Android, it’s your default location, usually: \_device/data/app\_​.\
-  We also store some caches: _device/data/data/io.anytype.app_
+  We also store some caches: _device/data/data/io.anytype.app_\
+  Anytype directory is stored in a protected app data folder, which isn’t accessible by the user on Android devices.
 * For iOS, it's the standard install path determined by the iOS.
 
 {% hint style="info" %}
