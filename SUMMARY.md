@@ -82,7 +82,8 @@
   * [Request a Feature & Vote](community/community-forum/request-a-feature-and-vote.md)
   * [Get Help from the Community](community/community-forum/get-help-from-the-community.md)
   * [Share Your Feedback](community/community-forum/share-your-feedback.md)
-* [Open Any Initiative](community/join-the-open-source-project.md)
+* [Open Any Initiative](community/join-the-open-source-project/README.md)
+  * [🖼 ANY Experience Gallery](community/join-the-open-source-project/any-experience-gallery.md)
 * [Any Timeline](community/any-timeline.md)
 
 ## 🚵 MIgration
