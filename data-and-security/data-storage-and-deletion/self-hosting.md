@@ -1,7 +1,5 @@
 # Networks & Backup
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
 ### Anytype Network
 
 Every Anytype user has access to a remote backup node provided by Anytype. Its capacity is currently limited to 1 Gb. Objects and other content have no impact on this limit; only files are limited. If you go over the limit, a warning will appear, and you'll be able to ask for more storage.
@@ -33,6 +31,8 @@ Please note that all your devices should be manually switched to the same networ
 5. Click the “Save” button.
 6. Create a new identity or log in with the existing one.
 
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
 #### iOS
 
 1. Log out from your current identity.
@@ -40,6 +40,8 @@ Please note that all your devices should be manually switched to the same networ
 3. Click on the network mode you want to use.
 4. If you can't find your network in the list, you can add one by clicking the “Add self-hosted network” button, and choosing your self-hosted network configuration (\*.yml file).
 5. Create a new identity or log in with the existing one.
+
+<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Android
 
@@ -49,3 +51,5 @@ Please note that all your devices should be manually switched to the same networ
 4. If you picked the “Self-hosted” mode, upload your self-hosted network configuration (\*.yml file) to the corresponding field.
 5. Go back to the app.
 6. Create a new identity or log in with the existing one.
+
+<figure><img src="../../.gitbook/assets/image (47).png" alt="" width="375"><figcaption></figcaption></figure>
