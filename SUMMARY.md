@@ -64,9 +64,8 @@
 
 * [Recovery Phrase](data-and-security/what-is-a-recovery-phrase.md)
 * [Privacy & Encryption](data-and-security/how-we-keep-your-data-safe.md)
-* [Storage & Deletion](data-and-security/data-storage-and-deletion/README.md)
-  * [Backup & Self-Hosting](data-and-security/data-storage-and-deletion/self-hosting.md)
-  * [Local-only Mode](data-and-security/data-storage-and-deletion/local-only-mode.md)
+* [Storage & Deletion](data-and-security/data-storage-and-deletion.md)
+* [Networks & Backup](data-and-security/self-hosting.md)
 * [Data Erasure](data-and-security/delete-or-reset-your-account.md)
 * [Analytics & Tracking](data-and-security/analytics-and-tracking.md)
 
