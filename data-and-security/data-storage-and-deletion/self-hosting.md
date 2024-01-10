@@ -18,7 +18,7 @@ If you don't want to use any backup solutions at all, you can use our local-only
 
 ### Switching Between Networks
 
-We strongly recommend using dedicated identities for each network. If you are switching from a different network, export all your spaces, and import them into a new identity after switching the network mode.
+We strongly recommend using dedicated identities for each network (local-only mode being the exception). If you are switching from a different network, export all your spaces, and import them into a new identity after switching the network mode.
 
 Please note that all your devices should be manually switched to the same network.
 
