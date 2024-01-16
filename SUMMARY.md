@@ -2,7 +2,7 @@
 
 ## Intro
 
-* [👋 Welcome](README.md)
+* [Documentation](README.md)
   * [🎇 Onboarding](intro/readme/onboarding.md)
 * [🌐 Connect with Us](intro/connect-with-us.md)
 * [👾 Setting Up Your Account](intro/setting-up-your-profile/README.md)

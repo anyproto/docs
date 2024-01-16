@@ -4,7 +4,7 @@ description: >-
   journey.
 ---
 
-# 👋 Welcome
+# Documentation
 
 {% embed url="https://www.youtube.com/watch?v=dh_3NHY5eVs" %}
 
