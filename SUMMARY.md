@@ -28,6 +28,7 @@
 * [Relations](basics/relations/README.md)
   * [Add a New Relation](basics/relations/create-a-new-relation.md)
   * [Create a New Relation](basics/relations/create-a-new-relation-1.md)
+  * [Backlinks](basics/relations/backlinks.md)
 * [Library](basics/anytype-library/README.md)
   * [Type Library](basics/anytype-library/types.md)
   * [Relation Library](basics/anytype-library/relations.md)

@@ -4,6 +4,12 @@ description: How do you create an object?
 
 # Ways to Create Objects
 
+### Navigation menu
+
+When left-clicking the plus button, you will immediately create a new object with the type that is set as your default object type in your space settings.
+
+When right-clicking the plus-button, you’ll be presented with a menu of standard types, plus your most recently-used Types.
+
 ### Forward Slash Command
 
 When working in Anytype you can create a new Object by typing the "/". This will bring up the list of Objects that you have created. Simply select the Object you'd like to create and it will be linked at your current place.
@@ -23,6 +29,6 @@ This will perform the same action as clicking the "+" sign in the navigation bar
 If you are working on something in an existing Object and would like to transform only a certain block into an Object, you can do that through the action menu by either:
 
 1. Hovering to the left side of the block that you are working on and clicking the 3 dots.
-2. Using the ⌘+/ keyboard shortcut.&#x20;
+2. Using the ⌘+/ keyboard shortcut.
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Action menu</p></figcaption></figure>

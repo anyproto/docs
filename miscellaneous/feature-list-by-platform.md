@@ -34,7 +34,7 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 
 ### Mobile Features
 
-Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.36.\*, and the mobile versions used for comparison are both 0.26.\*.
+Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.38.\*, and the mobile versions used for comparison are both 0.28.\*.
 
 {% tabs %}
 {% tab title="Account" %}
@@ -113,6 +113,7 @@ Here is a running list of features and their implementation status, by platform.
 | Inline Set      | Supported | Supported |
 | Link-to-Objects | Yes       | Yes       |
 | Relation        | Yes       | Yes       |
+| Embed           | No        | No        |
 {% endtab %}
 
 {% tab title="Library" %}
