@@ -16,17 +16,17 @@ For a comparison between Anytype and Notion, check out this article by [Akshay H
 You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/1/views/1).
 {% endhint %}
 
-* Web clipper / share - [2023Q3](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227788)
-* Collaboration - [2023Q4](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227780)
-* API and plugins - [2023Q4](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227670)
-* Publish to web - [Backlog](https://github.com/orgs/anyproto/projects/1?pane=issue\&itemId=29227800)
-* Formulas - [No ETA](https://community.anytype.io/t/derived-relations-formulas/1554/47)
-* Reminders and notifications - [No ETA](https://community.anytype.io/t/notification-system-larger-proposal-for-discussion/1024/21)
-* AI assistant - [No ETA](https://community.anytype.io/t/ai-assistant/9404)
-* Transclusion - [No ETA](https://community.anytype.io/t/link-to-blocks-transclusion-synced-blocks/1360)
-* Whiteboard / canvas - [No ETA](https://community.anytype.io/t/new-type-of-pages-whiteboard-canvas/1389/52)
-* Web app - [No ETA](https://community.anytype.io/t/web-app-web-client/1381)
-* Better tag system - [No ETA](https://community.anytype.io/t/support-search-using-tags/6084)
+* Web clipper / share
+* Collaboration
+* API and plugins
+* Publish to web
+* Formulas
+* Reminders and notifications
+* AI assistant
+* Transclusion
+* Whiteboard / canvas
+* Web app
+* Better tag system
 
 #### Implemented
 

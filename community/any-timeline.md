@@ -1,4 +1,4 @@
-# Anytype Timeline
+# Any Timeline
 
 <img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
@@ -21,5 +21,5 @@
 
 ### Public Release
 
-* There is currently no ETA for when the public release is supposed to happen. Presumably, this can only happen after all the collaboration features are released.
+* There is currently no ETA for when the public release is supposed to happen.
 * You can check the progress towards our public release through our [public roadmap](https://github.com/orgs/anyproto/projects/1/views/1).
