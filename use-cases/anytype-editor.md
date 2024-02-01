@@ -7,3 +7,5 @@ description: >-
 # ✏ Daily Notes
 
 {% embed url="https://www.youtube.com/watch?v=Cl-sG9MialM" %}
+
+You can import this use case to your space using this [link](https://gallery.any.coop/?experience=daily\_journal).

@@ -7,3 +7,5 @@ description: >-
 # 🍛 Recipe Book & Meal Planner
 
 {% embed url="https://www.youtube.com/watch?v=I-TISp9vfk8" %}
+
+You can import this use case to your space using this [link](https://gallery.any.coop/?experience=recipe\_book\_and\_meal\_planner).
