@@ -40,15 +40,15 @@
   * [🌟 Deep dive: Sets](basics/sets/deep-dive-sets.md)
 * [Collections](basics/collections.md)
 
-## 📽 Use Cases
+## 📽️ Use Cases
 
-* [✏ Daily Notes](use-cases/anytype-editor.md)
-* [✈ Travel Wiki](use-cases/travel-wiki.md)
+* [✏️ Daily Notes](use-cases/anytype-editor.md)
+* [✈️ Travel Wiki](use-cases/travel-wiki.md)
 * [🍎 Study Notes](use-cases/study-notes.md)
 * [🎬 Movie Database](use-cases/movie-database.md)
 * [🍛 Recipe Book & Meal Planner](use-cases/meal-planner-recipe-book.md)
 * [🧠 PARA Method for Note taking](use-cases/para-method-for-note-taking.md)
-* [🗨 Language Flashcards](use-cases/language-flashcards.md)
+* [🗨️ Language Flashcards](use-cases/language-flashcards.md)
 
 ## 🌈 Miscellaneous
 
@@ -82,7 +82,7 @@
   * [Get Help from the Community](community/community-forum/get-help-from-the-community.md)
   * [Share Your Feedback](community/community-forum/share-your-feedback.md)
 * [Open Any Initiative](community/join-the-open-source-project/README.md)
-  * [🖼 ANY Experience Gallery](community/join-the-open-source-project/any-experience-gallery.md)
+  * [🖼️ ANY Experience Gallery](community/join-the-open-source-project/any-experience-gallery.md)
 * [Any Timeline](community/any-timeline.md)
 
 ## 🚵 MIgration
