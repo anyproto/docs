@@ -51,6 +51,7 @@
 * [🍛 食谱 & 膳食计划](use-cases/meal-planner-recipe-book.md)
 * [🧠 PARA 笔记法](use-cases/para-method-for-note-taking.md)
 * [🗨 语言闪卡](use-cases/language-flashcards.md)
+* [来自用户 Roland 的使用介绍](use-cases/contributed-intro-by-user-Roland.md)
 
 ## 🌈 杂项
 
