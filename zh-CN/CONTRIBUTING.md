@@ -47,13 +47,13 @@
 ## 文件结构
 
 * 文档中添加或删除的任何页面都需要添加到 [SUMMARY.md](https://github.com/anytypeio/docs/blob/main/SUMMARY.md) 文件的 **目录** 中。
-   * 缩进用于表示页面的嵌套
+   * 缩进用于表示页面的嵌套（于子文件夹中）
    * 使用 markdown 的 URL 表示方式来链接页面，例如：
       ```
       [导航](https://github.com/anytypeio/docs/blob/main/features/navigation.md)
       ```
 * 所有文件都以 **Markdown（.md）** 格式保存
-* 对于嵌套的页面，需要被放在类别文件夹中。如果该文件夹不存在，则你可以创建文件夹
+* 对于子文件夹中的嵌套页面，需要被放在类别文件夹中。如果类别文件夹不存在，则你可以创建该文件夹
 * 要使用图片，必须全部放在 [.gitbook/assets](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) 文件夹中，然后从该文件夹中引用图片
    > 所有媒体都应使用浅色模式
 ## 约定
@@ -201,7 +201,7 @@
    
    ![主页](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
    ```
-   添加媒体块时，如果要添加的页面是嵌套的，请使用适当次数的 `../` 以使嵌入生效。
+   当你添加媒体块时，如果正在编辑的页面处于子文件夹中，请使用在相对路径中适当次数的上层目录 `../` 以使嵌入生效。
 
 - **文件存储：**任何媒体都必须先上传到 [.gitbook/assets/](https://github.com/anytypeio/docs/tree/main/.gitbook/assets) 文件夹。然后才可以在文档中使用。你可能会在现有的页面中看到 GitBook 独有的嵌入格式 `{% embed url="，但你不需要使用这种格式。
 
