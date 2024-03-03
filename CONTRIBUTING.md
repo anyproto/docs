@@ -1,8 +1,9 @@
 <p align="center">
     <a href="https://doc.anytype.io">
-        <img src="https://raw.githubusercontent.com/anytypeio/community/main/assets/anytype-docs-logo.svg" alt="Docs-Logo" width="180px" height="50px">
+        <img src=".gitbook/assets/anytype-logo-360px.png" alt="Docs-Logo" width="100px" height="100px">
     </a>
 </p>
+
 
 ## Table of Contents
 
@@ -100,17 +101,17 @@ You are welcome to propose any changes in PR and participate in discussion in [I
   ```
   [URL Name](https://example.com)
   ```
- 
+
 - ![Image](#)
   ```
   ![Image](http://url/a.png)
   ```
- 
+
 - `Inline Code`
   ```
   `Inline Code`
   ```
- 
+
 ### Lists
 
 - **Un-Ordered List**
