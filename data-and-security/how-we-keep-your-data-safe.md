@@ -15,7 +15,7 @@ Due to the nature of Anytype, you're not able to sync your ready-to-edit objects
 * These indexes are not synced anywhere and they stay only on your computer. For example, if you have two devices, each of them will have its own index storage
 
 {% hint style="danger" %}
-We have a prerequisite that the user’s machine is non-compromised and trusted. Basically, if a device is compromised, there are plenty of attack vectors, including RAM scanning and passphrase keylogging, which is useless. We will definitely make additional encryption later. **For now, we recommend turning HDD encryption and device password on.**
+We have a prerequisite that the user’s machine is non-compromised and trusted. Basically, if a device is compromised, there are plenty of attack vectors, including RAM scanning and passphrase keylogging, which makes local encryption much less useful. We will definitely make additional encryption later. **For now, we recommend turning HDD encryption and device password on.**
 {% endhint %}
 
 #### Tech details <a href="#tech-details" id="tech-details"></a>
