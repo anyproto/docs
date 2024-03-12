@@ -33,7 +33,7 @@ Please note that all your devices should be manually switched to the same networ
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-#### iOS
+#### iOS & Android
 
 1. Log out from your current identity.
 2. On the onboarding screen, click a gear icon in the top right corner.
@@ -42,14 +42,3 @@ Please note that all your devices should be manually switched to the same networ
 5. Create a new identity or log in with the existing one.
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt="" width="375"><figcaption></figcaption></figure>
-
-#### Android
-
-1. Log out from your current identity.
-2. Go to the app settings on the system level (hold the app icon, click “App info”, then go to “Additional app setting”; this flow can differ depending on your Android device).
-3. In the “Network” field pick the network mode you want to use.
-4. If you picked the “Self-hosted” mode, upload your self-hosted network configuration (\*.yml file) to the corresponding field.
-5. Go back to the app.
-6. Create a new identity or log in with the existing one.
-
-<figure><img src="../../.gitbook/assets/image (47).png" alt="" width="375"><figcaption></figcaption></figure>

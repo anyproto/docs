@@ -1,7 +1,5 @@
 # Table of contents
 
-English | [简体中文](zh-CN/SUMMARY.md)
-
 ## Intro
 
 * [Documentation](README.md)

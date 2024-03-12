@@ -16,7 +16,6 @@ For a comparison between Anytype and Notion, check out this article by [Akshay H
 You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/1/views/1).
 {% endhint %}
 
-* Web clipper / share
 * Collaboration
 * API and plugins
 * Publish to web
@@ -31,6 +30,7 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 #### Implemented
 
 * Calendar - [0.36.0](https://community.anytype.io/t/anytype-desktop-0-36-0-released/12198)
+* Webclipper - 0.39.0 ([Chrome](https://chromewebstore.google.com/detail/anytype-web-clipper/jbnammhjiplhpjfncnlejjjejghimdkf?hl=en))
 
 ### Mobile Features
 
