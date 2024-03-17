@@ -16,7 +16,6 @@ description: Anytype is available on Mac, Windows, Linux, iOS, and Android.
 你可以在 [这里](https://github.com/orgs/anyproto/projects/1/views/1) 查看我们的完整路线图。
 {% endhint %}
 
-* Web 剪辑 / 分享
 * 协作
 * API 与插件
 * 发布到网络
@@ -31,6 +30,7 @@ description: Anytype is available on Mac, Windows, Linux, iOS, and Android.
 #### 已实现的
 
 * 日历 - [0.36.0](https://community.anytype.io/t/anytype-desktop-0-36-0-released/12198)
+* Web 剪辑 - 0.39.0 ([Chrome](https://chromewebstore.google.com/detail/anytype-web-clipper/jbnammhjiplhpjfncnlejjjejghimdkf?hl=en))
 
 ### 移动端功能
 

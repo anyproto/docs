@@ -33,7 +33,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-#### iOS
+#### iOS & Android
 
 1. 从你当前的身份登出。
 2. 在登录界面，点击右上角的齿轮图标。
@@ -42,14 +42,3 @@
 5. 创建一个新身份，或使用现有的身份登录。
 
 <figure><img src="../../../.gitbook/assets/image (48).png" alt="" width="375"><figcaption></figcaption></figure>
-
-#### Android
-
-1. 从你当前的身份登出。
-2. 进入系统级别的应用设置（按住应用的图标，点按“应用程序信息”，然后进入“附加应用程序设置”；此流程可能会因 Android 设备而不同）。
-3. 在“网络”一栏中选择你想使用的网络模式。
-4. 如果你选择了“自托管”模式，要将你的自托管网络配置 (\*.yml 文件) 上传到对应的栏位。
-5. 回到应用程序中。
-6. 创建一个新身份，或使用现有的身份登录。
-
-<figure><img src="../../../.gitbook/assets/image (47).png" alt="" width="375"><figcaption></figcaption></figure>
