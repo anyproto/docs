@@ -6,7 +6,7 @@ description: All about memberships & pricing for the Anytype Network
 
 Our memberships are designed to reflect the same core principles that have always guided Anytype’s development: unrestricted access to our software and an open ecosystem where contributions are fairly rewarded.
 
-Here, we describe the first version of our memberships, launching in Spring 2024. For more information about the philosophy behind our membership and its planned evolution, please visit the article: Our Membership Philosophy on our [blog](https://blog.anytype.io).
+Here, we describe the first version of our memberships, launching in Spring 2024. For more information about the philosophy behind our membership and its planned evolution, please visit this blog post: [Our Membership Philosophy](https://blog.anytype.io/our-memberships-philosophy/).
 
 ## Membership Model & Tiers
 
