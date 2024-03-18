@@ -74,7 +74,7 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 
 ## Exclusive Discounts for Beta Testers
 
-<figure><img src="../../.gitbook/assets/Anytype Memberships_Beta Discounts.png" alt=""><figcaption><p>Beta discounts for Anytype Membership Plans, Spring 2024</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Anytype Network_Beta Discounts.png" alt=""><figcaption><p>Beta discounts for Anytype Membership Plans, Spring 2024</p></figcaption></figure>
 
 Current beta testers who were users of Anytype before the launch of memberships, will automatically be granted access to the **Explorer membership**.&#x20;
 
