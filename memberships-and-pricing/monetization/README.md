@@ -8,7 +8,7 @@ Our memberships are designed to reflect the same core principles that have alway
 
 Here, we describe the first version of our memberships, launching in Spring 2024. For more information about the philosophy behind our membership and its planned evolution, please visit this blog post: [Our Membership Philosophy](https://blog.anytype.io/our-memberships-philosophy/).
 
-## Membership Model & Tiers
+## Membership Model & Plans
 
 <figure><img src="../../.gitbook/assets/Anytype Membership Plans (2).png" alt=""><figcaption><p>Anytype Membership Plans, Spring 2024</p></figcaption></figure>
 
@@ -33,7 +33,7 @@ _All members and non-members have unrestricted access to the following:_
 
 ### **Members**
 
-There are three membership tiers in the Anytype Network:
+There are three membership plans for the Anytype Network:
 
 **Explorer Membership:** Those who submit an e-mail address\* become Explorer members at no further cost. The Explorer membership includes:
 
@@ -76,9 +76,7 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 
 <figure><img src="../../.gitbook/assets/Anytype Network_Beta Discounts.png" alt=""><figcaption><p>Beta discounts for Anytype Membership Plans, Spring 2024</p></figcaption></figure>
 
-Current beta testers who were users of Anytype before the launch of memberships, will automatically be granted access to the **Explorer membership**.&#x20;
-
-For those who would like to purchase Builder or Co-Creator memberships, we will offer a limited number of discounted memberships on pre-order as follows:
+For those who would like to purchase Builder or Co-Creator Plans, we will offer a limited number of discounted memberships on pre-order as follows:
 
 * 100 two-year Builder memberships at $99
 * 250 one-year Builder memberships at $79&#x20;
@@ -93,7 +91,7 @@ This offer is only available to beta users who joined our community prior to the
 
 Those who are active contributors to our codebase, gallery, tutorials, and community will have a one-year Builder membership subsidized. Active contributions are defined as 2+ contributions in the past year. You can check the status of your contributions [here](https://github.com/anyproto/contributors/blob/main/contributors.json).&#x20;
 
-Other contributors, who have not met the threshold of 2 contributions per year, can purchase a one-year Builder membership at 50% discount.&#x20;
+Other contributors, who have not met the threshold of 2 contributions per year, can purchase a one-year Builder Plan at 50% discount.&#x20;
 
 We will be sending communications specifically for contributors, announcing the launch of memberships with instructions for claiming your contributor discount. If you haven’t already signed up, the form for our contributors’ mailing list can be found [here](https://anytype.io/contributors?popup=contribute).&#x20;
 
@@ -101,7 +99,9 @@ If you believe that your contribution status is incorrect, please write us at su
 
 ## Pricing for Self-Hosters
 
-Self-hosters do not have limits on the number of Viewers or Editors they can invite to their Spaces. Those who would like to purchase a name in the network or access priority support, can purchase a membership at the same price as other beta testers. In the future, we will introduce membership discounts for self-hosters.
+Self-hosters can manage the limits of Viewers/Editors they invite to their Spaces themselves. Those who would like to purchase a name in the Anytype naming system or access priority support, can purchase a membership at the same price as other beta testers.&#x20;
+
+In the future, we will introduce membership discounts for self-hosters. For those who would like to support the network in the meantime, we will have an option for donations.
 
 ### Want to dig deeper into Memberships? Check out the linked FAQs:
 
