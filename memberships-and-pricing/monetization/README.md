@@ -10,8 +10,6 @@ Here, we describe the first version of our memberships, launching in Spring 2024
 
 ## Membership Model & Tiers
 
-<figure><img src="../../.gitbook/assets/Anytype Network Memberships.jpg" alt=""><figcaption><p>Membership Plans in Anytype Network, Spring 2024.</p></figcaption></figure>
-
 Once memberships are launched, all users of Anytype will fall into one of the below categories:
 
 1. **Non-members:** Those who have not purchased or earned a membership
@@ -86,8 +84,6 @@ This offer is only available to beta users who joined our community prior to the
 
 * [Subscribed to our mailing list](https://anytype.io/?popup=mailinglist)
 * Part of our [Community forum](https://community.anytype.io)
-
-<figure><img src="../../.gitbook/assets/Anytype Network Beta Discount.jpg" alt=""><figcaption><p>Discounts for beta community members in the Anytype network. Spring 2024.</p></figcaption></figure>
 
 ## Pricing for Contributors
 
