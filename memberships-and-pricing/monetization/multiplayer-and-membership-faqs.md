@@ -106,7 +106,7 @@ In our next iteration of memberships, we will have a tier for B2B and educationa
 
 <summary>What happens if I exceed the storage &#x26; sync limits?</summary>
 
-Your spaces will stop syncing with each other through the backup node and use local-storage only.&#x20;
+Your spaces will stop syncing with each other through the backup node and use local sync/storage only.&#x20;
 
 </details>
 
