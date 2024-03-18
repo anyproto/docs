@@ -10,6 +10,8 @@ Here, we describe the first version of our memberships, launching in Spring 2024
 
 ## Membership Model & Tiers
 
+<figure><img src="../../.gitbook/assets/Anytype Membership Plans (2).png" alt=""><figcaption><p>Anytype Membership Plans, Spring 2024</p></figcaption></figure>
+
 Once memberships are launched, all users of Anytype will fall into one of the below categories:
 
 1. **Non-members:** Those who have not purchased or earned a membership
@@ -71,6 +73,8 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
   * Remaining unused spaces can be used for Private or Shared 1-1 spaces
 
 ## Exclusive Discounts for Beta Testers
+
+<figure><img src="../../.gitbook/assets/Anytype Memberships_Beta Discounts.png" alt=""><figcaption><p>Beta discounts for Anytype Membership Plans, Spring 2024</p></figcaption></figure>
 
 Current beta testers who were users of Anytype before the launch of memberships, will automatically be granted access to the **Explorer membership**.&#x20;
 
