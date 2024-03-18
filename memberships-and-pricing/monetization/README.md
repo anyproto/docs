@@ -103,7 +103,7 @@ If you believe that your contribution status is incorrect, please write us at su
 
 Self-hosters do not have limits on the number of Viewers or Editors they can invite to their Spaces. Those who would like to purchase a name in the network or access priority support, can purchase a membership at the same price as other beta testers. In the future, we will introduce membership discounts for self-hosters.
 
-### For more details on Memberships, check out the linked FAQs below:
+### Want to dig deeper into Memberships? Check out the linked FAQs:
 
 {% content-ref url="multiplayer-and-membership-faqs.md" %}
 [multiplayer-and-membership-faqs.md](multiplayer-and-membership-faqs.md)
