@@ -70,9 +70,10 @@
 * [Data Erasure](data-and-security/delete-or-reset-your-account.md)
 * [Analytics & Tracking](data-and-security/analytics-and-tracking.md)
 
-## 💰 Monetization
+## 💰 Memberships & Pricing
 
-* [Monetization](monetization/monetization.md)
+* [Membership Plans](memberships-and-pricing/monetization/README.md)
+  * [Multiplayer & Membership FAQs](memberships-and-pricing/monetization/multiplayer-and-membership-faqs.md)
 
 ## 🌍 COMMUNITY
 
