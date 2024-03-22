@@ -10,7 +10,7 @@ Here, we describe the first version of our memberships, launching in Spring 2024
 
 ## Membership Model & Plans
 
-<figure><img src="../../.gitbook/assets/Anytype Membership Plans (2).png" alt=""><figcaption><p>Anytype Membership Plans, Spring 2024</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Anytype Network_Membership Plans_New.png" alt=""><figcaption><p>Anytype Membership Plans, Spring 2024</p></figcaption></figure>
 
 Once memberships are launched, all users of Anytype will fall into one of the below categories:
 
@@ -40,18 +40,18 @@ There are three membership plans for the Anytype Network:
 * A local, non-unique name
 * 1GB of network backup & sync space
 * One ‘default’ space
-* Up to 10 shared spaces&#x20;
-  * Each shared space is limited to one additional Editor (max 2 participants per space, including owner)
+* Up to 3 shared spaces&#x20;
+  * Each shared space is limited to 3 Editors (Owner + 2 invited Editors per space)
 
-_\*Beta testers - those who joined before the launch of multiplayer in April 2024 - will automatically receive an Explorer membership, regardless of whether they’ve previously submitted their e-mail._
+_\*Beta testers - those who joined before the launch of multiplayer in April 2024 - will automatically receive an Explorer membership, regardless of whether they’ve previously submitted their e-mail. Storage limits previously applied to your account will not change._&#x20;
 
 **Builder Membership:** Those who choose to purchase a one-year membership at a price of $99 (Apr 2024). The Builder membership includes:
 
 * A global, unique name (7+ characters)
 * 128 GB of network backup & sync space
 * One ‘Default’ space
-* Up to 10 Shared spaces
-  * Shared spaces are limited to four additional Editors (max 5 Editors per space, including Owner)
+* Up to 3 Shared spaces
+  * Shared spaces are limited to 10 Editors (Owner + 9 invited Editors per space)
   * Unlimited Viewers for Shared spaces&#x20;
 * Priority support
 
@@ -60,8 +60,8 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 * A global, unique name (5+ characters)
 * 256 GB of network backup & sync space
 * One ‘Default’ space
-* Up to 10 Shared spaces&#x20;
-  * Collaborative spaces limited to four additional Editors (max 5 participants per space, including owner)
+* Up to 3 Shared spaces&#x20;
+  * Shared spaces are limited to 10 Editors (Owner + 9 invited Editors per space)
   * Unlimited Viewers for Shared spaces&#x20;
 * Priority support
 * Exclusive invites to Co-creator events & meetups
@@ -69,12 +69,11 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 **Guests of Members:** Those who are invited to shared spaces by existing members. Guests of members have access to the following:
 
 * One ‘default’ space
-* Access up to 10 Shared spaces, if invited to these spaces by other members
-  * Remaining unused spaces can be used for Private or Shared 1-1 spaces
+* Access up to 3 Shared spaces, if invited to these spaces by other members
 
 ## Exclusive Discounts for Beta Testers
 
-<figure><img src="../../.gitbook/assets/Anytype Network_Beta Discounts.png" alt=""><figcaption><p>Beta discounts for Anytype Membership Plans, Spring 2024</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Anytype Network_Beta Discounts_Docs.png" alt=""><figcaption><p>Anytype Network Beta Discounts, Spring 2024</p></figcaption></figure>
 
 For those who would like to purchase Builder or Co-Creator Plans, we will offer a limited number of discounted memberships on pre-order as follows:
 

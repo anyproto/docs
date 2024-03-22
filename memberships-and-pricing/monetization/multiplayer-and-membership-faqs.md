@@ -52,7 +52,7 @@ If your guest has never installed Anytype, the invite link will open a unique do
 
 <summary>How many people can I invite to my space?</summary>
 
-Explorers can invite up to one additional Editor per shared space. Builders and Co-creators can invite up to four additional Editors per shared space, and an unlimited number of Viewers.
+Explorers can invite up to two additional Editors per shared space. Builders and Co-creators can invite up to nine additional Editors per shared space, and an unlimited number of Viewers.
 
 </details>
 
