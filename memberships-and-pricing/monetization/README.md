@@ -23,7 +23,7 @@ Once memberships are launched, all users of Anytype will fall into one of the be
 
 ### **Non-Members**
 
-This is the default for newly onboarded users who have not been invited to a shared space by a current Anytype user.&#x20;
+This is the default for newly onboarded users who have not been invited to a shared space by a current Anytype Member.&#x20;
 
 _All members and non-members have unrestricted access to the following:_
 
@@ -41,7 +41,7 @@ There are three membership plans for the Anytype Network:
 * 1GB of network backup & sync space
 * One ‘default’ space
 * Up to 3 shared spaces&#x20;
-  * Each shared space is limited to 3 Editors (Owner + 2 invited Editors per space)
+  * 3 Editors per shared space (Owner + 2 invited Editors per space)
 
 _\*Beta testers - those who joined before the launch of multiplayer in April 2024 - will automatically receive an Explorer membership, regardless of whether they’ve previously submitted their e-mail. Storage limits previously applied to your account will not change._&#x20;
 
@@ -51,8 +51,8 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 * 128 GB of network backup & sync space
 * One ‘Default’ space
 * Up to 3 Shared spaces
-  * Shared spaces are limited to 10 Editors (Owner + 9 invited Editors per space)
-  * Unlimited Viewers for Shared spaces&#x20;
+  * 10 Editors per shared space (Owner + 9 invited Editors per space)
+  * Unlimited Viewers for shared spaces&#x20;
 * Priority support
 
 **Co-Creator Membership:** Those who choose to purchase a three-year subscription at a price of $299 (Apr 2024). The Co-Creator membership includes:
@@ -61,7 +61,7 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 * 256 GB of network backup & sync space
 * One ‘Default’ space
 * Up to 3 Shared spaces&#x20;
-  * Shared spaces are limited to 10 Editors (Owner + 9 invited Editors per space)
+  * 10 Editors per shared space (Owner + 9 invited Editors per space)
   * Unlimited Viewers for Shared spaces&#x20;
 * Priority support
 * Exclusive invites to Co-creator events & meetups
