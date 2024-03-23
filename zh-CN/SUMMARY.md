@@ -73,7 +73,7 @@
 * [数据擦除](data-and-security/delete-or-reset-your-account.md)
 * [分析与追踪](data-and-security/analytics-and-tracking.md)
 
-## 💰 货币化（Monetization）
+## 💰 会员与价格
 
 * [货币化（Monetization）](monetization/monetization.md)
 
