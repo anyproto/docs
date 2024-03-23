@@ -2,15 +2,15 @@
 description: 所有关于会员和定价的 Anytype Network 的事情
 ---
 
-# 提醒
-
-**涉及会员定价权益等如有改变，具体以[英文文档页面](../../../memberships-and-pricing/monetization/README.md)为准。**
-
 # 会员计划
 
 我们的会员旨在体现一直以来指导 Anytype 发展的核心原则：不受限制地使用我们的软件和开放的生态系统，让贡献得到公平的回报。
 
 在此，我们将介绍将于 2024 年春季推出的第一版会员制。 想要了解更多有关会员背后的理念及其后续计划演变的信息，请查看本帖子： [Our Membership Philosophy](https://blog.anytype.io/our-memberships-philosophy/).
+
+{% hint style="info" %}
+涉及会员定价权益等如有改变，具体以[英文文档页面](../../../memberships-and-pricing/monetization/README.md)为准。
+{% endhint %}
 
 ## 会员挡位与计划
 
