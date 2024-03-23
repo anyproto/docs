@@ -75,7 +75,8 @@
 
 ## 💰 会员与价格
 
-* [货币化（Monetization）](monetization/monetization.md)
+* [会员计划](memberships-and-pricing/monetization/README.md)
+  * [多人与会员常见问题解答](memberships-and-pricing/monetization/multiplayer-and-membership-faqs.md)
 
 ## 🌍 社区
 
