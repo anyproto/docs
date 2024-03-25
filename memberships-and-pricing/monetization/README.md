@@ -14,7 +14,7 @@ Here, we describe the first version of our memberships, launching in Spring 2024
 
 Once memberships are launched, all users of Anytype will fall into one of the below categories:
 
-1. **Non-members:** Those who have not purchased or earned a membership
+1. **Non-Members:** Those who have not purchased or earned a membership.
 2. **Members:** Those who have purchased or earned a membership.
    * Explorers
    * Builders
@@ -25,7 +25,7 @@ Once memberships are launched, all users of Anytype will fall into one of the be
 
 This is the default for newly onboarded users who have not been invited to a shared space by a current Anytype Member.&#x20;
 
-_All members and non-members have unrestricted access to the following:_
+_All Members and Non-Members have unrestricted access to the following:_
 
 * On-device, local-only storage
 * P2P sync
@@ -39,7 +39,7 @@ There are three membership plans for the Anytype Network:
 
 * A local, non-unique name
 * 1GB of network backup & sync space
-* One ‘default’ space
+* One ‘Default’ space
 * Up to 3 shared spaces&#x20;
   * 3 Editors per shared space (Owner + 2 invited Editors per space)
 
@@ -64,12 +64,12 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
   * 10 Editors per shared space (Owner + 9 invited Editors per space)
   * Unlimited Viewers for Shared spaces&#x20;
 * Priority support
-* Exclusive invites to Co-creator events & meetups
+* Exclusive invites to Co-Creator events & meetups
 
-**Guests of Members:** Those who are invited to shared spaces by existing members. Guests of members have access to the following:
+**Guests of Members:** Those who are invited to shared spaces by existing Members. Guests of Members have access to the following:
 
-* One ‘default’ space
-* Access up to 3 Shared spaces, if invited to these spaces by other members
+* One ‘Default’ space
+* Access up to 3 Shared spaces, if invited to these spaces by other Members
 
 ## Exclusive Discounts for Beta Testers
 
