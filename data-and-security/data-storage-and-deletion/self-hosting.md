@@ -8,7 +8,7 @@ Our backup nodes are located in Switzerland.
 
 ### **Self-hosted Network**
 
-To backup your spaces and data to a self-hosted network, you need to have a network configuration. If you don’t run your own network yet, see this [how-to guide](https://tech.anytype.io/how-to/self-hosting).
+To back up your spaces and data to a self-hosted network, you need to have a network configuration. If you don’t run your own network yet, see this [how-to guide](https://tech.anytype.io/how-to/self-hosting).
 
 Our contributors are already working on creating a Docker image to simplify the setup of self-hosted infrastructure. You can join by following this [discussion](https://github.com/orgs/anyproto/discussions/17) on our GitHub page.
 
