@@ -11,7 +11,7 @@ While the product is in alpha, we use analytics services to help us understand p
 * How many users joined in the past month & how many dropped
 * How many Objects, Blocks, Sets, and Custom Types were created (and average that per number of active users)
 * How much time people spend in the app, on average
-* Which devices are used to login to the app
+* Which devices are used to log in to the app
 
 We use these to understand our main product metrics and whether overall, we’re moving in the correct direction. While we can track frequency and adoption of events, _we cannot in any way track the content you create._&#x20;
 
