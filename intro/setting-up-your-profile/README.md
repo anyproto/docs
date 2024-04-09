@@ -30,7 +30,7 @@ There's no browser version of the app. Anytype is a stand-alone software, that w
 
 If you haven't created an account yet, you can easily create one by clicking **Join** and then following the provided instructions.
 
-#### Log in using your recovery phrase
+#### Log in using your Recovery Phrase
 
 On the contrary, if you already do have an account, click on **Login** and enter your recovery phrase to proceed.
 
@@ -40,13 +40,13 @@ Store your [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-reco
 
 #### Log in using the QR code
 
-In addition to using the recovery phrase to log in, you can also use the QR code to login faster if your desktop is close by.
+In addition to using the Recovery Phrase to log in, you can also use the QR code to login faster if your desktop is close by.
 
-To log in using the QR code, simply navigate to your recovery phrase.
+To log in using the QR code, simply navigate to your Recovery Phrase.
 
-Settings > Recovery Phrase.
+Settings > Account > Recovery Phrase.
 
-Underneath your recovery phrase you'll find your blurred out QR code, when you click the image it will display.
+Underneath your Recovery Phrase you'll find your blurred out QR code, when you click the image it will display.
 
 Now you can scan this code with your mobile device and install the app.
 
