@@ -36,7 +36,7 @@ You can set a color mode (light, dark, or system) and enable/disable automatical
 This feature is currently available only on desktop.
 {% endhint %}
 
-If you need some extra privacy, e.g. while sharing a computer, you can set up a pin code that will lock the app while using and protect your recovery phrase. You will need to enter the pin code each time your Anytype session expires (1 min, 5 min, 10 min, or 1 hour) or if you want to access your Recovery Phrase:
+If you want more privacy, like when sharing a computer, you can set up a PIN code. This will lock the app and keep your Recovery Phrase safe. You'll just need to enter the PIN each time your Anytype session ends (after 1 minute, 5 minutes, 10 minutes, or 1 hour) or when you need to access your Recovery Phrase.
 
 {% hint style="warning" %}
 We do not store this data so we cannot help you in recovering. Make sure to write down your pin code next to your Recovery Phrase note.
