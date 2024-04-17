@@ -36,9 +36,13 @@ Some examples:
 * @nextmonth
 * @24/8/2023
 
-{% hint style="info" %}
-These are unfortunately not yet available on our mobile apps.
-{% endhint %}
+#### Link aliases
+
+You can use regular links to link to a specific object in your space using a different name.&#x20;
+
+1. Write the name of your link first.
+2. Select the name and press `Ctrl + K`.
+3. Search for the object you want to link, and select it.
 
 ### Checking Existing Links
 
