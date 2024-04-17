@@ -10,12 +10,20 @@ description: >-
 
 Find the latest version of Anytype for your OS at [download.anytype.io](https://download.anytype.io)
 
+#### Minimum specs
+
+* For Desktop, we follow Electron who follows vendor support policies (so no Win 7 / Win 8.1, for example).
+* For Android (through Google Play), it's Android 8.0 and a 64-bit device with a minimum of 4GB of RAM.
+* For iOS, it's iOS 15 and soon it will be iOS 16.
+
+#### Install location
+
 Anytype is installed:
 
 * In Windows 10 or above, it is usually located:\
   `C:\Users\<username>\Appdata\Local\Programs\anytype2\Anytype.exe`\
   **username** stands for the name of your user aka working directory.
-* For MacOS, it's: `HHD > Users >`` `_`Username`_` ``> Library > Application Support > anytype`
+* For MacOS, it's: ` HHD > Users >`` `` `_`Username`_` `` ``> Library > Application Support > anytype `
 * For Linux, you'll find your work directory in `~/.config/anytype`
 * For Android, it’s your default location, usually: \_device/data/app\_​.\
   We also store some caches: _device/data/data/io.anytype.app_\
