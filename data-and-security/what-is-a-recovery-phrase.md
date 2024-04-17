@@ -36,6 +36,23 @@ The strength of a Recovery Phrase lies in its ability to safeguard your digital 
 
 However, it's crucial to understand that the responsibility of protecting your Recovery Phrase ultimately lies with you. While it may be tempting to store it digitally for convenience, these methods can introduce vulnerabilities. Instead, it is recommended to write down your Recovery Phrase on a physical medium, and store it securely in a location known only to you. Avoid storing your Recovery Phrase on devices connected to the internet or in cloud storage, as they can be compromised by hackers or unauthorized access.
 
-### Login issues on Linux
+### Keychain storage
 
-Linux users may be asked for their Recovery Phrase each time they log in. To resolve this issue, please install a keychain. The most popular is [GNOME Keyring](https://wiki.gnome.org/Projects/GnomeKeyring) — check the [discussion on the Community Forum](https://community.anytype.io/t/linux-version-does-not-keep-me-logged-in/4859). Additionally, ensure that you have met all the [dependencies](https://github.com/anyproto/anytype-ts#dependencies) beforehand.
+If you’re using a Mac, Anytype’s default setting is to store your Recovery Phrase in the native Keychain Access app. It doesn’t get stored anywhere else. Whether your passwords are backed up to iCloud depends if you have that option enabled in your settings. You can check [Apple’s support page](https://support.apple.com/en-us/HT204085) for more information on iCloud password backups.
+
+We’ve set up this system as a safety net for users who might otherwise lose their Recovery Phrase. We’re pursuing different options for the future, but for the time being, this is how it works.
+
+If you logged in with your Recovery Phrase on your mac, then you can find it here:
+
+1. Click and open Finder from the dock.
+2. Click on Applications & open Utilities.
+3. Open the Keychain Access app.
+4. On the sidebar: select Default Keychains: login
+5. Find & open your Anytype instance in the list
+6. Check the “Show password” box to reveal your Recovery Phrase
+
+#### Windows and Linux
+
+On Windows, your keychain is stored in the [Credentials Manager](https://support.microsoft.com/en-us/windows/accessing-credential-manager-1b5c916a-6a16-889f-8581-fc16e8165ac0).
+
+On Linux, you can use [seahorse](https://wiki.gnome.org/Apps/Seahorse/) to find your keychain if you are using [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring).
