@@ -7,8 +7,7 @@
 * [👾 Setting Up Your Account](intro/setting-up-your-profile/README.md)
   * [Account Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
   * [Space Settings](intro/setting-up-your-profile/space-settings.md)
-  * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar/README.md)
-    * [✨ Simple Dashboard](intro/setting-up-your-profile/customize-and-edit-the-sidebar/simple-dashboard.md)
+  * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
   * [Other Navigation](intro/setting-up-your-profile/installation.md)
 * [🎇 Onboarding](intro/onboarding.md)
 
@@ -42,12 +41,13 @@
 
 ## 📽️ Use Cases
 
+* [✨ Simple Dashboard](use-cases/simple-dashboard.md)
 * [✏️ Daily Notes](use-cases/anytype-editor.md)
+* [🧠 PARA Method for Note taking](use-cases/para-method-for-note-taking.md)
+* [🎬 Movie Database](use-cases/movie-database.md)
 * [✈️ Travel Wiki](use-cases/travel-wiki.md)
 * [🍎 Study Notes](use-cases/study-notes.md)
-* [🎬 Movie Database](use-cases/movie-database.md)
 * [🍛 Recipe Book & Meal Planner](use-cases/meal-planner-recipe-book.md)
-* [🧠 PARA Method for Note taking](use-cases/para-method-for-note-taking.md)
 * [🗨️ Language Flashcards](use-cases/language-flashcards.md)
 
 ## 🌈 Miscellaneous

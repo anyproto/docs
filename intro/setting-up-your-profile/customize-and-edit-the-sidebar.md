@@ -6,7 +6,7 @@ description: How do we customize and edit?
 
 Your sidebar is comprised of customizable widgets which allow you to preview and navigate your Objects.
 
-By default, your sidebar includes widgets which link to your [Library](../../../basics/anytype-library/) and Bin.
+By default, your sidebar includes widgets which link to your [Library](../../basics/anytype-library/) and Bin.
 
 In general, _any_ object you've created using Anytype's editor can be used as a widget and formatted using link or tree view. Sets and Collections - Objects in and of themselves - can be used as widgets with a list of objects contained therein.
 
@@ -17,6 +17,10 @@ Additionally, Anytype provides several options for _non-object_ widgets which yo
 * Collections: All Collection-type objects
 * Recently edited: Your recently edited objects (globally synced across devices)
 * Recently opened: Your recently opened objects (device-specific)
+
+{% content-ref url="../../use-cases/simple-dashboard.md" %}
+[simple-dashboard.md](../../use-cases/simple-dashboard.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 Objects in these widgets can't be sorted manually. You'll need to create your own widget to be able to do that.
@@ -36,11 +40,11 @@ Depending on the widget source, you can choose from a variety of layouts.
 
 It is possible to view widgets sourced from a single Object created in the editor (Pages, Notes, etc.) as a 'link' or a 'tree'. A link widget displays only the object name, whereas a tree widget displays all of objects connected to the source object by first and second-degree connections.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-18 at 09.01.31.png" alt=""><figcaption><p>Above, 'the 'Self' widget is displayed using tree view whereas the 'Home' widget is displayed using link view.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-18 at 09.01.31.png" alt=""><figcaption><p>Above, 'the 'Self' widget is displayed using tree view whereas the 'Home' widget is displayed using link view.</p></figcaption></figure>
 
 When creating widgets from sets and collections on the other hands, you'll see the view options of 'List' or 'Compact list'. Both render a preview of objects contained within the given set/collection, with differences in line spacing and description previews.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-18 at 09.08.53 (1).png" alt=""><figcaption><p>Above, the 'Disco Room' widget displayed as a compact list (top) and list (bottom).</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-18 at 09.08.53 (1).png" alt=""><figcaption><p>Above, the 'Disco Room' widget displayed as a compact list (top) and list (bottom).</p></figcaption></figure>
 
 ### Mobile Widgets
 
