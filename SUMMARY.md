@@ -52,6 +52,7 @@
 
 ## 🌈 Miscellaneous
 
+* [General FAQs](miscellaneous/general-faqs.md)
 * [Features & Comparison](miscellaneous/feature-list-by-platform.md)
 * [Troubleshooting](miscellaneous/troubleshooting.md)
 * [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
