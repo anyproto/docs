@@ -12,6 +12,6 @@ Use the [space management menu](../intro/setting-up-your-profile/space-settings.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-You can also manage all of your spaces by going into `Settings > Vault & Key > Spaces`.
+You can also manage all of your spaces by going into `Settings > Spaces`.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
