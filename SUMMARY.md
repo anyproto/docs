@@ -3,7 +3,6 @@
 ## Intro
 
 * [👋 Welcome](README.md)
-  * [🎇 Onboarding](intro/readme/onboarding.md)
 * [🌐 Connect with Us](intro/connect-with-us.md)
 * [👾 Setting Up Your Account](intro/setting-up-your-profile/README.md)
   * [Account Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
@@ -11,6 +10,7 @@
   * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar/README.md)
     * [✨ Simple Dashboard](intro/setting-up-your-profile/customize-and-edit-the-sidebar/simple-dashboard.md)
   * [Other Navigation](intro/setting-up-your-profile/installation.md)
+* [🎇 Onboarding](intro/onboarding.md)
 
 ## ⬛ Basics
 
