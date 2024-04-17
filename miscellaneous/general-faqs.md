@@ -10,8 +10,36 @@ We can guarantee that there are no network requests to our Anytype Network, but 
 
 <details>
 
-<summary>Login issues on Linux</summary>
+<summary>What to do if I'm asked to enter my recovery phrase each time on Linux?</summary>
 
 Linux users may be asked for their Recovery Phrase each time they log in. To resolve this issue, please install a keychain. The most popular is [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring). Additionally, ensure that you have met all the [dependencies](https://github.com/anyproto/anytype-ts#dependencies) beforehand.
+
+</details>
+
+<details>
+
+<summary>How can I recover data after a suspected database corruption (Win 11)?</summary>
+
+If you’re experiencing issues with Anytype, such as after a sudden power loss, and suspect database corruption, follow these step-by-step instructions to recover your data:
+
+**Step 1**: Locate the Anytype Account Data
+
+1. Open File Explorer: Press `Win + E` to open File Explorer.
+2. Access the AppData Folder: In the address bar, type `%AppData%` and press `Enter`. This takes you to the `Roaming` folder inside `AppData`.
+3. Navigate to Anytype Data Folder: Go to the Anytype folder by following this path:
+4. `Anytype > data > <accountId>` or `Anytype > beta > data > <accountId>` in case you are on the Pre-release(beta) channel in anytype
+5. Replace `<accountId>` with your specific account ID.
+
+**Step 2:** Rename the Localstore Database
+
+1. Find the Localstore Folder: Inside the Anytype data folder, look for a folder named `localstore`.
+2. Rename the Localstore Folder: Right-click on the `localstore` folder and select `Rename`. Change the name to something like `localstore_backup`. This step ensures that Anytype will create a new localstore database when it runs next, while keeping your old data safe in the renamed folder.
+
+**Step 3:** Restart Anytype
+
+1. Launch Anytype: Open the Anytype application on your computer.
+2. Check for Normal Operation: Anytype should now launch without issues. It will create a new localstore database automatically.
+
+If after these steps Anytype still doesn’t launch, probably you have spacestore database corrupted. Please take a look at this instruction [A tool to fix the 'Anytype Helper Crashed' Issue 2](https://community.anytype.io/t/a-tool-to-fix-the-anytype-helper-crashed-issue/13653).
 
 </details>
