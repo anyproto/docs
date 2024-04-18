@@ -2,13 +2,17 @@
 description: Anytype is available on Mac, Windows, Linux, iOS, and Android.
 ---
 
-# Features & Comparison
+# Features
 
 ### App Comparison
 
-For a comparison between Anytype and Notion, check out this article by [Akshay Hallur](https://bloggingx.com/author/akshay/).
+For a comparison between Anytype and Notion, check out our article:
 
-{% embed url="https://bloggingx.com/anytype-review/" %}
+{% embed url="https://blog.anytype.io/notion-alternative/" %}
+
+Or if you are wondering what the differences between Evernote and Anytype are, check out this other article from our blog:
+
+{% embed url="https://blog.anytype.io/evernote-alternative/" %}
 
 ### Highly Requested Features
 
@@ -34,7 +38,7 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 
 ### Mobile Features
 
-Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.38.\*, and the mobile versions used for comparison are both 0.28.\*.
+Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.40.\*, and the mobile versions used for comparison are both 0.28.\*.
 
 {% tabs %}
 {% tab title="Account" %}

@@ -14,7 +14,12 @@ These are the customization options for your space:
 
 1. Customize your **Space icon**
 2. Add your **space name**
-3. Choose your **homepage**
+3. **Sharing customization.**
+4. Manage your space storage.
+5. Choose your **homepage**
+6. **Default Object Type:** You can choose a default Object Type (from the default set or your own Types) — it defines the Type of Object that opens up each time you create a new Object using the + button.
+
+Space info at the bottom.
 
 ### Choose your space icon
 

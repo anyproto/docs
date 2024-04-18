@@ -8,8 +8,6 @@ description: >-
 
 ### Understanding Collections
 
-These are similar to Sets in their appearance and layout, however functioning differently.
-
 Contrary to Sets and what was explained in the previous chapter, Collections are not filtered by Object Type but are in fact open to any Type.&#x20;
 
 Collections can be used to organize a variety of different objects and store them in one place.

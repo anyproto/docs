@@ -6,13 +6,13 @@ Instead of adding Relations one-by-one to Objects, you can batch-add them to you
 
 Here you can toggle on/off any Relations that you would like to see, add another Relation or new relation, and edit the View of the Set here.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (16).png>)
 
 You can add any Relations to be automatically added to your **Objects**, by adding them in the creation process of your **Type**.
 
-See more about how to [create-a-new-type.md](../types/create-a-new-type.md "mention") here. Underneath the title & Template section of the new Type process you'll have the Relation options.
+See more about how to [create-a-new-type.md](../../types/create-a-new-type.md "mention") here. Underneath the title & Template section of the new Type process you'll have the Relation options.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 ### Sorts & Filters
 

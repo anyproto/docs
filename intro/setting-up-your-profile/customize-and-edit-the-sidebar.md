@@ -6,7 +6,7 @@ description: How do we customize and edit?
 
 Your sidebar is comprised of customizable widgets which allow you to preview and navigate your Objects.
 
-By default, your sidebar includes widgets which link to your [Library](../../basics/anytype-library/) and Bin.
+By default, your sidebar includes widgets which link to your [Library](../../basics/anytype-library.md) and Bin.
 
 In general, _any_ object you've created using Anytype's editor can be used as a widget and formatted using link or tree view. Sets and Collections - Objects in and of themselves - can be used as widgets with a list of objects contained therein.
 
@@ -21,10 +21,6 @@ Additionally, Anytype provides several options for _non-object_ widgets which yo
 {% content-ref url="../../use-cases/simple-dashboard.md" %}
 [simple-dashboard.md](../../use-cases/simple-dashboard.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-Objects in these widgets can't be sorted manually. You'll need to create your own widget to be able to do that.
-{% endhint %}
 
 ### Customize your Sidebar Widgets
 

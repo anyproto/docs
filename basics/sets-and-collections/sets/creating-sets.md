@@ -6,7 +6,7 @@ You'll then need to choose if you want a Set by Type which lets you list all of 
 
 You can also create a Set by Type from the Object type toggle on a new document.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (18).png>)
 
 ### Next, you need to decide on the purpose of your Set.&#x20;
 
@@ -16,4 +16,4 @@ This will then create a set of all the Objects with the Type: Books.&#x20;
 
 Now you have an organized selection of all your book objects entered into Anytype.
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (26).png>)

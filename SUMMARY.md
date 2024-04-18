@@ -3,14 +3,13 @@
 ## Intro
 
 * [👋 Welcome](README.md)
-* [🌐 Connect with Us](intro/connect-with-us.md)
+* [🎇 Onboarding](intro/onboarding.md)
+* [👥 Collaboration](intro/collaboration.md)
 * [👾 Setting Up Your Account](intro/setting-up-your-profile/README.md)
   * [Account Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
   * [Space Settings](intro/setting-up-your-profile/space-settings.md)
   * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
-  * [Other Navigation](intro/setting-up-your-profile/installation.md)
-* [🎇 Onboarding](intro/onboarding.md)
-* [👥 Collaboration](intro/collaboration.md)
+* [🌐 Connect with Us](intro/connect-with-us.md)
 
 ## ⬛ Basics
 
@@ -23,45 +22,33 @@
 * [Types](basics/types/README.md)
   * [Create a New Type](basics/types/create-a-new-type.md)
   * [Layouts](basics/types/layouts.md)
-  * [Templates](basics/types/templates/README.md)
-    * [💫 Deep dive: Templates](basics/types/templates/deep-dive-templates.md)
+  * [Templates](basics/types/templates.md)
 * [Relations](basics/relations/README.md)
   * [Add a New Relation](basics/relations/create-a-new-relation.md)
   * [Create a New Relation](basics/relations/create-a-new-relation-1.md)
   * [Backlinks](basics/relations/backlinks.md)
-* [Library](basics/anytype-library/README.md)
-  * [Type Library](basics/anytype-library/types.md)
-  * [Relation Library](basics/anytype-library/relations.md)
+* [Sets & Collections](basics/sets-and-collections/README.md)
+  * [Sets](basics/sets-and-collections/sets/README.md)
+    * [Creating Sets](basics/sets-and-collections/sets/creating-sets.md)
+    * [Customizing with Relations, Sort, & Filters](basics/sets-and-collections/sets/customizing-with-relations-sort-and-filters.md)
+  * [Collections](basics/sets-and-collections/collections.md)
+  * [Views](basics/sets-and-collections/views.md)
+* [Library](basics/anytype-library.md)
 * [Links](anytype-basics/object-editor/linking-objects.md)
 * [Graph](basics/graph.md)
-* [Sets](basics/sets/README.md)
-  * [Creating Sets](basics/sets/creating-sets.md)
-  * [Customizing with Relations, Sort, & Filters](basics/sets/customizing-with-relations-sort-and-filters.md)
-  * [🌟 Deep dive: Sets](basics/sets/deep-dive-sets.md)
-* [Collections](basics/collections.md)
 
 ## 📽️ Use Cases
 
 * [✨ Simple Dashboard](use-cases/simple-dashboard.md)
-* [✏️ Daily Notes](use-cases/anytype-editor.md)
+* [🌟 Deep dive: Sets](use-cases/deep-dive-sets.md)
+* [💫 Deep dive: Templates](use-cases/deep-dive-templates.md)
 * [🧠 PARA Method for Note taking](use-cases/para-method-for-note-taking.md)
+* [✏️ Daily Notes](use-cases/anytype-editor.md)
 * [🎬 Movie Database](use-cases/movie-database.md)
-* [✈️ Travel Wiki](use-cases/travel-wiki.md)
 * [🍎 Study Notes](use-cases/study-notes.md)
+* [✈️ Travel Wiki](use-cases/travel-wiki.md)
 * [🍛 Recipe Book & Meal Planner](use-cases/meal-planner-recipe-book.md)
 * [🗨️ Language Flashcards](use-cases/language-flashcards.md)
-
-## 🌈 Miscellaneous
-
-* [General FAQs](miscellaneous/general-faqs.md)
-* [Features & Comparison](miscellaneous/feature-list-by-platform.md)
-* [Troubleshooting](miscellaneous/troubleshooting.md)
-* [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
-  * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
-  * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
-  * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
-  * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
-* [Technical Glossary](miscellaneous/glossary-1.md)
 
 ## 🔐 Data & Security
 
@@ -74,10 +61,10 @@
 * [Data Erasure](data-and-security/delete-or-reset-your-account.md)
 * [Analytics & Tracking](data-and-security/analytics-and-tracking.md)
 
-## 💰 Memberships & Pricing
+## 💰 Memberships
 
-* [Membership Plans](memberships-and-pricing/monetization/README.md)
-  * [Multiplayer & Membership FAQs](memberships-and-pricing/monetization/multiplayer-and-membership-faqs.md)
+* [Membership Plans](memberships/monetization/README.md)
+  * [Multiplayer & Membership FAQs](memberships/monetization/multiplayer-and-membership-faqs.md)
 
 ## 🌍 COMMUNITY
 
@@ -90,6 +77,15 @@
   * [🖼️ ANY Experience Gallery](community/join-the-open-source-project/any-experience-gallery.md)
 * [Any Timeline](community/any-timeline.md)
 
-## 🚵 MIgration
+## 🌈 Miscellaneous
 
-* [Migration from the Legacy App](migration/migration-from-the-legacy-app.md)
+* [FAQs](miscellaneous/faqs.md)
+* [Features](miscellaneous/feature-list-by-platform.md)
+* [Troubleshooting](miscellaneous/troubleshooting.md)
+* [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
+  * [Main Commands](miscellaneous/keyboard-shortcuts/main-commands.md)
+  * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
+  * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
+  * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
+* [Technical Glossary](miscellaneous/glossary-1.md)
+* [Migration from the Legacy App](miscellaneous/migration-from-the-legacy-app.md)

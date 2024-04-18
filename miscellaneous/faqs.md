@@ -1,4 +1,4 @@
-# General FAQs
+# FAQs
 
 <details>
 
@@ -41,5 +41,31 @@ If you’re experiencing issues with Anytype, such as after a sudden power loss,
 2. Check for Normal Operation: Anytype should now launch without issues. It will create a new localstore database automatically.
 
 If after these steps Anytype still doesn’t launch, probably you have spacestore database corrupted. Please take a look at this instruction [A tool to fix the 'Anytype Helper Crashed' Issue 2](https://community.anytype.io/t/a-tool-to-fix-the-anytype-helper-crashed-issue/13653).
+
+</details>
+
+<details>
+
+<summary>Why is there no browser version of Anytype?</summary>
+
+There's no browser version of the app. Anytype is a stand-alone software, that works on desktop or mobile devices. There are many points of vulnerability in-browser apps that would compromise our commitment to data security and encryption.
+
+</details>
+
+<details>
+
+<summary>Why is RTL no supported?</summary>
+
+We currently don't support RTL fully, but we have plans to support them later.
+
+</details>
+
+<details>
+
+<summary>What happened to the old homepage?</summary>
+
+<img src="../.gitbook/assets/w=3840,quality=80 (1).webp" alt="" data-size="original">
+
+The homepage from the alpha app has been removed, and replaced with the new sidebar and widgets. If you really liked this layout, you can try recreating it using a set with a gallery view.
 
 </details>

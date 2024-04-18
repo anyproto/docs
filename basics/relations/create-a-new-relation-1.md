@@ -4,7 +4,7 @@ description: How to create new relations from the library and your editor
 
 # Create a New Relation
 
-The [anytype-library](../anytype-library/ "mention") is the central place to manage, search for, and create new relations.
+The [anytype-library.md](../anytype-library.md "mention") is the central place to manage, search for, and create new relations.
 
 ### Creating Relations from the Library
 

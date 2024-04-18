@@ -12,23 +12,31 @@ Here you can add your **name, bio,** and **profile picture.** Your profile repre
 
 ### Preferences
 
-**Default Object Type:** You can choose a default Object Type (from the default set or your own Types) — it defines the Type of Object that opens up each time you create a new Object using the + button.
-
-**Spellcheck Language:** You can enable automatic spellcheck from 40+ languages, or disable the spellcheck.
+**Spellcheck Languages:** You can enable automatic spellcheck from 40+ languages, or disable the spellcheck.
 
 **Interface Language:** You can choose amongst the community-translated versions to localize your interface.
 
-{% hint style="info" %}
-RTL is not yet fully supported.&#x20;
-{% endhint %}
+**Show Quick-capture menu on:** You can decide how you want the new capture menu to work (click, hover, or right-click).
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.24.05.png" alt=""><figcaption></figcaption></figure>
+**Link to object style:** You can decide which style should the /link command use by default (either card or text).
+
+**Open objects in fullscreen:** You can decide whether you want all objects to be opened in fullscreen by default.
+
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 ### Appearance
 
-You can set a color mode (light, dark, or system) and enable/disable automatically showing the Sidebar:
+**Set color mode:** Choose between light, dark or system color modes.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.26.01.png" alt=""><figcaption></figcaption></figure>
+**Automatically show and hide sidebar:** With this option disabled the sidebar won't automatically pop out when you hover over the left side of the screen.
+
+**Show Anytype in system tray:** Anytype will always stay running in the background, but you have the option to either have it show in the system tray or not.
+
+**Display relative dates:** You can decide whether you want relative dates like today / tomorrow to be used, or whether you want all dates to show the exact date.
+
+**Show menu bar:** This setting will show the default menu bar for your OS.
+
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ### Pin Code
 
@@ -42,12 +50,24 @@ If you want more privacy, like when sharing a computer, you can set up a PIN cod
 We do not store this data so we cannot help you in recovering. Make sure to write down your pin code next to your Recovery Phrase note.
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+
+### Spaces
+
+You can also manage all of your spaces by going into `Settings > Spaces`.
+
 ### Data Management
 
 **Local files**. You can choose to offload files stored in Anytype to our Encrypted Backup Node.
 
+**Data location.** You can also decide where your data is stored (desktop only).&#x20;
+
 **Account deletion**. Also, if you would like to delete your account, you can do it in this section.
 
-### Recovery Phrase
+### Key
 
 You can access your Recovery Phrase or scan the QR code to connect your mobile device. For more details, please check [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention").
+
+### Membership
+
+You can manage your [membership](../../memberships/monetization/) plans here.
