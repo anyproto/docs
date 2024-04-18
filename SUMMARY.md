@@ -10,6 +10,7 @@
   * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
   * [Other Navigation](intro/setting-up-your-profile/installation.md)
 * [🎇 Onboarding](intro/onboarding.md)
+* [👥 Collaboration](intro/collaboration.md)
 
 ## ⬛ Basics
 
