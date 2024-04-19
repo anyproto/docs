@@ -69,3 +69,11 @@ We currently don't support RTL fully, but we have plans to support them later.
 The homepage from the alpha app has been removed, and replaced with the new sidebar and widgets. If you really liked this layout, you can try recreating it using a set with a gallery view.
 
 </details>
+
+<details>
+
+<summary>Can I use two separate accounts at the same time?</summary>
+
+There's a hack that can be done on desktop only. You will need to create a separate shortcut for your other account, and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
+
+</details>
