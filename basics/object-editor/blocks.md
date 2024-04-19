@@ -30,3 +30,5 @@ Simply type /embed in the editor to pull up a menu of currently supported embeds
 
 Some examples include: Mermaid diagrams, Youtube videos, Miro boards, Google Maps, and several more.
 
+Some file types can also be embedded: audio, video, image and pdf.
+
