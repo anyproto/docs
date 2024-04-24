@@ -17,9 +17,9 @@
 
 * The first beta release was 0.32.0 and it was released on 15 June 2023. Alpha users who wanted to keep their data needed to migrate to the new app.
 * The official open beta launch was on 19 July 2023.
-* Users who sign up during this stage and helped us test and improve the app, will get extra 1GB of storage for free and the beta flair on the community forum.
+* Users who sign up during this stage and help us test and improve the app, will get extra 1GB of storage for free and the beta badge on the community forum.
 
 ### Public Release
 
-* There is currently no ETA for when the public release is supposed to happen.
-* You can check the progress towards our public release through our [public roadmap](https://github.com/orgs/anyproto/projects/1/views/1).
+* There is currently no ETA for the public release.
+* You can check our progress towards it through our [public roadmap](https://github.com/orgs/anyproto/projects/1/views/1).

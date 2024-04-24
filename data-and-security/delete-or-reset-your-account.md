@@ -16,4 +16,4 @@ If you would like to start a new account instead, do the following:
 
 ### Other Data
 
-To comply with GDPR, we are able to delete everything else (forum posts, support tickets, and email subscriptions) if you contact us at [support@anytype.io](mailto:support@anytype.io).
+For everything else (forum posts, support tickets, and email subscriptions), please contact us at [support@anytype.io](mailto:support@anytype.io), and we'll delete these for you.
