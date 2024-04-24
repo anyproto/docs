@@ -33,3 +33,5 @@ Sets are a way to see a portion of your Graph, and Objects you've created, based
    Sets also provide a way to quickly edit Objects in a list View.\
    \
    You can use multi-select Objects in Sets to delete multiple Objects at once, or to batch update the Object Type. Any Relations added to a Set in the Relation Menu (top right), will be adopted by all new Objects created with the "+ New Object" button.
+
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>

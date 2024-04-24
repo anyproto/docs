@@ -8,6 +8,8 @@ Personalize your [space.md](../../basics/space.md "mention") here. At the top le
 
 Clicking on your space name will open up your space settings.
 
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+
 These are the customization options for your space:
 
 1. Customize your **space icon**
