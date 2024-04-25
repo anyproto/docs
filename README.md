@@ -12,8 +12,8 @@ Anytype is a local-first, E2E encrypted software designed as a secure place to c
 
 You can use Anytype to create and connect your tasks, notes, ideas, documents, workflows, and more.
 
-Future versions will allow you to share your work and safely collaborate with others. Our long-term vision is for Anytype to enable large-scale collaboration to create a global repository of interconnected knowledge.
+With Anytype, you can safely share your work and use local-first collaboration with others. Our long-term vision is for Anytype to enable large-scale collaboration to create a global repository of interconnected knowledge.
 
 Explore the documentation here to learn more about using the product, troubleshooting your account, and data privacy.
 
-And for even more information, please check out our [website](https://anytype.io).
+For more information about our team and philosophy, please visit our [website](https://anytype.io).
