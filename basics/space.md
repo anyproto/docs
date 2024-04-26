@@ -1,6 +1,8 @@
 # Space
 
-A **Space** is a container for your graph of objects.
+Inside your Vault, you have **Spaces**. A **Space** is a container for your graph of objects.
+
+Similar to vault, space is an encrypted container. Unlike your Vault - each space has unique access rights - you can decide who has access to each space.
 
 You’re able to create multiple separate spaces (up to 10), each with their own graph of objects, widget sidebar, and later on - privacy settings. You can have up to 3 shared spaces depending on your [membership](../memberships/monetization/) plan.
 

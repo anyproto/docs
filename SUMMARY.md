@@ -2,7 +2,7 @@
 
 ## Intro
 
-* [👋 Welcome](README.md)
+* [👋 Welcome to Anytype](README.md)
 * [🎇 Onboarding](intro/onboarding.md)
 * [👥 Collaboration](intro/collaboration.md)
 * [👾 Setting Up Your Account](intro/setting-up-your-profile/README.md)
@@ -14,6 +14,7 @@
 ## ⬛ Basics
 
 * [Overview](miscellaneous/glossary.md)
+* [Vault & Key](basics/vault-and-key.md)
 * [Space](basics/space.md)
 * [Objects](basics/object-editor/README.md)
   * [Blocks & Editor](basics/object-editor/blocks.md)
