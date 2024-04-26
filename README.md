@@ -35,9 +35,5 @@ If you're new to Anytype, learn the basics:
 * [Kanban, list, grid and calendar views](basics/sets-and-collections/views.md)
 * Sidebar and widgets
 * [Types](basics/types/) and [Templates](basics/types/templates.md)
-* [Graph](basics/graph.md)
-
-***
-
-You can explore what you can build here: [Gallery](https://gallery.any.coop/Collaboration) (also available in the app). If you have questions and ideas, please, join our [forum](https://community.anytype.io/). If you want to contribute, [here](https://github.com/orgs/anyproto/discussions) is the place.\
-\
+* [Graph](basics/graph.md)\
+  \
