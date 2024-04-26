@@ -26,17 +26,16 @@ If you have questions, feedback, and ideas join us in our [community forum.](htt
 
 If you're new to Anytype, learn the basics:
 
-* Vault and Key
-* Spaces
-* Objects
-* Pages and blocks
-* Links, mentions and relations
-* Collections and databases
-* Kanban, list, grid and calendar views
+* [Vault and Key](basics/vault-and-key.md)
+* [Space](basics/space.md)
+* [Objects](basics/object-editor/)
+* [Pages and blocks](basics/object-editor/blocks.md)
+* [Links](anytype-basics/object-editor/linking-objects.md) and [relations](basics/relations/)
+* [Sets & Collections](basics/sets-and-collections/)
+* [Kanban, list, grid and calendar views](basics/sets-and-collections/views.md)
 * Sidebar and widgets
-* Types and Templates
-* Sets - advanced collections&#x20;
-* Graph
+* [Types](basics/types/) and [Templates](basics/types/templates.md)
+* [Graph](basics/graph.md)
 
 ***
 
