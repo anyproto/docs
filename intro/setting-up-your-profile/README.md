@@ -4,7 +4,7 @@ description: >-
   chapter.
 ---
 
-# 👾 Setting Up Your Account
+# 👾 Setting Up Your Vault
 
 ### Download the app
 
@@ -22,7 +22,7 @@ Anytype is installed:
 
 * In Windows 10 or above, it is usually located:\
   `C:\Users\<username>\Appdata\Local\Programs\anytype2\Anytype.exe`\
-  **username** stands for the name of your user aka working directory.
+  **username** stands for the name of your user aka working directory.&#x20;
 * For MacOS, it's: ` HHD > Users >`` `` `_`Username`_` `` ``> Library > Application Support > anytype `
 * For Linux, you'll find your work directory in `~/.config/anytype`
 * For Android, it’s your default location, usually: \_device/data/app\_​.\
@@ -30,31 +30,33 @@ Anytype is installed:
   Anytype directory is stored in a protected app data folder, which isn’t accessible by the user on Android devices.
 * For iOS, it's the standard install path determined by the iOS.
 
+If you would like to customize your storage location, you can do so by clicking the settings wheel in the top right corner of the login screen.
+
 {% hint style="info" %}
-Anytype is a stand-alone software, that works on desktop or mobile devices. There is no browser version of the app. There are many points of vulnerability in-browser apps that would compromise our commitment to data security and encryption.
+Anytype is a stand-alone software, that works on desktop or mobile devices. There is no browser version of the app. There are many points of vulnerability in browser apps that would compromise our commitment to data security and encryption.
 {% endhint %}
 
 ### Create an account
 
-If you haven't created an account yet, you can easily create one by clicking **Join** and then following the provided instructions.
+If you haven't created an vault yet, you can easily create one by clicking **New Vault** and then following the provided instructions.
 
-#### Log in using your Recovery Phrase
+#### Log-in using your Key
 
-On the contrary, if you already do have an account, click on **Login** and enter your [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention") to proceed.
+On the contrary, if you already do have a vault, click on **Login** and enter your [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention") to proceed.
 
 {% hint style="danger" %}
 Make sure you store your [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention") somewhere safe, and don't ever share it with anyone who you don't trust!
 {% endhint %}
 
-#### Log in using the QR code
+#### Log-in using the QR code
 
-In addition to using the Recovery Phrase to log in, you can also use the QR code to login faster if your desktop is close by.
+In addition to using your key to log in, you can also use the QR code to login faster if your desktop is close by.
 
-To log in using the QR code, simply navigate to your Recovery Phrase.
+To log in using the QR code, simply navigate to your Key.
 
-`Settings > Account > Recovery Phrase`.
+`Settings > Account > Key`.
 
-Underneath your Recovery Phrase you'll find your blurred out QR code, when you click the image it will display.
+Beneath your Key you'll find your blurred out QR code, when you click the image it will display.
 
 Now you can scan this code with your mobile device and install the app.
 

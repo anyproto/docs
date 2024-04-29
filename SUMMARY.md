@@ -5,8 +5,8 @@
 * [👋 Welcome to Anytype](README.md)
 * [🎇 Onboarding](intro/onboarding.md)
 * [👥 Collaboration](intro/collaboration.md)
-* [👾 Setting Up Your Account](intro/setting-up-your-profile/README.md)
-  * [Account Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
+* [👾 Setting Up Your Vault](intro/setting-up-your-profile/README.md)
+  * [Profile Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
   * [Space Settings](intro/setting-up-your-profile/space-settings.md)
   * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
 * [🌐 Connect with Us](intro/connect-with-us.md)
@@ -53,7 +53,7 @@
 
 ## 🔐 Data & Security
 
-* [Recovery Phrase](data-and-security/what-is-a-recovery-phrase.md)
+* [Key](data-and-security/what-is-a-recovery-phrase.md)
 * [Privacy & Encryption](data-and-security/how-we-keep-your-data-safe.md)
 * [Storage & Deletion](data-and-security/data-storage-and-deletion/README.md)
 * [Networks & Backup](data-and-security/self-hosting/README.md)
