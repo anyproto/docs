@@ -81,6 +81,7 @@
 ## 🌈 Miscellaneous
 
 * [FAQs](miscellaneous/faqs.md)
+* [Custom CSS](miscellaneous/custom-css.md)
 * [Features](miscellaneous/feature-list-by-platform.md)
 * [Troubleshooting](miscellaneous/troubleshooting.md)
 * [Keyboard Shortcuts](miscellaneous/keyboard-shortcuts/README.md)
