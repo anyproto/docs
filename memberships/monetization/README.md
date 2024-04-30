@@ -77,8 +77,6 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 
 For those who would like to purchase Builder or Co-Creator Plans, we will offer a limited number of discounted memberships on pre-order as follows:
 
-* 100 two-year Builder memberships at $99
-  * [Follow this link to complete your purchase](https://stripe.pay.anytype.io/b/5kA033c2H3UB0sUdR2)
 * 250 one-year Builder memberships at $79
   * Use discount code: `BetaBuilderPreOrder2024` at checkout
 * 250 three-year Co-Creator memberships at $239
