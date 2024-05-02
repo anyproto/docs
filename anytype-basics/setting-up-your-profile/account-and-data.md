@@ -58,11 +58,11 @@ You can also manage all of your spaces by going into `Settings > Spaces`.
 
 ### Data Management
 
-**Local files**. You can choose to offload files stored in Anytype to our Encrypted Backup Node.
+**Local Files:** You can choose to offload files stored in Anytype to our Encrypted Backup Node.
 
-**Data location.** You can also decide where your data is stored (desktop only).&#x20;
+**Data Location:** You can also decide where your data is stored (desktop only).&#x20;
 
-**Vault deletion**. Also, if you would like to delete your account, you can do it in this section.
+**Vault Deletion:** Also, if you would like to delete your account, you can do it in this section.
 
 ### Key
 
