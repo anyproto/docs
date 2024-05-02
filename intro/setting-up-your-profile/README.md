@@ -30,7 +30,11 @@ Anytype is installed:
   Anytype directory is stored in a protected app data folder, which isn’t accessible by the user on Android devices.
 * For iOS, it's the standard install path determined by the iOS.
 
-If you would like to customize your storage location, you can do so by clicking the settings wheel in the top right corner of the login screen.
+#### Custom storage location
+
+When creating a vault, it’s now possible to select the storage location on your hard drive. If your vault has already been created, you can also change the location and retrieve the data from the network. To do so, first logout, then tap the settings wheel on the black login screen.
+
+Please be cautious when using local-only mode, as your data can only be transferred to a second device via peer-to-peer (P2P) connection.
 
 {% hint style="info" %}
 Anytype is a stand-alone software, that works on desktop or mobile devices. There is no browser version of the app. There are many points of vulnerability in browser apps that would compromise our commitment to data security and encryption.
