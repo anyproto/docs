@@ -32,7 +32,7 @@ Anytype is installed:
 
 #### Custom Storage Location
 
-When creating a vault, it’s now possible to select the storage location on your hard drive. If your vault has already been created, you can also change the location and retrieve the data from the network. To do so, first logout, then tap the settings wheel on the black login screen.
+When creating a Vault, it’s now possible to select the storage location on your hard drive. If your Vault has already been created, you can also change the location and retrieve the data from the network. To do so, first logout, then tap the settings wheel on the black login screen.
 
 <figure><img src="../../.gitbook/assets/Custome Storage Location.gif" alt="" width="563"><figcaption></figcaption></figure>
 
