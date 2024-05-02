@@ -30,9 +30,11 @@ Anytype is installed:
   Anytype directory is stored in a protected app data folder, which isn’t accessible by the user on Android devices.
 * For iOS, it's the standard install path determined by the iOS.
 
-#### Custom storage location
+#### Custom Storage Location
 
 When creating a vault, it’s now possible to select the storage location on your hard drive. If your vault has already been created, you can also change the location and retrieve the data from the network. To do so, first logout, then tap the settings wheel on the black login screen.
+
+<figure><img src="../../.gitbook/assets/Custome Storage Location.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 Please be cautious when using local-only mode, as your data can only be transferred to a second device via peer-to-peer (P2P) connection.
 
