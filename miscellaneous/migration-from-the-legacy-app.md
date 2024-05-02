@@ -35,16 +35,16 @@ If you have already deleted your Alpha app prior to exporting your data from it,
 
 Instead of migrating, you’ll have the following alternatives:
 
-*   Create a new account. When the app is launched, pick up Join instead of Login.
+*   Create a new vault. When the app is launched, pick up Join instead of Login.
 
     <div align="left">
 
     <figure><img src="../.gitbook/assets/Join Anytype.png" alt="" width="354"><figcaption></figcaption></figure>
 
     </div>
-* Manually import selected Objects one by one from Legacy to Beta. You may want to do this if your Legacy account has become messy but you have a few projects you’d like to carry over to Beta.
+* Manually import selected Objects one by one from Legacy to Beta. You may want to do this if your Legacy vault / account has become messy but you have a few projects you’d like to carry over to Beta.
 
-For these options, you’ll need to create a new account, which will generate a new Recovery Phrase.
+For these options, you’ll need to create a new vault, which will generate a new Key.
 
 #### Troubleshooting
 

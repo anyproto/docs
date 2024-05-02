@@ -43,7 +43,7 @@ There are three membership plans for the Anytype Network:
 * Up to 3 shared spaces
   * 3 Editors per shared space (Owner + 2 invited Editors per space)
 
-_\*Beta testers - those who joined before the launch of multiplayer in April 2024 - will automatically receive an Explorer membership, regardless of whether they’ve previously submitted their e-mail. Storage limits previously applied to your account will not change._
+_\*Beta testers - those who joined before the launch of multiplayer in April 2024 - will automatically receive an Explorer membership, regardless of whether they’ve previously submitted their e-mail. Storage limits previously applied to your vault will not change._
 
 **Builder Membership:** Those who choose to purchase a one-year membership at a price of $99 (Apr 2024). The Builder membership includes:
 

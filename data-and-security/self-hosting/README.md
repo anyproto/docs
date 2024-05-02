@@ -2,7 +2,7 @@
 
 ### Anytype Network
 
-By default, everyone joins the Anytype network when they create a new account. They can later switch to either to [local-only.md](local-only.md "mention") or [self-hosted.md](self-hosted.md "mention") if they wish.
+By default, everyone joins the Anytype network when they create a new vault. They can later switch to either to [local-only.md](local-only.md "mention") or [self-hosted.md](self-hosted.md "mention") if they wish.
 
 Every Anytype user has access to a remote backup node provided by Anytype. Its capacity is currently limited to 1 GB. Objects and other content have no impact on this limit; only files are limited. If you go over the limit, a warning will appear, and you'll be able to ask for more storage.
 

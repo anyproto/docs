@@ -4,7 +4,7 @@ Since we don't have access to your Anytype data, and we have no way to connect y
 
 ### Delete or Reset Your Vault / Account
 
-In the top menu, Click "Anytype", open Settings, Data management, and select **Delete vault.** This will delete your profile, and your Recovery Phrase:
+In the top menu, Click "Anytype", open Settings, Data management, and select **Delete vault.** This will delete your profile, and your Key:
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 

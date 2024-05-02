@@ -8,7 +8,7 @@ description: How do you create an object?
 
 When clicking the plus-button, you’ll be presented with a menu of standard types, plus your most recently-used Types. You can then choose which one you want to create.
 
-This behavior can be changed in your [account settings](../../anytype-basics/setting-up-your-profile/account-and-data.md#preferences) to either hover or right-click. Both of these alternative settings will change the behavior of the left-click to immediately create a new object with the type that is set as your default object type in your space settings.&#x20;
+This behavior can be changed in your [vault settings](../../anytype-basics/setting-up-your-profile/account-and-data.md#preferences) to either hover or right-click. Both of these alternative settings will change the behavior of the left-click to immediately create a new object with the type that is set as your default object type in your space settings.&#x20;
 
 The hover setting will additionally show the original menu after you hover over the `+` button for a few seconds, while the right-click setting will require you to right-click the `+` button instead.
 

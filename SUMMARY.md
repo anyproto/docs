@@ -89,5 +89,4 @@
   * [Navigation](miscellaneous/keyboard-shortcuts/navigation.md)
   * [Markdown](miscellaneous/keyboard-shortcuts/markdown.md)
   * [Commands](miscellaneous/keyboard-shortcuts/commands.md)
-* [Technical Glossary](miscellaneous/glossary-1.md)
 * [Migration from the Legacy App](miscellaneous/migration-from-the-legacy-app.md)
