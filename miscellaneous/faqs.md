@@ -10,9 +10,9 @@ We can guarantee that there are no network requests to our Anytype Network, but 
 
 <details>
 
-<summary>What to do if I'm asked to enter my recovery phrase each time on Linux?</summary>
+<summary>What to do if I'm asked to enter my key / recovery phrase each time on Linux?</summary>
 
-Linux users may be asked for their Recovery Phrase each time they log in. To resolve this issue, please install a keychain. The most popular is [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring). Additionally, ensure that you have met all the [dependencies](https://github.com/anyproto/anytype-ts#dependencies) beforehand.
+Linux users may be asked for their Key each time they log in. To resolve this issue, please install a keychain. The most popular is [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring). Additionally, ensure that you have met all the [dependencies](https://github.com/anyproto/anytype-ts#dependencies) beforehand.
 
 </details>
 
@@ -72,8 +72,8 @@ The homepage from the alpha app has been removed, and replaced with the new side
 
 <details>
 
-<summary>Can I use two separate accounts at the same time?</summary>
+<summary>Can I use two separate vaults at the same time?</summary>
 
-There's a hack that can be done on desktop only. You will need to create a separate shortcut for your other account, and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
+There's a hack that can be done on desktop only. You will need to create a separate shortcut for your other vault, and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
 
 </details>

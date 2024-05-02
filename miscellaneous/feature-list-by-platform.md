@@ -41,7 +41,7 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.40.\*, and the mobile versions used for comparison are both 0.28.\*.
 
 {% tabs %}
-{% tab title="Account" %}
+{% tab title="Vault" %}
 | Feature/Action                 | iOS | Android |
 | ------------------------------ | --- | ------- |
 | Spellcheck                     | No  | No      |
@@ -49,7 +49,7 @@ Here is a running list of features and their implementation status, by platform.
 | Wallpaper                      | Yes | Yes     |
 | Default Object Type            | Yes | Yes     |
 | Pin Code                       | No  | No      |
-| Account Delete                 | Yes | Yes     |
+| Vault Delete                   | Yes | Yes     |
 | Notion                         | No  | No      |
 | Markdown                       | No  | No      |
 | Onboarding tool tips           | No  | No      |

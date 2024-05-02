@@ -1,5 +1,5 @@
 ---
-description: Customize your profile, set up additional security, or delete your account
+description: Customize your profile, set up additional security, or delete your vault
 ---
 
 # Profile Settings
@@ -47,7 +47,7 @@ This feature is currently available only on desktop.
 If you want more privacy, like when sharing a computer, you can set up a PIN code. This will lock the app and keep your Key safe. You'll just need to enter the PIN each time your Anytype session ends (after 1 minute, 5 minutes, 10 minutes, or 1 hour) or when you need to access your Key.
 
 {% hint style="warning" %}
-We do not store this data so we cannot help you in recovering your account in the case it is lost. Make sure to write down your pin code next to your Key.
+We do not store this data so we cannot help you in recovering your vault in the case it is lost. Make sure to write down your pin code next to your Key.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
@@ -60,9 +60,9 @@ You can also manage all of your spaces by going into `Settings > Spaces`.
 
 **Local Files:** You can choose to offload files stored in Anytype to our Encrypted Backup Node.
 
-**Data Location:** You can also decide where your data is stored (desktop only).&#x20;
+**Data Location:** You can also decide where your data is stored (desktop only).
 
-**Vault Deletion:** Also, if you would like to delete your account, you can do it in this section.
+**Vault Deletion:** Also, if you would like to delete your vault, you can do it in this section.
 
 ### Key
 

@@ -6,7 +6,7 @@ description: There are no passwords in Anytype - only your key
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-17 at 18.31.38.png" alt=""><figcaption><p>You can access your key at any time by navigating to Profile > Settings > Key</p></figcaption></figure>
 
-When you create your account, you will receive your very own 12 word mnemonic phrase_._ This phrase is generated on-device and is the only way to access your account and decrypt your data.
+When you create your vault, you will receive your very own 12 word mnemonic phrase_._ This phrase is generated on-device and is the only way to access your vault and decrypt your data.
 
 Your Key functions as your login and passphrase at the same time. This mnemonic represents your master key generated upon signup, similar to a Bitcoin wallet.
 

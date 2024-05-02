@@ -42,7 +42,7 @@ Please be cautious when using local-only mode, as your data can only be transfer
 Anytype is a stand-alone software, that works on desktop or mobile devices. There is no browser version of the app. There are many points of vulnerability in browser apps that would compromise our commitment to data security and encryption.
 {% endhint %}
 
-### Create an account
+### Create your vault
 
 If you haven't created an vault yet, you can easily create one by clicking **New Vault** and then following the provided instructions.
 
@@ -60,7 +60,7 @@ In addition to using your key to log in, you can also use the QR code to login f
 
 To log in using the QR code, simply navigate to your Key.
 
-`Settings > Account > Key`.
+`Settings > Vault > Key`.
 
 Beneath your Key you'll find your blurred out QR code, when you click the image it will display.
 
