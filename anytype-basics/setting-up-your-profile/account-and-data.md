@@ -41,14 +41,12 @@ Here you can add your **name, bio,** and **profile picture.** Your profile repre
 ### Pin Code
 
 {% hint style="info" %}
-
 This feature is currently available only on desktop.
 {% endhint %}
 
 If you want more privacy, like when sharing a computer, you can set up a PIN code. This will lock the app and keep your Key safe. You'll just need to enter the PIN each time your Anytype session ends (after 1 minute, 5 minutes, 10 minutes, or 1 hour) or when you need to access your Key.
 
 {% hint style="warning" %}
-
 We do not store this data so we cannot help you in recovering your account in the case it is lost. Make sure to write down your pin code next to your Key.
 {% endhint %}
 
