@@ -77,6 +77,7 @@
 * [Open Any Initiative](community/join-the-open-source-project/README.md)
   * [🖼️ ANY Experience Gallery](community/join-the-open-source-project/any-experience-gallery.md)
 * [Any Timeline](community/any-timeline.md)
+* [Product Workflow](community/product-workflow.md)
 
 ## 🌈 Miscellaneous
 

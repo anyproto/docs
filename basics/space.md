@@ -8,11 +8,11 @@ You’re able to create multiple separate spaces (up to 10), each with their own
 
 Simply click your profile picture to create new spaces, or navigate between existing ones.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Use the [space management menu](../intro/setting-up-your-profile/space-settings.md) at the top of your sidebar to customize your space settings or delete your space.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can also manage all of your spaces by going into `Settings >` [`Spaces`](../intro/setting-up-your-profile/space-settings.md).
 
