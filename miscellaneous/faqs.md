@@ -77,3 +77,11 @@ The homepage from the alpha app has been removed, and replaced with the new side
 There's a hack that can be done on desktop only. You will need to create a separate shortcut for your other vault, and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
 
 </details>
+
+<details>
+
+<summary>Where can I find keyboard shortcuts / hotkeys?</summary>
+
+You can check all keyboard shortcuts in the app by clicking on `? > Keyboard shortcuts` in the bottom right corner of the app.
+
+</details>
