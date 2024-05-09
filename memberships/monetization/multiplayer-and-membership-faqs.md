@@ -116,7 +116,14 @@ Your spaces will stop syncing with each other through the backup node and use lo
 
 <summary>How can I request a refund?</summary>
 
-Refunds must be requested within 5 days of payment by e-mailing support@anytype.io. We can refund only 50% of the membership fee, as we do not receive a refund for having registered your name on the network.&#x20;
+Refunds must be requested within 5 days of payment by e-mailing [support@anytype.io](mailto:support@anytype.io). We can refund only 25% of the membership fee, as we do not receive a refund for having registered your name on the network.&#x20;
 
 </details>
 
+<details>
+
+<summary>Is there a student / educational plan?</summary>
+
+We offer a 50% discount to anyone who contacts us at [support@anytype.io](mailto:support@anytype.io) using their university-associated email address.
+
+</details>
