@@ -17,7 +17,6 @@
 
 * The first beta release was 0.32.0 and it was released on 15 June 2023. Alpha users who wanted to keep their data needed to migrate to the new app.
 * The official open beta launch was on 19 July 2023.
-* Users who sign up during this stage and help us test and improve the app, will get extra 1GB of storage for free and the beta badge on the community forum.
 
 ### Public Release
 

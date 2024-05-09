@@ -39,7 +39,7 @@ There are three membership plans for the Anytype Network:
 
 * A local, non-unique name
 * 1GB of network backup & sync space
-* One ‘Default’ space
+* One ‘Entry’ space
 * Up to 3 shared spaces
   * 3 Editors per shared space (Owner + 2 invited Editors per space)
 
@@ -49,7 +49,7 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 
 * A global, unique name (7+ characters)
 * 128 GB of network backup & sync space
-* One ‘Default’ space
+* One ‘Entry’ space
 * Up to 3 Shared spaces
   * 10 Editors per shared space (Owner + 9 invited Editors per space)
   * Unlimited Viewers for shared spaces
@@ -59,7 +59,7 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 
 * A global, unique name (5+ characters)
 * 256 GB of network backup & sync space
-* One ‘Default’ space
+* One ‘Entry’ space
 * Up to 3 Shared spaces
   * 10 Editors per shared space (Owner + 9 invited Editors per space)
   * Unlimited Viewers for Shared spaces
@@ -68,7 +68,7 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 
 **Guests of Members:** Those who are invited to shared spaces by existing Members. Guests of Members have access to the following:
 
-* One ‘Default’ space
+* One ‘Entry’ space
 * Access up to 3 Shared spaces, if invited to these spaces by other Members
 
 ## Exclusive Discounts for Beta Testers
@@ -90,9 +90,9 @@ Those who are active contributors to our codebase, gallery, tutorials, and commu
 
 Other contributors, who have not met the threshold of 2 contributions per year, can purchase a one-year Builder Plan at 50% discount.
 
-To request your contributor's discount code, please email us at association@anytype.io.&#x20;
+To request your contributor's discount code, please email us at [association@anytype.io](mailto:association@anytype.io).&#x20;
 
-If you believe that your contribution status is incorrect, please write us at association@anytype.io.
+If you believe that your contribution status is incorrect, please write us at [association@anytype.io](mailto:association@anytype.io).
 
 ## Pricing for Self-Hosters
 

@@ -54,9 +54,9 @@ There's no browser version of the app. Anytype is a stand-alone software, that w
 
 <details>
 
-<summary>Why is RTL no supported?</summary>
+<summary>Why is RTL not supported?</summary>
 
-We currently don't support RTL fully, but we have plans to support them later.
+RTL is currently only partially supported, but we have plans for full support later on.
 
 </details>
 

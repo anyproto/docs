@@ -20,7 +20,6 @@ Or if you are wondering what the differences between Evernote and Anytype are, c
 You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/1/views/1).
 {% endhint %}
 
-* Collaboration
 * API and plugins
 * Publish to web
 * Formulas
@@ -35,10 +34,11 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 
 * Calendar - [0.36.0](https://community.anytype.io/t/anytype-desktop-0-36-0-released/12198)
 * Webclipper - 0.39.0 ([Chrome](https://chromewebstore.google.com/detail/anytype-web-clipper/jbnammhjiplhpjfncnlejjjejghimdkf?hl=en))
+* Collaboration - [0.40.0](https://community.anytype.io/t/anytype-desktop-0-40-0-multiplayer-released/20219)
 
 ### Mobile Features
 
-Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.40.\*, and the mobile versions used for comparison are both 0.28.\*.
+Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.40.\*, and the mobile versions used for comparison are both 0.29.\*.
 
 {% tabs %}
 {% tab title="Vault" %}

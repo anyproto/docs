@@ -78,11 +78,11 @@
   * [🖼️ ANY Experience Gallery](community/join-the-open-source-project/any-experience-gallery.md)
 * [Any Timeline](community/any-timeline.md)
 * [Product Workflow](community/product-workflow.md)
+* [Custom CSS](community/custom-css.md)
 
 ## 🌈 Miscellaneous
 
 * [FAQs](miscellaneous/faqs.md)
-* [Custom CSS](miscellaneous/custom-css.md)
 * [Features](miscellaneous/feature-list-by-platform.md)
 * [Troubleshooting](miscellaneous/troubleshooting.md)
 * [Migration from the Legacy App](miscellaneous/migration-from-the-legacy-app.md)
