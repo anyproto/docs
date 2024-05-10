@@ -14,7 +14,8 @@
 ## ⬛ Basics
 
 * [Overview](miscellaneous/glossary.md)
-* [Vault & Key](basics/vault-and-key.md)
+* [Vault & Key](basics/vault-and-key/README.md)
+  * [Key](basics/vault-and-key/what-is-a-recovery-phrase.md)
 * [Space](basics/space.md)
 * [Objects](basics/object-editor/README.md)
   * [Blocks & Editor](basics/object-editor/blocks.md)
@@ -53,7 +54,6 @@
 
 ## 🔐 Data & Security
 
-* [Key](data-and-security/what-is-a-recovery-phrase.md)
 * [Privacy & Encryption](data-and-security/how-we-keep-your-data-safe.md)
 * [Storage & Deletion](data-and-security/data-storage-and-deletion/README.md)
 * [Networks & Backup](data-and-security/self-hosting/README.md)

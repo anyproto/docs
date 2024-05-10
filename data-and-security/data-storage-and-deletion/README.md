@@ -10,13 +10,15 @@ Media files are not directly downloaded in overall syncing to save bandwidth. In
 
 Furthermore, we use the deduplication feature to reduce storage. For example, if the same picture is uploaded three times, there is only one image copy stored to reduce storage consumption.
 
-You can remove all the media content from your device via the clear cache option in iOS and Android. This will remove all the data altogether and force the app to sync once again entirely. Since the media download works on-premise, you will remove all cached media and clear some storage.
+You can remove all the media content from your mobile device via the clear cache option in iOS and Android. This will remove all the data altogether and force the app to sync once again entirely. Since the media download works on-premise, you will remove all cached media and clear some storage.
+
+You can also manage your files on desktop by going into `Space settings -> Manage Space -> Manage files`.
 
 ### Deletion <a href="#deletion" id="deletion"></a>
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2Fgit-blob-dcb526128401892f1a4773091dbf735febb4a875%2FScreenshot%202021-11-02%20at%2016.25.23.png?alt=media" alt=""><figcaption><p>Complete deletion in Bin</p></figcaption></figure>
 
-At the moment you can only delete the Objects that you've created inside Anytype. At first, you can move them to the bin. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online. This action is irreversible, so please be careful.
+To delete objects in Anytype, you will first need to move them to the bin. Afterwards, you can remove them completely from all devices by deleting them from the bin. All your devices will also delete them when getting online. This action is irreversible, so please be careful.
 
 The deleted objects are still accessible in read-only mode, either from the bin, or through previously added links. You are also able to restore these objects directly through the read-only mode without needing to go through the bin.
 

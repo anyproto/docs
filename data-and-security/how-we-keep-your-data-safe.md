@@ -1,6 +1,6 @@
 # Privacy & Encryption
 
-### Privacy <a href="#privacy" id="privacy"></a>
+### SecondlyPrivacy <a href="#privacy" id="privacy"></a>
 
 All of your data is private in Anytype. Only you have the encryption keys. No one at Anytype can decrypt your data. So if you lose your phrase, we can’t restore access. Likewise, no one in Anytype or anyone else can read the content of your Anytype.
 

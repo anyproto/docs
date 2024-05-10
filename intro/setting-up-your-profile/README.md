@@ -48,10 +48,10 @@ If you haven't created an vault yet, you can easily create one by clicking **New
 
 #### Log-in using your Key
 
-On the contrary, if you already do have a vault, click on **Login** and enter your [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention") to proceed.
+On the contrary, if you already do have a vault, click on **Login** and enter your [what-is-a-recovery-phrase.md](../../basics/vault-and-key/what-is-a-recovery-phrase.md "mention") to proceed.
 
 {% hint style="danger" %}
-Make sure you store your [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention") somewhere safe, and don't ever share it with anyone who you don't trust!
+Make sure you store your [what-is-a-recovery-phrase.md](../../basics/vault-and-key/what-is-a-recovery-phrase.md "mention") somewhere safe, and don't ever share it with anyone who you don't trust!
 {% endhint %}
 
 #### Log-in using the QR code

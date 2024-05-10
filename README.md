@@ -26,7 +26,7 @@ If you have questions, feedback, and ideas join us in our [community forum.](htt
 
 If you're new to Anytype, learn the basics:
 
-* [Vault and Key](basics/vault-and-key.md)
+* [Vault and Key](basics/vault-and-key/)
 * [Space](basics/space.md)
 * [Objects](basics/object-editor/)
 * [Pages and blocks](basics/object-editor/blocks.md)

@@ -66,7 +66,7 @@ You can also manage all of your spaces by going into `Settings > Spaces`.
 
 ### Key
 
-You can access your Key or scan the QR code to connect your mobile device. For more details, please check [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention").
+You can access your Key or scan the QR code to connect your mobile device. For more details, please check [what-is-a-recovery-phrase.md](../../basics/vault-and-key/what-is-a-recovery-phrase.md "mention").
 
 ### Membership
 

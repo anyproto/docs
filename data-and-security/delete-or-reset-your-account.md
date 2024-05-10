@@ -1,6 +1,6 @@
 # Data Erasure
 
-Since we don't have access to your Anytype data, and we have no way to connect your Anytype ID to your email address, there is no way for us to delete your data. This means that you will need to delete it yourself through the app.
+Since we don't have access to your Anytype data, and we have no way to connect your Anytype ID to your email address, there is no way for us to delete your data. This means that you can only delete it yourself, and through the app.
 
 ### Delete or Reset Your Vault / Account
 
