@@ -124,6 +124,6 @@ Refunds must be requested within 5 days of payment by e-mailing [support@anytype
 
 <summary>Is there a student / educational plan?</summary>
 
-We offer a 50% discount to anyone who contacts us at [support@anytype.io](mailto:support@anytype.io) using their university-associated email address.
+We offer a 50% discount to anyone who contacts us at [membership-upgrade@anytype.io](mailto:membership-upgrade@anytype.io) using their university-associated email address.
 
 </details>
