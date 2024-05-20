@@ -4,7 +4,7 @@ description: There are no passwords in Anytype - only your key
 
 # Key
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.31.38.png" alt=""><figcaption><p>You can access your key at any time by navigating to Profile > Settings > Key</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-17 at 18.31.38.png" alt=""><figcaption><p>You can access your key at any time by navigating to Profile > Settings > Key</p></figcaption></figure>
 
 When you create your vault, you will receive your very own 12 word mnemonic phrase_._ This phrase is generated on-device and is the only way to access your vault and decrypt your data.
 

@@ -52,13 +52,20 @@ In your documents you may have multiple references or connections which could be
 
 Learn more about [relations](../../basics/relations/ "mention") & The [graph.md](../../basics/graph.md "mention") here.
 
-![](<../../.gitbook/assets/image (22).png>)
-
 #### Use the Flow
 
 Another option to check which Objects are linked together can be found in the Flow tab next to the Graph.
 
 On the top, center of your screen you will see the option to toggle to **Flow** view. This will show you which Object is linked before and after the current Object you are viewing.
+
+#### Backlinks
+
+We've also recently implemented backlinks as part of our relations system.&#x20;
+
+By default, if the backlinks relation is not empty, you will be able to find it in your featured section. Clicking on it will show a list of all the linked objects.\
+If an object has no backlinks, the relation will not be shown in the featured section, but you can still locate it in your object relations panel.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### Collections
 

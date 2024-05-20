@@ -1,22 +1,21 @@
 # Table of contents
 
-## Intro
+## 👋 Intro
 
-* [👋 Welcome to Anytype](README.md)
-* [🎇 Onboarding](intro/onboarding.md)
-* [👥 Collaboration](intro/collaboration.md)
-* [👾 Setting Up Your Vault](intro/setting-up-your-profile/README.md)
-  * [Profile Settings](anytype-basics/setting-up-your-profile/account-and-data.md)
-  * [Space Settings](intro/setting-up-your-profile/space-settings.md)
-  * [Sidebar & Widgets](intro/setting-up-your-profile/customize-and-edit-the-sidebar.md)
-* [🌐 Connect with Us](intro/connect-with-us.md)
+* [Welcome to Anytype](README.md)
+* [Download the App](intro/download-the-app.md)
+* [Connect with Us](intro/connect-with-us.md)
 
 ## ⬛ Basics
 
-* [Overview](miscellaneous/glossary.md)
-* [Vault & Key](basics/vault-and-key/README.md)
-  * [Key](basics/vault-and-key/what-is-a-recovery-phrase.md)
-* [Space](basics/space.md)
+* [Vault & Key](basics/vault-and-key.md)
+  * [Setting Up Your Vault](basics/vault-and-key/setting-up-your-profile.md)
+  * [Profile Settings](basics/vault-and-key/account-and-data.md)
+  * [Sidebar & Widgets](basics/vault-and-key/customize-and-edit-the-sidebar.md)
+  * [Key](data-and-security/what-is-a-recovery-phrase.md)
+* [Space](basics/space/README.md)
+  * [Customizing Your Space](basics/space/space-settings.md)
+  * [Collaboration](basics/space/collaboration.md)
 * [Objects](basics/object-editor/README.md)
   * [Blocks & Editor](basics/object-editor/blocks.md)
   * [Ways to Create Objects](basics/object-editor/create-an-object.md)
@@ -28,7 +27,6 @@
 * [Relations](basics/relations/README.md)
   * [Add a New Relation](basics/relations/create-a-new-relation.md)
   * [Create a New Relation](basics/relations/create-a-new-relation-1.md)
-  * [Backlinks](basics/relations/backlinks.md)
 * [Sets & Collections](basics/sets-and-collections/README.md)
   * [Sets](basics/sets-and-collections/sets/README.md)
     * [Creating Sets](basics/sets-and-collections/sets/creating-sets.md)

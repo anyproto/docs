@@ -4,7 +4,7 @@ description: >-
   happenings in the Anyverse:
 ---
 
-# 🌐 Connect with Us
+# Connect with Us
 
 {% hint style="info" %}
 Don't forget to join our [community-forum](../community/community-forum/ "mention"), and the [join-the-open-source-project](../community/join-the-open-source-project/ "mention")!

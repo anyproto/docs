@@ -27,7 +27,7 @@ Sets are a way to see a portion of your Graph, and Objects you've created, based
    \
    For instance: Creation Date, Tags, or Priority. (In this sense, Relations behave like attributes).\
    \
-   You can then pin your Set to your Favorites menu, where it will sit on your Sidebar, acting like a folder for all Objects that meet certain criteria.\\
+   You can then pin your Set to your Favorites menu, where it will sit on your Sidebar, acting like a folder for all Objects that meet certain criteria.
 2. **Editing Objects**\
    \
    Sets also provide a way to quickly edit Objects in a list View.\

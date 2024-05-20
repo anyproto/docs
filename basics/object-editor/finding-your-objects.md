@@ -20,10 +20,6 @@ To navigate to the search, head to your navigation bar, and click on the magnifi
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-The search feature mentioned above doesn't currently search inside relations.
-{% endhint %}
-
 ### Bin
 
 Your objects are not permanently removed when you delete them. They are instead moved to the bin which you can locate in the sidebar below your library widget. To permanently remove them, you will need to open the bin, and choose which objects you want to remove forever.&#x20;

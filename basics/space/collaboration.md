@@ -1,4 +1,4 @@
-# 👥 Collaboration
+# Collaboration
 
 {% embed url="https://drive.google.com/file/d/1cuqFWZBJyfnTi57GQqU1dJQubfnp8WUW/view?usp=drive_link" %}
 
@@ -6,11 +6,11 @@ In the Space Settings menu of each space you’ve created (excluding your Defaul
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -20,12 +20,12 @@ As a Space owner, it is possible to share up to three Spaces at this time. You c
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-From today onward, we warmly welcome you to begin testing out shared spaces, starting with the small things: idea boards, shopping lists, projects, and wikis. If you need inspiration, you can always check the [Multiplayer Experiences](https://gallery.any.coop) newly added to the Experience Gallery (or [submit your own](../community/join-the-open-source-project/any-experience-gallery.md)!).
+From today onward, we warmly welcome you to begin testing out shared spaces, starting with the small things: idea boards, shopping lists, projects, and wikis. If you need inspiration, you can always check the [Multiplayer Experiences](https://gallery.any.coop) newly added to the Experience Gallery (or [submit your own](../../community/join-the-open-source-project/any-experience-gallery.md)!).

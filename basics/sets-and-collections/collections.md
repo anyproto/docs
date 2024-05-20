@@ -6,10 +6,6 @@ description: >-
 
 # Collections
 
-### Understanding Collections
-
-Contrary to Sets and what was explained in the previous chapter, Collections are not filtered by Object Type but are in fact open to any Type.&#x20;
-
 Collections can be used to organize a variety of different objects and store them in one place.
 
 You are not restricted to viewing only one Object Type at a time, this means you can have multiple different types within one collection.&#x20;

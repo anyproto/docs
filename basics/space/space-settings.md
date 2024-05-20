@@ -1,10 +1,6 @@
----
-description: Customize your space
----
+# Customizing Your Space
 
-# Space Settings
-
-Personalize your [space.md](../../basics/space.md "mention") here. At the top left of the application you'll find your space name and settings.
+Personalize your [.](./ "mention") here. At the top left of the application you'll find your space name and settings.
 
 Clicking on your space name will open up your space settings.
 

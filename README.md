@@ -2,7 +2,7 @@
 description: Tools for thought, freedom & trust
 ---
 
-# 👋 Welcome to Anytype
+# Welcome to Anytype
 
 {% embed url="https://www.youtube.com/watch?v=dh_3NHY5eVs" %}
 
@@ -14,7 +14,7 @@ Unlike cloud applications, Anytype puts the control of encryption keys firmly yo
 
 Anytype is supported by [AnySync](https://tech.anytype.io/any-sync/overview) - an open-source protocol that supports high-performant collaboration over encrypted data and creators’ controlled keys. You can find our codebase here.
 
-WIth every architectural choice, we aim to make [fundamental digital freedoms](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U) unconditional. Here you can read more of our thoughts on [cloud vs. local first Internet](https://blog.anytype.io/the-nervous-system-of-humanity-needs-an-upgrade/).
+With every architectural choice, we aim to make [fundamental digital freedoms](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U) unconditional. Here you can read more of our thoughts on [cloud vs. local first Internet](https://blog.anytype.io/the-nervous-system-of-humanity-needs-an-upgrade/).
 
 You can also explore pre-made templates and experiences from our community in our [Experience Gallery](https://gallery.any.coop).&#x20;
 
@@ -24,10 +24,10 @@ If you have questions, feedback, and ideas join us in our [community forum.](htt
 
 ***
 
-If you're new to Anytype, learn the basics:
+If you're new to Anytype, you can learn the basics here:
 
-* [Vault and Key](basics/vault-and-key/)
-* [Space](basics/space.md)
+* [Vault and Key](basics/vault-and-key.md)
+* [Space](basics/space/)
 * [Objects](basics/object-editor/)
 * [Pages and blocks](basics/object-editor/blocks.md)
 * [Links](anytype-basics/object-editor/linking-objects.md) and [relations](basics/relations/)
@@ -35,5 +35,8 @@ If you're new to Anytype, learn the basics:
 * [Kanban, list, grid and calendar views](basics/sets-and-collections/views.md)
 * Sidebar and widgets
 * [Types](basics/types/) and [Templates](basics/types/templates.md)
-* [Graph](basics/graph.md)\
-  \
+* [Graph](basics/graph.md)
+
+And if you are still a bit confused about some of the basics, please check out this excellent guide:
+
+{% embed url="https://www.youtube.com/watch?v=oY-ihuDJIvQ" %}
