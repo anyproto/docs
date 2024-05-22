@@ -1,6 +1,6 @@
 # Privacy & Encryption
 
-### SecondlyPrivacy <a href="#privacy" id="privacy"></a>
+### Privacy <a href="#privacy" id="privacy"></a>
 
 All of your data is private in Anytype. Only you have the encryption keys. No one at Anytype can decrypt your data. So if you lose your phrase, we can’t restore access. Likewise, no one in Anytype or anyone else can read the content of your Anytype.
 
@@ -24,4 +24,4 @@ Here are some technical details on encryption and data storage:
 * The second layer is used to encrypt the actual data. We use AES with stream encryption with CFB mode.
 * When you create a new change for an object, we periodically send it to our backup node (with only the first-layer key). More info about sync [here](https://tech.anytype.io/any-sync/overview).
 * Anytype backup nodes have access to the first layer key, so it can group changes for the object and send them in one pack when you want to restore your data.
-* Anytype backup nodes HAVE NO access to the second layer key, so it can’t read the actual changes to the data.
+* Anytype backup nodes HAVE NO access to the second layer [what-is-a-recovery-phrase.md](what-is-a-recovery-phrase.md "mention"), so it can’t read the actual changes to the data.

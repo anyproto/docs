@@ -37,6 +37,6 @@ If you're new to Anytype, you can learn the basics here:
 * [Types](basics/types/) and [Templates](basics/types/templates.md)
 * [Graph](basics/graph.md)
 
-And if you are still a bit confused about some of the basics, please check out this excellent guide:
+And if you are still a bit confused about some of it, please check out this excellent guide by one of our power users:
 
 {% embed url="https://www.youtube.com/watch?v=oY-ihuDJIvQ" %}

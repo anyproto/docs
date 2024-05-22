@@ -3,7 +3,7 @@
 ## 👋 Intro
 
 * [Welcome to Anytype](README.md)
-* [Download the App](intro/download-the-app.md)
+* [Get the App](intro/get-the-app.md)
 * [Connect with Us](intro/connect-with-us.md)
 
 ## ⬛ Basics
@@ -15,11 +15,11 @@
   * [Key](data-and-security/what-is-a-recovery-phrase.md)
 * [Space](basics/space/README.md)
   * [Customizing Your Space](basics/space/space-settings.md)
-  * [Collaboration](basics/space/collaboration.md)
+  * [Sharing Your Space](basics/space/collaboration.md)
 * [Objects](basics/object-editor/README.md)
   * [Blocks & Editor](basics/object-editor/blocks.md)
   * [Ways to Create Objects](basics/object-editor/create-an-object.md)
-  * [Locating your Objects](basics/object-editor/finding-your-objects.md)
+  * [Locating Your Objects](basics/object-editor/finding-your-objects.md)
 * [Types](basics/types/README.md)
   * [Create a New Type](basics/types/create-a-new-type.md)
   * [Layouts](basics/types/layouts.md)
@@ -28,9 +28,7 @@
   * [Add a New Relation](basics/relations/create-a-new-relation.md)
   * [Create a New Relation](basics/relations/create-a-new-relation-1.md)
 * [Sets & Collections](basics/sets-and-collections/README.md)
-  * [Sets](basics/sets-and-collections/sets/README.md)
-    * [Creating Sets](basics/sets-and-collections/sets/creating-sets.md)
-    * [Customizing with Relations, Sort, & Filters](basics/sets-and-collections/sets/customizing-with-relations-sort-and-filters.md)
+  * [Sets](basics/sets-and-collections/sets.md)
   * [Collections](basics/sets-and-collections/collections.md)
   * [Views](basics/sets-and-collections/views.md)
 * [Library](basics/anytype-library.md)
@@ -42,7 +40,7 @@
 * [✨ Simple Dashboard](use-cases/simple-dashboard.md)
 * [🌟 Deep dive: Sets](use-cases/deep-dive-sets.md)
 * [💫 Deep dive: Templates](use-cases/deep-dive-templates.md)
-* [🧠 PARA Method for Note taking](use-cases/para-method-for-note-taking.md)
+* [🧠 PARA Method](use-cases/para-method-for-note-taking.md)
 * [✏️ Daily Notes](use-cases/anytype-editor.md)
 * [🎬 Movie Database](use-cases/movie-database.md)
 * [🍎 Study Notes](use-cases/study-notes.md)
@@ -76,11 +74,11 @@
   * [🖼️ ANY Experience Gallery](community/join-the-open-source-project/any-experience-gallery.md)
 * [Any Timeline](community/any-timeline.md)
 * [Product Workflow](community/product-workflow.md)
-* [Custom CSS](community/custom-css.md)
+* [Custom CSS Guide](community/custom-css.md)
 
 ## 🌈 Miscellaneous
 
 * [FAQs](miscellaneous/faqs.md)
 * [Features](miscellaneous/feature-list-by-platform.md)
 * [Troubleshooting](miscellaneous/troubleshooting.md)
-* [Migration from the Legacy App](miscellaneous/migration-from-the-legacy-app.md)
+* [Beta Migration](miscellaneous/migration-from-the-legacy-app.md)

@@ -1,6 +1,6 @@
-# Download the App
+# Get the App
 
-You can find the latest version of Anytype at [download.anytype.io](https://download.anytype.io).
+You can download the latest version of Anytype for your device at [download.anytype.io](https://download.anytype.io).
 
 {% hint style="info" %}
 Anytype is a stand-alone software, that works on desktop or mobile devices. There is no browser version of the app. There are many points of vulnerability in browser apps that would compromise our commitment to data security and encryption.
@@ -8,7 +8,7 @@ Anytype is a stand-alone software, that works on desktop or mobile devices. Ther
 
 ### Minimum specs
 
-* For Desktop, these follow Electron who follows vendor support policies. For example, Win 7 / Win 8.1 are no longer supported.
+* For Desktop, we follow Electron who follows vendor support policies. For example, Win 7 / Win 8.1 are no longer supported because Microsoft no longer supports them either.
 * For Android (if installed through Google Play), it's Android 8.0 and a 64-bit device with a minimum of 4GB of RAM.
 * For iOS, it's iOS 15 (soon to be iOS 16).
 
