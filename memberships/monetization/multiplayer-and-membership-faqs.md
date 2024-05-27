@@ -60,7 +60,7 @@ Explorers can invite up to two additional Editors per shared space. Builders and
 
 <summary>Can guests of my space use Anytype from local-only mode?</summary>
 
-Unless they are all part of the same local network, guests will need to be connected to the Anytype backup node in order to see all changes in the space.
+Unless they are all part of the same local network, guests will need to be connected to the Anytype network in order to see all changes in the space.
 
 </details>
 
