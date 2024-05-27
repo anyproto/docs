@@ -4,6 +4,20 @@ description: Customize your profile, set up additional security, or delete your 
 
 # Profile Settings
 
+### Location
+
+To locate your profile settings, click on your profile icon in the bottom navigation bar, and then click on the settings button in the top right corner.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ### Profile
 
 Here you can add your **name, bio,** and **profile picture.** Your profile represents an Object in your Anytype Graph which you can freely link to other Objects.
