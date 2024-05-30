@@ -37,6 +37,7 @@
 
 ## 📽️ Use Cases
 
+* [🖼️ ANY Experience Gallery](use-cases/any-experience-gallery.md)
 * [✨ Simple Dashboard](use-cases/simple-dashboard.md)
 * [🌟 Deep dive: Sets](use-cases/deep-dive-sets.md)
 * [💫 Deep dive: Templates](use-cases/deep-dive-templates.md)
@@ -70,8 +71,7 @@
   * [Request a Feature & Vote](community/community-forum/request-a-feature-and-vote.md)
   * [Get Help from the Community](community/community-forum/get-help-from-the-community.md)
   * [Share Your Feedback](community/community-forum/share-your-feedback.md)
-* [Open Any Initiative](community/join-the-open-source-project/README.md)
-  * [🖼️ ANY Experience Gallery](community/join-the-open-source-project/any-experience-gallery.md)
+* [Open Any Initiative](community/join-the-open-source-project.md)
 * [Any Timeline](community/any-timeline.md)
 * [Product Workflow](community/product-workflow.md)
 * [Custom CSS Guide](community/custom-css.md)

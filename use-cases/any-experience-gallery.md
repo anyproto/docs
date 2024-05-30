@@ -4,6 +4,10 @@
 
 To make browsing and installing experiences easier, the Experience Gallery has now been added to Anytype. Open your spaces navigation tab, tap ‘Gallery’, and install the experience of your choice.
 
+Alternatively, you can open the Gallery in your browser by clicking on the link below:
+
+{% embed url="https://gallery.any.coop/" %}
+
 ### Creating and sharing with others
 
 We’re excited to introduce the [Gallery](https://gallery.any.coop/) – a way for you to share your ANY Experience with other users. We’re sure you’re proud of your setups for knowledge management, task tracking, studying approaches, and so on. This is your chance to share your setups with the community so they can get the most out of  Anytype!

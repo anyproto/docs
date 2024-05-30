@@ -1,4 +1,4 @@
-# Collaboration
+# Sharing Your Space
 
 {% embed url="https://drive.google.com/file/d/1cuqFWZBJyfnTi57GQqU1dJQubfnp8WUW/view?usp=drive_link" %}
 
@@ -28,4 +28,4 @@ As a Space owner, it is possible to share up to three Spaces at this time. You c
 
 </div>
 
-From today onward, we warmly welcome you to begin testing out shared spaces, starting with the small things: idea boards, shopping lists, projects, and wikis. If you need inspiration, you can always check the [Multiplayer Experiences](https://gallery.any.coop) newly added to the Experience Gallery (or [submit your own](../../community/join-the-open-source-project/any-experience-gallery.md)!).
+From today onward, we warmly welcome you to begin testing out shared spaces, starting with the small things: idea boards, shopping lists, projects, and wikis. If you need inspiration, you can always check the [Multiplayer Experiences](https://gallery.any.coop) newly added to the Experience Gallery (or [submit your own](../../use-cases/any-experience-gallery.md)!).
