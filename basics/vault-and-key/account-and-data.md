@@ -2,11 +2,11 @@
 description: Customize your profile, set up additional security, or delete your vault
 ---
 
-# Profile Settings
+# Vault Settings
 
 ### Location
 
-To locate your profile settings, click on your profile icon in the bottom navigation bar, and then click on the settings button in the top right corner.
+To locate your vault settings, click on your profile icon in the bottom navigation bar, and then click on the settings button in the top right corner.
 
 <div>
 

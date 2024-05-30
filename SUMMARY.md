@@ -10,7 +10,7 @@
 
 * [Vault & Key](basics/vault-and-key.md)
   * [Setting Up Your Vault](basics/vault-and-key/setting-up-your-profile.md)
-  * [Profile Settings](basics/vault-and-key/account-and-data.md)
+  * [Vault Settings](basics/vault-and-key/account-and-data.md)
   * [Sidebar & Widgets](basics/vault-and-key/customize-and-edit-the-sidebar.md)
   * [Key](data-and-security/what-is-a-recovery-phrase.md)
 * [Space](basics/space/README.md)
