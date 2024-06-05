@@ -1,42 +1,42 @@
 ---
-description: Tools for thought, freedom & trust
+description: Kulcs a szabad gondolatok biztonságos megosztásához
 ---
 
-# Welcome to Anytype
+# Üdvözlünk az Anytypenál!
 
 {% embed url="https://www.youtube.com/watch?v=dh_3NHY5eVs" %}
 
-Anytype is an **encrypted, local-first alternative** to the cloud-based Internet.&#x20;
+Az Anytype egy **titkosított, local-first alternatíva** napjaink felhőalapú internetjének világában.&#x20;
 
-With Anytype, you can build digital spaces around your interests. These spaces can be personal - for diaries, ideas and drafts, or shared - with your family, small communities, teams, neighbors and people with similar interests.
+Az Anytype segítségével digitális tereket építhetsz érdeklődési köreid köré. Ezek a terek lehetnek személyesek - naplók, ötletek és vázlatok számára - vagy megosztottak - családoddal, kis közösségekkel, csapatokkal, szomszédokkal és a hozzád hasonló érdeklődésű emberekkel.
 
-Unlike cloud applications, Anytype puts the control of encryption keys firmly your hands, so you own your data and your social graph. Spaces you create are local first - they can be created offline and can sync peer-to-peer in local networks.&#x20;
+A felhőalapú alkalmazásokkal ellentétben az Anytype a kezedbe adja a titkosítási kulcsok teljes irányítását, így adataidat és a közösségi hálód valóban magadénak tudhatod. Az általad létrehozott terek először helyben jönnek létre - offline is létrehozhatók, és peer-to-peer alapon szinkronizálhatók a helyi hálózatokon.&#x20;
 
-Anytype is supported by [AnySync](https://tech.anytype.io/any-sync/overview) - an open-source protocol that supports high-performant collaboration over encrypted data and creators’ controlled keys. You can find our codebase here.
+Az Anytype-ot az [AnySync](https://tech.anytype.io/any-sync/overview) - egy nyílt forráskódú protokoll - támogatja, amely nagy teljesítményű együttműködést biztosít a titkosított adatok és a felhasználók által vezérelt kulcsok felett. Az alkalmazás felépítésének technikai hátteréről itt többet is megtudhatsz.
 
-With every architectural choice, we aim to make [fundamental digital freedoms](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U) unconditional. Here you can read more of our thoughts on [cloud vs. local first Internet](https://blog.anytype.io/the-nervous-system-of-humanity-needs-an-upgrade/).
+Minden döntésünkkel azon vagyunk, hogy a [digitális szabadságot](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U) feltétel nélkülivé és mindenki számára elérhetővé tegyük. Itt olvashatsz többet gondolatainkról a [felhőalapú és a local-first internet](https://blog.anytype.io/the-nervous-system-of-humanity-needs-an-upgrade/ különbségeivel kapcsolatban.
 
-You can also explore pre-made templates and experiences from our community in our [Experience Gallery](https://gallery.any.coop).&#x20;
+Az Anytype széleskörű felhasználási lehetőségeit az aktív közösségnél semmi nem példázza jobban. Fedezd fel a legkreatívabb felhasználóink által készített sablonokat és élménybeszámolókat az [Experience Gallery](https://gallery.any.coop) oldalán.&#x20;
 
-If you have questions, feedback, and ideas join us in our [community forum.](https://community.anytype.io) If you want to contribute,[ here's where you can do so](https://github.com/orgs/anyproto/discussions).
+Kérdésed van, vagy csak megosztanád velünk ötleteidet? Szeretettel várunk a [közösségi fórumunkban!](https://community.anytype.io) Ha szeretnél közreműködni és részt venni az alkalmazás fejlesztésében,[ itt a helyed](https://github.com/orgs/anyproto/discussions).
 
-### Getting Started
+### Kezdjünk bele!
 
 ***
 
-If you're new to Anytype, you can learn the basics here:
+Új vagy az Anytype világában? Válassz az alábbiak közül és ismerkedj meg az alapokkal!
 
-* [Vault and Key](basics/vault-and-key.md)
-* [Space](basics/space/)
-* [Objects](basics/object-editor/)
-* [Pages and blocks](basics/object-editor/blocks.md)
-* [Links](anytype-basics/object-editor/linking-objects.md) and [relations](basics/relations/)
-* [Sets & Collections](basics/sets-and-collections/)
-* [Kanban, list, grid and calendar views](basics/sets-and-collections/views.md)
-* Sidebar and widgets
-* [Types](basics/types/) and [Templates](basics/types/templates.md)
-* [Graph](basics/graph.md)
+* [Széf és Kulcs](basics/vault-and-key.md)
+* [Terek](basics/space/)
+* [Objektumok](basics/object-editor/)
+* [Oldalak és blokkok](basics/object-editor/blocks.md)
+* [Hivatkozások](anytype-basics/object-editor/linking-objects.md) és [kapcsolatok](basics/relations/)
+* [Készletek és Gyűjtemények](basics/sets-and-collections/)
+* [Kanban-, lista-, rács- és naptárnézet](basics/sets-and-collections/views.md)
+* Oldalsáv és widgetek
+* [Típusok](basics/types/) és [Sablonok](basics/types/templates.md)
+* [Gráf](basics/graph.md)
 
-And if you are still a bit confused about some of it, please check out this excellent guide by one of our power users:
+Zavaros néhány dolog? Ne aggódj! Nézd meg ezt a kiváló útmutatót az egyik tapasztalt felhasználónktól:
 
 {% embed url="https://www.youtube.com/watch?v=oY-ihuDJIvQ" %}
