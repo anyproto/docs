@@ -32,4 +32,12 @@ When creating a Vault, it’s now possible to select the storage location on you
 
 <figure><img src="../.gitbook/assets/Custome Storage Location.gif" alt="" width="563"><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
 Please be cautious when using local-only mode, as your data can only be transferred to a second device via peer-to-peer (P2P) connection.
+{% endhint %}
+
+#### External drives and Cloud providers&#x20;
+
+To store your data on an external drive, you just need to mount the drive first, and then follow the steps from [#custom-storage-location](get-the-app.md#custom-storage-location "mention").
+
+We don't recommend using cloud providers like Google Drive or iCloud since you might end up with sync conflicts / issues.
