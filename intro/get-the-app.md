@@ -10,7 +10,7 @@ Anytype is a stand-alone software, that works on desktop or mobile devices. Ther
 
 * For Desktop, we follow Electron who follows vendor support policies. For example, Win 7 / Win 8.1 are no longer supported because Microsoft no longer supports them either.
 * For Android (if installed through Google Play), it's Android 8.0 and a 64-bit device with a minimum of 4GB of RAM.
-* For iOS, it's iOS 15 (soon to be iOS 16).
+* For iOS, it's iOS 16,
 
 ### Install location
 
