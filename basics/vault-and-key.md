@@ -1,21 +1,20 @@
 ---
 description: >-
-  To protect everything you create and your connections with others, you have an
-  encryption key that only you control.
+  Az általad létrehozott tartalmakat és kapcsolataidat a biztonsági kulcs védi. Ez csak a Tiéd!
 ---
 
-# Vault & Key
+# Széf és kulcs
 
-### Vault
+### Széf
 
-A Vault is an encrypted box stored on your device, which holds your information. It allows you to send, receive, and store information with full privacy and ownership over what you create.
+A széf egy titkosított doboz az eszközödön az általad létrehozott tartalmak tárolására. A széf segítségével teljes biztonságban, az adataid fölött rendelkezve küldhetsz, fogadhatsz és tárolhatsz információkat.
 
-All the Spaces you create and share will be stored in your Vault. Because public key cryptography is used to secure your Vault, it is unbreakable - all computational resources on earth are not enough to break into one Vault.
+Minden általad létrehozott és megosztott teret a széfben tárolunk. A széfedet nyilvános kulcsú titkosítással védjük, ezáltal feltörhetetlen - a bolygó valamennyi számítási erőforrása kevés ahhoz, hogy hozzáférjen a benne tárolt adatokhoz.
 
-### Key
+### Kulcs
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Find your unique Key in your Profile Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>A kulcsot a széf létrehozása után a beállításokban érheted el</p></figcaption></figure>
 
-The Key to your Vault is generated locally on your device when the Vault is created. It is represented by 12 words only you should know. It is like a password that you don’t choose.
+A széfedhez tartozó kulcsot a széf létrehozásakor az eszközödön helyben hozzuk létre. A kulcs tizenkét véletlenszerűen generált szóból áll. Pont, mint egy jelszó, amit nem Te választottál - ő választott Téged.
 
-The Key decrypts your Vault. Only you have access to it. That’s why Anytype cannot recover it for you, if it is lost. You can find your Key in your Profile Settings.
+A kulcs megadásával bárhonnan hozzáférhetsz a széfedhez. De vigyázz! A kulcsot rajtad kívül senki nem ismeri, így ha elfelejted, az Anytype sem tudja helyreállítani a széfed tartalmát. A kulcsot a széf létrehozása után a beállításokban érheted el.
