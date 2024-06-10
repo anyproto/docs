@@ -71,7 +71,7 @@
   * [Funkció kérése és szavazás](community/community-forum/request-a-feature-and-vote.md)
   * [Segítség kérése a közösségtől](community/community-forum/get-help-from-the-community.md)
   * [Visszajelzés küldése](community/community-forum/share-your-feedback.md)
-* [Nyílt forráskód - nyitott szemlélet](community/join-the-open-source-project.md)
+* [Open Any Initiative](community/join-the-open-source-project.md)
 * [Az Any fejlesztési idővonala](community/any-timeline.md)
 * [Fejlesztési filozófiánk](community/product-workflow.md)
 * [Egyéni CSS használata](community/custom-css.md)
