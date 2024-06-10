@@ -30,7 +30,7 @@
 * [Készletek és gyűjtemények](basics/sets-and-collections/README.md)
   * [Készletek](basics/sets-and-collections/sets.md)
   * [Gyűjtemények](basics/sets-and-collections/collections.md)
-  * [Nézetek](basics/sets-and-collections/views.md)
+  * [Elrendezésnézetek](basics/sets-and-collections/views.md)
 * [Könyvtár](basics/anytype-library.md)
 * [Hivatkozások](anytype-basics/object-editor/linking-objects.md)
 * [Gráf](basics/graph.md)
