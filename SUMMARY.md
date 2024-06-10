@@ -4,7 +4,7 @@
 
 * [Üdvözlünk az Anytype-nál!](README.md)
 * [Az alkalmazás letöltése](intro/get-the-app.md)
-* [Lépj velünk kapcsolatba](intro/connect-with-us.md)
+* [Kapcsolat](intro/connect-with-us.md)
 
 ## ⬛ Alapok
 
