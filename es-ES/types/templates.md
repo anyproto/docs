@@ -32,11 +32,11 @@ hacer clic en `Nuevo|▼`en la esquina superior derecha de la vista del conjunto
 
 Según el método que elijas para crear un objeto nuevo, se le aplicará automáticamente la plantilla por defecto o se te pedirá que elijas la plantilla.
 
-<figure><img src="../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
 
 Puedes elegir la plantilla que usará cada tipo por defecto y también la que usará cada vista de un conjunto o colección.
 
-<figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
 
 En la biblioteca de tipos puedes ver, editar, duplicar y eliminar las plantillas que hayas añadido a cada tipo de objeto.
 ---
@@ -73,11 +73,11 @@ hacer clic en `Nuevo|▼`en la esquina superior derecha de la vista del conjunto
 
 Según el método que elijas para crear un objeto nuevo, se le aplicará automáticamente la plantilla por defecto o se te pedirá que elijas la plantilla.
 
-<figure><img src="../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
 
 Puedes elegir la plantilla que usará cada tipo por defecto y también la que usará cada vista de un conjunto o colección.
 
-<figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
 
 En la biblioteca de tipos puedes ver, editar, duplicar y eliminar las plantillas que hayas añadido a cada tipo de objeto.
 ---
@@ -114,11 +114,11 @@ hacer clic en `Nuevo|▼`en la esquina superior derecha de la vista del conjunto
 
 Según el método que elijas para crear un objeto nuevo, se le aplicará automáticamente la plantilla por defecto o se te pedirá que elijas la plantilla.
 
-<figure><img src="../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
 
 Puedes elegir la plantilla que usará cada tipo por defecto y también la que usará cada vista de un conjunto o colección.
 
-<figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
 
 En la biblioteca de tipos puedes ver, editar, duplicar y eliminar las plantillas que hayas añadido a cada tipo de objeto.
 ---
@@ -155,11 +155,11 @@ hacer clic en `Nuevo|▼`en la esquina superior derecha de la vista del conjunto
 
 Según el método que elijas para crear un objeto nuevo, se le aplicará automáticamente la plantilla por defecto o se te pedirá que elijas la plantilla.
 
-<figure><img src="../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
 
 Puedes elegir la plantilla que usará cada tipo por defecto y también la que usará cada vista de un conjunto o colección.
 
-<figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
 
 En la biblioteca de tipos puedes ver, editar, duplicar y eliminar las plantillas que hayas añadido a cada tipo de objeto.
 ---
@@ -196,11 +196,11 @@ hacer clic en `Nuevo|▼`en la esquina superior derecha de la vista del conjunto
 
 Según el método que elijas para crear un objeto nuevo, se le aplicará automáticamente la plantilla por defecto o se te pedirá que elijas la plantilla.
 
-<figure><img src="../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
 
 Puedes elegir la plantilla que usará cada tipo por defecto y también la que usará cada vista de un conjunto o colección.
 
-<figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
 
 En la biblioteca de tipos puedes ver, editar, duplicar y eliminar las plantillas que hayas añadido a cada tipo de objeto.
 ---
@@ -237,11 +237,11 @@ hacer clic en `Nuevo|▼`en la esquina superior derecha de la vista del conjunto
 
 Según el método que elijas para crear un objeto nuevo, se le aplicará automáticamente la plantilla por defecto o se te pedirá que elijas la plantilla.
 
-<figure><img src="../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
 
 Puedes elegir la plantilla que usará cada tipo por defecto y también la que usará cada vista de un conjunto o colección.
 
-<figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
 
 En la biblioteca de tipos puedes ver, editar, duplicar y eliminar las plantillas que hayas añadido a cada tipo de objeto.
 ---
@@ -278,11 +278,11 @@ hacer clic en `Nuevo|▼`en la esquina superior derecha de la vista del conjunto
 
 Según el método que elijas para crear un objeto nuevo, se le aplicará automáticamente la plantilla por defecto o se te pedirá que elijas la plantilla.
 
-<figure><img src="../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
 
 Puedes elegir la plantilla que usará cada tipo por defecto y también la que usará cada vista de un conjunto o colección.
 
-<figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
 
 En la biblioteca de tipos puedes ver, editar, duplicar y eliminar las plantillas que hayas añadido a cada tipo de objeto.
 ---
@@ -319,10 +319,10 @@ hacer clic en `Nuevo|▼`en la esquina superior derecha de la vista del conjunto
 
 Según el método que elijas para crear un objeto nuevo, se le aplicará automáticamente la plantilla por defecto o se te pedirá que elijas la plantilla.
 
-<figure><img src="../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Elegir una plantilla</p></figcaption></figure>
 
 Puedes elegir la plantilla que usará cada tipo por defecto y también la que usará cada vista de un conjunto o colección.
 
-<figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Elegir la plantilla por defecto para un conjunto</p></figcaption></figure>
 
 En la biblioteca de tipos puedes ver, editar, duplicar y eliminar las plantillas que hayas añadido a cada tipo de objeto.

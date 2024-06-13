@@ -65,7 +65,7 @@ Recientemente hemos incorporado los enlaces entrantes («Backlinks») a nuestro 
 De forma predeterminada, si la relación «Backlinks» no está vacía, la verás en la sección destacada de cada objeto. Al hacer clic en ella, verás una lista de todos los objetos con enlaces hacia ese.\
 Si el objeto no tiene enlaces entrantes, esta relación no aparece en la sección destacada, pero seguirás encontrándola en el panel de relaciones del objeto.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Colecciones
 
@@ -137,7 +137,7 @@ Recientemente hemos incorporado los enlaces entrantes («Backlinks») a nuestro 
 De forma predeterminada, si la relación «Backlinks» no está vacía, la verás en la sección destacada de cada objeto. Al hacer clic en ella, verás una lista de todos los objetos con enlaces hacia ese.\
 Si el objeto no tiene enlaces entrantes, esta relación no aparece en la sección destacada, pero seguirás encontrándola en el panel de relaciones del objeto.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Colecciones
 
@@ -209,7 +209,7 @@ Recientemente hemos incorporado los enlaces entrantes («Backlinks») a nuestro 
 De forma predeterminada, si la relación «Backlinks» no está vacía, la verás en la sección destacada de cada objeto. Al hacer clic en ella, verás una lista de todos los objetos con enlaces hacia ese.\
 Si el objeto no tiene enlaces entrantes, esta relación no aparece en la sección destacada, pero seguirás encontrándola en el panel de relaciones del objeto.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Colecciones
 
@@ -281,7 +281,7 @@ Recientemente hemos incorporado los enlaces entrantes («Backlinks») a nuestro 
 De forma predeterminada, si la relación «Backlinks» no está vacía, la verás en la sección destacada de cada objeto. Al hacer clic en ella, verás una lista de todos los objetos con enlaces hacia ese.\
 Si el objeto no tiene enlaces entrantes, esta relación no aparece en la sección destacada, pero seguirás encontrándola en el panel de relaciones del objeto.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Colecciones
 
@@ -353,7 +353,7 @@ Recientemente hemos incorporado los enlaces entrantes («Backlinks») a nuestro 
 De forma predeterminada, si la relación «Backlinks» no está vacía, la verás en la sección destacada de cada objeto. Al hacer clic en ella, verás una lista de todos los objetos con enlaces hacia ese.\
 Si el objeto no tiene enlaces entrantes, esta relación no aparece en la sección destacada, pero seguirás encontrándola en el panel de relaciones del objeto.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Colecciones
 
@@ -425,7 +425,7 @@ Recientemente hemos incorporado los enlaces entrantes («Backlinks») a nuestro 
 De forma predeterminada, si la relación «Backlinks» no está vacía, la verás en la sección destacada de cada objeto. Al hacer clic en ella, verás una lista de todos los objetos con enlaces hacia ese.\
 Si el objeto no tiene enlaces entrantes, esta relación no aparece en la sección destacada, pero seguirás encontrándola en el panel de relaciones del objeto.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Colecciones
 
@@ -497,7 +497,7 @@ Recientemente hemos incorporado los enlaces entrantes («Backlinks») a nuestro 
 De forma predeterminada, si la relación «Backlinks» no está vacía, la verás en la sección destacada de cada objeto. Al hacer clic en ella, verás una lista de todos los objetos con enlaces hacia ese.\
 Si el objeto no tiene enlaces entrantes, esta relación no aparece en la sección destacada, pero seguirás encontrándola en el panel de relaciones del objeto.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Colecciones
 
@@ -569,7 +569,7 @@ Recientemente hemos incorporado los enlaces entrantes («Backlinks») a nuestro 
 De forma predeterminada, si la relación «Backlinks» no está vacía, la verás en la sección destacada de cada objeto. Al hacer clic en ella, verás una lista de todos los objetos con enlaces hacia ese.\
 Si el objeto no tiene enlaces entrantes, esta relación no aparece en la sección destacada, pero seguirás encontrándola en el panel de relaciones del objeto.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Colecciones
 

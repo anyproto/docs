@@ -14,11 +14,11 @@ Si quieres publicar en la comunidad de Anytype, necesitarás una cuenta.
 
 En la aplicación de escritorio, haz clic en el botón **?** (Ayuda) de la esquina inferior derecha y luego en «[Únete a nuestra comunidad](https://community.anytype.io/invites/sig5xTU4ZZ)».
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
 
 También puedes ir a la barra de menús de la parte superior de la ventana, debajo de la barra de titulo, y hacer clic en `Ayuda > Informar de un error`.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 ---
 description: ¡Un lugar especial solo para Anytypers!
 ---
@@ -35,11 +35,11 @@ Si quieres publicar en la comunidad de Anytype, necesitarás una cuenta.
 
 En la aplicación de escritorio, haz clic en el botón **?** (Ayuda) de la esquina inferior derecha y luego en «[Únete a nuestra comunidad](https://community.anytype.io/invites/sig5xTU4ZZ)».
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
 
 También puedes ir a la barra de menús de la parte superior de la ventana, debajo de la barra de titulo, y hacer clic en `Ayuda > Informar de un error`.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 ---
 description: ¡Un lugar especial solo para Anytypers!
 ---
@@ -56,11 +56,11 @@ Si quieres publicar en la comunidad de Anytype, necesitarás una cuenta.
 
 En la aplicación de escritorio, haz clic en el botón **?** (Ayuda) de la esquina inferior derecha y luego en «[Únete a nuestra comunidad](https://community.anytype.io/invites/sig5xTU4ZZ)».
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
 
 También puedes ir a la barra de menús de la parte superior de la ventana, debajo de la barra de titulo, y hacer clic en `Ayuda > Informar de un error`.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 ---
 description: ¡Un lugar especial solo para Anytypers!
 ---
@@ -77,11 +77,11 @@ Si quieres publicar en la comunidad de Anytype, necesitarás una cuenta.
 
 En la aplicación de escritorio, haz clic en el botón **?** (Ayuda) de la esquina inferior derecha y luego en «[Únete a nuestra comunidad](https://community.anytype.io/invites/sig5xTU4ZZ)».
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
 
 También puedes ir a la barra de menús de la parte superior de la ventana, debajo de la barra de titulo, y hacer clic en `Ayuda > Informar de un error`.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 ---
 description: ¡Un lugar especial solo para Anytypers!
 ---
@@ -98,11 +98,11 @@ Si quieres publicar en la comunidad de Anytype, necesitarás una cuenta.
 
 En la aplicación de escritorio, haz clic en el botón **?** (Ayuda) de la esquina inferior derecha y luego en «[Únete a nuestra comunidad](https://community.anytype.io/invites/sig5xTU4ZZ)».
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
 
 También puedes ir a la barra de menús de la parte superior de la ventana, debajo de la barra de titulo, y hacer clic en `Ayuda > Informar de un error`.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 ---
 description: ¡Un lugar especial solo para Anytypers!
 ---
@@ -119,11 +119,11 @@ Si quieres publicar en la comunidad de Anytype, necesitarás una cuenta.
 
 En la aplicación de escritorio, haz clic en el botón **?** (Ayuda) de la esquina inferior derecha y luego en «[Únete a nuestra comunidad](https://community.anytype.io/invites/sig5xTU4ZZ)».
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
 
 También puedes ir a la barra de menús de la parte superior de la ventana, debajo de la barra de titulo, y hacer clic en `Ayuda > Informar de un error`.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 ---
 description: ¡Un lugar especial solo para Anytypers!
 ---
@@ -140,11 +140,11 @@ Si quieres publicar en la comunidad de Anytype, necesitarás una cuenta.
 
 En la aplicación de escritorio, haz clic en el botón **?** (Ayuda) de la esquina inferior derecha y luego en «[Únete a nuestra comunidad](https://community.anytype.io/invites/sig5xTU4ZZ)».
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
 
 También puedes ir a la barra de menús de la parte superior de la ventana, debajo de la barra de titulo, y hacer clic en `Ayuda > Informar de un error`.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 ---
 description: ¡Un lugar especial solo para Anytypers!
 ---
@@ -161,8 +161,8 @@ Si quieres publicar en la comunidad de Anytype, necesitarás una cuenta.
 
 En la aplicación de escritorio, haz clic en el botón **?** (Ayuda) de la esquina inferior derecha y luego en «[Únete a nuestra comunidad](https://community.anytype.io/invites/sig5xTU4ZZ)».
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
 
 También puedes ir a la barra de menús de la parte superior de la ventana, debajo de la barra de titulo, y hacer clic en `Ayuda > Informar de un error`.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>

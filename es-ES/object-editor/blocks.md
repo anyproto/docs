@@ -10,19 +10,19 @@ Todos los estilos de los bloques se aplican desde el menú de comandos, al que s
 
 En él verás más de veinte tipos de bloques distintos que puedes añadir a tu objeto.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
 
 ### Dar estilo a los bloques
 
 Puedes seleccionar un solo bloque, o varios si quieres editarlos conjuntamente, y aplicar distintos estilos de título y texto, como casillas, viñetas o números.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### Estilo en línea &#x20;
 
 También puedes aplicar estilos a caracteres sueltos o palabras dentro de los bloques de texto.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Arrastrar y colocar para dar formato
 
@@ -50,19 +50,19 @@ Todos los estilos de los bloques se aplican desde el menú de comandos, al que s
 
 En él verás más de veinte tipos de bloques distintos que puedes añadir a tu objeto.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
 
 ### Dar estilo a los bloques
 
 Puedes seleccionar un solo bloque, o varios si quieres editarlos conjuntamente, y aplicar distintos estilos de título y texto, como casillas, viñetas o números.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### Estilo en línea &#x20;
 
 También puedes aplicar estilos a caracteres sueltos o palabras dentro de los bloques de texto.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Arrastrar y colocar para dar formato
 
@@ -90,19 +90,19 @@ Todos los estilos de los bloques se aplican desde el menú de comandos, al que s
 
 En él verás más de veinte tipos de bloques distintos que puedes añadir a tu objeto.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
 
 ### Dar estilo a los bloques
 
 Puedes seleccionar un solo bloque, o varios si quieres editarlos conjuntamente, y aplicar distintos estilos de título y texto, como casillas, viñetas o números.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### Estilo en línea &#x20;
 
 También puedes aplicar estilos a caracteres sueltos o palabras dentro de los bloques de texto.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Arrastrar y colocar para dar formato
 
@@ -130,19 +130,19 @@ Todos los estilos de los bloques se aplican desde el menú de comandos, al que s
 
 En él verás más de veinte tipos de bloques distintos que puedes añadir a tu objeto.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
 
 ### Dar estilo a los bloques
 
 Puedes seleccionar un solo bloque, o varios si quieres editarlos conjuntamente, y aplicar distintos estilos de título y texto, como casillas, viñetas o números.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### Estilo en línea &#x20;
 
 También puedes aplicar estilos a caracteres sueltos o palabras dentro de los bloques de texto.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Arrastrar y colocar para dar formato
 
@@ -170,19 +170,19 @@ Todos los estilos de los bloques se aplican desde el menú de comandos, al que s
 
 En él verás más de veinte tipos de bloques distintos que puedes añadir a tu objeto.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
 
 ### Dar estilo a los bloques
 
 Puedes seleccionar un solo bloque, o varios si quieres editarlos conjuntamente, y aplicar distintos estilos de título y texto, como casillas, viñetas o números.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### Estilo en línea &#x20;
 
 También puedes aplicar estilos a caracteres sueltos o palabras dentro de los bloques de texto.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Arrastrar y colocar para dar formato
 
@@ -210,19 +210,19 @@ Todos los estilos de los bloques se aplican desde el menú de comandos, al que s
 
 En él verás más de veinte tipos de bloques distintos que puedes añadir a tu objeto.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
 
 ### Dar estilo a los bloques
 
 Puedes seleccionar un solo bloque, o varios si quieres editarlos conjuntamente, y aplicar distintos estilos de título y texto, como casillas, viñetas o números.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### Estilo en línea &#x20;
 
 También puedes aplicar estilos a caracteres sueltos o palabras dentro de los bloques de texto.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Arrastrar y colocar para dar formato
 
@@ -250,19 +250,19 @@ Todos los estilos de los bloques se aplican desde el menú de comandos, al que s
 
 En él verás más de veinte tipos de bloques distintos que puedes añadir a tu objeto.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
 
 ### Dar estilo a los bloques
 
 Puedes seleccionar un solo bloque, o varios si quieres editarlos conjuntamente, y aplicar distintos estilos de título y texto, como casillas, viñetas o números.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### Estilo en línea &#x20;
 
 También puedes aplicar estilos a caracteres sueltos o palabras dentro de los bloques de texto.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Arrastrar y colocar para dar formato
 
@@ -290,19 +290,19 @@ Todos los estilos de los bloques se aplican desde el menú de comandos, al que s
 
 En él verás más de veinte tipos de bloques distintos que puedes añadir a tu objeto.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
 
 ### Dar estilo a los bloques
 
 Puedes seleccionar un solo bloque, o varios si quieres editarlos conjuntamente, y aplicar distintos estilos de título y texto, como casillas, viñetas o números.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### Estilo en línea &#x20;
 
 También puedes aplicar estilos a caracteres sueltos o palabras dentro de los bloques de texto.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Arrastrar y colocar para dar formato
 

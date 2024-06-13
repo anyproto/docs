@@ -14,7 +14,7 @@ Todos los espacios que crees y compartas estarán almacenados en tu arca. Como t
 
 ### Clave
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
 
 La clave de tu arca se genera localmente en tu dispositivo cuando creas el arca. Está representada por 12 palabras que solo deberías conocer tú. Es como una contraseña que no puedes elegir.
 
@@ -35,7 +35,7 @@ Todos los espacios que crees y compartas estarán almacenados en tu arca. Como t
 
 ### Clave
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
 
 La clave de tu arca se genera localmente en tu dispositivo cuando creas el arca. Está representada por 12 palabras que solo deberías conocer tú. Es como una contraseña que no puedes elegir.
 
@@ -56,7 +56,7 @@ Todos los espacios que crees y compartas estarán almacenados en tu arca. Como t
 
 ### Clave
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
 
 La clave de tu arca se genera localmente en tu dispositivo cuando creas el arca. Está representada por 12 palabras que solo deberías conocer tú. Es como una contraseña que no puedes elegir.
 
@@ -77,7 +77,7 @@ Todos los espacios que crees y compartas estarán almacenados en tu arca. Como t
 
 ### Clave
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
 
 La clave de tu arca se genera localmente en tu dispositivo cuando creas el arca. Está representada por 12 palabras que solo deberías conocer tú. Es como una contraseña que no puedes elegir.
 
@@ -98,7 +98,7 @@ Todos los espacios que crees y compartas estarán almacenados en tu arca. Como t
 
 ### Clave
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
 
 La clave de tu arca se genera localmente en tu dispositivo cuando creas el arca. Está representada por 12 palabras que solo deberías conocer tú. Es como una contraseña que no puedes elegir.
 
@@ -119,7 +119,7 @@ Todos los espacios que crees y compartas estarán almacenados en tu arca. Como t
 
 ### Clave
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
 
 La clave de tu arca se genera localmente en tu dispositivo cuando creas el arca. Está representada por 12 palabras que solo deberías conocer tú. Es como una contraseña que no puedes elegir.
 
@@ -140,7 +140,7 @@ Todos los espacios que crees y compartas estarán almacenados en tu arca. Como t
 
 ### Clave
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
 
 La clave de tu arca se genera localmente en tu dispositivo cuando creas el arca. Está representada por 12 palabras que solo deberías conocer tú. Es como una contraseña que no puedes elegir.
 
@@ -161,7 +161,7 @@ Todos los espacios que crees y compartas estarán almacenados en tu arca. Como t
 
 ### Clave
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>Tu clave única se encuentra en los ajustes de tu perfil</p></figcaption></figure>
 
 La clave de tu arca se genera localmente en tu dispositivo cuando creas el arca. Está representada por 12 palabras que solo deberías conocer tú. Es como una contraseña que no puedes elegir.
 

@@ -9,7 +9,7 @@ Estas son las vistas que ofrece Anytype en este momento:
 5. Calendario
 6. Gráfico
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 # Vistas
 
 Estas son las vistas que ofrece Anytype en este momento:
@@ -21,7 +21,7 @@ Estas son las vistas que ofrece Anytype en este momento:
 5. Calendario
 6. Gráfico
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 # Vistas
 
 Estas son las vistas que ofrece Anytype en este momento:
@@ -33,7 +33,7 @@ Estas son las vistas que ofrece Anytype en este momento:
 5. Calendario
 6. Gráfico
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 # Vistas
 
 Estas son las vistas que ofrece Anytype en este momento:
@@ -45,7 +45,7 @@ Estas son las vistas que ofrece Anytype en este momento:
 5. Calendario
 6. Gráfico
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 # Vistas
 
 Estas son las vistas que ofrece Anytype en este momento:
@@ -57,7 +57,7 @@ Estas son las vistas que ofrece Anytype en este momento:
 5. Calendario
 6. Gráfico
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 # Vistas
 
 Estas son las vistas que ofrece Anytype en este momento:
@@ -69,7 +69,7 @@ Estas son las vistas que ofrece Anytype en este momento:
 5. Calendario
 6. Gráfico
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 # Vistas
 
 Estas son las vistas que ofrece Anytype en este momento:
@@ -81,7 +81,7 @@ Estas son las vistas que ofrece Anytype en este momento:
 5. Calendario
 6. Gráfico
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 # Vistas
 
 Estas son las vistas que ofrece Anytype en este momento:
@@ -93,4 +93,4 @@ Estas son las vistas que ofrece Anytype en este momento:
 5. Calendario
 6. Gráfico
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
