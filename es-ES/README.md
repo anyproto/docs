@@ -1,4 +1,4 @@
-﻿---
+---
 description: Herramientas para el pensamiento, la libertad y la confianza
 ---
 
