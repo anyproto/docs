@@ -15,7 +15,7 @@
   * [Key](data-and-security/what-is-a-recovery-phrase.md)
 * [Space](basics/space/README.md)
   * [Customizing Your Space](basics/space/space-settings.md)
-  * [Sharing Your Space](basics/space/collaboration.md)
+  * [Collaborate With Others](basics/space/collaboration.md)
 * [Objects](basics/object-editor/README.md)
   * [Blocks & Editor](basics/object-editor/blocks.md)
   * [Ways to Create Objects](basics/object-editor/create-an-object.md)

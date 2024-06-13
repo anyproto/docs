@@ -36,7 +36,7 @@ You can import to or export from your space by going into Anytype > Space Settin
 
 When it comes to apps, we currently only offer imports from **Notion**, and when it comes to file formats, we currently offer these:
 
-* Markdown
+* Markdown - We support importing from individual .md files, a zip file or directory (only on MacOS).
 * HTML
 * TXT
 * CSV
