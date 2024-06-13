@@ -8,6 +8,11 @@ Every Anytype user has access to a remote backup node provided by Anytype. Its c
 
 Our backup nodes are located in Switzerland, and we use AWS (Amazon Web Services).
 
+The domains we use for our Anytype network are:
+
+* For syncing: `*.anyclub.org`
+* For our analytics: `*.anytype.io`
+
 ### How to switch back to Anytype network
 
 We strongly recommend using dedicated identities for each network. If you are switching from a Self-hosted network, export all your spaces, and import them into a new identity after switching the network mode.

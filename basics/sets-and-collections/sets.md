@@ -28,13 +28,15 @@ Sets are a way to see a portion of your Graph, and Objects you've created, based
    For instance: Creation Date, Tags, or Priority. (In this sense, Relations behave like attributes).\
    \
    You can then pin your Set to your Favorites menu, where it will sit on your Sidebar, acting like a folder for all Objects that meet certain criteria.
-2. **Editing Objects**\
-   \
-   Sets also provide a way to quickly edit Objects in a list View.\
-   \
-   You can use multi-select Objects in Sets to delete multiple Objects at once, or to batch update the Object Type. Any Relations added to a Set in the Relation Menu (top right), will be adopted by all new Objects created with the "+ New Object" button.
+2.  **Editing Objects**
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+
+    Sets also provide a way to quickly edit Objects in a list View.\
+    \
+    You can use multi-select in Sets to delete multiple Objects at once, or to batch update Relations / the Object Type of Objects. Any Relations added to a Set in the Relation Menu (top right), will be adopted by all new Objects created with the "+ New Object" button.
+
+{% embed url="https://drive.google.com/file/d/1emIekdXcrI0DTve9BQfweqTnPxa_BfGt/view?usp=drive_link" %}
 
 ### Creating Sets
 
