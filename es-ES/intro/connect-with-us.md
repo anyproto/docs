@@ -1,7 +1,7 @@
 ---
 description: >-
   Nos gusta estar en contacto. Búscanos en línea para estar al día de lo que
-  se cuece en el Anyverso
+  se cuece en el Anyverso.
 ---
 
 # Ponte en contacto

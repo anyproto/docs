@@ -1,4 +1,4 @@
-﻿# Obtén la aplicación
+# Obtén la aplicación
 
 Puedes descargar la versión más reciente de Anytype para tu dispositivo desde [download.anytype.io](https://download.anytype.io).
 
@@ -30,7 +30,7 @@ Anytype se instala en las siguientes ubicaciones:
 
 En el momento de crear un arca se puede seleccionar la ubicación de almacenamiento en la unidad de disco. Si ya has creado tu arca, también puedes cambiar la ubicación y después recuperar los datos desde la red. Para hacerlo, cierra la sesión y luego pulsa el icono de los ajustes (rueda dentada) en la pantalla de inicio de sesión.
 
-<figure><img src="../.gitbook/assets/Custome Storage Location.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Custome Storage Location.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Ten precaución cuando uses el modo solo local, ya que los datos solo se podrán transferir a otro dispositivo por medio de una conexión directa entre dispositivos (P2P).
