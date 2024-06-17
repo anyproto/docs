@@ -8,7 +8,7 @@ description: Finally a dive into your graph of objects.
 
 <figure><img src="../.gitbook/assets/Graph Icon.png" alt=""><figcaption><p>Locate the graph icon in the middle of your navigation panel</p></figcaption></figure>
 
-### Open your Graph to see all of your objects and their relations.
+### Open your Graph to see all of your objects and their relations
 
 Here you can see which Objects are connected together, and the direction everything flows.
 
@@ -18,6 +18,6 @@ On the top right of the screen in your Graph, you can **search** and optimize so
 
 Toggle appearances for title, arrows, and icons.&#x20;
 
-Optimize viewing links, relations, and orphans. **If you are missing some objects, check to show orphans.**
+Optimize viewing links, relations, and unlinked objects. **If you are missing some objects, check to show unlinked objects.**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/graph view menu options.png" alt=""><figcaption></figcaption></figure>
