@@ -20,4 +20,4 @@ Toggle appearances for title, arrows, and icons.&#x20;
 
 Optimize viewing links, relations, and unlinked objects. **If you are missing some objects, check to show unlinked objects.**
 
-<figure><img src="../.gitbook/assets/graph view menu options.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/graph-view-menu-options.png" alt=""><figcaption></figcaption></figure>
