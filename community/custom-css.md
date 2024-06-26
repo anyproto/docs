@@ -1,6 +1,6 @@
-# Custom CSS
+# Custom CSS Guide
 
-Original community topic made by [LavaC](https://community.anytype.io/u/LavaC):
+Original shared by [LavaC](https://community.anytype.io/u/LavaC) on our community forum:
 
 {% embed url="https://community.anytype.io/t/tutorial-of-custom-css/14234" %}
 

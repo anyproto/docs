@@ -85,3 +85,11 @@ There's a hack that can be done on desktop only. You will need to create a separ
 You can check all keyboard shortcuts in the app by clicking on `? > Keyboard shortcuts` in the bottom right corner of the app.
 
 </details>
+
+<details>
+
+<summary>Can I install Anytype on a Chromebook?</summary>
+
+There are a few ways you can install Anytype on a Chromebook, but probably the easiest one is to use an [AppImage](https://download.anytype.io). For the full guide from one of our community members, please click [here](https://community.anytype.io/t/guide-to-use-anytype-on-a-chromebook/12181).
+
+</details>
