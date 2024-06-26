@@ -8,7 +8,10 @@ Az Anytype önálló, asztali és mobil eszközökön működő szoftver. Az alk
 
 ### Rendszerkövetelmények
 
-* PC és Mac: az Electron fejlesztési platform használata miatt a rendszerkövetelményeket az Electron határozza meg. Például a Windows 7 és Windows 8.1 rendszerek nem támogatottak, mert a Microsoft általi támogatási időszakok lejártak
+Az Electron fejlesztési platform használata miatt asztali környezetben a [Chrome rendszerkövetelményei](https://support.google.com/chrome/a/answer/7100626?hl=en) az irányadók.
+* PC: Windows 10 vagy újabb
+* Mac: macOS Catalina 10.15 vagy újabb
+* Linux: 64-bit Ubuntu 18.04 vagy újabb, Debian 10 vagy újabb, openSUSE 15.5 vagy újabb, Fedora Linux 38 vagy újabb
 * Android: 8.0 vagy újabb rendszert futtató, 64-bites, legalább 4 GB RAM-mal rendelkező eszköz (ha az alkalmazás a Google Play-ről lett beszerezve)
 * iOS: iOS 16 vagy újabb
 
