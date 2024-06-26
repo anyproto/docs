@@ -23,7 +23,7 @@ Anytype is installed:
 * In Windows 10 or above, it is usually located:\
   `C:\Users\<username>\Appdata\Local\Programs\anytype2\Anytype.exe`\
   **username** stands for the name of your user aka working directory.&#x20;
-* For MacOS, it's: ` HHD > Users >`` `` `_`Username`_` `` ``> Library > Application Support > anytype `
+* For MacOS, it's: ` HDD > Users >`` `` `_`Username`_` `` ``> Library > Application Support > anytype `
 * For Linux, you'll find your work directory in `~/.config/anytype`
 * For Android, it’s your default location, usually: \_device/data/app\_​.\
   We also store some caches: _device/data/data/io.anytype.app_\
