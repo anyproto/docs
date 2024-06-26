@@ -19,11 +19,11 @@ Az Electron fejlesztési platform használata miatt asztali környezetben a [Chr
 
 Az Anytype telepítési könyvtára az egyes operációs rendszerek esetében az alábbi:
 
-* Windows 10 vagy újabb rendszeren, általában:\
-  `C:\Felhasználók\<felhasználónév>\Appdata\Local\Programs\anytype2\Anytype.exe`\&#x20;
-* MacOS: ` HHD > Felhasználók >`` `` `_`felhasználónév`_` `` ``> Library > Application Support > anytype `
+* Windows 10 vagy újabb rendszeren, általában:
+  `C:\Felhasználók\<felhasználónév>\Appdata\Local\Programs\anytype2\Anytype.exe`
+* MacOS: `HHD > Felhasználók > <felhasználónév> > Library > Application Support > anytype`
 * Linux: `~/.config/anytype`
-* Android: `_device/data/app\_​`, a gyorsítótár mentési helye: `_device/data/data/io.anytype.app_`
+* Android: `_device/data/app\_​`, a gyorsítótár mentési helye: `_device/data/data/io.anytype.app_`\
   A könyvárat biztonságos mappában tároljuk, amely a felhasználó által nem hozzáférhető.
 * iOS: az alapértelmezett telepítési helyet a rendszer határozza meg
 
@@ -39,6 +39,6 @@ A széf létrehozásakor lehetőséged van a tárolási hely kiválasztására a
 
 #### Hordozható meghajtók és felhőtárhelyek&#x20;
 
-A széf tárolási helyeként hordozható meghajtót is beállíthatsz. Ehhez csatlakoztasd a meghajtót az eszközödhöz, majd kövesd a lépéseket a [#Tárolási hely módosítása](get-the-app.md#custom-storage-location "mention") pontban. Ne feledd, hogy adataidat csak akkor fogod tudni elérni, ha a meghajtó csatlakoztatva van.
+A széf tárolási helyeként hordozható meghajtót is beállíthatsz. Ehhez csatlakoztasd a meghajtót az eszközödhöz, majd kövesd a lépéseket a [#Tárolási hely módosítása](get-the-app.md#tarolasi-hely-modositasa "mention") pontban. Ne feledd, hogy adataidat csak akkor fogod tudni elérni, ha a meghajtó csatlakoztatva van.
 
 Felhőtárhelyek használatát (pl. Google Drive, iCloud) tárolási helyként nem javasoljuk, mert az eltérő szinkronizálási technológiák használati problémákat eredményezhetnek.
