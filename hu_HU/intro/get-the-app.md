@@ -8,7 +8,10 @@ Az Anytype önálló, asztali és mobil eszközökön működő szoftver. Az alk
 
 ### Rendszerkövetelmények
 
-* PC és Mac: az Electron fejlesztési platform használata miatt a rendszerkövetelményeket az Electron határozza meg. Például a Windows 7 és Windows 8.1 rendszerek nem támogatottak, mert a Microsoft általi támogatási időszakok lejártak
+Az Electron fejlesztési platform használata miatt asztali környezetben a [Chrome rendszerkövetelményei](https://support.google.com/chrome/a/answer/7100626?hl=en) az irányadók.
+* PC: Windows 10 vagy újabb
+* Mac: macOS Catalina 10.15 vagy újabb
+* Linux: 64-bit Ubuntu 18.04 vagy újabb, Debian 10 vagy újabb, openSUSE 15.5 vagy újabb, Fedora Linux 38 vagy újabb
 * Android: 8.0 vagy újabb rendszert futtató, 64-bites, legalább 4 GB RAM-mal rendelkező eszköz (ha az alkalmazás a Google Play-ről lett beszerezve)
 * iOS: iOS 16 vagy újabb
 
@@ -16,11 +19,11 @@ Az Anytype önálló, asztali és mobil eszközökön működő szoftver. Az alk
 
 Az Anytype telepítési könyvtára az egyes operációs rendszerek esetében az alábbi:
 
-* Windows 10 vagy újabb rendszeren, általában:\
-  `C:\Felhasználók\<felhasználónév>\Appdata\Local\Programs\anytype2\Anytype.exe`\&#x20;
-* MacOS: ` HHD > Felhasználók >`` `` `_`felhasználónév`_` `` ``> Library > Application Support > anytype `
+* Windows 10 vagy újabb rendszeren, általában:
+  `C:\Felhasználók\<felhasználónév>\Appdata\Local\Programs\anytype2\Anytype.exe`
+* MacOS: `HHD > Felhasználók > <felhasználónév> > Library > Application Support > anytype`
 * Linux: `~/.config/anytype`
-* Android: `_device/data/app\_​`, a gyorsítótár mentési helye: `_device/data/data/io.anytype.app_`
+* Android: `_device/data/app\_​`, a gyorsítótár mentési helye: `_device/data/data/io.anytype.app_`\
   A könyvárat biztonságos mappában tároljuk, amely a felhasználó által nem hozzáférhető.
 * iOS: az alapértelmezett telepítési helyet a rendszer határozza meg
 
@@ -36,6 +39,6 @@ A széf létrehozásakor lehetőséged van a tárolási hely kiválasztására a
 
 #### Hordozható meghajtók és felhőtárhelyek&#x20;
 
-A széf tárolási helyeként hordozható meghajtót is beállíthatsz. Ehhez csatlakoztasd a meghajtót az eszközödhöz, majd kövesd a lépéseket a [#Tárolási hely módosítása](get-the-app.md#custom-storage-location "mention") pontban. Ne feledd, hogy adataidat csak akkor fogod tudni elérni, ha a meghajtó csatlakoztatva van.
+A széf tárolási helyeként hordozható meghajtót is beállíthatsz. Ehhez csatlakoztasd a meghajtót az eszközödhöz, majd kövesd a lépéseket a [#Tárolási hely módosítása](get-the-app.md#tarolasi-hely-modositasa "mention") pontban. Ne feledd, hogy adataidat csak akkor fogod tudni elérni, ha a meghajtó csatlakoztatva van.
 
 Felhőtárhelyek használatát (pl. Google Drive, iCloud) tárolási helyként nem javasoljuk, mert az eltérő szinkronizálási technológiák használati problémákat eredményezhetnek.

@@ -18,7 +18,7 @@ Minden lépésünkkel és fejlesztésünkkel arra törekszünk, hogy a [digitál
 
 Az Anytype széleskörű felhasználási lehetőségeit az aktív közösségnél semmi nem példázza jobban: fedezd fel a legkreatívabb felhasználóink által készített sablonokat és élménybeszámolókat az [Experience Gallery](https://gallery.any.coop) oldalán.&#x20;
 
-Kérdésed van, vagy csak megosztanád velünk ötleteidet? Szeretettel várunk a [közösségi fórumban!](https://community.anytype.io) Ha szeretnél közreműködni és részt venni az alkalmazás fejlesztésében,[ itt a helyed](https://github.com/orgs/anyproto/discussions).
+Kérdésed van, vagy csak megosztanád velünk ötleteidet? Szeretettel várunk a [közösségi fórumban!](https://community.anytype.io) Ha szeretnél közreműködni és részt venni az alkalmazás fejlesztésében, [itt a helyed](https://github.com/orgs/anyproto/discussions).
 
 ### Vágjunk bele!
 
@@ -33,7 +33,7 @@ Kérdésed van, vagy csak megosztanád velünk ötleteidet? Szeretettel várunk 
 * [Hivatkozások](anytype-basics/object-editor/linking-objects.md) és [kapcsolatok](basics/relations/)
 * [Készletek és gyűjtemények](basics/sets-and-collections/)
 * [Elrendezésnézetek](basics/sets-and-collections/views.md)
-* Oldalsáv és widgetek
+* [Oldalsáv és widgetek](basics/vault-and-key/customize-and-edit-the-sidebar.md)
 * [Típusok](basics/types/) és [Sablonok](basics/types/templates.md)
 * [Gráf](basics/graph.md)
 
