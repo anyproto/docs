@@ -10,7 +10,7 @@
 
 * [Széf és kulcs](basics/vault-and-key.md)
   * [Előkészítés](basics/vault-and-key/setting-up-your-profile.md)
-  * [Széf beállításai](basics/vault-and-key/account-and-data.md)
+  * [Széf testreszabása](basics/vault-and-key/account-and-data.md)
   * [Oldalsáv és widgetek](basics/vault-and-key/customize-and-edit-the-sidebar.md)
   * [Kulcs](data-and-security/what-is-a-recovery-phrase.md)
 * [Tér](basics/space/README.md)
