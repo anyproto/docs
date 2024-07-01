@@ -2,9 +2,7 @@
 
 You can download the latest version of Anytype for your device at [download.anytype.io](https://download.anytype.io).
 
-{% hint style="info" %}
-Anytype is a stand-alone software, that works on desktop or mobile devices. There is no browser version of the app. There are many points of vulnerability in browser apps that would compromise our commitment to data security and encryption.
-{% endhint %}
+There is currently no [browser version](../miscellaneous/faqs.md#why-is-there-no-browser-version-of-anytype) of the app.
 
 ### Minimum specs
 
