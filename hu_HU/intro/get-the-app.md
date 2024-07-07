@@ -3,7 +3,7 @@
 Az alkalmazás legfrissebb verzióját a [download.anytype.io](https://download.anytype.io) oldalról töltheted le.
 
 {% hint style="info" %}
-Az Anytype önálló, asztali és mobil eszközökön működő szoftver. Az alkalmazásnak nincs böngészőben futtatható verziója. A böngészőalkalmazásokban számos sebezhetőségi pont van, amelyek veszélyeztetnék elkötelezettségünket az adatbiztonság és a titkosítás iránt.
+Az Anytype önálló, asztali és mobil eszközökön működő szoftver. Az alkalmazásnak nincs [böngészőben futtatható verziója](../miscellaneous/faqs.md#miert-nincs-bongeszoben-futtathato-verzio).
 {% endhint %}
 
 ### Rendszerkövetelmények
