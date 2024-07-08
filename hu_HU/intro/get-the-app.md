@@ -3,7 +3,7 @@
 Az alkalmazás legfrissebb verzióját a [download.anytype.io](https://download.anytype.io) oldalról töltheted le.
 
 {% hint style="info" %}
-Az Anytype önálló, asztali és mobil eszközökön működő szoftver. Az alkalmazásnak nincs böngészőben futtatható verziója. A böngészőalkalmazásokban számos sebezhetőségi pont van, amelyek veszélyeztetnék elkötelezettségünket az adatbiztonság és a titkosítás iránt.
+Az Anytype önálló, asztali és mobil eszközökön működő szoftver. Az alkalmazásnak nincs [böngészőben futtatható verziója](../miscellaneous/faqs.md#miert-nincs-bongeszoben-futtathato-verzio).
 {% endhint %}
 
 ### Rendszerkövetelmények
@@ -21,7 +21,7 @@ Az Anytype telepítési könyvtára az egyes operációs rendszerek esetében az
 
 * Windows 10 vagy újabb rendszeren, általában:
   `C:\Felhasználók\<felhasználónév>\Appdata\Local\Programs\anytype2\Anytype.exe`
-* MacOS: `HHD > Felhasználók > <felhasználónév> > Library > Application Support > anytype`
+* MacOS: `HDD > Felhasználók > <felhasználónév> > Library > Application Support > anytype`
 * Linux: `~/.config/anytype`
 * Android: `_device/data/app\_​`, a gyorsítótár mentési helye: `_device/data/data/io.anytype.app_`\
   A könyvárat biztonságos mappában tároljuk, amely a felhasználó által nem hozzáférhető.
@@ -31,7 +31,7 @@ Az Anytype telepítési könyvtára az egyes operációs rendszerek esetében az
 
 A széf létrehozásakor lehetőséged van a tárolási hely kiválasztására a meghajtón. A tárolási helyet abban az esetben is megváltoztathatod, ha már rendelkezel széffel az eszközön. Ehhez jelentkezz ki az alkalmazásból, majd a bejelentkezési képernyő jobb felső sarkában lépj a Beállításokra. A széfbe történő belépést követően az adataidat szinkronizáljuk.
 
-<figure><img src="../.gitbook/assets/Custome Storage Location.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Custome Storage Location.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Ügyelj arra, hogy a **Csak helyi** hálózati beállítás használata esetén az adataidat legfeljebb két eszközön tárolhatod a peer-to-peer (P2P) kapcsolat révén.

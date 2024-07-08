@@ -14,7 +14,7 @@ Minden általad létrehozott és megosztott teret a széfben tárolunk. A széfe
 
 ### Kulcs
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>A kulcsot a széf létrehozása után a beállításokban érheted el</p></figcaption></figure>
+<figure><img src="/.gitbook/assets/Screenshot 2024-04-26 at 06.45.43.png" alt="Anytype Encrypted Recovery Key"><figcaption><p>A kulcsot a széf létrehozása után a beállításokban érheted el</p></figcaption></figure>
 
 A széfedhez tartozó kulcsot a széf létrehozásakor az eszközödön helyben hozzuk létre. A kulcs tizenkét véletlenszerűen generált szóból áll. Pont, mint egy jelszó, amit nem Te választottál - ő választott Téged.
 
