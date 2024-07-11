@@ -10,10 +10,10 @@ Ha még nem tetted volna meg, a széfed létrehozásához kattints a **Széf lé
 
 #### Belépés a kulccsal 
 
-Ha már rendelkezel széffel, kattints a **Belépés** gombra és add meg a [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention")od a kezdéshez.
+Ha már rendelkezel széffel, kattints a **Belépés** gombra és add meg a [kulcsod](../../data-and-security/what-is-a-recovery-phrase.md) a kezdéshez.
 
 {% hint style="danger" %}
-Győződj meg róla, hogy a [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention")ot biztonságos helyen tárolod. Ne oszd meg senkivel, akiben nem bízol!
+Győződj meg róla, hogy a kulcsot biztonságos helyen tárolod. Ne oszd meg senkivel, akiben nem bízol!
 {% endhint %}
 
 #### Belépés QR-kód használatával
@@ -30,4 +30,4 @@ Szkenneld be a kódot a mobileszközöddel és telepítsd az alkalmazást.
 
 ### Meglévő adatok importálása
 
-Ha szeretnéd importálni a meglévő személyes adataidat más támogatott alkalmazásokból, keresd fel az [#import-and-export](../space/space-settings.md#import-and-export "mention") oldalt.
+Ha szeretnéd importálni a meglévő személyes adataidat más támogatott alkalmazásokból, keresd fel az [Importálás és exportálás](../space/space-settings.md#import-and-export) oldalt.
