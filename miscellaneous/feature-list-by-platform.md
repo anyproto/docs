@@ -67,7 +67,7 @@ Here is a running list of features and their implementation status, by platform.
 | Widgets                    | Yes | Yes     |
 | Graph                      | No  | No      |
 | Global search              | Yes | Yes     |
-| Document search (Ctrl + F) | No  | No      |
+| Object search (Ctrl + F)   | No  | Yes     |
 | Sidebar                    | No  | No      |
 {% endtab %}
 
