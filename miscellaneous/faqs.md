@@ -72,9 +72,9 @@ The homepage from the alpha app has been removed, and replaced with the new side
 
 <details>
 
-<summary>Can I use two separate vaults at the same time?</summary>
+<summary>Can I use two separate Vaults at the same time?</summary>
 
-There's a hack that can be done on desktop only. You will need to create a separate shortcut for your other vault, and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
+Here's a tweak that works only on desktop: you need to create a separate shortcut for your other Vault and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
 
 </details>
 
