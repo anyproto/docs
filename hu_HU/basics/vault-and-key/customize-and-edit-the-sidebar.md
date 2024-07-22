@@ -36,11 +36,11 @@ A widgetek forrásától függően, számos elrendezés közül választhatsz.
 
 Az objektumokból létrehozott widgetek (Oldal, Jegyzet, stb.) "Faszerkezet" és "Hivatkozás" nézetben jeleníthetők meg. Előbbivel valamennyi, az objektumhoz elsődleges és másodlagos szinten kapcsolódó objektum könnyedén és strukturáltan áttekinthető, míg az utóbbi kizárólag a widget forrásaként használt objektum nevét jeleníti meg.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-18 at 09.01.31.png" alt=""><figcaption><p>Az oldalsáv tetején látható 'Self' nevű widget faszerkezet-, míg az alatta található 'Home' widget hivatkozásnézetben jelenik meg.</p></figcaption></figure>
+<figure><img src="/.gitbook/assets/Screenshot 2023-08-18 at 09.01.31.png" alt=""><figcaption><p>Az oldalsáv tetején látható 'Self' nevű widget faszerkezet-, míg az alatta található 'Home' widget hivatkozásnézetben jelenik meg.</p></figcaption></figure>
 
 Készletekből és gyűjteményekből létrehozott widgetek esetén az "Összetett lista" és "Lista" nézetekből választhatsz. Bár az egyes készletek és gyűjtemények megadott tulajdonságainak megfelelő objektumokat mindkét nézet megjeleníti, előbbi áttekinthetőbb, utóbbi részletesebb betekintést tesz lehetővé.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-18 at 09.08.53 (1).png" alt=""><figcaption><p>A 'Disco Room' nevű widget fent összetett lista-, lentebb listanézetben látható.</p></figcaption></figure>
+<figure><img src="/.gitbook/assets/Screenshot 2023-08-18 at 09.08.53 (1).png" alt=""><figcaption><p>A 'Disco Room' nevű widget fent összetett lista-, lentebb listanézetben látható.</p></figcaption></figure>
 
 ### Widgetek használata mobileszközön
 
