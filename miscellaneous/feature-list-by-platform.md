@@ -104,7 +104,7 @@ Here is a running list of features and their implementation status, by platform.
 | Numbered List   | Yes       | Yes       |
 | Toggle          | Yes       | Yes       |
 | Files           | Yes       | Yes       |
-| Pictures        | Yes       | Yes       |
+| Images          | Yes       | Yes       |
 | Video           | Yes       | Yes       |
 | Audio           | Yes       | Yes       |
 | PDF             | Yes       | Yes       |
