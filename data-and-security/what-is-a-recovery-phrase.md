@@ -51,8 +51,10 @@ If you logged in with your key on your mac, then you can find it here:
 5. Find & open your Anytype instance in the list
 6. Check the “Show password” box to reveal your key
 
-#### Windows and Linux
+#### Windows
 
-On Windows, your key is stored in the [Credentials Manager](https://support.microsoft.com/en-us/windows/accessing-credential-manager-1b5c916a-6a16-889f-8581-fc16e8165ac0).
+Your key is stored in the [Credentials Manager](https://support.microsoft.com/en-us/windows/accessing-credential-manager-1b5c916a-6a16-889f-8581-fc16e8165ac0), but it's unfortunately impossible to access it at the moment.
 
-On Linux, you can use [seahorse](https://wiki.gnome.org/Apps/Seahorse/) to find your key if you are using [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring).
+#### Linux
+
+You can use [seahorse](https://wiki.gnome.org/Apps/Seahorse/) to find your key if you are using [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring).
