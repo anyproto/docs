@@ -41,7 +41,7 @@ There are three membership plans for the Anytype Network:
 * 1GB of network backup & sync space
 * One ‘Entry’ space
 * Up to 3 shared spaces
-  * 3 Editors per shared space (Owner + 2 invited Editors per space)
+  * 3 Space Members per shared space (Owner + 2 invited Space Members per space)
 
 _\*Beta testers - those who joined before the launch of multiplayer in April 2024 - will automatically receive an Explorer membership, regardless of whether they’ve previously submitted their e-mail. Storage limits previously applied to your vault will not change._
 
