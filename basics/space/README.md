@@ -8,6 +8,10 @@ Similar to vault, space is an encrypted container. Unlike your Vault - each spac
 
 You’re able to create multiple separate spaces (up to 10), each with their own graph of objects, widget sidebar, and later on - privacy settings. You can have up to 3 shared spaces depending on your [membership](../../memberships/monetization/) plan.
 
+{% hint style="info" %}
+Keep in mind that you are currently not able to delete nor share your initial Entry Space.
+{% endhint %}
+
 Simply click your profile picture to create new spaces, or navigate between existing ones.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
