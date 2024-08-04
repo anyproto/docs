@@ -12,11 +12,13 @@
 * [Espacio](basics/space/README.md)
 * [Objetos](basics/object-editor/README.md)
   * [Los bloques y el editor](basics/object-editor/blocks.md)
+  * [Maneras de crear objetos](basics/object-editor/create-an-object.md)
 * [Tipos](basics/types/README.md)
   * [Plantillas](basics/types/templates.md)
 * [Relaciones](basics/relations/README.md)
 * [Conjuntos y colecciones](basics/sets-and-collections/README.md)
   * [Vistas](basics/sets-and-collections/views.md)
+* [Biblioteca](basics/anytype-library.md)
 * [Enlaces](anytype-basics/object-editor/linking-objects.md)
 * [Gráfico](basics/graph.md)
 
