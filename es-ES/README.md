@@ -2,21 +2,21 @@
 description: Herramientas para el pensamiento, la libertad y la confianza
 ---
 
-# Anytype te da la bienvenida
+# Saludos de Anytype
 
 {% embed url="https://www.youtube.com/watch?v=dh_3NHY5eVs" %}
 
-Anytype es la **alternativa cifrada con base local** a una Internet basada en la nube.&#x20;
+Anytype es la **alternativa cifrada con base local** a una Internet basada en la nube. 
 
 Con Anytype puedes construir espacios digitales en torno a tus intereses. Estos espacios pueden ser personales, para tus diarios, ideas y borradores, o compartidos con tu familia, comunidad, equipo, vecinos y personas con intereses comunes.
 
-A diferencia de las aplicaciones de nube, Anytype pone enteramente en tus manos el control de las claves de cifrado para que conserves la propiedad de tus datos y de tu tejido social. Los espacios que creas son, antes que nada, locales: los puedes crear sin conexión y sincronizarlos directamente (P2P) entre dispositivos de tu red local.&#x20;
+A diferencia de las aplicaciones de nube, Anytype pone enteramente en tus manos el control de las claves de cifrado para que conserves la propiedad de tus datos y de tu tejido social. Los espacios que creas son, antes que nada, locales: los puedes crear sin conexión y sincronizarlos directamente (P2P) entre dispositivos de tu red local. 
 
 Anytype se basa en [AnySync](https://tech.anytype.io/any-sync/overview), un protocolo de código abierto que permite colaborar con gran eficiencia empleando datos cifrados y claves controladas por los creadores. Nuestro código se encuentra aquí.
 
-Con cada decisión arquitectónica, aspiramos a eliminar las restricciones a las [libertades digitales fundamentales](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U). Aquí puedes ver lo que pensamos sobre la diferencia entre [una Internet basada en la nube y una con prioridad local](https://blog.anytype.io/the-nervous-system-of-humanity-needs-an-upgrade/).
+Con cada decisión arquitectónica, aspiramos a eliminar las restricciones a las [libertades digitales fundamentales](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U). Aquí hablamos más sobre la diferencia entre [una Internet basada en la nube y una con prioridad local](https://blog.anytype.io/the-nervous-system-of-humanity-needs-an-upgrade/).
 
-También puedes visitar nuestra [galería de experiencias](https://gallery.any.coop) para explorar plantillas y experiencias preconfiguradas por nuestra comunidad.&#x20;
+También puedes visitar nuestra [galería de experiencias](https://gallery.any.coop) para explorar plantillas y experiencias preconfiguradas por nuestra comunidad. 
 
 Si quieres exponer tus dudas, comentarios e ideas, únete al [foro de nuestra comunidad](https://community.anytype.io). Si quieres contribuir al proyecto, [puedes hacerlo desde aquí](https://github.com/orgs/anyproto/discussions).
 
