@@ -1,8 +1,8 @@
-# Sharing Your Space
+# Collaborate With Others
 
 {% embed url="https://drive.google.com/file/d/1cuqFWZBJyfnTi57GQqU1dJQubfnp8WUW/view?usp=drive_link" %}
 
-In the Space Settings menu of each space you’ve created (excluding your Default space), you’ll now see the option to `Share Space` in your Space settings. By clicking here, you can generate an invite link for the Space, which can be sent to anyone.
+In the Space Settings menu of each space you’ve created (excluding your Entry Space), you’ll now see the option to `Share Space` in your Space settings. By clicking here, you can generate an invite link for the Space, which can be sent to anyone.
 
 <div>
 

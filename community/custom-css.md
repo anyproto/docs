@@ -4,6 +4,8 @@ Original shared by [LavaC](https://community.anytype.io/u/LavaC) on our communit
 
 {% embed url="https://community.anytype.io/t/tutorial-of-custom-css/14234" %}
 
+If you need any help regarding this CSS guide or just CSS in general, you can just comment in the original topic linked above.
+
 ### Where <a href="#where-1" id="where-1"></a>
 
 To use custom CSS, you first need to enter the work directory of Anytype.
