@@ -8,6 +8,8 @@ Al igual que el arca, cada espacio es un contenedor cifrado. A diferencia del ar
 
 Puedes crear varios espacios aparte (hasta 10) y cada uno tendrá su propio gráfico de objetos, barra lateral de widgets y, después, sus ajustes de privacidad. Dependiendo de tu plan de [suscripción](../../memberships/monetization/), puedes tener hasta 3 espacios compartidos.
 
+{% hint style="info" %} Ten en cuenta que, por el momento, no es posible eliminar ni compartir el espacio inicial. {% endhint %}
+
 Haz clic en tu imagen de perfil para crear espacios nuevos o cambiar entre los existentes.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
