@@ -12,9 +12,9 @@ You’re able to create multiple separate spaces (up to 10), each with their own
 Keep in mind that you are currently not able to delete nor share your initial Entry Space.
 {% endhint %}
 
-Simply click your profile picture to create new spaces, or navigate between existing ones.
+You can navigate between your existing spaces by using the new spaces sidebar. To create a new space, simply click on the plus button at the bottom of the list.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt="" width="325"><figcaption></figcaption></figure>
 
 Use the [space management menu](space-settings.md) at the top of your sidebar to customize your space settings or delete your space.
 
@@ -22,4 +22,10 @@ Use the [space management menu](space-settings.md) at the top of your sidebar to
 
 You can also manage all of your spaces by going into `Settings >` [`Spaces`](space-settings.md).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Global Sync Status
+
+<figure><img src="../../.gitbook/assets/05487530c59ed5ec446fe384c44a158c00b2722a.png" alt=""><figcaption></figcaption></figure>
+
+The old sync status has been updated, and it now shows you the sync status of all of your objects instead of it just showing the sync status of the currently opened object.

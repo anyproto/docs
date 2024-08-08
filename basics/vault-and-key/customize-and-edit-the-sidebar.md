@@ -6,7 +6,7 @@ description: How do we customize and edit?
 
 Your sidebar is comprised of customizable widgets which allow you to preview and navigate your Objects.
 
-By default, your sidebar includes widgets which link to your [Library](../../basics/anytype-library.md) and Bin.
+By default, your sidebar includes widgets which link to your [Library](../anytype-library.md) and Bin.
 
 In general, _any_ object you've created using Anytype's editor can be used as a widget and formatted using link or tree view. Sets and Collections - Objects in and of themselves - can be used as widgets with a list of objects contained therein.
 
@@ -21,6 +21,12 @@ Additionally, Anytype provides several options for _non-object_ widgets which yo
 {% content-ref url="../../use-cases/simple-dashboard.md" %}
 [simple-dashboard.md](../../use-cases/simple-dashboard.md)
 {% endcontent-ref %}
+
+### Space Sidebar
+
+We've also recently added a new sidebar that allows you to quickly access any of your spaces.
+
+<figure><img src="../../.gitbook/assets/6b445a809efbd412d62e452d483491e11811bf1a.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Customize your Sidebar Widgets
 
@@ -41,6 +47,10 @@ It is possible to view widgets sourced from a single Object created in the edito
 When creating widgets from sets and collections on the other hands, you'll see the view options of 'List' or 'Compact list'. Both render a preview of objects contained within the given set/collection, with differences in line spacing and description previews.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-18 at 09.08.53 (1).png" alt=""><figcaption><p>Above, the 'Disco Room' widget displayed as a compact list (top) and list (bottom).</p></figcaption></figure>
+
+You can now also simply choose View in the widget view settings for your widget to follow the Set view layout. Currently supported layouts are: Calendar, Kanban, and Gallery (Graph is coming soon!). &#x20;
+
+<figure><img src="../../.gitbook/assets/e470b74a31cba9b89fb8f3f4adeadb22149b3a92.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Mobile Widgets
 

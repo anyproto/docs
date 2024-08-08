@@ -6,7 +6,7 @@ description: Customize your profile, set up additional security, or delete your 
 
 ### Location
 
-To locate your vault settings, click on your profile icon in the bottom navigation bar, and then click on the settings button in the top right corner.
+You can access your vault settings from one of these 3 places:
 
 <div>
 
@@ -14,7 +14,11 @@ To locate your vault settings, click on your profile icon in the bottom navigati
 
  
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,9 +30,15 @@ Here you can add your **name, bio,** and **profile picture.** Your profile repre
 
 ### Preferences
 
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+#### Language & Spelling
+
 **Spellcheck Languages:** You can enable automatic spellcheck from 40+ languages, or disable the spellcheck.
 
 **Interface Language:** You can choose amongst the community-translated versions to localize your interface.
+
+#### Editor Personalization&#x20;
 
 **Show Quick-capture menu on:** You can decide how you want the new capture menu to work (click, hover, or right-click).
 
@@ -36,27 +46,23 @@ Here you can add your **name, bio,** and **profile picture.** Your profile repre
 
 **Open objects in fullscreen:** You can decide whether you want all objects to be opened in fullscreen by default.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+**Display relative dates:** You can decide whether you want relative dates like today / tomorrow to be used, or whether you want all dates to show the exact date.
 
-### Appearance
+#### App Appearance
 
-**Set color mode:** Choose between light, dark or system color modes.
+Automatically show and hide sidebar: With this option disabled the sidebar won't automatically pop out when you hover over the left side of the screen.
 
-**Automatically show and hide sidebar:** With this option disabled the sidebar won't automatically pop out when you hover over the left side of the screen.
+Sidebar mode: Choose if you want your spaces to be shown alongside the widgets in the sidebar.
 
 **Show Anytype in system tray:** Anytype will always stay running in the background, but you have the option to either have it show in the system tray or not.
 
-**Display relative dates:** You can decide whether you want relative dates like today / tomorrow to be used, or whether you want all dates to show the exact date.
-
 **Show menu bar:** This setting will show the default menu bar for your OS.
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+### Color mode
 
-### Pin Code
+**Set color mode:** Choose between light, dark or system color modes.
 
-{% hint style="info" %}
-This feature is currently available only on desktop.
-{% endhint %}
+### Pin Code (Desktop)
 
 If you want more privacy, like when sharing a computer, you can set up a PIN code. This will lock the app and keep your Key safe. You'll just need to enter the PIN each time your Anytype session ends (after 1 minute, 5 minutes, 10 minutes, or 1 hour) or when you need to access your Key.
 
