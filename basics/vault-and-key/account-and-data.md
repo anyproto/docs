@@ -8,15 +8,15 @@ You can access your vault settings from one of these 3 places:
 
 <div>
 
+<figure><img src="../../.gitbook/assets/Captura desde 2024-08-09 11-05-47.png" alt="" width="323"><figcaption></figcaption></figure>
+
+ 
+
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/image (81).png" alt="" width="326"><figcaption></figcaption></figure>
 
 </div>
 
