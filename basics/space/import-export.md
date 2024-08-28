@@ -30,7 +30,7 @@ When it comes to export formats, we currently offer **Markdown** and **Any-Block
 This issue occurs when you have links to pages that are not nested within your Notion workspace structure. These pages may not have been properly connected to the integration during the import, leading to broken links in Anytype.
 
 **Solution:**
-- **Check Page Connections:** Ensure that all pages in your Notion workspace are connected before starting the import process. If a page is not properly connected to the integration, it may not import correctly. See the Step-by-Step Guide within the app for details.
+- **Check Page Connections:** Ensure that all pages in your Notion workspace are connected before starting the import process. If a page is not properly connected to the integration, it may not import correctly. See the Step 2 of the [Notion Import Step-by-Step Guide](#notion-import-step-by-step-guide) for more details.
 - **Repeat the import:** If a page did not import, add a missing Connection and repeat the import.
 </details>
 
@@ -59,10 +59,9 @@ The import process uses the Notion API to ensure data is transferred as accurate
 <details>
 <summary>I have some other problem with Notion import, or I no longer have access to my Notion workspace</summary>
 
-If you encounter issues with the Notion import (which works via the Notion API) or you lose access to your Notion workspace, you can export your workspace from Notion as Markdown & CSV files and import them into Anytype using the Markdown import option.
-
+If you encounter issues with the Notion import (which works via the Notion API) or you lose full access to your Notion workspace, you can export your workspace from Notion as Markdown & CSV files and import them into Anytype using the Markdown import option.
 {% hint style="info" %} 
-Markdown Import is More Lossy: Be aware that importing via Markdown & CSV files is more lossy compared to using the Notion API. This is because Notion’s way of linking documents and CSV files may not be fully preserved in the Markdown format, potentially leading to loss of structure or links between documents.
+Be aware that importing via Markdown & CSV files is more lossy compared to using the Notion API. This is because Notion’s way of linking documents and CSV files may not be fully preserved in the Markdown format, potentially leading to loss of structure or links between documents.
 {% endhint %}
 
 **Solution:**
@@ -108,7 +107,7 @@ Markdown Import is More Lossy: Be aware that importing via Markdown & CSV files 
 
 3. **Add the Integration to each page's connection** to ensure that the pages and their linked content are imported correctly.
    
-![Press Confirm](../../.gitbook/assets/notion/2-2.png)
+   ![Press Confirm](../../.gitbook/assets/notion/2-2.png)
 
 #### Step 3
 
