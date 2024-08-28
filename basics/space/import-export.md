@@ -26,7 +26,7 @@ When it comes to export formats, we currently offer **Markdown** and **Any-Block
 ### Notion import FAQ
 
 <details>
-<summary>#### Why do I see "page not found" instead of links after importing from Notion to Anytype?</summary>
+<summary>Why do I see "page not found" instead of links after importing from Notion to Anytype?</summary>
 This issue occurs when you have links to pages that are not nested within your Notion workspace structure. These pages may not have been properly connected to the integration during the import, leading to broken links in Anytype.
 
 **Solution:**
@@ -35,7 +35,7 @@ This issue occurs when you have links to pages that are not nested within your N
 </details>
 
 <details>
-<summary>#### Why are some files missing after importing from Notion to Anytype?</summary>
+<summary>Why are some files missing after importing from Notion to Anytype?</summary>
 There are two main reasons for missing files:
 1. **Missing Connection:** Make sure that the page containing the files in Notion is properly connected to the integration before import. If this connection is missing, the files may not be imported.
 2. **Slow Internet Connection:** If you have a slow internet connection and a large number of files, the links to these files might expire during the download process, resulting in missing files.
@@ -47,7 +47,7 @@ There are two main reasons for missing files:
 </details>
 
 <details>
-<summary>#### Why did the Notion import to Anytype take so long?</summary>
+<summary>Why did the Notion import to Anytype take so long?</summary>
 The import process uses the Notion API to ensure data is transferred as accurately as possible. This method, though more reliable than exporting to Markdown, requires multiple queries. Over time, Notion may start rate-limiting these queries, leading to delays.
 
 **Solution:**
@@ -57,7 +57,7 @@ The import process uses the Notion API to ensure data is transferred as accurate
 </details>
 
 <details>
-<summary>#### I have some other problem with Notion import, or I no longer have access to my Notion workspace</summary>
+<summary>I have some other problem with Notion import, or I no longer have access to my Notion workspace</summary>
 
 If you encounter issues with the Notion import (which works via the Notion API) or you lose access to your Notion workspace, you can export your workspace from Notion as Markdown & CSV files and import them into Anytype using the Markdown import option.
 
