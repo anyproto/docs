@@ -107,7 +107,8 @@ Markdown Import is More Lossy: Be aware that importing via Markdown & CSV files 
 2. **Ensure you select all root pages** to avoid broken links in Anytype after the import.
 
 3. **Add the Integration to each page's connection** to ensure that the pages and their linked content are imported correctly.
-   ![Press Confirm](../../.gitbook/assets/notion/2-2.png)
+   
+![Press Confirm](../../.gitbook/assets/notion/2-2.png)
 
 #### Step 3
 
