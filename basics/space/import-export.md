@@ -77,32 +77,32 @@ Markdown Import is More Lossy: Be aware that importing via Markdown & CSV files 
 #### Step 1
 
 1. **Open Settings & members.**  
-   ![Open Settings & members](../../.gitbook/notion/1-1.png)
+   ![Open Settings & members](../../.gitbook/assets/notion/1-1.png)
 
 2. **Open My Connections and then click Develop or manage integrations.**  
-   ![Open My Connections](../../.gitbook/notion/1-2.png)
+   ![Open My Connections](../../.gitbook/assets/notion/1-2.png)
 
 3. **Click New integration or Create new integration.**  
-   ![Create new integration](../../.gitbook/notion/1-3.png)
+   ![Create new integration](../../.gitbook/assets/notion/1-3.png)
 
 4. **Select your workspace and set Name for integration.**  
-   ![Set Name for integration](../../.gitbook/notion/1-4.png)
+   ![Set Name for integration](../../.gitbook/assets/notion/1-4.png)
 
 5. **Important!**  
    Go to **Capabilities** and select the following capabilities, then press **Save changes**:
   - Read content
   - Read user information  
-    ![Select capabilities](../../.gitbook/notion/1-5.png)
+    ![Select capabilities](../../.gitbook/assets/notion/1-5.png)
 
 6. **Copy Internal Integration Secret** for connecting and importing your data.  
-   ![Copy Internal Integration Secret](../../.gitbook/notion/1-6.png)
+   ![Copy Internal Integration Secret](../../.gitbook/assets/notion/1-6.png)
 
 #### Step 2
 
 **Add integration to the pages you want to import into Anytype.** Pages will be imported with all children documents. Select your root object to import all objects.
 
 1. **Click on three dots in the upper right corner, then click Connect to (you may need to scroll the menu).** Select your Anytype integration.  
-   ![Connect to Anytype integration](../../.gitbook/notion/2-1.png)
+   ![Connect to Anytype integration](../../.gitbook/assets/notion/2-1.png)
 
 2. **Press Confirm.** Now, you just need to paste your Internal Integration Token into Anytype.  
    ![Press Confirm](./img/help/notion/2-2.png)
