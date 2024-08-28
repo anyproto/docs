@@ -23,16 +23,19 @@ After your import is done, a new collection should appear in your favorites widg
 
 When it comes to export formats, we currently offer **Markdown** and **Any-Block** (both Protobuf and JSON).
 
-## Notion import FAQ
+### Notion import FAQ
 
-### Why do I see "page not found" instead of links after importing from Notion to Anytype?
+<details>
+<summary>#### Why do I see "page not found" instead of links after importing from Notion to Anytype?</summary>
 This issue occurs when you have links to pages that are not nested within your Notion workspace structure. These pages may not have been properly connected to the integration during the import, leading to broken links in Anytype.
 
 **Solution:**
 - **Check Page Connections:** Ensure that all pages in your Notion workspace are connected before starting the import process. If a page is not properly connected to the integration, it may not import correctly. See the Step-by-Step Guide within the app for details.
 - **Repeat the import:** If a page did not import, add a missing Connection and repeat the import.
+</details>
 
-### Why are some files missing after importing from Notion to Anytype?
+<details>
+<summary>#### Why are some files missing after importing from Notion to Anytype?</summary>
 There are two main reasons for missing files:
 1. **Missing Connection:** Make sure that the page containing the files in Notion is properly connected to the integration before import. If this connection is missing, the files may not be imported.
 2. **Slow Internet Connection:** If you have a slow internet connection and a large number of files, the links to these files might expire during the download process, resulting in missing files.
@@ -41,16 +44,20 @@ There are two main reasons for missing files:
 - **Ensure Proper Connection:** Double-check that all pages and their respective files are connected in Notion before importing.
 - **Use a Faster Internet Connection:** If possible, use a faster internet connection during the import process to prevent link expiration.
 - **Manually Add Missing Files:** If files are missing after the import, you may need to manually upload them to Anytype.
+</details>
 
-### Why did the Notion import to Anytype take so long?
+<details>
+<summary>#### Why did the Notion import to Anytype take so long?</summary>
 The import process uses the Notion API to ensure data is transferred as accurately as possible. This method, though more reliable than exporting to Markdown, requires multiple queries. Over time, Notion may start rate-limiting these queries, leading to delays.
 
 **Solution:**
 - **Plug in Your Device:** Make sure your computer is plugged into a power source during the import.
 - **Disable Sleep Mode:** Prevent your computer from going to sleep to allow the import process to continue uninterrupted.
 - **Be Patient:** Allow the import process to run until it completes. It may take some time, especially if there is a large amount of data.
+</details>
 
-### I have some other problem with Notion import, or I no longer have access to my Notion workspace
+<details>
+<summary>#### I have some other problem with Notion import, or I no longer have access to my Notion workspace</summary>
 
 If you encounter issues with the Notion import (which works via the Notion API) or you lose access to your Notion workspace, you can export your workspace from Notion as Markdown & CSV files and import them into Anytype using the Markdown import option.
 
@@ -61,3 +68,4 @@ Markdown Import is More Lossy: Be aware that importing via Markdown & CSV files 
 **Solution:**
 - **Export from Notion:** In your Notion workspace, export your data as Markdown & CSV files.
 - **Import into Anytype:** Use Anytype’s Markdown import feature to bring the exported content into your Anytype workspace.
+</details>
