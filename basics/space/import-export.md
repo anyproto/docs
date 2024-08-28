@@ -70,7 +70,7 @@ Markdown Import is More Lossy: Be aware that importing via Markdown & CSV files 
 - **Import into Anytype:** Use Anytype’s Markdown import feature to bring the exported content into your Anytype workspace.
 </details>
 
-#### Notion import step-by-step guide
+### Notion import step-by-step guide
 <details>
 <summary>Steps</summary>
 
