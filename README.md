@@ -14,7 +14,7 @@ Unlike cloud applications, Anytype puts the control of encryption keys firmly yo
 
 Anytype is supported by [AnySync](https://tech.anytype.io/any-sync/overview) - an open-source protocol that supports high-performant collaboration over encrypted data and creators’ controlled keys. You can find our codebase here.
 
-With every architectural choice, we aim to make [fundamental digital freedoms](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U) unconditional. Here you can read more of our thoughts on [cloud vs. local first Internet](https://blog.anytype.io/the-nervous-system-of-humanity-needs-an-upgrade/).
+With every architectural choice, we aim to make [fundamental digital freedoms](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U) unconditional. Here you can read more of our thoughts on [cloud vs. local first Internet](https://blog.anytype.io/from-cloud-to-local-first/).
 
 You can also explore pre-made templates and experiences from our community in our [Experience Gallery](https://gallery.any.coop).&#x20;
 
