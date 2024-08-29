@@ -1,8 +1,6 @@
 # Self-hosted
 
-To back up your spaces and data to a self-hosted network, you need to have a network configuration. If you don’t run your own network yet, see this [how-to guide](https://tech.anytype.io/how-to/self-hosting).
-
-Our contributors are already working on creating a Docker image to simplify the setup of self-hosted infrastructure. You can join by following the [discussion](https://github.com/orgs/anyproto/discussions/17) on our GitHub page.
+To back up your spaces and data to a self-hosted network, you need to have a network configuration. If you don’t run your own network yet, see this [how-to guide](https://tech.anytype.io/how-to/self-hosting). There's also a [docker image](https://github.com/anyproto/any-sync-dockercompose) that's maintained by the team.
 
 ### How to switch to a self-hosted network
 

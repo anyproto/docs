@@ -16,7 +16,7 @@ Before jumping to these ones, let's cover the basics.
 * Product team has two parts for each season: delivery and discovery.
 * During delivery, we focus on executing our plans, while in discovery, we gather insights for future planning.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Scheme of year planing process</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Scheme of year planing process</p></figcaption></figure>
 
 ### Discovery ⟶ Delivery
 

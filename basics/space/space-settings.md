@@ -29,25 +29,3 @@ Your homepage is what you will see each time you open Anytype. By default, your 
 However, you can change your homepage by using the dropdown menu in your space settings and choosing between your graph, your last opened object, or a specific object you've created.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.27.47.png" alt=""><figcaption></figcaption></figure>
-
-### Import & Export
-
-You can import to or export from your space by going into Anytype > Space Settings > Integrations > Import to space / Export space.
-
-When it comes to apps, we currently only offer imports from **Notion**, and when it comes to file formats, we currently offer these:
-
-* Markdown - We support importing from individual .md files, a zip file or directory (only on MacOS). Relations are currently not exported.
-* HTML
-* TXT
-* CSV
-* Any-Block&#x20;
-  * Protobuf
-  * JSON
-
-{% hint style="info" %}
-Because not all Notion features are present in Anytype yet, some Notion data might not end up being imported properly.
-{% endhint %}
-
-After your import is done, a new collection should appear in your favorites widget in your sidebar. All of your imported objects should be there.
-
-When it comes to export formats, we currently offer **Markdown** and **Any-Block** (both Protobuf and JSON).

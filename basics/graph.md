@@ -20,4 +20,4 @@ Toggle appearances for title, arrows, and icons.&#x20;
 
 Optimize viewing links, relations, and orphans. **If you are missing some objects, check to show orphans.**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>

@@ -4,31 +4,39 @@ description: Customize your profile, set up additional security, or delete your 
 
 # Vault Settings
 
-### Location
-
-To locate your vault settings, click on your profile icon in the bottom navigation bar, and then click on the settings button in the top right corner.
+You can access your vault settings from one of these 3 places:
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura desde 2024-08-09 11-05-47.png" alt="" width="323"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
-### Profile
+## Profile
 
 Here you can add your **name, bio,** and **profile picture.** Your profile represents an Object in your Anytype Graph which you can freely link to other Objects.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.24.27.png" alt=""><figcaption></figcaption></figure>
 
-### Preferences
+## Preferences
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+### Language & Spelling
 
 **Spellcheck Languages:** You can enable automatic spellcheck from 40+ languages, or disable the spellcheck.
 
 **Interface Language:** You can choose amongst the community-translated versions to localize your interface.
+
+### Editor Personalization&#x20;
 
 **Show Quick-capture menu on:** You can decide how you want the new capture menu to work (click, hover, or right-click).
 
@@ -36,27 +44,23 @@ Here you can add your **name, bio,** and **profile picture.** Your profile repre
 
 **Open objects in fullscreen:** You can decide whether you want all objects to be opened in fullscreen by default.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+**Display relative dates:** You can decide whether you want relative dates like today / tomorrow to be used, or whether you want all dates to show the exact date.
 
-### Appearance
-
-**Set color mode:** Choose between light, dark or system color modes.
+### App Appearance
 
 **Automatically show and hide sidebar:** With this option disabled the sidebar won't automatically pop out when you hover over the left side of the screen.
 
-**Show Anytype in system tray:** Anytype will always stay running in the background, but you have the option to either have it show in the system tray or not.
+**Sidebar mode:** Choose if you want your spaces to be shown alongside the widgets in the sidebar.
 
-**Display relative dates:** You can decide whether you want relative dates like today / tomorrow to be used, or whether you want all dates to show the exact date.
+**Show Anytype in system tray:** Anytype will always stay running in the background, but you have the option to either have it show in the system tray or not.
 
 **Show menu bar:** This setting will show the default menu bar for your OS.
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+### Color mode
 
-### Pin Code
+**Set color mode:** Choose between light, dark or system color modes.
 
-{% hint style="info" %}
-This feature is currently available only on desktop.
-{% endhint %}
+## Pin Code (Desktop)
 
 If you want more privacy, like when sharing a computer, you can set up a PIN code. This will lock the app and keep your Key safe. You'll just need to enter the PIN each time your Anytype session ends (after 1 minute, 5 minutes, 10 minutes, or 1 hour) or when you need to access your Key.
 
@@ -66,11 +70,11 @@ We do not store this data so we cannot help you in recovering your vault in the 
 
 <figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-### Spaces
+## Spaces
 
 You can also manage all of your spaces by going into `Settings > Spaces`.
 
-### Data Management
+## Data Management
 
 **Local Files:** You can choose to offload files stored in Anytype to our Encrypted Backup Node.
 
@@ -78,10 +82,10 @@ You can also manage all of your spaces by going into `Settings > Spaces`.
 
 **Vault Deletion:** Also, if you would like to delete your vault, you can do it in this section.
 
-### Key
+## Key
 
 You can access your Key or scan the QR code to connect your mobile device. For more details, please check [what-is-a-recovery-phrase.md](../../data-and-security/what-is-a-recovery-phrase.md "mention").
 
-### Membership
+## Membership
 
 You can manage your [membership](../../memberships/monetization/) plans here.
