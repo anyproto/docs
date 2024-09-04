@@ -6,7 +6,7 @@
 
 _Существует два критических вопроса в работе над продуктом:_
 
-<figure><img src="../.gitbook/assets/SCR-20231115-hz3.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20231115-hz3.jpeg" alt=""><figcaption></figcaption></figure>
 
 Прежде чем перейти к этим вопросам, давайте рассмотрим основы.
 
@@ -16,7 +16,7 @@ _Существует два критических вопроса в работ
 * Продуктовая команда работает в двух направлениях: реализация и исследование.
 * Во время реализации мы сосредотачиваемся на выполнении планов, а во время исследования собираем информацию для будущего планирования.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Схема процесса планирования года</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Схема процесса планирования года</p></figcaption></figure>
 
 ### Исследование ⟶ Реализация
 
@@ -24,7 +24,7 @@ _Существует два критических вопроса в работ
 
 При планировании каждого сезона мы рассматриваем два типа функций:
 
-<figure><img src="../.gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 На нашем [публичном дорожном плане](https://github.com/orgs/anyproto/projects/1) вы можете найти функции, которые были реализованы или прошли этап исследования и готовятся к реализации.
@@ -38,7 +38,7 @@ _Существует два критических вопроса в работ
 * Файлы как объект — новое измерение работы с файлами
 * Процесс входа в систему и безопасность аккаунта
 
-<figure><img src="../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
 
 ### Мы вас слышим!
 
