@@ -8,4 +8,4 @@
 
 Меню макета объекта можно найти над заголовком Объекта, рядом с кнопками обложки и иконки. Здесь вы можете изменить макет объекта или установить ширину макета. Некоторые макеты даже позволяют изменить выравнивание текста.
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
