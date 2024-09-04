@@ -9,7 +9,7 @@
 ## ⬛ Основы
 
 * [Хранилище и ключ](basics/vault-and-key.md)
-  * [Настройка хранилища](basics/vault-and-key/setting-up-your-profile.md)
+  * [Настройка вашего хранилища](basics/vault-and-key/setting-up-your-profile.md)
   * [Настройки хранилища](basics/vault-and-key/account-and-data.md)
   * [Боковая панель и виджеты](basics/vault-and-key/customize-and-edit-the-sidebar.md)
   * [Ключ](data-and-security/what-is-a-recovery-phrase.md)
