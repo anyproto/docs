@@ -1,31 +1,31 @@
-# Customizing Your Space
+# Настройка вашего Пространства
 
-Personalize your [.](./ "mention") here. At the top left of the application you'll find your space name and settings.
+Персонализируйте ваше [.](./ "mention") здесь. В верхнем левом углу приложения вы найдете название вашего пространства и настройки.
 
-Clicking on your space name will open up your space settings.
+Нажатие на название вашего пространства откроет настройки вашего пространства.
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
-These are the customization options for your space:
+Вот варианты настройки вашего пространства:
 
-1. Customize your **space icon**
-2. Add your **space name**
-3. Create an **invitation link**&#x20;
-4. Manage your **space members**
-5. Manage your space **storage**
-6. Choose your **homepage**
-7. Choose the **default object type**
+1. Настройка **иконки пространства**
+2. Добавление **названия пространства**
+3. Создание **ссылки-приглашения**&#x20;
+4. Управление **участниками пространства**
+5. Управление **хранилищем пространства**
+6. Выбор **домашней страницы**
+7. Выбор **типа объекта по умолчанию**
 
-### Choose your space icon
+### Выбор иконки пространства
 
-Your space icon is automatically generated during the onboarding process. To change it, simply click on the icon and choose from the emoji menu or upload your own image.
+Иконка вашего пространства автоматически генерируется в процессе настройки. Чтобы изменить её, просто нажмите на иконку и выберите из меню эмодзи или загрузите своё изображение.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.13.04.png" alt=""><figcaption></figcaption></figure>
 
-### Choose your Homepage
+### Выбор домашней страницы
 
-Your homepage is what you will see each time you open Anytype. By default, your homepage has been set to a pre-installed 'Dashboard' object which serves to get your oriented within your space.
+Домашняя страница — это то, что вы увидите каждый раз, когда откроете Anytype. По умолчанию ваша домашняя страница установлена на предустановленный объект "Панель управления", который служит для ориентации в вашем пространстве.
 
-However, you can change your homepage by using the dropdown menu in your space settings and choosing between your graph, your last opened object, or a specific object you've created.
+Однако вы можете изменить домашнюю страницу, используя выпадающее меню в настройках вашего пространства и выбрав между графом, последним открытым объектом или конкретным объектом, который вы создали.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.27.47.png" alt=""><figcaption></figcaption></figure>
