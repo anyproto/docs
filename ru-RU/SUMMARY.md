@@ -63,7 +63,7 @@
 ## 💰 Подписки
 
 * [Планы подписки](memberships/monetization/README.md)
-  * [ЧaВО по многопользовательскому режиму и подпискам](monetization/multiplayer-and-membership-faqs.md)
+  * [ЧaВО по многопользовательскому режиму и подпискам](memberships/monetization/multiplayer-and-membership-faqs.md)
 * [Форум сообщества](community/community-forum/README.md)
   * [Сообщить об ошибках](community/community-forum/report-bugs.md)
   * [Запросить функцию и проголосовать](community/community-forum/request-a-feature-and-vote.md)
