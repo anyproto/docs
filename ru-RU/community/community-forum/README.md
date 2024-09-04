@@ -14,8 +14,8 @@ description: Особое пространство для пользовател
 
 В вашем настольном приложении нажмите кнопку **?** (Помощь) в правом нижнем углу, затем "[Присоединиться к нашему сообществу](https://community.anytype.io/invites/sig5xTU4ZZ)".
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-23 at 17.42.16.png" alt="" width="306"><figcaption></figcaption></figure>
 
 Или найдите строку меню в верхней части окна прямо под заголовком, затем нажмите `Помощь > Сообщить об ошибке`.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
