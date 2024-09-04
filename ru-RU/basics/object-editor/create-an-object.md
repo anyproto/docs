@@ -12,13 +12,13 @@ description: Как создать объект?
 
 Настройка "наведение" дополнительно покажет исходное меню после того, как вы наведете курсор на кнопку `+` на несколько секунд, в то время как настройка "щелчок правой кнопкой мыши" потребует, чтобы вы щелкнули правой кнопкой мыши по кнопке `+`.
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ### Команда "Косая черта"
 
 При работе в Anytype вы можете создать новый Объект, набрав "/". Это вызовет список Объектов, которые вы создали. Просто выберите Объект, который хотите создать, и он будет связан с текущим местом.
 
-<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 Вы также можете связать существующий Объект здесь.
 
@@ -35,4 +35,4 @@ description: Как создать объект?
 1. Наведите курсор на левую сторону блока, над которым вы работаете, и нажмите на 3 точки.
 2. Используйте сочетание клавиш ⌘+/.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Меню действий</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Меню действий</p></figcaption></figure>
