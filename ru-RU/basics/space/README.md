@@ -1,6 +1,6 @@
 # Пространство
 
-<figure><img src="../../../.gitbook/assets/Anytype Primitives - Frame 2-2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Anytype Primitives - Frame 2-2_RU.jpg" alt=""><figcaption></figcaption></figure>
 
 Внутри вашего Хранилища находятся **Пространства**. **Пространство** — это контейнер для вашего графа объектов.
 
