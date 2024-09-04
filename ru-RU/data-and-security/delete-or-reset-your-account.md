@@ -6,7 +6,7 @@
 
 В верхнем меню нажмите "Anytype", откройте Настройки, Управление данными и выберите **Удалить хранилище.** Это удалит ваш профиль и ваш Ключ:
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 Если вы хотите создать новое хранилище, выполните следующие действия:
 
