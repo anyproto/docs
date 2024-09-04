@@ -27,7 +27,7 @@
 4. Нажмите кнопку “Сохранить”.
 5. Создайте новую учетную запись или войдите в существующую.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 #### Мобильное устройство
 
@@ -36,4 +36,4 @@
 3. Нажмите на “Anytype” в подменю “Сети”.&#x20;
 4. Создайте новую учетную запись или войдите в существующую.
 
-<figure><img src="../../.gitbook/assets/Screenshot_20240411-104810_Anytype2.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_20240411-104810_Anytype2.png" alt="" width="375"><figcaption></figcaption></figure>
