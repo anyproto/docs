@@ -10,24 +10,24 @@ description: Как создать новые типы из библиотеки
 
 Нажмите на строку поиска и введите название типа, который вы хотите создать. Выпадающее меню будет заполнено любыми соответствующими терминами из библиотеки Anytype. Вы можете выбрать любой из них, и он будет установлен в вашу библиотеку типов. Если вы предпочитаете создать свой собственный тип, просто выберите опцию `+ Создать тип "Название типа".`
 
-<figure><img src="../../.gitbook/assets/Types Library.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Types Library.png" alt=""><figcaption></figcaption></figure>
 
 Если вы решите создать свой собственный тип, страница Типа откроется автоматически. Здесь вы можете добавить шаблоны и связи к типу, которые будут применяться автоматически каждый раз, когда вы создаете объект этого типа.
 
-<figure><img src="../../.gitbook/assets/Type page.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Type page.png" alt=""><figcaption></figcaption></figure>
 
 Если вы решили, что этот Тип больше не актуален, вы можете использовать меню с тремя точками в углу, чтобы удалить тип из вашего пространства. Пожалуйста, будьте осторожны; любые объекты этого типа покажут предупреждение, если тип был удален из вашей библиотеки.
 
-<figure><img src="../../.gitbook/assets/Delete type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Delete type.png" alt=""><figcaption></figcaption></figure>
 
 ### Создание типов из редактора объектов
 
 Если вам пришла в голову идея нового типа объектов во время создания объекта, вы можете создать новый тип на ходу. В этом случае используйте меню выбора типа так же, как строку поиска в библиотеке Типов. Тип будет автоматически добавлен в вашу библиотеку Типов, и вы сможете продолжить редактирование объекта нового типа.
 
-<figure><img src="../../.gitbook/assets/Type Creation on-the-fly.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Type Creation on-the-fly.png" alt=""><figcaption></figcaption></figure>
 
 Если вы позже решите, что хотите преобразовать ваш объект в новый тип объекта _после его создания_, вы можете сделать это, выбрав тип объекта, выбрав 'Изменить тип' и введя название типа, который вы хотите создать.
 
-<figure><img src="../../.gitbook/assets/Type creation from change-type menu (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Type creation from change-type menu (1).png" alt=""><figcaption></figcaption></figure>
 
 Любой тип, созданный вами в редакторе объектов, будет доступен для редактирования в библиотеке типов с использованием вышеописанных шагов.
