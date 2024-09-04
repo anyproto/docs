@@ -17,7 +17,7 @@
 5. Нажмите кнопку “Сохранить”.
 6. Создайте новую учетную запись или войдите в существующую.
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 #### Мобильное устройство
 
@@ -27,4 +27,4 @@
 4. Нажмите на “Нажмите, чтобы предоставить конфигурацию сети”, чтобы загрузить конфигурацию вашей сети с самостоятельным хостингом (файл \*.yml).
 5. Создайте новую учетную запись или войдите в существующую.
 
-<figure><img src="../../.gitbook/assets/Screenshot_20240411-104804_Anytype3.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_20240411-104804_Anytype3.png" alt="" width="375"><figcaption></figcaption></figure>
