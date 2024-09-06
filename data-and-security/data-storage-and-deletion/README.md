@@ -14,6 +14,10 @@ You can remove all the media content from your mobile device via the clear cache
 
 You can also manage your files on desktop by going into `Space settings -> Manage Space -> Manage files`.
 
+{% hint style="info" %}
+Files are stored inside `flatfs dir` in encrypted fragments, so they can’t be accessed outside of Anytype.
+{% endhint %}
+
 ### Deletion <a href="#deletion" id="deletion"></a>
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2Fgit-blob-dcb526128401892f1a4773091dbf735febb4a875%2FScreenshot%202021-11-02%20at%2016.25.23.png?alt=media" alt=""><figcaption><p>Complete deletion in Bin</p></figcaption></figure>

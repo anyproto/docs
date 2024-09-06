@@ -82,7 +82,7 @@ For those who would like to purchase Builder or Co-Creator Plans, we will offer 
 * 250 three-year Co-Creator memberships at $239
   * Use discount code: `BetaCoCreatorPreOrder2024` at checkout
 
-This offer is only available to beta users who joined our community prior to the launch of memberships.&#x20;
+This offer is only available to beta users who joined our community prior to the launch of memberships. Additionally, these discount codes can only be used once, and the subscription will revert to the standard rate once it has been renewed.
 
 ## Pricing for Contributors
 
