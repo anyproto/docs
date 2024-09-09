@@ -4,7 +4,7 @@
 
 Нажатие на название вашего пространства откроет настройки вашего пространства.
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 Вот варианты настройки вашего пространства:
 
@@ -20,7 +20,7 @@
 
 Иконка вашего пространства автоматически генерируется в процессе настройки. Чтобы изменить её, просто нажмите на иконку и выберите из меню эмодзи или загрузите своё изображение.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.13.04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.13.04.png" alt=""><figcaption></figcaption></figure>
 
 ### Выбор домашней страницы
 
@@ -28,4 +28,4 @@
 
 Однако вы можете изменить домашнюю страницу, используя выпадающее меню в настройках вашего пространства и выбрав между графом, последним открытым объектом или конкретным объектом, который вы создали.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.27.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.27.47.png" alt=""><figcaption></figcaption></figure>

@@ -9,7 +9,7 @@
 ## ⬛ Основы
 
 * [Хранилище и ключ](basics/vault-and-key.md)
-  * [Настройка хранилища](basics/vault-and-key/setting-up-your-profile.md)
+  * [Настройка вашего хранилища](basics/vault-and-key/setting-up-your-profile.md)
   * [Настройки хранилища](basics/vault-and-key/account-and-data.md)
   * [Боковая панель и виджеты](basics/vault-and-key/customize-and-edit-the-sidebar.md)
   * [Ключ](data-and-security/what-is-a-recovery-phrase.md)
@@ -25,9 +25,9 @@
   * [Создание нового типа](basics/types/create-a-new-type.md)
   * [Макеты](basics/types/layouts.md)
   * [Шаблоны](basics/types/templates.md)
-* [Отношения](basics/relations/README.md)
-  * [Добавление нового отношения](basics/relations/create-a-new-relation.md)
-  * [Создание нового отношения](basics/relations/create-a-new-relation-1.md)
+* [Связи](basics/relations/README.md)
+  * [Добавление новой связи](basics/relations/create-a-new-relation.md)
+  * [Создание новой связи](basics/relations/create-a-new-relation-1.md)
 * [Наборы и коллекции](basics/sets-and-collections/README.md)
   * [Наборы](basics/sets-and-collections/sets.md)
   * [Коллекции](basics/sets-and-collections/collections.md)
@@ -63,7 +63,7 @@
 ## 💰 Подписки
 
 * [Планы подписки](memberships/monetization/README.md)
-  * [Часто задаваемые вопросы по многопользовательскому режиму и подпискам](memberships/monetization/multiplayer-and-m...
+  * [ЧaВО по многопользовательскому режиму и подпискам](memberships/monetization/multiplayer-and-membership-faqs.md)
 * [Форум сообщества](community/community-forum/README.md)
   * [Сообщить об ошибках](community/community-forum/report-bugs.md)
   * [Запросить функцию и проголосовать](community/community-forum/request-a-feature-and-vote.md)

@@ -8,15 +8,15 @@ description: Настройте профиль, установите допол�
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Captura desde 2024-08-09 11-05-47.png" alt="" width="323"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura desde 2024-08-09 11-05-47.png" alt="" width="323"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,11 +24,11 @@ description: Настройте профиль, установите допол�
 
 Здесь вы можете добавить свое **имя, биографию** и **фотографию профиля.** Ваш профиль представляет собой Объект в графе Anytype, который вы можете свободно связывать с другими Объектами.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.24.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.24.27.png" alt=""><figcaption></figcaption></figure>
 
 ## Настройки
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Язык и орфография
 
@@ -68,7 +68,7 @@ description: Настройте профиль, установите допол�
 Мы не храним эти данные, поэтому не сможем помочь вам восстановить хранилище в случае его утраты. Обязательно запишите пин-код рядом с вашим ключом.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 ## Пространства
 

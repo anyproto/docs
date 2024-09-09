@@ -10,19 +10,19 @@ description: Понимание блоков, их редактирование 
 
 Здесь вы увидите более двадцати различных типов блоков, которые вы можете добавить к своему объекту.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.49.21.png" alt=""><figcaption></figcaption></figure>
 
 ### Стилизация блоков
 
 Вы можете выбрать один блок или несколько одновременно и выполнить пакетное редактирование, чтобы создать различные заголовки и стили текста, такие как флажки, маркеры или нумерация.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-17 at 18.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### Встроенная стилизация &#x20;
 
 Мы также поддерживаем стилизацию отдельных символов / слов внутри текстовых блоков.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Перетаскивание для форматирования
 

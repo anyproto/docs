@@ -12,14 +12,14 @@ description: Инструкции для наших альфа-тестеров
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/Check updates.png" alt="" width="331"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Check updates.png" alt="" width="331"><figcaption></figcaption></figure>
 
     </div>
 2. Экспортируйте из обновленного устаревшего приложения: Файл > Экспорт > Protobuf.
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/Anytype Export.gif" alt="" width="336"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Anytype Export.gif" alt="" width="336"><figcaption></figcaption></figure>
 
     </div>
 3. [Скачайте](https://download.anytype.io/), установите и откройте бета-версию приложения.
@@ -39,7 +39,7 @@ description: Инструкции для наших альфа-тестеров
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/Join Anytype.png" alt="" width="354"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Join Anytype.png" alt="" width="354"><figcaption></figcaption></figure>
 
     </div>
 * Ручной импорт выбранных объектов по одному из устаревшего приложения в бета-версию. Это может быть полезно, если ваше устаревшее хранилище или аккаунт стали беспорядочными, но у вас есть несколько проектов, которые вы хотите перенести в бета-версию.

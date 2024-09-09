@@ -77,38 +77,38 @@
 #### Шаг 1
 
 1. **Откройте "Settings & members".**
-   <figure><img src="../../.gitbook/assets/notion/1-1.png" width="500" alt="Откройте Settings & members"></figure>
+   <figure><img src="../../../.gitbook/assets/notion/1-1.png" width="500" alt="Откройте Settings & members"></figure>
 
 2. **Откройте "My Connections", затем нажмите "Develop or manage integrations".**
-   <figure><img src="../../.gitbook/assets/notion/1-2.png" width="500" alt="Откройте My Connections"></figure>
+   <figure><img src="../../../.gitbook/assets/notion/1-2.png" width="500" alt="Откройте My Connections"></figure>
 
 3. **Нажмите "New integration" или "Create new integration".**  
-   <figure><img src="../../.gitbook/assets/notion/1-3.png" width="500" alt="Создайте новую интеграцию"></figure>
+   <figure><img src="../../../.gitbook/assets/notion/1-3.png" width="500" alt="Создайте новую интеграцию"></figure>
 
 4. **Выберите свое рабочее пространство и задайте имя для интеграции.**  
-   <figure><img src="../../.gitbook/assets/notion/1-4.png" width="500" alt="Задайте имя для интеграции"></figure>
+   <figure><img src="../../../.gitbook/assets/notion/1-4.png" width="500" alt="Задайте имя для интеграции"></figure>
 
 5. **Важно!**  
    Перейдите в **Capabilities** и выберите следующие возможности, затем нажмите **Save changes**:
   - Чтение содержимого
   - Чтение информации о пользователе  
-    <figure><img src="../../.gitbook/assets/notion/1-5.png" width="500" alt="Выберите возможности"></figure>
+    <figure><img src="../../../.gitbook/assets/notion/1-5.png" width="500" alt="Выберите возможности"></figure>
 
 6. **Скопируйте Internal Integration Secret** для подключения и импорта ваших данных.  
-    <figure><img src="../../.gitbook/assets/notion/1-6.png" width="500" alt="Скопируйте Internal Integration Secret"></figure>
+    <figure><img src="../../../.gitbook/assets/notion/1-6.png" width="500" alt="Скопируйте Internal Integration Secret"></figure>
 
 #### Шаг 2
 
 **Добавьте интеграцию к страницам, которые вы хотите импортировать в Anytype.** Страницы будут импортированы вместе со всеми дочерними документами.
 
 1. **Нажмите на три точки в правом верхнем углу, затем нажмите "Connect to" (возможно, придется прокрутить меню).** Выберите интеграцию Anytype.  
-    <figure><img src="../../.gitbook/assets/notion/2-1.png" width="500" alt="Подключите к интеграции Anytype"></figure>
+    <figure><img src="../../../.gitbook/assets/notion/2-1.png" width="500" alt="Подключите к интеграции Anytype"></figure>
 
 2. **Убедитесь, что вы выбрали все корневые страницы**, чтобы избежать появления неработающих ссылок в Anytype после импорта.
 
 3. **Добавьте интеграцию к соединению каждой страницы**, чтобы обеспечить правильный импорт страниц и их связанного контента.
    
-   <figure><img src="../../.gitbook/assets/notion/2-2.png" width="500" alt="Нажмите Подтвердить"></figure>
+   <figure><img src="../../../.gitbook/assets/notion/2-2.png" width="500" alt="Нажмите Подтвердить"></figure>
 
 #### Шаг 3
 

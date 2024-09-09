@@ -18,10 +18,10 @@
 
 Чтобы перейти к поиску, откройте навигационную панель и нажмите на значок лупы.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 ### Корзина
 
 Ваши объекты не удаляются навсегда, когда вы их удаляете. Вместо этого они перемещаются в корзину, которую можно найти на боковой панели под виджетом библиотеки. Чтобы удалить их навсегда, вам нужно открыть корзину и выбрать, какие объекты вы хотите удалить окончательно.
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
