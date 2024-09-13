@@ -15,7 +15,6 @@
   * [Key](data-and-security/what-is-a-recovery-phrase.md)
 * [Space](basics/space/README.md)
   * [Customizing Your Space](basics/space/space-settings.md)
-  * [Import & Export](basics/space/import-export.md)
   * [Collaborate With Others](basics/space/collaboration.md)
 * [Objects](basics/object-editor/README.md)
   * [Blocks & Editor](basics/object-editor/blocks.md)
@@ -35,6 +34,7 @@
 * [Library](basics/anytype-library.md)
 * [Links](anytype-basics/object-editor/linking-objects.md)
 * [Graph](basics/graph.md)
+* [Import & Export](basics/import-export.md)
 
 ## 📽️ Use Cases
 

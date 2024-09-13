@@ -2,11 +2,11 @@
 
 You can import or export from your space by navigating to **Anytype > Space Settings > Import / Export Space** in the menu bar:
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (83).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Alternatively, you can find the Import to / Export Space options under the Integrations section of your [Space Settings](space-settings.md):
+Alternatively, you can find the Import to / Export Space options under the Integrations section of your [Space Settings](space/space-settings.md):
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
 
 It's also possible to simply type “Import” or “Export” in the Search Menu.
 
@@ -25,19 +25,19 @@ Because not all Notion features are implemented in Anytype, some Notion data mig
 1.  **Open Settings & members.**\
 
 
-    <figure><img src="../../.gitbook/assets/notion/1-1.png" alt="Open Settings &#x26; members" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/notion/1-1.png" alt="Open Settings &#x26; members" width="500"><figcaption></figcaption></figure>
 2.  **Open My Connections and then click Develop or manage integrations.**\
 
 
-    <figure><img src="../../.gitbook/assets/notion/1-2.png" alt="Open My Connections" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/notion/1-2.png" alt="Open My Connections" width="500"><figcaption></figcaption></figure>
 3.  **Click New integration or Create new integration.**\
 
 
-    <figure><img src="../../.gitbook/assets/notion/1-3.png" alt="Create new integration" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/notion/1-3.png" alt="Create new integration" width="500"><figcaption></figcaption></figure>
 4.  **Select your workspace and set a Name for the integration.**\
 
 
-    <figure><img src="../../.gitbook/assets/notion/1-4.png" alt="Set Name for integration" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/notion/1-4.png" alt="Set Name for integration" width="500"><figcaption></figcaption></figure>
 5. **Important!**\
    Go to **Capabilities** and select the following capabilities, then press **Save changes**:
 
@@ -45,12 +45,12 @@ Because not all Notion features are implemented in Anytype, some Notion data mig
 *   Read user information\
 
 
-    <figure><img src="../../.gitbook/assets/notion/1-5.png" alt="Select capabilities" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/notion/1-5.png" alt="Select capabilities" width="500"><figcaption></figcaption></figure>
 
 6.  **Copy Internal Integration Secret** for connecting and importing your data.\
 
 
-    <figure><img src="../../.gitbook/assets/notion/1-6.png" alt="Copy Internal Integration Secret" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/notion/1-6.png" alt="Copy Internal Integration Secret" width="500"><figcaption></figcaption></figure>
 
 **Step 2**
 
@@ -59,12 +59,12 @@ Because not all Notion features are implemented in Anytype, some Notion data mig
 1.  **Click on the three dots in the upper right corner, then click Connect to (you may need to scroll the menu).** Select your Anytype integration.\
 
 
-    <figure><img src="../../.gitbook/assets/notion/2-1.png" alt="Connect to Anytype integration" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/notion/2-1.png" alt="Connect to Anytype integration" width="500"><figcaption></figcaption></figure>
 2. **Ensure you select all root pages** to avoid broken links in Anytype after the import.
 3.  **Add the Integration to each page's connection** to ensure that the pages and their linked content are imported correctly.\
 
 
-    <figure><img src="../../.gitbook/assets/notion/2-2.png" alt="Press Confirm" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/notion/2-2.png" alt="Press Confirm" width="500"><figcaption></figcaption></figure>
 
 **Step 3**
 
