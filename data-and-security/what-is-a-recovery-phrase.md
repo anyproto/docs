@@ -34,6 +34,12 @@ Seed phrases follow a standardized protocol called BIP-39 (Bitcoin Improvement P
 
 The strength of your key lies in its ability to safeguard your digital assets. When properly generated, managed, and stored, it is nearly impossible for anyone to obtain your key without your consent or knowledge. Keys are generated using complex mathematical algorithms, and the sheer number of possible combinations makes it extremely challenging for an attacker to guess or brute-force their way to your key.
 
+{% hint style="info" %}
+**Combinations:** 5,444,517,870,735,015,415,413,993,718,908,291,383,296
+
+**Cost To Crack:** $38,029,518,006,846,883,000,000,000 USD
+{% endhint %}
+
 However, it's crucial to understand that the responsibility of protecting your key ultimately lies with you. While it may be tempting to store it digitally for convenience, these methods can introduce vulnerabilities. Instead, it is recommended to write down your key on a physical medium, and store it securely in a location known only to you. Avoid storing your Key on devices connected to the internet or in cloud storage, as they can be compromised by hackers or unauthorized access.
 
 ### Key storage
