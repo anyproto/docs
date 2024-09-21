@@ -16,7 +16,6 @@
 * [Пространство](basics/space/README.md)
   * [Настройка пространства](basics/space/space-settings.md)
   * [Сотрудничество с другими](basics/space/collaboration.md)
-  * [Импорт и экспорт](basics/space/import-export.md)
 * [Объекты](basics/object-editor/README.md)
   * [Блоки и редактор](basics/object-editor/blocks.md)
   * [Способы создания объектов](basics/object-editor/create-an-object.md)
@@ -35,6 +34,7 @@
 * [Библиотека](basics/anytype-library.md)
 * [Ссылки](anytype-basics/object-editor/linking-objects.md)
 * [Граф](basics/graph.md)
+* [Импорт и экспорт](basics/import-export.md)
 
 ## 📽️ Примеры использования
 
