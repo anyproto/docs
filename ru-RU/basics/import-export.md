@@ -2,11 +2,11 @@
 
 Вы можете импортировать или экспортировать из вашего пространства, перейдя в **Anytype > Настройки пространства > Импорт / Экспорт пространства** в меню:
 
-<figure><img src="../.gitbook/assets/image (83).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Кроме того, вы можете найти опции Импортировать в / Экспортировать пространство в разделе Интеграции ваших [Настроек пространства](space/space-settings.md):
 
-<figure><img src="../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Также можно просто ввести "Импорт" или "Экспорт" в поисковом меню.
 
@@ -25,19 +25,19 @@
 1.  **Откройте Настройки и участники.**\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-1.png" alt="Открыть Настройки &#x26; участники" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-1.png" alt="Открыть Настройки &#x26; участники" width="500"><figcaption></figcaption></figure>
 2.  **Откройте Мои соединения, затем нажмите Разработать или управлять интеграциями.**\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-2.png" alt="Открыть Мои соединения" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-2.png" alt="Открыть Мои соединения" width="500"><figcaption></figcaption></figure>
 3.  **Нажмите Новая интеграция или Создать новую интеграцию.**\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-3.png" alt="Создать новую интеграцию" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-3.png" alt="Создать новую интеграцию" width="500"><figcaption></figcaption></figure>
 4.  **Выберите ваше рабочее пространство и задайте Имя для интеграции.**\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-4.png" alt="Задать Имя для интеграции" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-4.png" alt="Задать Имя для интеграции" width="500"><figcaption></figcaption></figure>
 5. **Важно!**\
    Перейдите к **Возможностям** и выберите следующие возможности, затем нажмите **Сохранить изменения**:
 
@@ -45,12 +45,12 @@
 * Чтение информации о пользователе\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-5.png" alt="Выбрать возможности" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-5.png" alt="Выбрать возможности" width="500"><figcaption></figcaption></figure>
 
 6.  **Скопируйте Внутренний секрет интеграции** для подключения и импорта ваших данных.\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-6.png" alt="Скопировать Внутренний секрет интеграции" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-6.png" alt="Скопировать Внутренний секрет интеграции" width="500"><figcaption></figcaption></figure>
 
 **Шаг 2**
 
@@ -59,12 +59,12 @@
 1.  **Нажмите на три точки в правом верхнем углу, затем нажмите Подключиться к (возможно, вам нужно будет прокрутить меню).** Выберите вашу интеграцию Anytype.\
 
 
-    <figure><img src="../.gitbook/assets/notion/2-1.png" alt="Подключиться к интеграции Anytype" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/2-1.png" alt="Подключиться к интеграции Anytype" width="500"><figcaption></figcaption></figure>
 2. **Убедитесь, что вы выбрали все корневые страницы**, чтобы избежать разорванных ссылок в Anytype после импорта.
 3.  **Добавьте интеграцию к соединению каждой страницы**, чтобы страницы и их связанный контент были импортированы корректно.\
 
 
-    <figure><img src="../.gitbook/assets/notion/2-2.png" alt="Нажмите Подтвердить" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/2-2.png" alt="Нажмите Подтвердить" width="500"><figcaption></figcaption></figure>
 
 **Шаг 3**
 
