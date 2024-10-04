@@ -20,8 +20,8 @@ Anytype is installed:
 
 * In Windows 10 or above, it is usually located:\
   `C:\Users\<username>\Appdata\Local\Programs\anytype2\Anytype.exe`\
-  **username** stands for the name of your user aka working directory.&#x20;
-* For MacOS, it's: ` HDD > Users >`` `` `_`Username`_` `` ``> Library > Application Support > anytype `
+  **username** stands for the name of your user aka working directory.
+* For MacOS, it's: `HDD > Users >`_`Username`_`> Library > Application Support > anytype`
 * For Linux, you'll find your work directory in `~/.config/anytype`
 * For Android, it’s your default location, usually: \_device/data/app\_​.\
   We also store some caches: _device/data/data/io.anytype.app_\
@@ -38,7 +38,7 @@ When creating a Vault, it’s now possible to select the storage location on you
 Please be cautious when using local-only mode, as your data can only be transferred to a second device via peer-to-peer (P2P) connection.
 {% endhint %}
 
-#### External drives and Cloud providers&#x20;
+#### External drives and Cloud providers
 
 To store your data on an external drive, you just need to mount the drive first, and then follow the steps from [#custom-storage-location](get-the-app.md#custom-storage-location "mention").
 
