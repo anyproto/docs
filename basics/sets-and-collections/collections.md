@@ -1,6 +1,6 @@
 ---
 description: >-
-  A folder-like structure where where you can visualize and batch edit objects
+  A folder-like structure where you can visualize and batch edit objects
   of any type
 ---
 
