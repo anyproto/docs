@@ -1,4 +1,4 @@
-# Locating your Objects
+# Locating Your Objects
 
 ### Use the Graph
 
@@ -8,9 +8,9 @@ Read more about the [graph.md](../graph.md "mention") here.
 
 ### Browse through EVERYTHING
 
-Additionally, to all of the objects you've created in list view, by default there is a set of 'Everything' which will show you your objects and their types.
+Additionally, to all of the objects you've created in list view, by default there is a set of 'All Objects' which will show you your objects and their types.
 
-Look for an object titled Everything with this emoji: :globe\_with\_meridians:
+Look for an object titled All Objects with this emoji: :globe\_with\_meridians:
 
 ### Use the Search
 
