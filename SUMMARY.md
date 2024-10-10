@@ -4,7 +4,6 @@
 
 * [Welcome to Anytype](README.md)
 * [Get the App](intro/get-the-app.md)
-* [Get the App 2](intro/get-the-app-1.md)
 * [Connect with Us](intro/connect-with-us.md)
 
 ## ⬛ Basics
