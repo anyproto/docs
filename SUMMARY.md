@@ -3,11 +3,11 @@
 ## 👋 Intro
 
 * [Welcome to Anytype](README.md)
-* [Get the App](intro/get-the-app.md)
-* [Connect with Us](intro/connect-with-us.md)
 
 ## ⬛ Basics
 
+* [Get the App](basics/get-the-app.md)
+* [Connect with Us](basics/connect-with-us.md)
 * [Test](basics/test.md)
 * [Vault & Key](basics/vault-and-key.md)
   * [Setting Up Your Vault](basics/vault-and-key/setting-up-your-profile.md)
