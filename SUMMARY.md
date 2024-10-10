@@ -1,10 +1,10 @@
 # Table of contents
 
-## 👋 Group 1
+## 👋 Intro
 
 * [Welcome to Anytype](README.md)
-* [Get the App](group-1/get-the-app.md)
-* [Connect with Us](group-1/connect-with-us.md)
+* [Get the App](intro/get-the-app.md)
+* [Connect with Us](intro/connect-with-us.md)
 
 ## ⬛ Basics
 
