@@ -1,14 +1,13 @@
 # Table of contents
 
-## 👋 Intro
+## 👋 Group 1
 
 * [Welcome to Anytype](README.md)
+* [Get the App](group-1/get-the-app.md)
+* [Connect with Us](group-1/connect-with-us.md)
 
 ## ⬛ Basics
 
-* [Get the App](basics/get-the-app.md)
-* [Connect with Us](basics/connect-with-us.md)
-* [Test](basics/test.md)
 * [Vault & Key](basics/vault-and-key.md)
   * [Setting Up Your Vault](basics/vault-and-key/setting-up-your-profile.md)
   * [Vault Settings](basics/vault-and-key/account-and-data.md)
