@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Get the App 2
+# Test
 
 You can download the latest version of Anytype for your device at [download.anytype.io](https://download.anytype.io).
 
@@ -46,14 +46,8 @@ Anytype is installed:
 
 When creating a Vault, it’s now possible to select the storage location on your hard drive. If your Vault has already been created, you can also change the location and retrieve the data from the network. To do so, first logout, then tap the settings wheel on the black login screen.
 
-<figure><img src="../.gitbook/assets/Custome Storage Location.gif" alt="" width="563"><figcaption></figcaption></figure>
-
-{% hint style="danger" %}
-Please be cautious when using local-only mode, as your data can only be transferred to a second device via peer-to-peer (P2P) connection.
-{% endhint %}
-
 #### External drives and Cloud providers
 
-To store your data on an external drive, you just need to mount the drive first, and then follow the steps from [#custom-storage-location](get-the-app-2.md#custom-storage-location "mention").
+To store your data on an external drive, you just need to mount the drive first, and then follow the steps from [#custom-storage-location](test.md#custom-storage-location "mention").
 
 We don't recommend using cloud providers like Google Drive or iCloud since you might end up with sync conflicts / issues.

@@ -4,11 +4,11 @@
 
 * [Welcome to Anytype](README.md)
 * [Get the App](intro/get-the-app.md)
-* [Get the App 2](intro/get-the-app-2.md)
 * [Connect with Us](intro/connect-with-us.md)
 
 ## ⬛ Basics
 
+* [Test](basics/test.md)
 * [Vault & Key](basics/vault-and-key.md)
   * [Setting Up Your Vault](basics/vault-and-key/setting-up-your-profile.md)
   * [Vault Settings](basics/vault-and-key/account-and-data.md)
