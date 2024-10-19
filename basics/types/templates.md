@@ -1,5 +1,5 @@
 ---
-description: Building & using templated through types.
+description: Building & using templates through types.
 ---
 
 # Templates
