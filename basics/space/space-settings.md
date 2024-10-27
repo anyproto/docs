@@ -18,9 +18,9 @@ These are the customization options for your space:
 
 ### Choose your space icon
 
-Your space icon is automatically generated during the onboarding process. To change it, simply click on the icon and choose from the emoji menu or upload your own image.
+Your space icon is automatically generated during the onboarding process. To change it, simply click on the icon and choose from your library or upload your own image.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.13.04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/anytype change space icon.png" alt=""><figcaption></figcaption></figure>
 
 ### Choose your Homepage
 
@@ -28,4 +28,4 @@ Your homepage is what you will see each time you open Anytype. By default, your 
 
 However, you can change your homepage by using the dropdown menu in your space settings and choosing between your graph, your last opened object, or a specific object you've created.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-17 at 18.27.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/anytype change homepage.png" alt=""><figcaption></figcaption></figure>
