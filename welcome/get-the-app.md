@@ -12,7 +12,7 @@ There is currently no [browser version](../miscellaneous/faqs.md#why-is-there-no
   * macOS Catalina 10.15+
   * 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.5+, or Fedora Linux 38+
 * For Android (if installed through Google Play), it's Android 8.0 and a 64-bit device with a minimum of 4GB of RAM.
-* For iOS, it's iOS 16,
+* For iOS, it's iOS 16.
 
 ### Install location
 
