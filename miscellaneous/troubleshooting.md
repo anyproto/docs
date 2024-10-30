@@ -128,9 +128,8 @@ _File > Show work directory_ or (`C:\Users\Username1\AppData\Roaming\Anytype`)
 
 <summary>How can I share StackGoroutines log if I'm stuck on login on mobile?</summary>
 
-1. If a hang occurs at StartAccount, you can **tap on Enter My Vault 5 times**.
+1. If a hang occurs at StartAccount, you can [tap on Enter My Vault 5 times](https://drive.google.com/file/d/1V4muGfFDNDb98ZVp213-YmbnVv3Vx\_tX/view?usp=drive\_link).
 2. The Rpc.Debug.StackGoroutines command will return a log file.
-3. You can **share it using any convenient method**.
+3. You can share it using any convenient method.
 
 </details>
-
