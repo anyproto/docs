@@ -8,9 +8,7 @@ Read more about the [graph.md](../graph.md "mention") here.
 
 ### Browse through EVERYTHING
 
-Additionally, to all of the objects you've created in list view, by default there is a set of 'All Objects' which will show you your objects and their types.
-
-Look for an object titled All Objects with this emoji: :globe\_with\_meridians:
+Additionally, to see all of the objects you've created in your space, you can use the [anytype-library](../anytype-library/ "mention") system widget that can be found at the top of your sidebar (just below your space name).
 
 ### Use the Search
 
@@ -22,6 +20,4 @@ To navigate to the search, head to your navigation bar, and click on the magnifi
 
 ### Bin
 
-Your objects are not permanently removed when you delete them. They are instead moved to the bin which you can locate in the sidebar below your library widget. To permanently remove them, you will need to open the bin, and choose which objects you want to remove forever.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+If you've previously removed some objects from your [space](../space/ "mention"), they will appear in your [finding-your-objects.md](../anytype-library/finding-your-objects.md "mention")unless you've already permanently deleted them.

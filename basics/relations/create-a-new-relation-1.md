@@ -1,18 +1,34 @@
 ---
-description: How to create new relations from the library and your editor
+description: How to create new relations from All Objects and your editor
 ---
 
 # Create a New Relation
 
-The [anytype-library.md](../anytype-library.md "mention") is the central place to manage, search for, and create new relations.
+The [anytype-library](../anytype-library/ "mention") is the central place to manage, search for, and create new relations.
 
-### Creating Relations from the Library
+### Creating Relations from All Objects
 
-Click on the search bar and input the name of the relation you'd like to create. The dropdown menu will be populated with any matching terms from the Anytype library. You can select any of these, and they'll be installed newly in your relations library. If you'd prefer instead to create your own relation, simply choose the option `+ Create relation "Relation name".`
+Open the [anytype-library](../anytype-library/ "mention") widget, and navigate to the Relations tab. Afterwards, simply click on `New` button to create a new Relation.
 
-If you opt to create your own relation, the Relation page will open automatically.
+From here, you can choose a name and a type for your new Relation.
 
-If you've decided that this Relation is no relevant, you can use the three-dots menu in the corner to delete the relation from your space.
+<div>
+
+<figure><img src="../../.gitbook/assets/image (93).png" alt="" width="466"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+If you've decided that this Relation is no longer relevant, you can use the context menu (mouse right-click) to delete the Relation from your space.
+
+<figure><img src="../../.gitbook/assets/image (96).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Creating Relations from the Object Editor
 

@@ -6,7 +6,7 @@ description: How do we customize and edit?
 
 Your sidebar is comprised of customizable widgets which allow you to preview and navigate your Objects.
 
-By default, your sidebar includes widgets which link to your [Library](../anytype-library.md) and Bin.
+By default, your sidebar only includes the [anytype-library](../anytype-library/ "mention") widget. If your space is a shared one, you will also find the Members widget above it.
 
 In general, _any_ object you've created using Anytype's editor can be used as a widget and formatted using link or tree view. Sets and Collections - Objects in and of themselves - can be used as widgets with a list of objects contained therein.
 
@@ -60,7 +60,7 @@ When you open up Anytype on your mobile device you will see your current **Widge
 
 Your **widgets** are customizable in the same way they are in the sidebar of your desktop application.
 
-To edit and move around your widgets: scroll to the bottom of the list, underneath the Bin you'll find "Edit Widgets".
+To edit and move your widgets around: scroll to the bottom of the list, where you'll find "Edit Widgets".
 
 When you click the button, you'll see a small grey minus sign on the corner of each block. Now you can delete, add, or rearrange your widgets.
 

@@ -22,7 +22,7 @@ Files are stored inside `flatfs dir` in encrypted fragments, so they can’t be 
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJbcKxgThRdSa4vZyLbvH%2Fuploads%2Fgit-blob-dcb526128401892f1a4773091dbf735febb4a875%2FScreenshot%202021-11-02%20at%2016.25.23.png?alt=media" alt=""><figcaption><p>Complete deletion in Bin</p></figcaption></figure>
 
-To delete objects in Anytype, you will first need to move them to the bin. Afterwards, you can remove them completely from all devices by deleting them from the bin. All your devices will also delete them when getting online. This action is irreversible, so please be careful.
+To delete objects in Anytype, you will first need to move them to the [finding-your-objects.md](../../basics/anytype-library/finding-your-objects.md "mention"). Afterwards, you can remove them completely from all devices by permanently deleting them from the bin. All your devices will also delete them when getting online. This action is irreversible, so please be careful.
 
 The deleted objects are still accessible in read-only mode, either from the bin, or through previously added links. You are also able to restore these objects directly through the read-only mode without needing to go through the bin.
 

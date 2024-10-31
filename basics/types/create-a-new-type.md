@@ -1,24 +1,38 @@
 ---
-description: How to create new types from the library and your editor
+description: How to create new types from All Objects and your editor
 ---
 
 # Create a New Type
 
-The [anytype-library.md](../anytype-library.md "mention") is the central place to manage, search for, and create new types.
+The [anytype-library](../anytype-library/ "mention") is the central place to manage, search for, and create new types.
 
-### Creating Types from the Library
+### Creating Types from All Objects
 
-Click on the search bar and input the name of the type you'd like to create. The dropdown menu will be populated with any matching terms from the Anytype library. You can select any of these, and they'll be installed newly in your types library. If you'd prefer instead to create your own type, simply choose the option `+ Create type "Type name".`
+Open the [anytype-library](../anytype-library/ "mention") widget, and navigate to the Types tab. Afterwards, simply click on `New` button to create a new Type.
 
-<figure><img src="../../.gitbook/assets/Types Library.png" alt=""><figcaption></figcaption></figure>
+From here, you can choose a name, and add templates and relations to the newly created Type.
 
-If you opt to create your own type, the Type page will open automatically. From here, you can add templates and relations to the type, which will be applied automatically any time you create an object of this type.
+<div>
 
-<figure><img src="../../.gitbook/assets/Type page.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
-If you've decided that this Type is no relevant, you can use the three-dots menu in the corner to delete the type from your space. Please proceed with caution; any objects of this type will show an alert if the type has been removed from your library.
+ 
 
-<figure><img src="../../.gitbook/assets/Delete type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+If you've decided that this Type is no longer relevant, you can use the context menu (mouse right-click) to delete the Type from your space. Please proceed with caution; any objects of this type will show an alert if the Type has been removed from your library.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Creating Types from the Object Editor
 

@@ -10,7 +10,7 @@ Similar to vault, space is an encrypted container. Unlike your Vault - each spac
 It's currently impossible to recover deleted spaces unless you previously exported them, so be careful when deleting them.
 {% endhint %}
 
-You’re able to create multiple separate spaces (up to 10), each with their own graph of objects, widget sidebar, and later on - privacy settings. You can have up to 3 shared spaces depending on your [membership](../../memberships/monetization/) plan.
+You’re able to create multiple separate spaces (up to 50), each with their own graph of objects, widget sidebar, and later on - privacy settings. You can have up to 3 shared spaces depending on your [membership](../../memberships/monetization/) plan.
 
 {% hint style="info" %}
 Keep in mind that you are currently not able to delete nor share your initial Entry Space.
