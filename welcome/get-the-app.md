@@ -19,7 +19,7 @@ There is currently no [browser version](../miscellaneous/faqs.md#why-is-there-no
 Anytype is installed:
 
 * In Windows 10 or above, it is usually located:\
-  `C:\Users\<username>\Appdata\Local\Programs\anytype2\Anytype.exe`\
+  `C:\Users\<username>\Appdata\Local\Programs\anytype`\
   **username** stands for the name of your user aka working directory.
 * For MacOS, it's: `HDD > Users >`_`Username`_`> Library > Application Support > anytype`
 * For Linux, you'll find your work directory in `~/.config/anytype`
