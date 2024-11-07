@@ -20,4 +20,4 @@ To navigate to the search, head to your navigation bar, and click on the magnifi
 
 ### Bin
 
-If you've previously removed some objects from your [space](../space/ "mention"), they will appear in your [finding-your-objects.md](../anytype-library/finding-your-objects.md "mention")unless you've already permanently deleted them.
+If you've previously removed some objects from your [space](../space/ "mention"), they will appear in your [finding-your-objects.md](../anytype-library/finding-your-objects.md "mention") unless you've already permanently deleted them.
