@@ -4,19 +4,11 @@ Before permanently deleting your objects, you will first need to move them to th
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Objects stay in the Bin forever or until you permanently delete them. To located the Bin, you need to click on the three dots button in the right corner of the All Objects widget.
+To permanently delete your objects, you will first need to locate and open the Bin. You can find the it at the bottom of your sidebar.
 
-<div>
+<figure><img src="../../.gitbook/assets/image (100).png" alt="" width="316"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt="" width="318"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/image (86).png" alt="" width="318"><figcaption></figcaption></figure>
-
-</div>
-
-Afterwards, if you would still like to permanently delete some of your objects, you will first need to select them, and then you can click on the `Delete permanently` button to get rid of them forever.
+After opening the Bin, if you would still like to permanently delete some of your objects, you will first need to select them, and then you can click on the `Delete permanently` button to get rid of them forever.
 
 You can use the same process to restore your objects instead.
 
