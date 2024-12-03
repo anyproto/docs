@@ -59,7 +59,7 @@ If you logged in with your key on your mac, then you can find it here:
 
 #### Windows
 
-Your key is stored in the [Credentials Manager](https://support.microsoft.com/en-us/windows/accessing-credential-manager-1b5c916a-6a16-889f-8581-fc16e8165ac0). If you are unable to access it normally, you can try accessing it by using the Powershell (example guide [here](https://woshub.com/saved-passwords-windows-credential-manager/)).
+Your key is stored in the [Credentials Manager](https://support.microsoft.com/en-us/windows/accessing-credential-manager-1b5c916a-6a16-889f-8581-fc16e8165ac0). If you are unable to read a password via the Credential Manager (Show button is missing), you can use [this PowerShell script](https://gist.github.com/requilence/de8da32adc44d4786559789debb3bf88). Save it to your computer, right-click in the File Explorer and press "Run with PowerShell".
 
 #### Linux
 
