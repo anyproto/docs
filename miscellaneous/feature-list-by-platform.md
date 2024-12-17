@@ -121,7 +121,7 @@ Here is a running list of features and their implementation status, by platform.
 | Embed           | No        | No        |
 {% endtab %}
 
-{% tab title="Library" %}
+{% tab title="Types and Relations" %}
 <table data-full-width="false"><thead><tr><th>Feature/Action</th><th>iOS</th><th>Android</th></tr></thead><tbody><tr><td>Edit &#x26; Delete Type (name, templates)</td><td>No</td><td>Type only</td></tr><tr><td>Edit &#x26; Delete Relation</td><td>No</td><td>Yes</td></tr><tr><td>Create, delete Template</td><td>No</td><td>No</td></tr><tr><td>Edit Template</td><td>Yes</td><td>Yes</td></tr><tr><td>Apply default template</td><td>Yes</td><td>Yes</td></tr><tr><td>Create tag</td><td>Yes</td><td>Yes</td></tr></tbody></table>
 {% endtab %}
 

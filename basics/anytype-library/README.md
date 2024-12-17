@@ -19,7 +19,7 @@ To customize your All Objects widget, click on the three dots button in the top 
 There are currently seven tabs in the All Objects widget:
 
 1. Pages - All other Objects that can not be found in any of the other tabs
-2. Lists - [sets.md](../sets-and-collections/sets.md "mention")and [collections.md](../sets-and-collections/collections.md "mention")
+2. Lists - [sets.md](../sets-and-collections/sets.md "mention") and [collections.md](../sets-and-collections/collections.md "mention")
 3. Media - Images and Videos
 4. Bookmarks
 5. Files - All other Files&#x20;

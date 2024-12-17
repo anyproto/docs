@@ -21,7 +21,7 @@ Templates are saved on the Type level, and each Type can support multiple Templa
 
 There are three ways to add a Template:
 
-1\) Navigate to the Types Library → Click the Type for which you'd like to create a Template → Click + to start creating a new template → Give your Template a name and start adding Relations and formatting → Your Template is auto-saved
+1\) Navigate to the Types tab of the [anytype-library](../anytype-library/ "mention") widget → Click the Type for which you'd like to create a Template → Click + to start creating a new template → Give your Template a name and start adding Relations and formatting → Your Template is auto-saved
 
 2\) If you're working within an Object and would like to save your work as a Template, you can: Navigate to `···` in the top-right corner → Click + Use as a Template, and your content will automatically be saved as a new Template for this Object Type.
 
@@ -34,8 +34,8 @@ Depending on the way you've created your new object, either the default template
 
 <figure><img src="../../.gitbook/assets/5_Template Picker Screenshot.png" alt=""><figcaption><p>Choose a template</p></figcaption></figure>
 
-You can also choose the default template for each type through the Type library, or you can choose the default template for each Set & Collection view.
+You can also choose the default template for each type by opening the Type object, or you can choose the default template for each Set & Collection view.
 
-<figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption><p>Choose the default template for this set</p></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/6_Default Template Selector Screenshot at 18.15.24.png" alt=""><figcaption></figcaption></figure></div>
 
-You can view, edit, duplicate, or delete the Templates you've added for each Object Type in the Types Library.
+You can view, edit, duplicate, or delete the Templates you've added for each Object Type by navigating to the Types tab of the [anytype-library](../anytype-library/ "mention") widgets.

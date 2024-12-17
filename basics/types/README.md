@@ -14,7 +14,7 @@ By the same principle, in Anytype there are two important concepts to keep in mi
 
 2\) Different Types are used to define Objects which are categorically different from each other
 
-Colleagues, friends, and neighbours might all be considered type: _Human_ in your Anytype graph. Here are other examples of Types you might have in your graph:
+Colleagues, friends, and neighbors might all be considered type: _Human_ in your Anytype graph. Here are other examples of Types you might have in your graph:
 
 * Task
 * Note
@@ -24,4 +24,4 @@ Colleagues, friends, and neighbours might all be considered type: _Human_ in you
 
 It's up to you how narrow or broad you'd like your Types to be, but generally we recommend using general Types for categorizing your Objects, and further refining the use of your Types through [Templates](../../use-cases/deep-dive-templates.md).
 
-You can always view and manage your Types from the Types Library, found in the _Library_ widget on your sidebar.
+You can always view and manage your Types from the Types tab found in the [anytype-library](../anytype-library/ "mention") widget.
