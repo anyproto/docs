@@ -24,6 +24,12 @@ We also support styling individual characters / words inside text blocks.
 
 <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
+### Inline Latex
+
+You can easily add mathematical notation right into your text by wrapping your formulas with `$` symbols, making it possible to include complex equations and formulas!
+
+{% embed url="https://drive.google.com/file/d/1t90JdSI9V7lOLlInLxmAHRfeTHQYCveD/view?usp=drive_link" %}
+
 ### Drag & Drop to Format
 
 You can use the orange 'handle' to the left of each block to create parent/child blocks or new columns in your editor.

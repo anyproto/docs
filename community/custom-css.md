@@ -4,17 +4,17 @@ Original shared by [LavaC](https://community.anytype.io/u/LavaC) on our communit
 
 {% embed url="https://community.anytype.io/t/tutorial-of-custom-css/14234" %}
 
-If you need any help regarding this CSS guide or just CSS in general, you can just comment in the original topic linked above.
+For assistance with this CSS guide or CSS in general, please comment in the original topic linked above.
 
 ### Where <a href="#where-1" id="where-1"></a>
 
-To use custom CSS, you first need to enter the work directory of Anytype.
+To enable the Custom CSS style sheet, go to `Menu > File > Apply Custom CSS`.
 
-<figure><img src="https://community-static.anytype.io/original/2X/c/cefa762c4537031b75bc43f2bc387e35fe36911b.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Then create a file called custom.css here.
+To edit the custom CSS file, go to `Menu > File > Open > Custom CSS`.
 
-<figure><img src="https://community-static.anytype.io/optimized/2X/c/cbe263ff498e9700dca9f07e4c730f667042b556_2_690x401.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### How <a href="#how-2" id="how-2"></a>
 
@@ -100,10 +100,10 @@ Of course, the premise for it to take effect is that you have this font on your 
 <summary>Import font online</summary>
 
 [<img src="https://community-static.anytype.io/optimized/2X/d/d1348ecf28fafeb4c079d5cd9ba343b30ee6f9d2_2_690x494.png" alt="image" data-size="original">](https://community-static.anytype.io/original/2X/d/d1348ecf28fafeb4c079d5cd9ba343b30ee6f9d2.png)\
-[![image](https://community-static.anytype.io/optimized/2X/a/aaf23f71f95b30839021c2489a9153cc46f2b8be\_2\_690x271.png)](https://community-static.anytype.io/original/2X/a/aaf23f71f95b30839021c2489a9153cc46f2b8be.png)\
-[![image](https://community-static.anytype.io/optimized/2X/d/d29da78fce6ac4d052c0b030fd322fab4fef2a1a\_2\_690x458.png)](https://community-static.anytype.io/original/2X/d/d29da78fce6ac4d052c0b030fd322fab4fef2a1a.png)\
-[![image](https://community-static.anytype.io/optimized/2X/8/87c8c15932c29ee8bd91d58928d2958209db39e3\_2\_690x107.png)](https://community-static.anytype.io/original/2X/8/87c8c15932c29ee8bd91d58928d2958209db39e3.png)\
-[![image](https://community-static.anytype.io/optimized/2X/6/690391b23293397bb0844789dee9d500300a3028\_2\_690x435.png)](https://community-static.anytype.io/original/2X/6/690391b23293397bb0844789dee9d500300a3028.png)
+[![image](https://community-static.anytype.io/optimized/2X/a/aaf23f71f95b30839021c2489a9153cc46f2b8be_2_690x271.png)](https://community-static.anytype.io/original/2X/a/aaf23f71f95b30839021c2489a9153cc46f2b8be.png)\
+[![image](https://community-static.anytype.io/optimized/2X/d/d29da78fce6ac4d052c0b030fd322fab4fef2a1a_2_690x458.png)](https://community-static.anytype.io/original/2X/d/d29da78fce6ac4d052c0b030fd322fab4fef2a1a.png)\
+[![image](https://community-static.anytype.io/optimized/2X/8/87c8c15932c29ee8bd91d58928d2958209db39e3_2_690x107.png)](https://community-static.anytype.io/original/2X/8/87c8c15932c29ee8bd91d58928d2958209db39e3.png)\
+[![image](https://community-static.anytype.io/optimized/2X/6/690391b23293397bb0844789dee9d500300a3028_2_690x435.png)](https://community-static.anytype.io/original/2X/6/690391b23293397bb0844789dee9d500300a3028.png)
 
 </details>
 

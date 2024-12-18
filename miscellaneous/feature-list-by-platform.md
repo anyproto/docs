@@ -28,14 +28,16 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 * Transclusion
 * Whiteboard / canvas
 * Web app
-* Better tag system
+* Tags as an Object
 
 #### Implemented
 
 * Calendar - [0.36.0](https://community.anytype.io/t/anytype-desktop-0-36-0-released/12198)
 * Webclipper - 0.39.0 ([Chrome](https://chromewebstore.google.com/detail/anytype-web-clipper/jbnammhjiplhpjfncnlejjjejghimdkf?hl=en))
-* Collaboration - [0.40.0](https://community.anytype.io/t/anytype-desktop-0-40-0-multiplayer-released/20219)
-* Inline Latex - [0.42.0](https://community.anytype.io/t/anytype-desktop-0-42-0-released/22993#p-83725-inline-latex-scientist-5)
+* [Collaboration](../basics/space/collaboration.md) - [0.40.0](https://community.anytype.io/t/anytype-desktop-0-40-0-multiplayer-released/20219)
+* [Inline Latex](../basics/object-editor/blocks.md#inline-latex) - [0.42.0](https://community.anytype.io/t/anytype-desktop-0-42-0-released/22993#p-83725-inline-latex-scientist-5)
+* [Simple Calculations](../basics/sets-and-collections/#simple-formulas-calculations) - [0.44.0](https://community.anytype.io/t/anytype-desktop-0-44-0-released/25865)
+* [Dates](../basics/types/dates.md) as an Object - [0.44.0](https://community.anytype.io/t/anytype-desktop-0-44-0-released/25865)
 
 ### Mobile Features
 

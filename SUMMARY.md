@@ -26,6 +26,7 @@
   * [Create a New Type](basics/types/create-a-new-type.md)
   * [Layouts](basics/types/layouts.md)
   * [Templates](basics/types/templates.md)
+  * [Dates](basics/types/dates.md)
 * [Relations](basics/relations/README.md)
   * [Add a New Relation](basics/relations/create-a-new-relation.md)
   * [Create a New Relation](basics/relations/create-a-new-relation-1.md)

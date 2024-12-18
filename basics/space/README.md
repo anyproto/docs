@@ -6,15 +6,15 @@ Inside your Vault, you have **Spaces**. A **Space** is a container for your grap
 
 Similar to vault, space is an encrypted container. Unlike your Vault - each space has unique access rights - you can decide who has access to each space.
 
+Currently, we only support private and public spaces.
+
+Vaults created before version 0.44.0 will also have an Entry Space. You are free to delete this space if no longer needed, or you can migrate your data to a different space by using the [import-export.md](../import-export.md "mention") feature.
+
 {% hint style="danger" %}
-It's currently impossible to recover deleted spaces unless you previously exported them, so be careful when deleting them.
+It's currently impossible to recover deleted spaces unless you've previously exported them, so be careful when deleting them.
 {% endhint %}
 
 You’re able to create multiple separate spaces (up to 50), each with their own graph of objects, widget sidebar, and later on - privacy settings. You can have up to 3 shared spaces depending on your [membership](../../memberships/monetization/) plan.
-
-{% hint style="info" %}
-Keep in mind that you are currently not able to delete nor share your initial Entry Space.
-{% endhint %}
 
 You can navigate between your existing spaces by using the new spaces sidebar. To create a new space, simply click on the plus button at the bottom of the list.
 
@@ -22,11 +22,11 @@ You can navigate between your existing spaces by using the new spaces sidebar. T
 
 Use the [space management menu](space-settings.md) at the top of your sidebar to customize your space settings or delete your space.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can also manage all of your spaces by going into `Settings >` [`Spaces`](space-settings.md).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Global Sync Status
 
