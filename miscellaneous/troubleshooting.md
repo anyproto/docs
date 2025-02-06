@@ -33,6 +33,6 @@ Navigate to `Debug > Reconcile` in the top menu bar, and restart the app.
 
 <summary>What can I do if I don't get asked to choose my anyname after buying a membership?</summary>
 
-Please either type [https://anytype/main/membership](https://anytype/main/membership) in your browser or inside Anytype search, and restart the app.
+Please either type [https://anytype/main/membership](https://anytype/main/membership) in your browser or inside Anytype global search, and restart the app.
 
 </details>

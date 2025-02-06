@@ -74,3 +74,10 @@ As a non-profit organization that hasn’t reached a sustainable income yet, we 
 
 </details>
 
+<details>
+
+<summary>What can I do if I can't open Anytype links through a browser?</summary>
+
+You can still open any Anytype links by simply pasting them in the global search menu within Anytype and hitting enter.
+
+</details>
