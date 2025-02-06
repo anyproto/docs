@@ -20,3 +20,12 @@ For more specific issues:
 3. You can share it using any convenient method.
 
 </details>
+
+<details>
+
+<summary>What to do if my storage amount is not properly reflected in the app?</summary>
+
+Navigate to `Debug > Reconcile` in the top menu bar, and restart the app.
+
+</details>
+
