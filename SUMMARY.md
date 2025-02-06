@@ -78,6 +78,7 @@
 * [Any Timeline](community/any-timeline.md)
 * [Product Workflow](community/product-workflow.md)
 * [Custom CSS Guide](community/custom-css.md)
+* [Nightly Ops](community/nightly-ops.md)
 
 ## 🌈 Miscellaneous
 
