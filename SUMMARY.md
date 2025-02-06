@@ -69,11 +69,7 @@
 
 ## 🌍 COMMUNITY
 
-* [Community Forum](community/community-forum/README.md)
-  * [Report Bugs](community/community-forum/report-bugs.md)
-  * [Request a Feature & Vote](community/community-forum/request-a-feature-and-vote.md)
-  * [Get Help from the Community](community/community-forum/get-help-from-the-community.md)
-  * [Share Your Feedback](community/community-forum/share-your-feedback.md)
+* [Community Forum](community/community-forum.md)
 * [Open Any Initiative](community/join-the-open-source-project.md)
 * [Any Timeline](community/any-timeline.md)
 * [Product Workflow](community/product-workflow.md)
