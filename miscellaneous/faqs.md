@@ -65,3 +65,12 @@ You can check all keyboard shortcuts in the app by clicking on `? > Keyboard sho
 There are a few ways you can install Anytype on a Chromebook, but probably the easiest one is to use an [AppImage](https://download.anytype.io). For the full guide from one of our community members, please click [here](https://community.anytype.io/t/guide-to-use-anytype-on-a-chromebook/12181).
 
 </details>
+
+<details>
+
+<summary>Does Anytype have a bug bounty program?</summary>
+
+As a non-profit organization that hasn’t reached a sustainable income yet, we don’t have any guaranteed bug bounty program. If you can prove that you found a critical vulnerability in our applications but don’t want to disclose it, we can discuss a potential reward. Please check this [page](https://github.com/anyproto/.github/blob/main/docs/SECURITY.md) from our GitHub for more information.
+
+</details>
+
