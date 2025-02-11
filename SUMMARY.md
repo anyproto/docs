@@ -80,5 +80,6 @@
 
 * [FAQs](miscellaneous/faqs.md)
 * [Features](miscellaneous/feature-list-by-platform.md)
-* [Troubleshooting](miscellaneous/troubleshooting.md)
+* [Troubleshooting](miscellaneous/troubleshooting/README.md)
+  * [AnySync Netcheck Tool](miscellaneous/troubleshooting/anysync-netcheck-tool.md)
 * [Beta Migration](miscellaneous/migration-from-the-legacy-app.md)
