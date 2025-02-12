@@ -22,9 +22,13 @@ We currently offer support for importing the following:
   * **Protobuf**
   * **JSON**
 
-{% hint style="info" %}
 After your import is done, a new collection should appear in your favorites widget in your sidebar. All of your imported objects should be there.
-{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+You will also be asked which objects from your imported files you want to add to your Favorites:
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Export
 

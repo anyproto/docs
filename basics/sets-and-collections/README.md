@@ -8,4 +8,4 @@ For instance, the [views.md](views.md "mention"),  filters and sorts all work mo
 
 You can count objects in the Grid view and perform simple math and aggregation functions with all types of relations.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

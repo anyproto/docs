@@ -72,7 +72,7 @@ You can add any Relations to be automatically added to your **Objects**, by addi
 
 See more about how to [create-a-new-type.md](../types/create-a-new-type.md "mention") here. Underneath the title & Template section of the new Type process you'll have the Relation options.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 #### Sorts & Filters
 

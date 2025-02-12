@@ -22,11 +22,11 @@ You can navigate between your existing spaces by using the new spaces sidebar. T
 
 Use the [space management menu](space-settings.md) at the top of your sidebar to customize your space settings or delete your space.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can also manage all of your spaces by going into `Settings >` [`Spaces`](space-settings.md).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Global Sync Status
 

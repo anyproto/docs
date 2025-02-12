@@ -6,7 +6,7 @@ description: Customize your profile, set up additional security, or delete your 
 
 You can access your vault settings from one of these 3 places:
 
-<div><figure><img src="../../.gitbook/assets/Captura desde 2024-08-09 11-05-47.png" alt="" width="323"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Captura desde 2024-08-09 11-05-47.png" alt="" width="323"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Profile
 
