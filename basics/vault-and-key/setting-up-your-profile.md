@@ -30,4 +30,4 @@ Now you can scan this code with your mobile device and install the app.
 
 ### Migrate existing data
 
-If you would like to import your existing data from other apps, please check out [import-export.md](../import-export.md "mention").
+If you would like to import your existing data from other apps, please check out [import-export](../import-export/ "mention").

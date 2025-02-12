@@ -38,7 +38,7 @@ Some examples:
 
 It's also possible to use `@date` or `/date` to quickly open the date selection menu.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Link aliases
 
@@ -69,7 +69,7 @@ We've also recently implemented backlinks as part of our relations system.&#x20;
 By default, if the backlinks relation is not empty, you will be able to find it in your featured section. Clicking on it will show a list of all the linked objects.\
 If an object has no backlinks, the relation will not be shown in the featured section, but you can still locate it in your object relations panel.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Collections
 

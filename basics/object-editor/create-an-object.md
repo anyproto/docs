@@ -6,13 +6,11 @@ description: How do you create an object?
 
 ### Navigation menu
 
-When clicking the plus-button, you’ll be presented with a menu of standard types, plus your most recently-used Types. You can then choose which one you want to create.
+When clicking the plus button, you’ll immediately create a new object with the type that is set as your default object type in your space settings.&#x20;
 
-This behavior can be changed in your [vault settings](../vault-and-key/account-and-data.md#preferences) to either hover or right-click. Both of these alternative settings will change the behavior of the left-click to immediately create a new object with the type that is set as your default object type in your space settings.&#x20;
+When clicking the arrow button, you'll be presented with a menu of standard types, plus your most recently-used Types. You can then choose which one you want to create.
 
-The hover setting will additionally show the original menu after you hover over the `+` button for a few seconds, while the right-click setting will require you to right-click the `+` button instead.
-
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Forward Slash Command
 

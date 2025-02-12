@@ -8,7 +8,7 @@ Similar to vault, space is an encrypted container. Unlike your Vault - each spac
 
 Currently, we only support private and public spaces.
 
-Vaults created before version 0.44.0 will also have an Entry Space. You are free to delete this space if no longer needed, or you can migrate your data to a different space by using the [import-export.md](../import-export.md "mention") feature.
+Vaults created before version 0.44.0 will also have an Entry Space. You are free to delete this space if no longer needed, or you can migrate your data to a different space by using the [import-export](../import-export/ "mention") feature.
 
 {% hint style="danger" %}
 It's currently impossible to recover deleted spaces unless you've previously exported them, so be careful when deleting them.
@@ -22,11 +22,11 @@ You can navigate between your existing spaces by using the new spaces sidebar. T
 
 Use the [space management menu](space-settings.md) at the top of your sidebar to customize your space settings or delete your space.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can also manage all of your spaces by going into `Settings >` [`Spaces`](space-settings.md).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Global Sync Status
 

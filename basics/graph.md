@@ -4,9 +4,9 @@ description: Finally a dive into your graph of objects.
 
 # Graph
 
-### From anywhere in the app, you'll see the graph icon  in the bottom navigation panel
+### From anywhere in the app, you'll see the graph icon at the top and next to your sidebar
 
-<figure><img src="../.gitbook/assets/Graph Icon.png" alt=""><figcaption><p>Locate the graph icon in the middle of your navigation panel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (105).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Open your Graph to see all of your objects and their relations
 

@@ -10,7 +10,7 @@ Our memberships are designed to reflect the same core principles that have alway
 
 ## Membership Model & Plans
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102) (1).png" alt=""><figcaption></figcaption></figure>
 
 All Members have unrestricted access to the following:
 

@@ -1,43 +1,25 @@
-# Import & Export
+# Migrate from Notion
 
-You can import or export from your space by navigating to **Anytype > Space Settings > Import / Export Space** in the menu bar:
-
-<figure><img src="../.gitbook/assets/image (83).png" alt="" width="375"><figcaption></figcaption></figure>
-
-Alternatively, you can find the Import to / Export Space options under the Integrations section of your [Space Settings](space/space-settings.md):
-
-<figure><img src="../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
-
-It's also possible to simply type “Import” or “Export” in the Search Menu.
-
-### Notion Import Step-by-Step Guide
-
-{% hint style="info" %}
-Because not all Notion features are implemented in Anytype, some Notion data might not end up being properly imported.
-{% endhint %}
-
-<details>
-
-<summary>Steps</summary>
+### Steps
 
 **Step 1**
 
 1.  **Open Settings & members.**\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-1.png" alt="Open Settings &#x26; members" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-1.png" alt="Open Settings &#x26; members" width="500"><figcaption></figcaption></figure>
 2.  **Open My Connections and then click Develop or manage integrations.**\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-2.png" alt="Open My Connections" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-2.png" alt="Open My Connections" width="500"><figcaption></figcaption></figure>
 3.  **Click New integration or Create new integration.**\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-3.png" alt="Create new integration" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-3.png" alt="Create new integration" width="500"><figcaption></figcaption></figure>
 4.  **Select your workspace and set a Name for the integration.**\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-4.png" alt="Set Name for integration" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-4.png" alt="Set Name for integration" width="500"><figcaption></figcaption></figure>
 5. **Important!**\
    Go to **Capabilities** and select the following capabilities, then press **Save changes**:
 
@@ -45,12 +27,12 @@ Because not all Notion features are implemented in Anytype, some Notion data mig
 *   Read user information\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-5.png" alt="Select capabilities" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-5.png" alt="Select capabilities" width="500"><figcaption></figcaption></figure>
 
 6.  **Copy Internal Integration Secret** for connecting and importing your data.\
 
 
-    <figure><img src="../.gitbook/assets/notion/1-6.png" alt="Copy Internal Integration Secret" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/1-6.png" alt="Copy Internal Integration Secret" width="500"><figcaption></figcaption></figure>
 
 **Step 2**
 
@@ -59,12 +41,12 @@ Because not all Notion features are implemented in Anytype, some Notion data mig
 1.  **Click on the three dots in the upper right corner, then click Connect to (you may need to scroll the menu).** Select your Anytype integration.\
 
 
-    <figure><img src="../.gitbook/assets/notion/2-1.png" alt="Connect to Anytype integration" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/2-1.png" alt="Connect to Anytype integration" width="500"><figcaption></figcaption></figure>
 2. **Ensure you select all root pages** to avoid broken links in Anytype after the import.
 3.  **Add the Integration to each page's connection** to ensure that the pages and their linked content are imported correctly.\
 
 
-    <figure><img src="../.gitbook/assets/notion/2-2.png" alt="Press Confirm" width="500"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/notion/2-2.png" alt="Press Confirm" width="500"><figcaption></figcaption></figure>
 
 **Step 3**
 
@@ -77,9 +59,25 @@ Because not all Notion features are implemented in Anytype, some Notion data mig
 * Keep your computer plugged into power.
 * Disable sleep mode on your computer to allow the import process to complete without interruptions.
 
-</details>
+{% hint style="info" %}
+Some Notion data may **not be imported correctly** as not all Notion features are supported in Anytype.
+{% endhint %}
 
-#### FAQ
+### FAQ
+
+<details>
+
+<summary>Why wasn't some Notion data imported correctly?</summary>
+
+As not all Notion features are supported in Anytype, we cannot guarantee that all Notion data will be imported correctly.&#x20;
+
+Examples:
+
+* User mentions (@) will be converted to plain text.
+* Date ranges are imported as text.
+* Formulas & summary data are imported as values.
+
+</details>
 
 <details>
 
@@ -89,7 +87,7 @@ This issue occurs when you have links to pages that are not nested within your N
 
 **Solution:**
 
-* **Check Page Connections:** Ensure that all pages in your Notion workspace are connected before starting the import process. If a page is not properly connected to the integration, it may not import correctly. See the Step 2 of the [Notion Import Step-by-Step Guide](import-export.md#notion-import-step-by-step-guide) for more details.
+* **Check Page Connections:** Ensure that all pages in your Notion workspace are connected before starting the import process. If a page is not properly connected to the integration, it may not import correctly. See the Step 2 of the [Notion Import Step-by-Step Guide](migrate-from-notion.md#notion-import-step-by-step-guide) for more details.
 * **Repeat the import:** If a page did not import, add a missing Connection and repeat the import.
 
 </details>
@@ -139,34 +137,3 @@ Be aware that importing via Markdown & CSV files is more lossy compared to using
 * **Import into Anytype:** Use Anytype’s Markdown import feature to bring the exported content into your Anytype workspace.
 
 </details>
-
-### Evernote Import
-
-One of our community members created a tool that lets you import your Evernote notes inside Anytype. The full guide can be found on our [community forum](https://community.anytype.io/t/a-tool-to-import-evernote-notes-to-anytype/11483), and the GitHub repository here:
-
-{% embed url="https://github.com/Shampra/EvernoteToAnytype" %}
-
-### Supported File Formats
-
-#### Import
-
-We currently offer support for importing the following:
-
-* **MD (Markdown)**: You can import individual `.md` files or a zip file containing multiple Markdown files. Please note that relations are not exported at this time.
-* **HTML**
-* **TXT**
-* **CSV:** It is possible to map columns to existing pre-installed relations like Phone, E-mail, etc. by just using the same title.&#x20;
-* **Any-Block**:
-  * **Protobuf**
-  * **JSON**
-
-{% hint style="info" %}
-After your import is done, a new collection should appear in your favorites widget in your sidebar. All of your imported objects should be there.
-{% endhint %}
-
-#### Export
-
-We currently offer support for exporting in the following formats:
-
-* **Markdown**
-* **Any-Block** (both Protobuf and JSON)

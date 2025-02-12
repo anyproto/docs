@@ -14,9 +14,9 @@ Additionally, to see all of the objects you've created in your space, you can us
 
 As a last resort, if you still can't find what you're looking for, try and search for it.
 
-To navigate to the search, head to your navigation bar, and click on the magnifier.
+To navigate to the search, head to your sidebar, and click on the magnifier icon.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Bin
 

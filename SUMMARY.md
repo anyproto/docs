@@ -16,6 +16,7 @@
 * [Space](basics/space/README.md)
   * [Customizing Your Space](basics/space/space-settings.md)
   * [Collaborate With Others](basics/space/collaboration.md)
+  * [Web Publishing](basics/space/web-publishing.md)
 * [All Objects](basics/anytype-library/README.md)
   * [Bin](basics/anytype-library/finding-your-objects.md)
 * [Objects](basics/object-editor/README.md)
@@ -36,7 +37,9 @@
   * [Views](basics/sets-and-collections/views.md)
 * [Links](anytype-basics/object-editor/linking-objects.md)
 * [Graph](basics/graph.md)
-* [Import & Export](basics/import-export.md)
+* [Import & Export](basics/import-export/README.md)
+  * [Migrate from Notion](basics/import-export/migrate-from-notion.md)
+  * [Migrate from Evernote (Community)](basics/import-export/migrate-from-evernote-community.md)
 
 ## 📽️ Use Cases
 
@@ -79,7 +82,8 @@
 ## 🌈 Miscellaneous
 
 * [FAQs](miscellaneous/faqs.md)
-* [Features](miscellaneous/feature-list-by-platform.md)
+* [Features](miscellaneous/feature-list-by-platform/README.md)
+  * [Raycast Extension (macOS)](miscellaneous/feature-list-by-platform/raycast-extension-macos.md)
 * [Troubleshooting](miscellaneous/troubleshooting/README.md)
   * [AnySync Netcheck Tool](miscellaneous/troubleshooting/anysync-netcheck-tool.md)
 * [Beta Migration](miscellaneous/migration-from-the-legacy-app.md)
