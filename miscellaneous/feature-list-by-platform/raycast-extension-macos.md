@@ -7,3 +7,13 @@ While this initial version focuses on a basic set of features, we’re laying th
 [Install the Raycast Extension here](https://www.raycast.com/any/anytype)
 
 <figure><img src="../../.gitbook/assets/raycast_2x.png" alt=""><figcaption></figcaption></figure>
+
+### Privacy
+
+Our API runs locally on your machine, works without internet connection and requires authentication for a client (eg. raycast extension) to retrieve & access data.
+
+To accomplish this, Raycast initially pairs with the app through the 4 digit pop-up. This notifies you about giving the extension limited access to your account.
+
+The API key is stored in encrypted local storage of the extension and will be used to fetch data from the app (to display spaces, objects etc.).
+
+Therefore, no other applications than the authorized ones can access your data through the API.
