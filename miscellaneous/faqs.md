@@ -78,6 +78,6 @@ You can still open any Anytype links by simply pasting them in the global search
 
 <summary>What can I do if I get a GLIBCXX error? </summary>
 
-If you are having issues with GLIBCXX, you can try going through [this](https://community.anytype.io/t/update-45-1-unable-to-launch/26723/4?u=filip) thread to solve the issue or try the (unofficial) [flatpak](https://flathub.org/apps/io.anytype.anytype) version.
+If you are having issues with GLIBCXX, you can install the [latest pre-release version](https://github.com/anyproto/anytype-ts/releases/tag/v0.45.10-beta) , try going through [this](https://community.anytype.io/t/update-45-1-unable-to-launch/26723/4?u=filip) thread to solve the issue or try the (unofficial) [flatpak](https://flathub.org/apps/io.anytype.anytype) version.
 
 </details>
