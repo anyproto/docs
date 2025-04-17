@@ -4,8 +4,12 @@ description: >-
   brain.
 ---
 
-# 🧠 PARA Method for Note taking
+# 🧠 PARA Method
 
-{% embed url="https://www.youtube.com/watch?v=rgBS46Scw4Q" %}
+{% hint style="info" %}
+You can import this use case to your space using this [link](https://gallery.any.coop/?experience=para_lite).
+{% endhint %}
 
-You can import this use case to your space using this [link](https://gallery.any.coop/?experience=para\_lite).
+<figure><img src="../.gitbook/assets/screenshot-1.png" alt=""><figcaption></figcaption></figure>
+
+For more use cases, please check out our [ANY Experience Gallery](../advanced/community/any-experience-gallery.md). You can either access it directly from the app by navigating to the bottom of your spaces sidebar or by clicking [this link](https://gallery.any.coop/).
