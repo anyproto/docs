@@ -8,7 +8,7 @@ Anytype is an **encrypted, local-first alternative** to the cloud-based Internet
 
 With Anytype, you can build digital spaces around your interests. These spaces can be personal - for diaries, ideas and drafts, or shared - with your family, small communities, teams, neighbors and people with similar interests.
 
-Unlike cloud applications, Anytype puts the control of encryption keys firmly your hands, so you own your data and your social graph. Spaces you create are local first - they can be created offline and can sync peer-to-peer in local networks.&#x20;
+Unlike cloud applications, Anytype puts the control of encryption keys firmly in your hands, so you own your data and your social graph. Spaces you create are local first - they can be created offline and can sync peer-to-peer in local networks.&#x20;
 
 Anytype is supported by [AnySync](https://tech.anytype.io/any-sync/overview) - an open-source protocol that supports high-performant collaboration over encrypted data and creators’ controlled keys. You can find our codebase [here](https://github.com/anyproto).
 
