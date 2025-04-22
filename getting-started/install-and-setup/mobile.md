@@ -35,5 +35,5 @@ Now you can scan this code with your mobile device and login or install the app.
 * [#custom-storage-location](../../advanced/feature-list-by-platform/other-features.md#custom-storage-location "mention")
 * [graph.md](../../advanced/feature-list-by-platform/graph.md "mention") & Flow
 * [import-export](../../advanced/data-and-security/import-export/ "mention")
-* [web-publish.md](../../web-publish.md "mention")
+* [web-publishing.md](../../web-publishing.md "mention")
 * PIN Code

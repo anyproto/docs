@@ -23,7 +23,7 @@
 
 ***
 
-* [Web Publish](web-publish.md)
+* [Web Publishing](web-publishing.md)
 
 ## 📽️ Use Cases
 
