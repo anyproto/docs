@@ -5,10 +5,10 @@ Properties are key to organizing and connecting your Objects and knowledge in An
 * **Defining attributes:** You can use Properties to define the characteristics of a certain Object.
   * For example, when creating a Task in Anytype, you can add Properties such as _Status_: Done/Not Done, or _Priority_: Low, Medium, or High.
   * If we were to imagine a database, Properties represent the column headers to each row (where column A represents the Object name, and where each row represents an Object).
-  * Once you have set your attributes, it becomes possible to sort and filter your Objects according to the Properties you've defined in your [List](broken-reference) View.
+  * Once you have set your attributes, it becomes possible to sort and filter your Objects according to the Properties you've defined in your Query.
 * **Defining connections:** You can also use Properties to link one Object to another.
   * Returning to the example of a Task, you can add the Property: _Linked Projects,_ and connect another Object in your Anytype to this task.
-  * As above, you can view the Linked Projects as Properties in [List](broken-reference) view, or in Graph view.
+  * As above, you can view the Linked Projects as Properties in a Query, or in your Graph.
 
 <figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
