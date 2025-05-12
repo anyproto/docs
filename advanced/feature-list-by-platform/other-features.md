@@ -1,7 +1,7 @@
 # Other Features
 
 {% hint style="warning" %}
-All of these feature are available on desktop only.
+All of these features are available on desktop only.
 {% endhint %}
 
 ### Custom Storage Location
