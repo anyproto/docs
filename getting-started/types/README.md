@@ -49,11 +49,3 @@ From here, you can choose a name, layout, and add templates and properties to th
 If you've decided that this Type is no longer relevant, you can use the context menu (mouse right-click) to delete the Type from your space. Please proceed with caution; any objects of this type will show an alert if the Type has been removed from your library.
 
 <div><figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure></div>
-
-#### Creating Types from the Object Editor
-
-If you decide later on that you want to convert your object to a new object type _after it's created_, again - you can do so by selecting the object type, choosing 'Change type', and entering the name of the type which you would like to create.
-
-<figure><img src="../../.gitbook/assets/image (29).png" alt="" width="375"><figcaption></figcaption></figure>
-
-Any Type you create from the object editor will be available for editing in your space settings using the steps above.
