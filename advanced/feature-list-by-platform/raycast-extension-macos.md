@@ -4,7 +4,7 @@ Our long-awaited API is beginning to take shape! The first step is Raycast integ
 
 [Install the Raycast Extension here](https://www.raycast.com/any/anytype)
 
-<figure><img src="../../../.gitbook/assets/raycast_2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/raycast_2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Update - AI
 
@@ -14,7 +14,7 @@ We've introduced several enhancements based on your requests and feedback, plus 
 * Better Collection Management: Create objects directly within collections and browse collection items with ease.
 * Customization & Visibility: Choose <kbd>Open Object in Anytype</kbd> as the default action, show custom properties in the Detail sidebar, toggle metadata in object details and apply templates when creating new objects.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-03-17 at 11.43.00 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-03-17 at 11.43.00 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Update - Local API
 
@@ -26,7 +26,7 @@ Here’s what’s new:
 * **Easily edit** your selected items (spaces, objects, types, properties or tags) using `CMD+E`.
 * **Conveniently add objects** to lists either through the new `Add object to list` command or directly from the context menu `CMD+K`.
 
-<figure><img src="../../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 ### Privacy
 

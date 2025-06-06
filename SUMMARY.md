@@ -40,7 +40,7 @@
 * [Memberships](advanced/monetization.md)
 * [Features](advanced/feature-list-by-platform/README.md)
   * [Local API](advanced/feature-list-by-platform/local-api/README.md)
-    * [Raycast Extension (macOS)](advanced/feature-list-by-platform/local-api/raycast-extension-macos.md)
+    * [Raycast Extension (macOS)](advanced/feature-list-by-platform/raycast-extension-macos.md)
   * [Custom CSS](advanced/feature-list-by-platform/custom-css.md)
   * [Dates](advanced/feature-list-by-platform/dates.md)
   * [Graph](advanced/feature-list-by-platform/graph.md)

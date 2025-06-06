@@ -10,49 +10,63 @@ For more information about the philosophy behind our membership and its planned 
 
 ## Membership Model & Plans
 
-<figure><img src="../.gitbook/assets/image (102) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 All Members have unrestricted access to the following:
 
-* On-device, local-only storage
-* P2P sync
+* Unlimited local storage
+* P2P synchronization
 * Zero-knowledge encryption
+* Unlimited viewers per shared space
 
-**Explorer Membership:** Those who have not yet purchased one of our paid memberships. The Explorer membership includes:
+**Starter Membership:** Those who have not yet purchased one of our paid memberships. The Starter membership includes:
 
 * A local, non-unique name
-* 1GB of network backup & sync space
-* Up to 3 shared spaces
-* 3 Space Members per shared space (Owner + 2 invited Space Members per space)
+* 100 MB of Network storage
+* 3 shared spaces
+* 3 editors per space
+* Up to 10 MB for Web publishing
 
 _\*Beta testers - those who joined before the launch of multiplayer in April 2024 - will automatically receive an Explorer membership. Storage limits previously applied to your vault will not change._
 
+**Explorer Membership:** Those who choose to purchase a one-year membership at a price of $48 The Explorer membership includes:
+
+* Global, unique name (from 9+ characters)
+* 10 GB of Network storage
+* 3 shared spaces
+* 4 editors per shared space
+* Up to 100 MB for Web publishing
+* Personalized domain for publishing
+
 **Builder Membership:** Those who choose to purchase a one-year membership at a price of $99. The Builder membership includes:
 
-* A global, unique name (7+ characters)
-* 128 GB of network backup & sync space
-* Up to 3 Shared spaces
-* 10 Editors per shared space (Owner + 9 invited Editors per space)
-* Unlimited Viewers for shared spaces
+* Global, unique name (from 7+ characters)
+* 128 GB of Network storage
+* 3 shared spaces
+* 10 editors per shared space
+* Up to 100 MB for Web publishing
+* Personalized domain for publishing
 * Priority support
 
 **Co-Creator Membership:** Those who choose to purchase a three-year subscription at a price of $299. The Co-Creator membership includes:
 
-* A global, unique name (5+ characters)
+* Global, unique name (from 5+ characters)
 * 256 GB of network backup & sync space
-* Up to 3 Shared spaces
-* 10 Editors per shared space (Owner + 9 invited Editors per space)
-* Unlimited Viewers for Shared spaces
+* 3 shared spaces
+* 10 editors per shared space
+* Up to 100 MB for Web publishing
+* Personalized domain for publishing
 * Priority support
+
+<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 **Business Membership:** Those who need more Network space, Editors or Shared Spaces for a custom price. The Business membership includes:
 
-* A unique name
-* Custom GB of network backup & sync space
-* Any number of Shared spaces
-* Any number of Editors per shared space
-* Unlimited Viewers for Shared spaces
+* Unique names
+* Custom GB of Network space
+* Any number of Editors or Shared spaces
 * Priority support
+* Custom MB for Web publishing
 
 ## Exclusive Discounts for Beta Testers
 
