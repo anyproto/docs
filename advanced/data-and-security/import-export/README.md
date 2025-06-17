@@ -19,7 +19,7 @@ It's also possible to simply type “Import” or “Export” in the Search Men
 We currently offer support for importing the following:
 
 * By app:
-  * [**Obsidian**](migrate-from-obsidian.md)
+  * Obsidian
   * [**Notion**](migrate-from-notion.md)
   * **Any-Block**:
     * **Protobuf**

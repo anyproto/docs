@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Migrate from Obsidian
 
 #### Step 1: Export from Obsidian
