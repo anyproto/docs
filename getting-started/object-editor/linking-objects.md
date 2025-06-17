@@ -10,8 +10,8 @@ Description: How to link your Objects with Relations or Simple Links.
 
 Directly through the editor by using:
 
-1. **Block Links.** Type \[\[ to invoke the Object picker menu or add the slash character ("/") to invoke a command bar, and then look for the `Link to Object` option in the menu. These can appear either as text or as cards.
-2. **Inline Links**. Type @ to invoke the Object picker menu.
+1. **Block Links.** Type "/" to invoke a command bar, and then look for the `Link to Object` option in the menu. These can appear either as text or as cards.
+2. **Inline Links**. Type @ or \[\[ to invoke the Object picker menu.
 
 <div><figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Link Blocks</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Inline Mentions</p></figcaption></figure></div>
 

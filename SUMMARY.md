@@ -47,6 +47,7 @@
   * [Other Features](advanced/feature-list-by-platform/other-features.md)
 * [Data & Security](advanced/data-and-security/README.md)
   * [Import & Export](advanced/data-and-security/import-export/README.md)
+    * [Migrate from Obsidian](advanced/data-and-security/import-export/migrate-from-obsidian.md)
     * [Migrate from Notion](advanced/data-and-security/import-export/migrate-from-notion.md)
     * [Migrate from Evernote](advanced/data-and-security/import-export/migrate-from-evernote.md)
   * [Privacy & Encryption](advanced/data-and-security/how-we-keep-your-data-safe.md)

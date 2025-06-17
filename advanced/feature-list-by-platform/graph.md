@@ -22,4 +22,4 @@ Toggle appearances for title, arrows, and icons.&#x20;
 
 Optimize viewing links, Properties, and unlinked objects. **If you are missing some objects, check to show unlinked objects.**
 
-<figure><img src="../../.gitbook/assets/image (84) (1).png" alt="" width="383"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (222).png" alt="" width="288"><figcaption></figcaption></figure>
