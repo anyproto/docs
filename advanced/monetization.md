@@ -68,17 +68,6 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 * Priority support
 * Custom MB for Web publishing
 
-## Exclusive Discounts for Beta Testers
-
-For those who would like to purchase Builder or Co-Creator Plans, we will offer a limited number of discounted memberships on pre-order as follows:
-
-* 250 one-year Builder memberships at $79
-  * Use discount code: `BetaBuilderPreOrder2024` at checkout
-* 250 three-year Co-Creator memberships at $239
-  * Use discount code: `BetaCoCreatorPreOrder2024` at checkout
-
-This offer is only available to beta users who joined our community prior to the launch of memberships. Additionally, these discount codes can only be used once, and the subscription will revert to the standard rate once it has been renewed.
-
 ## Pricing for Contributors
 
 Those who are active contributors to our codebase, gallery, tutorials, and community will have a one-year Builder membership subsidized. Active contributions are defined as 2+ contributions in the past year. You can check the status of your contributions [here](https://github.com/anyproto/contributors/blob/main/contributors.json).
