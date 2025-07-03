@@ -30,11 +30,11 @@ We currently offer support for importing the following:
   * **TXT**
   * **CSV:** It is possible to map columns to existing pre-installed properties like Phone, E-mail, etc. by just using the same title.&#x20;
 
-After your import is done, a new collection should appear in your favorites widget in your sidebar. All of your imported objects should be there.
+After your import is done, a new collection should appear in your pinned widget in your sidebar. All of your imported objects should be there.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="324"><figcaption></figcaption></figure>
 
-You will also be asked which objects from your imported files you want to add to your Favorites:
+You will also be asked which objects from your imported files you want to add to your Pinned section:
 
 <figure><img src="../../../.gitbook/assets/image (93).png" alt="" width="375"><figcaption></figcaption></figure>
 

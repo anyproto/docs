@@ -19,6 +19,10 @@ There are three ways to add a Template:
 
 <div><figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure></div>
 
+You can also manage templates directly from the Edit Type menu, accessible from every object.
+
+<figure><img src="../../.gitbook/assets/image (224).png" alt="" width="375"><figcaption></figcaption></figure>
+
 2\) If you're working within an Object and would like to save your work as a Template, you can: Navigate to `···` in the top-right corner → Click + Use as a Template, and your content will automatically be saved as a new Template for this Object Type.
 
 <figure><img src="../../.gitbook/assets/image (185).png" alt="" width="563"><figcaption></figcaption></figure>

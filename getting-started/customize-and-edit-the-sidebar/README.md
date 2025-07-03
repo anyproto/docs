@@ -18,7 +18,7 @@ In general, _any_ object you've created using Anytype's editor can be used as a 
 
 Additionally, Anytype provides several options for _non-object_ widgets which you can add or remove from your sidebar, including:
 
-* Favorites: All objects which you've starred as a favorite, regardless of object type
+* Pinned: Displays all objects marked as favorite, regardless of object type
 * [anytype-library.md](anytype-library.md "mention"): A place to quickly find all of your objects
 * Recently edited: Your recently edited objects (globally synced across devices)
 * Recently opened: Your recently opened objects (device-specific)
