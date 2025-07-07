@@ -10,7 +10,7 @@ For more information about the philosophy behind our membership and its planned 
 
 ## Membership Model & Plans
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 All Members have unrestricted access to the following:
 
@@ -58,7 +58,7 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 * Personalized domain for publishing
 * Priority support
 
-<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 **Business Membership:** Those who need more Network space, Editors or Shared Spaces for a custom price. The Business membership includes:
 
@@ -86,4 +86,4 @@ In the future, we will introduce membership discounts for self-hosters. For thos
 
 ### Want to dig deeper into Memberships?
 
-Check out the [#collaboration](help/faqs/#collaboration "mention") and [#memberships](help/faqs/#memberships "mention")FAQs.
+Check out the [#collaboration](../help/faqs/#collaboration "mention") and [#memberships](../help/faqs/#memberships "mention")FAQs.

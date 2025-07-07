@@ -37,7 +37,8 @@
 
 ## 🤖 Advanced
 
-* [Memberships](advanced/monetization.md)
+* [Memberships](advanced/monetization/README.md)
+  * [Refund policy](advanced/monetization/refund-policy.md)
 * [Features](advanced/feature-list-by-platform/README.md)
   * [Local API](advanced/feature-list-by-platform/local-api/README.md)
     * [Raycast Extension (macOS)](advanced/feature-list-by-platform/raycast-extension-macos.md)

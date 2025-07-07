@@ -98,4 +98,4 @@ You can access your Key or scan the QR code to connect your mobile device. For m
 
 <figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
-You can manage your [Membership](../monetization.md) plans here.
+You can manage your [Membership](../monetization/) plans here.
