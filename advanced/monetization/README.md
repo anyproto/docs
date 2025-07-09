@@ -10,7 +10,7 @@ For more information about the philosophy behind our membership and its planned 
 
 ## Membership Model & Plans
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 All Members have unrestricted access to the following:
 
@@ -26,17 +26,6 @@ All Members have unrestricted access to the following:
 * 3 shared spaces
 * 3 editors per space
 * Up to 10 MB for Web publishing
-
-_\*Beta testers - those who joined before the launch of multiplayer in April 2024 - will automatically receive an Explorer membership. Storage limits previously applied to your vault will not change._
-
-**Explorer Membership:** Those who choose to purchase a one-year membership at a price of $48 The Explorer membership includes:
-
-* Global, unique name (from 9+ characters)
-* 10 GB of Network storage
-* 3 shared spaces
-* 4 editors per shared space
-* Up to 100 MB for Web publishing
-* Personalized domain for publishing
 
 **Builder Membership:** Those who choose to purchase a one-year membership at a price of $99. The Builder membership includes:
 
@@ -57,8 +46,6 @@ _\*Beta testers - those who joined before the launch of multiplayer in April 202
 * Up to 100 MB for Web publishing
 * Personalized domain for publishing
 * Priority support
-
-<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 **Business Membership:** Those who need more Network space, Editors or Shared Spaces for a custom price. The Business membership includes:
 
