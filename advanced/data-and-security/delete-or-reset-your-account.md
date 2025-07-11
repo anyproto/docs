@@ -12,7 +12,7 @@ If you would like to create a new vault instead, do the following:
 
 1. `Anytype > Settings > Vault > Data management > Delete vault`
 2. `Anytype > Settings > Vault > Log Out`
-3. Click: “_**Join**_” (instead of "Log in")
+3. Click: “_**I am new here**_” (instead of "I already have the key")
 
 ### Other Data
 
