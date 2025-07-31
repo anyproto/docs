@@ -10,6 +10,8 @@ You can either find the it at the bottom of your sidebar as a widget or you can 
 
 <div><figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure></div>
 
+If it is not in your sidebar, you can re-add the Bin widget from the "Add Widget" menu beneath the sidebar. You can also access the Bin from your space settings (click on your space's name for its settings page and click "Bin" in its sidebar).
+
 After opening the Bin, if you would still like to permanently delete some of your objects, you will first need to select them, and then you can click on the `Delete permanently` button to get rid of them forever.
 
 You can use the same process to restore your objects instead.
