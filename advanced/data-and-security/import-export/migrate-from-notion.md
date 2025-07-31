@@ -1,22 +1,20 @@
 # Migrate from Notion
 
-### Steps
+### Step 1: Create the integration in Notion
 
-**Step 1**
-
-1.  **Open Settings & members.**\
+1.  In Notion, **open Settings.**\
 
 
     <figure><img src="../../../.gitbook/assets/notion/1-1.png" alt="Open Settings &#x26; members" width="500"><figcaption></figcaption></figure>
-2.  **Open My Connections and then click Develop or manage integrations.**\
+2.  **Open "Connections" and then click "Develop or manage integrations" (or <a href="https://www.notion.so/profile/integrations">go directly to the page</a>).**\
 
 
     <figure><img src="../../../.gitbook/assets/notion/1-2.png" alt="Open My Connections" width="500"><figcaption></figcaption></figure>
-3.  **Click New integration or Create new integration.**\
+3.  **Create "New integration".**\
 
 
     <figure><img src="../../../.gitbook/assets/notion/1-3.png" alt="Create new integration" width="500"><figcaption></figcaption></figure>
-4.  **Select your workspace and set a Name for the integration.**\
+4.  **Save a Name for the integration with your selected workspace, and type set to "Internal".**\
 
 
     <figure><img src="../../../.gitbook/assets/notion/1-4.png" alt="Set Name for integration" width="500"><figcaption></figcaption></figure>
@@ -29,31 +27,17 @@
 
     <figure><img src="../../../.gitbook/assets/notion/1-5.png" alt="Select capabilities" width="500"><figcaption></figcaption></figure>
 
+6. **Important!**\
+   Go to **Access** and select the Teamspace you want to import. Then press **Update access**. Ensure that you select all root pages to avoid broken links in Anytype after the import. 
+
 6.  **Copy Internal Integration Secret** for connecting and importing your data.\
 
 
     <figure><img src="../../../.gitbook/assets/notion/1-6.png" alt="Copy Internal Integration Secret" width="500"><figcaption></figcaption></figure>
 
-**Step 2**
+### Step 2: Run the integration in your Anytype space
 
-**Add the integration to the pages you want to import into Anytype.** Pages will be imported with all children documents.
-
-1.  **Click on the three dots in the upper right corner, then click Connect to (you may need to scroll the menu).** Select your Anytype integration.\
-
-
-    <figure><img src="../../../.gitbook/assets/notion/2-1.png" alt="Connect to Anytype integration" width="500"><figcaption></figcaption></figure>
-2. **Ensure you select all root pages** to avoid broken links in Anytype after the import.
-3.  **Add the Integration to each page's connection** to ensure that the pages and their linked content are imported correctly.\
-
-
-    <figure><img src="../../../.gitbook/assets/notion/2-2.png" alt="Press Confirm" width="500"><figcaption></figcaption></figure>
-
-**Step 3**
-
-**Finalize the import and ensure a smooth process:**
-
-1. **Paste your Internal Integration Token into Anytype.**
-2. **Prepare for a smooth import:**
+1. To **prepare for a smooth import**:
 
 * Use a good internet connection, especially if you have a large number of files.
 * Keep your computer plugged into power.
@@ -62,6 +46,16 @@
 {% hint style="info" %}
 Some Notion data may **not be imported correctly** as not all Notion features are supported in Anytype.
 {% endhint %}
+
+2.  In your Anytype space's settings (click on your space's name in the top left), **select "Import" and choose "Notion"**.\
+
+
+    <figure><img src="../../../.gitbook/assets/notion/2-1.png" alt="Connect to Anytype integration" width="500"><figcaption></figcaption></figure>
+
+3.  **Enter the Integration Secret** and **click "Import data"**.\
+
+
+    <figure><img src="../../../.gitbook/assets/notion/2-2.png" alt="Press Confirm" width="500"><figcaption></figcaption></figure>
 
 ### FAQ
 
