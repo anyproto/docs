@@ -4,9 +4,11 @@ Before permanently deleting your objects, you'll first need to move them to the 
 
 <figure><img src="../../../.gitbook/assets/image (87) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-To permanently delete your objects, you will first need to locate and open the Bin. You can find it at the bottom of your sidebar.
+To permanently delete your objects, you will first need to locate and open the Bin.
 
-<figure><img src="../../../.gitbook/assets/image (100).png" alt="" width="316"><figcaption></figcaption></figure>
+You can either find the it at the bottom of your sidebar as a widget or you can find it in your [space.md](../../../getting-started/install-and-setup/space.md "mention") settings by navigating to `General > Bin`.&#x20;
+
+<div><figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure></div>
 
 If it is not in your sidebar, you can re-add the Bin widget from the "Add Widget" menu beneath the sidebar. You can also access the Bin from your space settings (click on your space's name for its settings page and click "Bin" in its sidebar).
 
