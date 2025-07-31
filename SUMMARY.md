@@ -20,10 +20,7 @@
 * [Widgets](getting-started/customize-and-edit-the-sidebar/README.md)
   * [All Objects](getting-started/customize-and-edit-the-sidebar/anytype-library.md)
 * [Collaboration](getting-started/collaboration.md)
-
-***
-
-* [Web Publishing](web-publishing.md)
+* [Web Publishing](getting-started/web-publishing.md)
 
 ## 📽️ Use Cases
 

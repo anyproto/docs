@@ -32,4 +32,4 @@ Or if you are wondering what are the differences between Evernote and Anytype, c
 * [#simple-formulas-calculations](other-features.md#simple-formulas-calculations "mention") - [0.44.0](https://community.anytype.io/t/anytype-desktop-0-44-0-released/25865)
 * [Dates](dates.md) as an Object - [0.44.0](https://community.anytype.io/t/anytype-desktop-0-44-0-released/25865)
 * RTL - [0.45.0](https://community.anytype.io/t/anytype-desktop-0-45-0-released/26702)
-* [Web Publishing](../../web-publishing.md) - [0.45.0](https://community.anytype.io/t/anytype-desktop-0-45-0-released/26702)
+* [Web Publishing](../../getting-started/web-publishing.md) - [0.45.0](https://community.anytype.io/t/anytype-desktop-0-45-0-released/26702)
