@@ -48,3 +48,9 @@ Some file types can also be embedded: audio, video, image and pdf.
 
 We’ve added a new block type - inline query. You can create an inline query using command: `/inline`.\
 Once created, select an existing query as a source, or create a new one. Any changes you make to the inline query icon, or name will be synced with the source set. Meanwhile, views will not synced, but copied, which means you can tweak views to your current needs without worrying that your source query will be impacted.
+
+### Table of Contents
+
+A new ToC menu on the right side of the editor makes it easier to navigate and manage long pages. For a steady overview while editing, you can also open it in the sidebar.
+
+{% embed url="https://drive.google.com/file/d/1c-ZZEazJN1SRRtq1JrtaTIcJlTLtms5j/view?usp=drive_link" %}
