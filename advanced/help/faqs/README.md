@@ -46,8 +46,8 @@ We use the [**BIP39**](https://medium.com/coinmonks/mnemonic-generation-bip39-si
 * For Desktop, Electron follows Chrome, and they follow [vendor support policies](https://support.google.com/chrome/a/answer/7100626?hl=en).\
   At the moment that means:
   * Win 10+
-  * macOS Catalina 10.15+
-  * 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.5+, or Fedora Linux 38+
+  * macOS 12 Monterey and up
+  * 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.5+, or Fedora Linux 39+
 * For Android (if installed through Google Play), it's Android 8.0 and a 64-bit device with a minimum of 4GB of RAM.
 * For iOS, it's iOS 16.
 
