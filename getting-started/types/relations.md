@@ -44,15 +44,15 @@ Any Property you create from the object editor will be available for editing in 
 
 Here are the currently available Property types within Anytype:
 
-* **Text**: accepts text as the input.
+* **Text**: accepts free-form text as input.
 * **Number**: for all numbers. Different formats are coming soon.
-* **Date**: date, optional information for time.
-* **Select:** categorical property wherein you can define a list of options to choose from, like X, Y, or Z.
-* **Multi-select**: another variety of the string with no limits, only one string.
-* **Email/phone/URL**: special formats for URL, email, and phone number.
-* **Checkbox**: an object with a boolean, string, or link to an object.
-* **File & Media**: audio, movies, or pictures which you can view, play, or download.
-* **Object**: reference to a specific object, like a person, task, or document.
+* **Date**: date, with optional time.
+* **Select**: categorical property with a predefined list of options. You can choose one.
+* **Multi-select**: categorical property with a predefined list of options. You can choose multiple, with no limit.
+* **Email/Phone/URL**: special formats for email addresses, phone numbers, or URLs.
+* **Checkbox**: a boolean (true/false) value.
+* **File & Media**: attach audio, video, or images to view, play, or download.
+* **Object**: reference to another object, such as a person, task, or document.
 
 ### Managing Properties
 
