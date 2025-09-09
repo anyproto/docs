@@ -10,7 +10,7 @@ For more information about the philosophy behind our membership and its planned 
 
 ## Membership Model & Plans
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 All Members have unrestricted access to the following:
 
@@ -19,7 +19,7 @@ All Members have unrestricted access to the following:
 * Zero-knowledge encryption
 * Unlimited viewers per shared space
 
-**Starter Membership:** Those who have not yet purchased one of our paid memberships. The Starter membership includes:
+**Starter Membership:** Those who have not yet purchased one of our paid memberships. Includes:
 
 * A local, non-unique name
 * 100 MB of Network storage
@@ -27,7 +27,7 @@ All Members have unrestricted access to the following:
 * 3 editors per space
 * Up to 10 MB for Web publishing
 
-**Builder Membership:** Those who choose to purchase a one-year membership at a price of $99. The Builder membership includes:
+**Builder Membership:** Offers a one-year membership for $96 or a monthly option at $10. Includes:
 
 * Global, unique name (from 7+ characters)
 * 128 GB of Network storage
@@ -37,7 +37,7 @@ All Members have unrestricted access to the following:
 * Personalized domain for publishing
 * Priority support
 
-**Co-Creator Membership:** Those who choose to purchase a three-year subscription at a price of $299. The Co-Creator membership includes:
+**Co-Creator Membership:** Those who choose to purchase a three-year subscription at a price of $299. Includes:
 
 * Global, unique name (from 5+ characters)
 * 256 GB of network backup & sync space
@@ -47,7 +47,7 @@ All Members have unrestricted access to the following:
 * Personalized domain for publishing
 * Priority support
 
-**Business Membership:** Those who need more Network space, Editors or Shared Spaces for a custom price. The Business membership includes:
+**Business Membership:** Those who need more Network space, Editors or Shared Spaces for a custom price. Includes:
 
 * Unique names
 * Custom GB of Network space
