@@ -30,7 +30,7 @@
 * [🎬 Movie Database](use-cases/movie-database.md)
 * [✈️ Travel Wiki](use-cases/travel-wiki.md)
 * [🗨️ Language Flashcards](use-cases/language-flashcards.md)
-* [🍛 Recipe Book & Meal Planner](use-cases/meal-planner-recipe-book.md)
+* [🍛 Recipe Book](use-cases/meal-planner-recipe-book.md)
 
 ## 🤖 Advanced
 
@@ -67,9 +67,10 @@
   * [Nightly Ops](advanced/community/nightly-ops.md)
   * [Product Workflow](advanced/community/product-workflow.md)
 * [Help](advanced/help/README.md)
-  * [FAQs](advanced/help/faqs/README.md)
-    * [Any Timeline](advanced/help/faqs/any-timeline.md)
   * [Troubleshooting](advanced/help/troubleshooting/README.md)
     * [AnySync Netcheck Tool](advanced/help/troubleshooting/anysync-netcheck-tool.md)
+  * [FAQs](advanced/help/faqs/README.md)
+    * [Old FAQs](advanced/help/faqs/old-faqs.md)
+    * [Any Timeline](advanced/help/faqs/any-timeline.md)
   * [Beta Migration](advanced/help/migration-from-the-legacy-app.md)
 * [Connect](advanced/connect.md)

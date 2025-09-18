@@ -5,7 +5,6 @@
 3. Attempt the connection outside of corporate networks or similar setups.
 4. Use your mobile device as a Wi-Fi hotspot for your desktop and try connecting through that.
 5. Try to Log in from another device (& network).
-6. If you are having graphical issues, try deleting the GPUCache folder under \~/.config/anytype.
 
 For more specific issues:
 
@@ -32,5 +31,13 @@ Navigate to `Debug > Reconcile` in the top menu bar, and restart the app.
 <summary>What can I do if I don't get asked to choose my anyname after buying a membership?</summary>
 
 Please either type [anytype://main/membership](anytype://main/membership) in your browser or inside Anytype global search, and restart the app.
+
+</details>
+
+<details>
+
+<summary>What to do if I'm having graphical issues?</summary>
+
+Try deleting the GPUCache folder under  `~/.config/anytype`.
 
 </details>

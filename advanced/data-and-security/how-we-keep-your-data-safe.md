@@ -24,7 +24,7 @@ Here are some technical details on encryption and data storage:
 * The second layer is used to encrypt the actual data. We use AES with stream encryption with CFB mode.
 * When you create a new change for an object, we periodically send it to our backup node (with only the first-layer key). More info about sync [here](https://tech.anytype.io/any-sync/overview).
 * Anytype backup nodes have access to the first layer key, so it can group changes for the object and send them in one pack when you want to restore your data.
-* Anytype backup nodes HAVE NO access to the second layer [Broken link](broken-reference "mention"), so it can’t read the actual changes to the data.
+* Anytype backup nodes HAVE NO access to the second layer, so it can’t read the actual changes to the data.
 
 ### Key
 

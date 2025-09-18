@@ -6,7 +6,7 @@ description: A special space just for Anytypers!
 
 {% embed url="https://community.anytype.io/" %}
 
-In our community, you'll find various **categories** and **tags** in which you can find previous posts from others who may have had similar experiences to yours. The various categories include: News & Announcements, General Discussion, How To, Feature Requests, Bug Reports, and Lounge.
+In our community, you'll find various **categories** and **tags** in which you can find previous posts from others who may have had similar experiences to yours.
 
 ### How to Join the Community?
 
@@ -19,8 +19,6 @@ In your desktop app, click the **?** (Help) button in the lower right corner of 
 Alternatively, find the menu bar at the top of the window just below the title bar, and then click on `Help > Report a Bug.`
 
 <figure><img src="../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
-
-Report Bugs
 
 ### Squash that bug!
 
@@ -55,10 +53,6 @@ Are you looking for some help building and using your Anytype? If these docs did
 If you need suggestions of what to build or inspiration from seeing how others are using Antype, you can find an abundance here.&#x20;
 
 This is the place to get some assistance or shout-out if you have questions unrelated to feature requests or bugs!
-
-#### Don't forget Trail Guides!
-
-A resource hub of technical procedures, tutorials, and demos for various aspects of Anytype.
 
 {% embed url="https://community.anytype.io/c/any-help/8" %}
 

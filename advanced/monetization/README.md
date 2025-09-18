@@ -74,3 +74,61 @@ In the future, we will introduce membership discounts for self-hosters. For thos
 ### Want to dig deeper into Memberships?
 
 Check out the [#collaboration](../help/faqs/#collaboration "mention") and [#memberships](../help/faqs/#memberships "mention")FAQs.
+
+## FAQ
+
+### Memberships&#x20;
+
+<details>
+
+<summary>What happens to my shared spaces if I choose not to renew my membership?</summary>
+
+You can choose _not_ to renew your paid membership up to any moment before the membership cycle renews. Please do so by visiting the site of the payment provider you used to pay for your membership (Stripe, App store, Google Play).
+
+**Your global name**
+
+Your name will be released and free for purchase one year or 3 years from when you first purchased your membership, depending on which kind of membership you purchased
+
+**Your spaces**
+
+When you do not renew your membership, all participants of your shared spaces (including yourself) will see a popup notification with two options: _Delete_ or _Export_ the space. Only if participants export the space and re-import it to a new space, will they continue to have access to the space data through Anytype (though changes will no longer be synced).
+
+**Your data**
+
+Encrypted backups of your data will be deleted from the Anytype backup node after 30 days.
+
+</details>
+
+<details>
+
+<summary>What payment methods can I use?</summary>
+
+All major credit cards are accepted. Memberships are priced in USD and will be converted to your local currency using conversion rates on Stripe, if you purchase your membership from the Desktop app.
+
+If you purchase your membership from the iOS or Android apps, payment will be processed by the App Store or Play Store, and prices will be automatically adjusted to your local currency by the respective platform.
+
+</details>
+
+<details>
+
+<summary>What if I want to add additional members to my space?</summary>
+
+In our next iteration of memberships, we will have a tier for B2B and educational use cases, with the option to add up to 20 additional editors per space.
+
+</details>
+
+<details>
+
+<summary>What happens if I exceed the storage &#x26; sync limits?</summary>
+
+Your spaces will stop syncing with each other through the backup node and use local sync/storage only.&#x20;
+
+</details>
+
+<details>
+
+<summary>Is there a student / educational plan?</summary>
+
+We offer a 50% discount to anyone who contacts us at [membership-upgrade@anytype.io](mailto:membership-upgrade@anytype.io) using their university-associated email address.
+
+</details>

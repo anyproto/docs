@@ -1,5 +1,6 @@
 ---
 Description: Here you'll find both pre-built & system Types to help you get started!
+hidden: true
 ---
 
 # All Objects

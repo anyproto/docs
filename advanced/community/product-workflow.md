@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Product Workflow
 
 ### Why we build what we build
