@@ -4,7 +4,7 @@ description: >-
   don't need to fuss over wifi while traveling.
 ---
 
-# ✈️ Travel Wiki
+# Travel Wiki
 
 {% hint style="info" %}
 You can import this use case to your space using this [link](https://gallery.any.coop/?experience=trip_planner).

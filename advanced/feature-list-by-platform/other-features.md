@@ -30,11 +30,11 @@ You can easily add mathematical notation right into your text by wrapping your f
 
 You can count objects in the Grid view and perform simple math and aggregation functions with all types of properties.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Embed Blocks
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Simply type /embed in the editor to pull up a menu of currently supported embeds.
 

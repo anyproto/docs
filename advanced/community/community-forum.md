@@ -1,7 +1,3 @@
----
-description: A special space just for Anytypers!
----
-
 # Forum
 
 {% embed url="https://community.anytype.io/" %}
@@ -18,7 +14,7 @@ In your desktop app, click the **?** (Help) button in the lower right corner of 
 
 Alternatively, find the menu bar at the top of the window just below the title bar, and then click on `Help > Report a Bug.`
 
-<figure><img src="../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Squash that bug!
 

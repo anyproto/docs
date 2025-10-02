@@ -4,7 +4,7 @@ description: >-
   love. Use it for documenting knowledge you collect over the years.
 ---
 
-# 🎬 Movie Database
+# Movie Database
 
 {% hint style="info" %}
 You can import this use case to your space using this [link](https://gallery.any.coop/?experience=movie_database).

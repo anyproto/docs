@@ -4,7 +4,7 @@ description: >-
   to start noticing thought patterns and develop new ideas.
 ---
 
-# ✏️ Daily Notes
+# Daily Notes
 
 {% hint style="info" %}
 You can import this use case to your space using this [link](https://gallery.any.coop/?experience=daily_journal).

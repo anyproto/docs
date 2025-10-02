@@ -1,7 +1,3 @@
----
-description: Types are the classification system we use to categorize Objects
----
-
 # Types
 
 Just as in the physical world, Types are useful for defining Objects which are categorically different from one another.
@@ -28,7 +24,7 @@ You can always view and manage your Types in your Space settings under the Conte
 
 Additionally, each Type has an in-built Query which can be accessed by opening the Type from anywhere in the app.
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Create a New Type
 
@@ -36,16 +32,20 @@ Additionally, each Type has an in-built Query which can be accessed by opening t
 
 In case you think of a new object type just as you're creating an object, you can create a new type on-the-fly. In this case, use the type selection menu in the same way as the search bar in the Types library. The type will be automatically added to your Types library, while you can proceed with editing the object of your new type.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure>
+
+You're also able to create new Types directly from the Objects section:
+
+<figure><img src="../../.gitbook/assets/image (50).png" alt="" width="349"><figcaption></figcaption></figure>
 
 #### Creating Types from Space Settings
 
-Open your [space.md](../install-and-setup/space.md "mention") settings, and navigate to `Content Model > Object Types`. Afterwards, simply click on `New` button to create a new Type.
+Open your [space.md](../vault-and-key/space.md "mention") settings, and navigate to `Content Model > Object Types`. Afterwards, simply click on `New` button to create a new Type.
 
 From here, you can choose a name, layout, and add templates and properties to the newly created Type.
 
-<div><figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 If you've decided that this Type is no longer relevant, you can use the context menu (mouse right-click) to delete the Type from your space. Please proceed with caution; any objects of this type will show an alert if the Type has been removed from your library.
 
-<div><figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure></div>

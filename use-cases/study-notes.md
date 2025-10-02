@@ -4,7 +4,7 @@ description: >-
   and tasks. Link it all together in the graph for richer insights.
 ---
 
-# 🍎 Study Notes
+# Study Notes
 
 {% hint style="info" %}
 You can import this use case to your space using this [link](https://gallery.any.coop/?experience=study_hub).

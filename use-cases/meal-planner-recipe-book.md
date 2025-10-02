@@ -4,9 +4,7 @@ description: >-
   create meal plans that suit your time, taste, and dietary preferences
 ---
 
-# 🍛 Recipe Book & Meal Planner
-
-
+# Recipe Book
 
 {% hint style="info" %}
 You can import this use case to your space using this [link](https://gallery.any.coop/?experience=recipe_book_and_meal_planner).

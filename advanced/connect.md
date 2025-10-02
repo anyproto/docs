@@ -1,7 +1,3 @@
----
-description: We'd love to keep in touch!
----
-
 # Connect
 
 If you have any questions or concerns, please email us at [support@anytype.io](mailto:support@anytype.io).

@@ -12,7 +12,7 @@ If you don't want to use any backup solutions at all, you can use our local-only
 4. Click the “Save” button.
 5. Create a new identity or log in with an existing one.
 
-<figure><img src="../../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 #### Mobile
 

@@ -13,7 +13,7 @@ Directly through the editor by using:
 1. **Block Links.** Type "/" to invoke a command bar, and then look for the `Link to Object` option in the menu. These can appear either as text or as cards.
 2. **Inline Links**. Type @ or \[\[ to invoke the Object picker menu.
 
-<div><figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Link Blocks</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Inline Mentions</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Link Blocks</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Inline Mentions</p></figcaption></figure></div>
 
 With Properties by assigning an Object Property Type in the Object menu.
 
@@ -42,7 +42,7 @@ Some examples:
 
 It's also possible to use `@date` or `/date` to quickly open the date selection menu.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Link aliases
 
@@ -62,7 +62,7 @@ Learn more about [relations.md](../types/relations.md "mention") & the [graph.md
 
 #### Use the Flow
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Another option to check which Objects are linked together can be found in the Flow tab next to the Graph.
 
@@ -70,6 +70,6 @@ On the top, center of your screen you will see the option to toggle to **Flow** 
 
 #### &#x20;Backlinks
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Lastly, you can use the Backlinks relation to check which Objects link to the currently opened one.&#x20;

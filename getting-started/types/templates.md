@@ -1,7 +1,3 @@
----
-description: Building & using templates through types.
----
-
 # Templates
 
 Templates are one of our most-beloved ways to work at Anytype, designed to help you scale and personalize your Object creation flows. With Templates, you can:

@@ -1,7 +1,3 @@
----
-description: A live search of all Objects which share a common Type or Property
----
-
 # Queries
 
 Lots of people compare Queries with databases, but there's a key difference: Queries don't _store_ Objects like regular databases.
@@ -34,11 +30,11 @@ You can use multi-select in Queries to delete multiple Objects at once, or to ba
 
 ### Creating Queries
 
-You can create a Query with the + button from your sidebar or using the / shortcut menu in the editor.
+You can create a new Query with the drop-down button from your sidebar or using the / shortcut menu in the editor.
 
 You'll then need to choose if you want a Query by Type which lets you list all of your Objects of a certain Type, or a Query by Property which will list all Objects that contain the Property of your choosing.&#x20;
 
-<div><figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (48).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (113).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Customizing Your Query
 

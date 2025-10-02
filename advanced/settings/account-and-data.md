@@ -1,24 +1,20 @@
----
-description: Customize your profile, set up additional security, or delete your vault
----
-
 # Vault Settings
 
 You can access your vault settings from one of these 3 places:
 
-<div><figure><img src="../../.gitbook/assets/Captura desde 2024-08-09 11-05-47.png" alt="" width="484"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (57).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (23).png" alt="" width="328"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (25).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Profile
 
 Here you can add your **name, bio,** and **profile picture.** Your profile represents an Object in your Anytype Graph which you can freely link to other Objects.
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Application
 
 ### Preferences
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 #### Appearance
 
@@ -26,15 +22,13 @@ Here you can add your **name, bio,** and **profile picture.** Your profile repre
 
 #### Editor Personalization&#x20;
 
-**Link to object style:** You can decide which style should the /link command use by default (either card or text).
-
 **Open objects in fullscreen:** You can decide whether you want all objects to be opened in fullscreen by default.
 
 #### App Appearance
 
-**Automatically show and hide sidebar:** With this option disabled the sidebar won't automatically pop out when you hover over the left side of the screen.
+**Link to object style:** You can decide which style should the /link command use by default (either card or text).
 
-**Sidebar mode:** Choose if you want your spaces to be shown alongside the widgets in the sidebar.
+**Automatically show and hide sidebar:** With this option disabled the sidebar won't automatically pop out when you hover over the left side of the screen.
 
 **Show Anytype in system tray:** Anytype will always stay running in the background, but you have the option to either have it show in the system tray or not.
 
@@ -42,7 +36,7 @@ Here you can add your **name, bio,** and **profile picture.** Your profile repre
 
 ### Language & Region
 
-<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 #### **Language & Spelling**
 
@@ -70,32 +64,44 @@ We do not store this data so we cannot help you in recovering your vault in the 
 
 ## Vault & Key
 
-### Spaces
+### Login Key
 
-<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-Here you can find a list of all of your space, your access roles and their network status. You can also delete them or stop sharing them by clicking on the three-dot button and choosing either Delete link or Delete.&#x20;
-
-### Data Management
-
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
-
-**Local Files:** You can choose to offload files stored in Anytype to our Anytype Network.
-
-**My Sites:** Here you are able to find and manage all objects that  you've previously published (desktop only).
-
-**Data Location:** You can also decide where your data is stored (desktop only).
+You can access your Key or scan the QR code to connect your mobile device. For more details, please check [key.md](../../getting-started/vault-and-key/key.md "mention").
 
 **Vault Deletion:** Also, if you would like to delete your vault, you can do it in this section.
 
-### Key
-
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
-
-You can access your Key or scan the QR code to connect your mobile device. For more details, please check [Broken link](broken-reference "mention").
-
 ### Membership
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 You can manage your [Membership](../monetization/) plans here.
+
+## Data Management
+
+### Local Storage
+
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+**Local Files:** You can choose to offload files stored in Anytype to our Anytype Network.
+
+**Data Location:** You can also decide where your data is stored (desktop only).
+
+### Spaces
+
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+Here you can find a list of all of your space, your access roles and their network status.
+
+### My Sites
+
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+Here you are able to find and manage all objects that  you've previously published.
+
+### API Keys
+
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+Here you are able to find and manage all API keys that you have you've previously created.

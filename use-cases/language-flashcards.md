@@ -4,7 +4,7 @@ description: >-
   improvised flash-cards & translation spoilers
 ---
 
-# 🗨️ Language Flashcards
+# Language Flashcards
 
 {% hint style="info" %}
 You can import this use case to your space using this [link](https://gallery.any.coop/?experience=language_flashcards).

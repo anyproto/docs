@@ -10,11 +10,11 @@ For assistance with this CSS guide or CSS in general, please comment in the orig
 
 To enable the Custom CSS style sheet, go to `Menu > File > Apply Custom CSS`.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To edit the custom CSS file, go to `Menu > File > Open > Custom CSS`.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### How <a href="#how-2" id="how-2"></a>
 

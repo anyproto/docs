@@ -1,7 +1,3 @@
----
-description: Let's discover what Objects are, and how to use them to optimize your work.
----
-
 # Objects
 
 ### What is an Object?
@@ -30,7 +26,7 @@ When clicking the plus button, you’ll immediately create a new object with the
 
 When clicking the arrow button, you'll be presented with a menu of your types which you can sort to your liking. You can then choose which one you want to create.
 
-<div><figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (54).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (55).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 #### Command Menu
 
@@ -51,30 +47,30 @@ Additionally, you can use `Cmd / Ctrl + Opt / Alt + N` to perform the same actio
 If you are working on something in an existing Object and would like to transform only a certain block into an Object, you can do that through the action menu by either:
 
 1. Hovering to the left side of the block that you are working on and clicking the 3 dots.
-2. Using the `Cmd / Ctrl + /` keyboard shortcut.
+2. Using the `Cmd / Ctrl + /`  keyboard shortcut.
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="563"><figcaption><p>Action menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1).png" alt="" width="563"><figcaption><p>Action menu</p></figcaption></figure>
 
 ### Locating Your Objects
 
-#### All Objects
+#### Sidebar
 
-To see all of the objects you've created in your space, you can use the [anytype-library.md](../customize-and-edit-the-sidebar/anytype-library.md "mention") system widget.
+You can now locate all your types and, by extension, all your objects directly in the sidebar.
 
-<div><figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/image (51).png" alt="" width="349"><figcaption></figcaption></figure>
 
 #### Graph
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt="" width="375"><figcaption></figcaption></figure>
-
 To find all of your objects and how they are connected, you can look to the [graph.md](../../advanced/feature-list-by-platform/graph.md "mention") for your main source of truth.
+
+<figure><img src="../../.gitbook/assets/image (53).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Search
 
 To navigate to the search, either head to your sidebar, and click on the search button or use the `Cmd / Ctrl + K` keyboard shortcut.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt="" width="323"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Bin
 
-If you've previously removed some objects from your [space.md](../install-and-setup/space.md "mention"), they will appear in your [finding-your-objects.md](../../advanced/data-and-security/data-storage-and-deletion/finding-your-objects.md "mention") unless you've already permanently deleted them.
+If you've previously removed some objects from your [space.md](../vault-and-key/space.md "mention"), they will appear in your [finding-your-objects.md](../../advanced/data-and-security/data-storage-and-deletion/finding-your-objects.md "mention") unless you've already permanently deleted them.

@@ -1,7 +1,3 @@
----
-description: All about memberships & pricing for the Anytype Network
----
-
 # Memberships
 
 Our memberships are designed to reflect the same core principles that have always guided Anytype’s development: unrestricted access to our software and an open ecosystem where contributions are fairly rewarded.
@@ -73,7 +69,7 @@ In the future, we will introduce membership discounts for self-hosters. For thos
 
 ### Want to dig deeper into Memberships?
 
-Check out the [#collaboration](../help/faqs/#collaboration "mention") and [#memberships](../help/faqs/#memberships "mention")FAQs.
+Check out the [#collaboration](../faqs.md#collaboration "mention") and [#memberships](../faqs.md#memberships "mention")FAQs.
 
 ## FAQ
 

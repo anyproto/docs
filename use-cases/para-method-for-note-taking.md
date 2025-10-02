@@ -4,7 +4,7 @@ description: >-
   brain.
 ---
 
-# 🧠 PARA Method
+# PARA Method
 
 {% hint style="info" %}
 You can import this use case to your space using this [link](https://gallery.any.coop/?experience=para_lite).

@@ -32,7 +32,7 @@ We currently offer support for importing the following:
 
 After your import is done, a new collection should appear in your pinned widget in your sidebar. All of your imported objects should be there.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="324"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="324"><figcaption></figcaption></figure>
 
 You will also be asked which objects from your imported files you want to add to your Pinned section:
 

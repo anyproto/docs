@@ -1,9 +1,3 @@
----
-description: >-
-  A folder-like structure where you can visualize and batch edit objects of any
-  type
----
-
 # Collections
 
 Collections can be used to organize a variety of different objects and store them in one place.
@@ -24,7 +18,7 @@ The main difference between Queries and Collections is that Queries draw Objects
 
 To add new Objects to a Collection, simply click on the New buttons either in the top right corner or at the bottom of a collection.
 
-<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 To add an existing Object to a Collection while in the collection view, you can hover over the Existing object menu option under the arrow menu.
 
@@ -32,4 +26,4 @@ To add an existing Object to a Collection while in the collection view, you can 
 
 To add an existing Object to a Collection outside of the collection view, you can use the Add to Collection menu option from the object menu.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

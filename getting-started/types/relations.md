@@ -22,7 +22,7 @@ While editing any [Type in your Space settings](./#creating-types-from-space-set
 
 #### Creating Properties from Space Settings
 
-Open your [space.md](../install-and-setup/space.md "mention") settings, and navigate to `Content Model > Properties`. Afterwards, simply click on `New` button to create a new Property.
+Open your [space.md](../vault-and-key/space.md "mention") settings, and navigate to `Content Model > Properties`. Afterwards, simply click on `New` button to create a new Property.
 
 From here, you can choose a name and a type for your new Property.
 
