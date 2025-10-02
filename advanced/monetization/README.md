@@ -6,50 +6,34 @@ For more information about the philosophy behind our membership and its planned 
 
 ## Membership Model & Plans
 
-<figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-All Members have unrestricted access to the following:
+**Free Membership:**
 
-* Unlimited local storage
-* P2P synchronization
-* Zero-knowledge encryption
-* Unlimited viewers per shared space
+* 100 MB of remote storage
+* 10 shared spaces
+* Unlimited private spaces
 
-**Starter Membership:** Those who have not yet purchased one of our paid memberships. Includes:
+**Plus Membership:**
 
-* A local, non-unique name
-* 100 MB of Network storage
-* 3 shared spaces
-* 3 editors per space
-* Up to 10 MB for Web publishing
+* 1 GB of remote storage
+* Unlimited shared spaces
+* Unlimited private spaces
+* .any name 9+ symbols
 
-**Builder Membership:** Offers a one-year membership for $96 or a monthly option at $10. Includes:
+**Pro:**
 
-* Global, unique name (from 7+ characters)
-* 128 GB of Network storage
-* 3 shared spaces
-* 10 editors per shared space
-* Up to 100 MB for Web publishing
-* Personalized domain for publishing
-* Priority support
+* 10 GB of remote storage
+* Unlimited shared spaces
+* Unlimited private spaces
+* .any name 7+ symbols
 
-**Co-Creator Membership:** Those who choose to purchase a three-year subscription at a price of $299. Includes:
+**Ultra:**
 
-* Global, unique name (from 5+ characters)
-* 256 GB of network backup & sync space
-* 3 shared spaces
-* 10 editors per shared space
-* Up to 100 MB for Web publishing
-* Personalized domain for publishing
-* Priority support
-
-**Business Membership:** Those who need more Network space, Editors or Shared Spaces for a custom price. Includes:
-
-* Unique names
-* Custom GB of Network space
-* Any number of Editors or Shared spaces
-* Priority support
-* Custom MB for Web publishing
+* 100 GB of remote storage
+* Unlimited shared spaces
+* Unlimited private spaces
+* .any name 5+ symbols
 
 ## Pricing for Contributors
 
