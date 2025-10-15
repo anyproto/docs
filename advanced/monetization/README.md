@@ -37,11 +37,7 @@ For more information about the philosophy behind our membership and its planned 
 
 ## Pricing for Contributors
 
-Those who are active contributors to our codebase, gallery, tutorials, and community will have a one-year Builder membership subsidized. Active contributions are defined as 2+ contributions in the past year. You can check the status of your contributions [here](https://github.com/anyproto/contributors/blob/main/contributors.json).
-
-Other contributors, who have not met the threshold of 2 contributions per year, can purchase a one-year Builder Plan at 50% discount.
-
-To request your contributor's discount code, please email us at [association@anytype.io](mailto:association@anytype.io).&#x20;
+We offer a 50% discount to active contributors to our codebase, gallery, tutorials, and community. Email us at [association@anytype.io](mailto:association@anytype.io) to receive your discount.
 
 If you believe that your contribution status is incorrect, please write us at [association@anytype.io](mailto:association@anytype.io).
 
