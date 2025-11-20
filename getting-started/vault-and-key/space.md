@@ -18,4 +18,4 @@ To create a new space, simply click on the plus button at the bottom of the list
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt="" width="333"><figcaption></figcaption></figure>
 
-If you would like to customize or delete your space, please take a look at[space-settings.md](../../advanced/settings/space-settings.md "mention").
+If you would like to customize or delete your space, please take a look at [space-settings.md](../../advanced/settings/space-settings.md "mention").
