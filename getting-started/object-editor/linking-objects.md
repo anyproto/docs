@@ -72,4 +72,4 @@ On the top, center of your screen you will see the option to toggle to **Flow** 
 
 <figure><img src="../../.gitbook/assets/image (20) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Lastly, you can use the Backlinks relation to check which Objects link to the currently opened one.&#x20;
+Lastly, you can use the Backlinks property to check which Objects link to the currently opened one.&#x20;
