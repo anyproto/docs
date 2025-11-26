@@ -18,7 +18,7 @@ Colleagues, friends, and neighbors might all be considered type: _Human_ in your
 * Movie
 * Idea
 
-It's up to you how narrow or broad you'd like your Types to be, but generally we recommend using general Types for categorizing your Objects, and further refining the use of your Types through [Templates](broken-reference).
+It's up to you how narrow or broad you'd like your Types to be, but generally we recommend using general Types for categorizing your Objects, and further refining the use of your Types through [templates.md](templates.md "mention").
 
 You can always view and manage your Types in your Space settings under the Content model section [#object-types](../../advanced/settings/space-settings.md#object-types "mention")
 

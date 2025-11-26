@@ -13,7 +13,7 @@ There are three ways to add a Template:
 
 1\) Navigate to `Space > Content Model > Object Types` → Click the Type for which you'd like to create a Template → Click on Templates in the top right corner → Click + to start creating a new template → Give your Template a name and start adding Properties and formatting → Your Template is auto-saved
 
-<div><figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (165) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 You can also manage templates directly from the Edit Type menu, accessible from every object.
 

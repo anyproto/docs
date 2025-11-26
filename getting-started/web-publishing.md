@@ -1,6 +1,6 @@
 # Publish
 
-You can now publish Objects as static web pages (HTTPS links) on your personal subdomain if you have \*any name. These pages are uploaded to our servers as unencrypted HTML files.&#x20;
+You can now publish Objects as static web pages (HTTPS links) on your personal subdomain if you have an ANY ID. These pages are uploaded to our servers as unencrypted HTML files.
 
 This is an early version— linked Objects, and blocks like Queries and Collections aren’t supported yet. Multi-page publishing and other enhancements are on the way, and we’d love your feedback to guide these improvements.
 

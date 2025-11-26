@@ -9,6 +9,7 @@
   * [Key](getting-started/vault-and-key/key.md)
   * [Spaces](getting-started/vault-and-key/space.md)
   * [Chats](getting-started/vault-and-key/chats.md)
+  * [Chats in spaces?](getting-started/vault-and-key/chats-in-spaces.md)
 * [Objects](getting-started/object-editor/README.md)
   * [Blocks](getting-started/object-editor/blocks.md)
   * [Links](getting-started/object-editor/linking-objects.md)

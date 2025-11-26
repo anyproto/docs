@@ -26,7 +26,7 @@ Or if you are wondering what are the differences between Evernote and Anytype, c
 #### Implemented
 
 * Calendar - [0.36.0](https://community.anytype.io/t/anytype-desktop-0-36-0-released/12198)
-* Webclipper - 0.39.0 ([Chrome](https://chromewebstore.google.com/detail/anytype-web-clipper/jbnammhjiplhpjfncnlejjjejghimdkf?hl=en))
+* Webclipper - 0.39.0 (available for [Chrome](https://chromewebstore.google.com/detail/anytype-web-clipper/jbnammhjiplhpjfncnlejjjejghimdkf?hl=en) and Firefox soon)
 * [Collaboration](../../getting-started/collaboration.md) - [0.40.0](https://community.anytype.io/t/anytype-desktop-0-40-0-multiplayer-released/20219)
 * [Inline Latex](../../getting-started/object-editor/blocks.md#inline-latex) - [0.42.0](https://community.anytype.io/t/anytype-desktop-0-42-0-released/22993#p-83725-inline-latex-scientist-5)
 * [#simple-formulas-calculations](other-features.md#simple-formulas-calculations "mention") - [0.44.0](https://community.anytype.io/t/anytype-desktop-0-44-0-released/25865)

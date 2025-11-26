@@ -19,21 +19,21 @@ For more information about the philosophy behind our membership and its planned 
 * 1 GB of remote storage
 * Unlimited shared spaces
 * Unlimited private spaces
-* .any name 9+ symbols
+* ANY ID (9+ symbols)
 
 **Pro:**
 
 * 10 GB of remote storage
 * Unlimited shared spaces
 * Unlimited private spaces
-* .any name 7+ symbols
+* ANY ID (7+ symbols)
 
 **Ultra:**
 
 * 100 GB of remote storage
 * Unlimited shared spaces
 * Unlimited private spaces
-* .any name 5+ symbols
+* ANY ID (5+ symbols)
 
 ## Pricing for Contributors
 
@@ -53,7 +53,7 @@ Check out the [#collaboration](../faqs.md#collaboration "mention") and [#members
 
 ## FAQ
 
-### Memberships&#x20;
+### Memberships
 
 <details>
 
@@ -97,7 +97,7 @@ In our next iteration of memberships, we will have a tier for B2B and educationa
 
 <summary>What happens if I exceed the storage &#x26; sync limits?</summary>
 
-Your spaces will stop syncing with each other through the backup node and use local sync/storage only.&#x20;
+Your spaces will stop syncing with each other through the backup node and use local sync/storage only.
 
 </details>
 

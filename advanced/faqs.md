@@ -4,7 +4,7 @@
 
 <summary>How to recover my Key from my OS key storage manager?</summary>
 
-#### Mac
+**Mac**
 
 If you’re using a Mac, Anytype’s default setting is to store your key in the native Keychain Access app. It doesn’t get stored anywhere else. Whether your passwords are backed up to iCloud depends if you have that option enabled in your settings. You can check [Apple’s support page](https://support.apple.com/en-us/HT204085) for more information on iCloud password backups.
 
@@ -19,11 +19,11 @@ If you logged in with your key on your mac, then you can find it here:
 5. Find & open your Anytype instance in the list
 6. Check the “Show password” box to reveal your key
 
-#### Windows
+**Windows**
 
 Your key is stored in the [Credentials Manager](https://support.microsoft.com/en-us/windows/accessing-credential-manager-1b5c916a-6a16-889f-8581-fc16e8165ac0). If you are unable to read a password via the Credential Manager (Show button is missing), you can use [this PowerShell script](https://gist.github.com/requilence/de8da32adc44d4786559789debb3bf88). Save it to your computer, right-click in the File Explorer and press "Run with PowerShell".
 
-#### Linux
+**Linux**
 
 You can use [seahorse](https://wiki.gnome.org/Apps/Seahorse/) to find your key if you are using [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring).
 
@@ -47,7 +47,7 @@ We use the [**BIP39**](https://medium.com/coinmonks/mnemonic-generation-bip39-si
   * macOS 12 Monterey and up
   * 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.5+, or Fedora Linux 39+
 * For Android (if installed through Google Play), it's Android 8.0 and a 64-bit device with a minimum of 4GB of RAM.
-* For iOS, it's iOS 16.
+* For iOS, it's iOS 17.
 
 </details>
 
@@ -129,7 +129,7 @@ You can still open any Anytype links by simply pasting them in the global search
 
 You can use the orange 'handle' to the left of each block to create parent/child blocks or new columns in your editor by dragging and dropping them.
 
-<div><figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (69) (2).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 

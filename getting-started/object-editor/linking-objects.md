@@ -13,7 +13,7 @@ Directly through the editor by using:
 1. **Block Links.** Type "/" to invoke a command bar, and then look for the `Link to Object` option in the menu. These can appear either as text or as cards.
 2. **Inline Links**. Type @ or \[\[ to invoke the Object picker menu.
 
-<div><figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Link Blocks</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Inline Mentions</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (16) (1) (2).png" alt=""><figcaption><p>Link Blocks</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Inline Mentions</p></figcaption></figure></div>
 
 With Properties by assigning an Object Property Type in the Object menu.
 
@@ -46,7 +46,7 @@ It's also possible to use `@date` or `/date` to quickly open the date selection 
 
 #### Link aliases
 
-You can use regular links to link to a specific object in your space using a different name.&#x20;
+You can use regular links to link to a specific object in your space using a different name.
 
 1. Write the name of your link first.
 2. Select the name and press `Cmd / Ctrl + Shift + K`.
@@ -68,8 +68,8 @@ Another option to check which Objects are linked together can be found in the Fl
 
 On the top, center of your screen you will see the option to toggle to **Flow** view. This will show you which Object is linked before and after the current Object you are viewing.
 
-#### &#x20;Backlinks
+#### Backlinks
 
 <figure><img src="../../.gitbook/assets/image (20) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Lastly, you can use the Backlinks property to check which Objects link to the currently opened one.&#x20;
+Lastly, you can use the Backlinks property to check which Objects link to the currently opened one.

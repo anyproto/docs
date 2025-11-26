@@ -9,7 +9,7 @@ We imagine a world where our fundamental digital freedoms are sacred: the privac
 We believe that these freedoms are as important to the world of bits, as fundamental human rights are to the world of atoms.
 
 {% hint style="info" %}
-### We’re building an alternative for those who value freedom and trust — for ourselves.
+#### We’re building an alternative for those who value freedom and trust — for ourselves.
 {% endhint %}
 
 The current web and much of the software we use do not respect these digital freedoms. In the architecture of the current web, application developers are the keepers of our keys; they control the keys to users’ accounts.
@@ -25,7 +25,7 @@ Cooperation is our superpower - our remarkable ability to advance our knowledge 
 We believe that tools for thought, freedom, and trust are what have enabled us to create all the art, science, technologies, devices, and structures we see around us. They allowed us to build cities and reach for the stars.
 
 {% hint style="info" %}
-### Our mission is to empower sustainable cooperation by building tools for thought, freedom and trust.
+#### Our mission is to empower sustainable cooperation by building tools for thought, freedom and trust.
 {% endhint %}
 
 To achieve this level of cooperation, we mastered language. Language was a tool for thought that allowed us to create stories, some of which are social innovations - powerful inter-subjective realities that exist only when enough people believe in them. Humans found a way to use these stories to build trust and freedom at the same time. To achieve greater cooperation, we need both. If we have trust but lack freedom, it results in a dictatorship; if we have a lot of freedom but lack trust, it leads to anarchy.
