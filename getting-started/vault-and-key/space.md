@@ -6,7 +6,7 @@ Similar to vault, space is an encrypted container. Unlike your Vault - each spac
 
 You’re able to create multiple separate spaces, each with their own graph of objects, sidebar, and privacy settings.
 
-<figure><img src="../../.gitbook/assets/space.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 It's currently impossible to recover deleted spaces unless you've previously exported them, so be careful when deleting them.

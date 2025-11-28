@@ -4,9 +4,9 @@ Anytype is an **encrypted, local-first alternative** to the cloud-based Internet
 
 With Anytype, you can build digital [space.md](getting-started/vault-and-key/space.md "mention") around your interests. These spaces can be personal - for diaries, ideas and drafts, or shared - with your family, small communities, teams, neighbors and people with similar interests.
 
-You can now also connect through [chats.md](getting-started/vault-and-key/chats.md "mention"), which make it easy to hold conversations inside your spaces. Chats live alongside your notes, documents, and media, so discussions stay private and contextually linked to the things you care about.
+You can now also connect through [chats.md](getting-started/chats.md "mention"), which make it easy to hold conversations inside your spaces. Chats live alongside your notes, documents, and media, so discussions stay private and contextually linked to the things you care about.
 
-<figure><img src=".gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 Unlike cloud applications, Anytype puts the control of encryption keys firmly in your hands, so you own your data and your social graph. Spaces you create are local first - they can be created offline and can sync peer-to-peer in local networks.
 

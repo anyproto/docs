@@ -2,31 +2,31 @@
 
 ### What is an Object?
 
-Forget what you already know about knowledge management tools.&#x20;
+Forget what you already know about knowledge management tools.
 
-At Anytype we have created the concept that everything you create is an Object. Pages, Notes, Recipes, Books, Movies, Audio, Humans, _everything!_&#x20;
+At Anytype we have created the concept that everything you create is an Object. Pages, Notes, Recipes, Books, Movies, Audio, Humans, _everything!_
 
-These are all **Objects** that are organized and categorized by **Types**.&#x20;
+These are all **Objects** that are organized and categorized by **Types**.
 
 You can connect different **Types** by **Properties** and see how this is visualized on the **Graph**.
 
-You will see in your **Settings** that you can create new Types.&#x20;
+You will see in your **Settings** that you can create new Types.
 
-In short, an Object is a generalizing term for what you are creating. If it is a page, note, or other Type that you have created.&#x20;
+In short, an Object is a generalizing term for what you are creating. If it is a page, note, or other Type that you have created.
 
-The Object will be organized by the Type of object that it is. &#x20;
+The Object will be organized by the Type of object that it is.
 
-It is any node in your graph. The smallest linkable unit. Still classified with types. &#x20;
+It is any node in your graph. The smallest linkable unit. Still classified with types.
 
 ### Ways to Create Objects
 
 #### Sidebar
 
-When clicking the plus button, you’ll immediately create a new object with the type that is set as your default object type in your space settings.&#x20;
+When clicking the plus button, you’ll immediately create a new object with the type that is set as your default object type in your space settings.
 
 When clicking the arrow button, you'll be presented with a menu of your types which you can sort to your liking. You can then choose which one you want to create.
 
-<div><figure><img src="../../.gitbook/assets/image (54).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (55).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Command Menu
 
@@ -47,7 +47,7 @@ Additionally, you can use `Cmd / Ctrl + Opt / Alt + N` to perform the same actio
 If you are working on something in an existing Object and would like to transform only a certain block into an Object, you can do that through the action menu by either:
 
 1. Hovering to the left side of the block that you are working on and clicking the 3 dots.
-2. Using the `Cmd / Ctrl + /`  keyboard shortcut.
+2. Using the `Cmd / Ctrl + /` keyboard shortcut.
 
 <figure><img src="../../.gitbook/assets/image (34) (1).png" alt="" width="563"><figcaption><p>Action menu</p></figcaption></figure>
 
@@ -55,9 +55,9 @@ If you are working on something in an existing Object and would like to transfor
 
 #### Sidebar
 
-You can now locate all your types and, by extension, all your objects directly in the sidebar.
+You can now find all your objects in the sidebar, grouped by type.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt="" width="349"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 #### Graph
 
@@ -67,7 +67,7 @@ To find all of your objects and how they are connected, you can look to the [gra
 
 #### Search
 
-To navigate to the search, either head to your sidebar, and click on the search button or use the `Cmd / Ctrl + K` keyboard shortcut.&#x20;
+To navigate to the search, either head to your sidebar, and click on the search button or use the `Cmd / Ctrl + K` keyboard shortcut.
 
 <figure><img src="../../.gitbook/assets/image (56).png" alt="" width="375"><figcaption></figcaption></figure>
 
