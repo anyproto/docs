@@ -1,5 +1,7 @@
 # Chats
 
+### Chat as a Channel
+
 Chat is a new type of channel in Anytype, designed for fast, conversational flow.
 
 <figure><img src="../.gitbook/assets/chat.png" alt=""><figcaption></figcaption></figure>
@@ -34,3 +36,15 @@ The Chats Type Widget works like any other widget: you can pin it to your Sideba
 Right-click any Chat Object, or use the three-dots menu inside a chat window to open preferences and choose _Enable all_, _Mentions only_, or _Disable all_.
 
 <figure><img src="https://anytype-static.fra1.cdn.digitaloceanspaces.com/img/help/51/4.png?v=0.51.12-alpha" alt=""><figcaption></figcaption></figure>
+
+### Direct Channels
+
+Sometimes you just need to talk to one person. Privately.
+
+Direct Channel is a one-on-one connection between two members, where both participants have equal access: no admin, no hierarchy. Just a place for quick check-ins, sharing an object, or whispering memes in the middle of a project. It’s simple, it’s lightweight, and it just works.
+
+<figure><img src="https://anytype-static.fra1.cdn.digitaloceanspaces.com/img/help/52/2.png?v=0.51.39-alpha" alt=""><figcaption></figcaption></figure>
+
+To start a new direct channel, simply click on someone's profile and select 'Send message':
+
+<figure><img src="../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
