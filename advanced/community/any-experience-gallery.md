@@ -2,7 +2,7 @@
 
 ### Installing Experiences from the Gallery
 
-To make browsing and installing experiences easier, the Experience Gallery has now been added to Anytype. Open your spaces navigation tab, tap ‘Gallery’, and install the experience of your choice.
+To make browsing and installing experiences easier, the Experience Gallery has now been added to Anytype. Open your channels navigation tab, tap ‘Gallery’, and install the experience of your choice.
 
 Alternatively, you can open the Gallery in your browser by clicking on the link below:
 
@@ -10,17 +10,17 @@ Alternatively, you can open the Gallery in your browser by clicking on the link 
 
 ### Creating and sharing with others
 
-We’re excited to introduce the [Gallery](https://gallery.any.coop/) – a way for you to share your ANY Experience with other users. We’re sure you’re proud of your setups for knowledge management, task tracking, studying approaches, and so on. This is your chance to share your setups with the community so they can get the most out of  Anytype!
+We’re excited to introduce the [Gallery](https://gallery.any.coop/) – a way for you to share your ANY Experience with other users. We’re sure you’re proud of your setups for knowledge management, task tracking, studying approaches, and so on. This is your chance to share your setups with the community so they can get the most out of Anytype!
 
 To create and share your own ANY Experience, follow these steps (you will need a Github account for this):
 
-1. Create  a new space which includes only the types, properties, widgets, templates, and objects you want to share. This will avoid accidental sharing of sensitive data from your primary space. Please note: the name and icon of this new space will be displayed for everyone who will install your ANY experience.
-2. When the space is ready, export it in Any-Block JSON format. Click on the space name in the top-left corner, click “Export Space”, choose “Any-Block” option and set up following export settings:
+1. Create a new channel which includes only the types, properties, widgets, templates, and objects you want to share. This will avoid accidental sharing of sensitive data from your primary channel. Please note: the name and icon of this new channel will be displayed for everyone who will install your ANY experience.
+2. When the channel is ready, export it in Any-Block JSON format. Click on the channel name in the top-left corner, click “Export Channel”, choose “Any-Block” option and set up following export settings:
    1. File format – JSON,
    2. Turn on “Zip archive”
    3. Turn on “Include files”
 3. Make one or several screenshots which show important features of your ANY experience. Save these screenshots in .png format.
-4. Now, having created an exported space and screenshots, you can upload them to the Gallery. Explore existing Experiences in the [Gallery](https://gallery.any.coop/) to get examples of naming, descriptions, and screenshots. Then, please login to Github, follow [this link](https://github.com/anyproto/gallery/issues/new?assignees=\&labels=experience\&projects=\&template=new_experience.yml) to create a request and fill the form:
+4. Now, having created an exported channel and screenshots, you can upload them to the Gallery. Explore existing Experiences in the [Gallery](https://gallery.any.coop/) to get examples of naming, descriptions, and screenshots. Then, please login to Github, follow [this link](https://github.com/anyproto/gallery/issues/new?assignees=\&labels=experience\&projects=\&template=new_experience.yml) to create a request and fill the form:
    1. Give a title to the request
    2. Drag and drop exported Zip archive to the “Experience” field
    3. Write a title for your experience in the “Title” field; it should be unique, pretty short, and written in English

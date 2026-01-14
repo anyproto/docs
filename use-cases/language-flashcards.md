@@ -7,7 +7,7 @@ description: >-
 # Language Flashcards
 
 {% hint style="info" %}
-You can import this use case to your space using this [link](https://gallery.any.coop/?experience=language_flashcards).
+You can import this use case to your channel using this [link](https://gallery.any.coop/?experience=language_flashcards).
 {% endhint %}
 
 <div><figure><img src="../.gitbook/assets/screenshot-1 (5).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshot-2 (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshot-3 (1).png" alt=""><figcaption></figcaption></figure></div>

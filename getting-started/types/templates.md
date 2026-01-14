@@ -11,7 +11,7 @@ Templates are saved on the Type level, and each Type can support multiple Templa
 
 There are three ways to add a Template:
 
-1\) Navigate to `Space > Content Model > Object Types` → Click the Type for which you'd like to create a Template → Click on Templates in the top right corner → Click + to start creating a new template → Give your Template a name and start adding Properties and formatting → Your Template is auto-saved
+1\) Navigate to `Channel > Content Model > Object Types` → Click the Type for which you'd like to create a Template → Click on Templates in the top right corner → Click + to start creating a new template → Give your Template a name and start adding Properties and formatting → Your Template is auto-saved
 
 <div><figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (165) (1).png" alt=""><figcaption></figcaption></figure></div>
 

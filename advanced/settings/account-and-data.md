@@ -20,7 +20,7 @@ Here you can add your **name, bio,** and **profile picture.** Your profile repre
 
 **Set color mode:** Choose between light, dark or auto color modes.
 
-#### Editor Personalization&#x20;
+#### Editor Personalization
 
 **Open objects in fullscreen:** You can decide whether you want all objects to be opened in fullscreen by default.
 
@@ -88,17 +88,17 @@ You can manage your [Membership](../monetization/) plans here.
 
 **Data Location:** You can also decide where your data is stored (desktop only).
 
-### Spaces
+### Channels
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-Here you can find a list of all of your space, your access roles and their network status.
+Here you can find a list of all of your channel, your access roles and their network status.
 
 ### My Sites
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-Here you are able to find and manage all objects that  you've previously published.
+Here you are able to find and manage all objects that you've previously published.
 
 ### API Keys
 

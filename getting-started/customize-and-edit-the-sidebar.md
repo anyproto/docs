@@ -2,7 +2,7 @@
 
 Your sidebar is divided into three sections:
 
-Your Space widget, which includes the Search button, Members button, and Settings button.
+Your channel widget, which includes the Search button, Members button, and Settings button.
 
 <figure><img src="../.gitbook/assets/image (240).png" alt="" width="331"><figcaption></figcaption></figure>
 

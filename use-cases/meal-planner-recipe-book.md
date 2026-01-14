@@ -7,7 +7,7 @@ description: >-
 # Recipe Book
 
 {% hint style="info" %}
-You can import this use case to your space using this [link](https://gallery.any.coop/?experience=recipe_book_and_meal_planner).
+You can import this use case to your channel using this [link](https://gallery.any.coop/?experience=recipe_book_and_meal_planner).
 {% endhint %}
 
 <div><figure><img src="../.gitbook/assets/screenshot-1 (6).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshot-2 (5).png" alt=""><figcaption></figcaption></figure></div>

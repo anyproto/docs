@@ -22,7 +22,7 @@ It is any node in your graph. The smallest linkable unit. Still classified with 
 
 #### Sidebar
 
-When clicking the plus button, you’ll immediately create a new object with the type that is set as your default object type in your space settings.
+When clicking the plus button, you’ll immediately create a new object with the type that is set as your default object type in your channel settings.
 
 When clicking the arrow button, you'll be presented with a menu of your types which you can sort to your liking. You can then choose which one you want to create.
 

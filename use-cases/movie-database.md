@@ -7,7 +7,7 @@ description: >-
 # Movie Database
 
 {% hint style="info" %}
-You can import this use case to your space using this [link](https://gallery.any.coop/?experience=movie_database).
+You can import this use case to your channel using this [link](https://gallery.any.coop/?experience=movie_database).
 {% endhint %}
 
 <div><figure><img src="../.gitbook/assets/screenshot-1 (3).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshot-2 (2).png" alt=""><figcaption></figcaption></figure></div>

@@ -13,7 +13,7 @@ The domains we use for our Anytype network are:
 
 ### How to switch back to Anytype network
 
-We strongly recommend using dedicated identities for each network. If you are switching from a Self-hosted network, export all your spaces, and import them into a new identity after switching the network mode.
+We strongly recommend using dedicated identities for each network. If you are switching from a Self-hosted network, export all your channels, and import them into a new identity after switching the network mode.
 
 Please note that all your devices should be manually switched to Anytype Network mode.
 
@@ -31,7 +31,7 @@ Please note that all your devices should be manually switched to Anytype Network
 
 1. Log out from your current identity.
 2. On the onboarding screen, click a gear icon in the top right corner.
-3. Click on “Anytype” in the “Networks” sub-menu.&#x20;
+3. Click on “Anytype” in the “Networks” sub-menu.
 4. Create a new identity or log in an existing one.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_20240411-104810_Anytype2.png" alt="" width="375"><figcaption></figcaption></figure>

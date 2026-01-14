@@ -7,7 +7,7 @@ description: >-
 # PARA Method
 
 {% hint style="info" %}
-You can import this use case to your space using this [link](https://gallery.any.coop/?experience=para_lite).
+You can import this use case to your channel using this [link](https://gallery.any.coop/?experience=para_lite).
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/screenshot-1.png" alt=""><figcaption></figcaption></figure>

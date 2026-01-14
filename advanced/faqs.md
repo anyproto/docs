@@ -159,9 +159,9 @@ This issue is usually resolved by adding a space at the end after pasting your k
 
 <details>
 
-<summary>Can guests of my space use Anytype from local-only mode?</summary>
+<summary>Can guests of my channel use Anytype from local-only mode?</summary>
 
-Unless they are all part of the same local network, guests will need to be connected to the Anytype network in order to see all changes in the space.
+Unless they are all part of the same local network, guests will need to be connected to the Anytype network in order to see all changes in the channel.
 
 </details>
 
@@ -187,6 +187,6 @@ Unless they are all part of the same local network, guests will need to be conne
 
 <summary>Why do I have an Entry Space?</summary>
 
-Vaults created before version 0.44.0 have an Entry Space. You are free to delete this space if no longer needed, or you can migrate your data to a different space by using the [import-export](data-and-security/import-export/ "mention") feature.
+Vaults created before version 0.44.0 have an Entry Space. You are free to delete this channel if no longer needed, or you can migrate your data to a different channel by using the [import-export](data-and-security/import-export/ "mention") feature.
 
 </details>

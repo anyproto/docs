@@ -12,7 +12,7 @@ Furthermore, we use the deduplication feature to reduce storage. For example, if
 
 You can remove all the media content from your mobile device via the clear cache option in iOS and Android. This will remove all the data altogether and force the app to sync once again entirely. Since the media download works on-premise, you will remove all cached media and clear some storage.
 
-You can also manage your files on desktop by going into `Space settings -> Manage Space -> Manage files`.
+You can also manage your files on desktop by going into `Channel settings -> Manage Channel -> Manage files`.
 
 {% hint style="info" %}
 Files are stored inside `flatfs dir` in encrypted fragments, so they can’t be accessed outside of Anytype.

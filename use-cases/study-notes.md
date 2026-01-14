@@ -7,7 +7,7 @@ description: >-
 # Study Notes
 
 {% hint style="info" %}
-You can import this use case to your space using this [link](https://gallery.any.coop/?experience=study_hub).
+You can import this use case to your channel using this [link](https://gallery.any.coop/?experience=study_hub).
 {% endhint %}
 
 <div><figure><img src="../.gitbook/assets/screenshot-1 (2).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshot-2 (1).png" alt=""><figcaption></figcaption></figure></div>

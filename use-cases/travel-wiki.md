@@ -7,7 +7,7 @@ description: >-
 # Travel Wiki
 
 {% hint style="info" %}
-You can import this use case to your space using this [link](https://gallery.any.coop/?experience=trip_planner).
+You can import this use case to your channel using this [link](https://gallery.any.coop/?experience=trip_planner).
 {% endhint %}
 
 <div><figure><img src="../.gitbook/assets/screenshot-1 (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshot-2 (3).png" alt=""><figcaption></figcaption></figure></div>

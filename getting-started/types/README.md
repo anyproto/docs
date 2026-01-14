@@ -20,7 +20,7 @@ Colleagues, friends, and neighbors might all be considered type: _Human_ in your
 
 It's up to you how narrow or broad you'd like your Types to be, but generally we recommend using general Types for categorizing your Objects, and further refining the use of your Types through [templates.md](templates.md "mention").
 
-You can always view and manage your Types in your Space settings under the Content model section [#object-types](../../advanced/settings/space-settings.md#object-types "mention")
+You can always view and manage your Types in your channel settings under the Content model section [#object-types](../../advanced/settings/space-settings.md#object-types "mention")
 
 Additionally, each Type has an in-built Query which can be accessed by opening the Type from anywhere in the app.
 
@@ -38,7 +38,7 @@ You're also able to create new Types directly from the Objects section:
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt="" width="349"><figcaption></figcaption></figure>
 
-#### Creating Types from Space Settings
+#### Creating Types from Channel Settings
 
 Open your [space.md](../vault-and-key/space.md "mention") settings, and navigate to `Content Model > Object Types`. Afterwards, simply click on `New` button to create a new Type.
 
@@ -46,6 +46,6 @@ From here, you can choose a name, layout, and add templates and properties to th
 
 <div><figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-If you've decided that this Type is no longer relevant, you can use the context menu (mouse right-click) to delete the Type from your space. Please proceed with caution; any objects of this type will show an alert if the Type has been removed from your library.
+If you've decided that this Type is no longer relevant, you can use the context menu (mouse right-click) to delete the Type from your channel. Please proceed with caution; any objects of this type will show an alert if the Type has been removed from your library.
 
 <div><figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure></div>

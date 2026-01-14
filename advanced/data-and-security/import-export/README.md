@@ -4,11 +4,11 @@
 Available on desktop only.
 {% endhint %}
 
-You can import or export from your space by navigating to **Anytype > Settings > Import to Space / Export Space** in the menu bar:
+You can import or export from your channel by navigating to **Anytype > Settings > Import to Channel / Export Channel** in the menu bar:
 
 <figure><img src="../../../.gitbook/assets/image (83) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Alternatively, you can find the Import / Export Space options under the Integrations section of your [Space Settings](../../settings/space-settings.md#integrations):
+Alternatively, you can find the Import / Export Channel options under the Integrations section of your [Space Settings](../../settings/space-settings.md#integrations):
 
 <figure><img src="../../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 

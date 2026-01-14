@@ -7,7 +7,7 @@ description: >-
 # Daily Notes
 
 {% hint style="info" %}
-You can import this use case to your space using this [link](https://gallery.any.coop/?experience=daily_journal).
+You can import this use case to your channel using this [link](https://gallery.any.coop/?experience=daily_journal).
 {% endhint %}
 
 <div><figure><img src="../.gitbook/assets/screenshot-1 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshot-2.png" alt=""><figcaption></figcaption></figure></div>

@@ -1,26 +1,22 @@
-# Space Settings
+# Channel Settings
 
-You can access your space settings by clicking on the 'Settings' button in the top left-hand corner of the sidebar.
+You can access your channel settings by clicking on the 'Settings' button in the top left-hand corner of the sidebar.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt="" width="333"><figcaption></figcaption></figure>
-
-Similarly, you can access your chat settings from the right sidebar.
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="346"><figcaption></figcaption></figure>
 
 ### Preferences
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-#### **Choose your space icon**
+#### **Choose your** channel **icon**
 
-Your space icon is automatically generated during the onboarding process. To change it, simply click on the icon and choose from your library or upload your own image.
+Your channel icon is automatically generated during the onboarding process. To change it, simply click on the icon and choose from your library or upload your own image.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### **Choose your space name**
+#### **Choose your** channel **name**
 
-To change your space name, simply click on the `Edit info` button in the top right corner, choose a name, and click on `Save` to confirm.
+To change your channel name, simply click on the `Edit info` button in the top right corner, choose a name, and click on `Save` to confirm.
 
 <div><figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -34,7 +30,7 @@ Set your message notification settings to either enable all, mentions only, or d
 
 Your homepage is what you will see each time you open Anytype. By default, it's set to Last opened Object in spaces and to Chat in a chats, which cannot be changed.
 
-However, you can customize your homepage using the drop-down menu in your space settings. You can choose to display your graph, the last object you opened, or a specific object you created.
+However, you can customize your homepage using the drop-down menu in your channel settings. You can choose to display your graph, the last object you opened, or a specific object you created.
 
 <div><figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -48,29 +44,29 @@ This option lets you define which Object Type will be used when creating an Obje
 
 In this section, you can switch between a space and a chat.
 
-#### **Delete your space**
+#### **Delete your** channel
 
-To delete your space, click the `...` menu and select <mark style="color:red;">`Delete Space.`</mark>
+To delete your channel, click the `...` menu and select <mark style="color:red;">`Delete Channel.`</mark>
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Invite Members
 
-Click on the Invite link button to manage access to your space. For more information, please check out [collaboration.md](../../getting-started/collaboration.md "mention").
+Click on the Invite link button to manage access to your channel. For more information, please check out [collaboration.md](../../getting-started/collaboration.md "mention").
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-You can also use the QR code to share your space more easily.
+You can also use the QR code to share your channel more easily.
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-A list of all of your space members can also be found here.
+A list of all of your channel members can also be found here.
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Remote Storage
 
-Locate and manage your files, check your remaining remote storage, and view storage usage of all your spaces here.
+Locate and manage your files, check your remaining remote storage, and view storage usage of all your channels here.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
 

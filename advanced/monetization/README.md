@@ -43,7 +43,7 @@ If you believe that your contribution status is incorrect, please write us at [a
 
 ## Pricing for Self-Hosters
 
-Self-hosters can manage the limits of Viewers/Editors they invite to their Spaces themselves. Those who would like to purchase a name in the Anytype naming system or access priority support, can purchase a membership at the same price as other beta testers.
+Self-hosters can manage the limits of Viewers/Editors they invite to their Channels themselves. Those who would like to purchase a name in the Anytype naming system or access priority support, can purchase a membership at the same price as other beta testers.
 
 In the future, we will introduce membership discounts for self-hosters. For those who would like to support the network in the meantime, we welcome your donation [here](https://stripe.pay.anytype.io/b/4gw0337MrdvbejK28f) (thank you!).
 
@@ -57,7 +57,7 @@ Check out the [#collaboration](../faqs.md#collaboration "mention") and [#members
 
 <details>
 
-<summary>What happens to my shared spaces if I choose not to renew my membership?</summary>
+<summary>What happens to my shared channels if I choose not to renew my membership?</summary>
 
 You can choose _not_ to renew your paid membership up to any moment before the membership cycle renews. Please do so by visiting the site of the payment provider you used to pay for your membership (Stripe, App store, Google Play).
 
@@ -87,7 +87,7 @@ If you purchase your membership from the iOS or Android apps, payment will be pr
 
 <details>
 
-<summary>What if I want to add additional members to my space?</summary>
+<summary>What if I want to add additional members to my channel?</summary>
 
 In our next iteration of memberships, we will have a tier for B2B and educational use cases, with the option to add up to 20 additional editors per space.
 
