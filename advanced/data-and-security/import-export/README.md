@@ -25,7 +25,7 @@ We currently offer support for importing the following:
     * **Protobuf**
     * **JSON**
 * By file type:
-  * **MD (Markdown)**: You can import individual `.md` files or a zip file containing multiple Markdown files. Please note that relations are not exported at this time.
+  * **MD (Markdown)**: You can import individual `.md` files or a zip file containing multiple Markdown files.
   * **HTML**
   * **TXT**
   * **CSV:** It is possible to map columns to existing pre-installed properties like Phone, E-mail, etc. by just using the same title.
