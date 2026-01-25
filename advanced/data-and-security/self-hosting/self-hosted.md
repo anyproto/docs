@@ -1,6 +1,6 @@
 # Self-hosted
 
-To back up your channels and data to a self-hosted network, you need to have a network configuration. If you don’t run your own network yet, see this [how-to guide](https://tech.anytype.io/how-to/self-hosting). There's also a [docker image](https://github.com/anyproto/any-sync-dockercompose) that's maintained by the team. One of our developers also created this video guide for anyone who want's to set up their own self-hosted network:
+To back up your channels and data to a self-hosted network, you need to have a network configuration. If you don’t run your own network yet, see this [how-to guide](https://tech.anytype.io/how-to/self-hosting). There's also a [docker image](https://github.com/anyproto/any-sync-dockercompose) that's maintained by the team. One of our developers also created this video guide for anyone who wants to set up their own self-hosted network:
 
 {% embed url="https://drive.google.com/file/d/1PI28cosN4ad-bdgRxM2gDJRiAYw_9mW4/view?usp=drive_link" %}
 
