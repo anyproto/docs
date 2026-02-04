@@ -6,7 +6,7 @@ With Anytype, you can build digital [space.md](getting-started/vault-and-key/spa
 
 You can now also connect through [chats.md](getting-started/chats.md "mention"), which make it easy to hold conversations inside your spaces. Chats live alongside your notes, documents, and media, so discussions stay private and contextually linked to the things you care about.
 
-<figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.youtube.com/watch?v=DpPEl8VTPjg" %}
 
 Unlike cloud applications, Anytype puts the control of encryption keys firmly in your hands, so you own your data and your social graph. Spaces you create are local first - they can be created offline and can sync peer-to-peer in local networks.
 
