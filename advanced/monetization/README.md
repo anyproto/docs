@@ -47,13 +47,7 @@ Self-hosters can manage the limits of Viewers/Editors they invite to their Chann
 
 In the future, we will introduce membership discounts for self-hosters. For those who would like to support the network in the meantime, we welcome your donation [here](https://stripe.pay.anytype.io/b/4gw0337MrdvbejK28f) (thank you!).
 
-### Want to dig deeper into Memberships?
-
-Check out the [#collaboration](../faqs.md#collaboration "mention") and [#memberships](../faqs.md#memberships "mention")FAQs.
-
 ## FAQ
-
-### Memberships
 
 <details>
 
