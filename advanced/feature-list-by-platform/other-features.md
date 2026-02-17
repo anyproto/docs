@@ -26,7 +26,7 @@ You can easily add mathematical notation right into your text by wrapping your f
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-### Simple Formulas&#x20;
+### Simple Formulas
 
 You can count objects in the Grid view and perform simple math and aggregation functions with all types of properties.
 
@@ -54,3 +54,21 @@ Once created, select an existing query as a source, or create a new one. Any cha
 A new ToC menu on the right side of the editor makes it easier to navigate and manage long pages. For a steady overview while editing, you can also open it in the sidebar.
 
 {% embed url="https://drive.google.com/file/d/1c-ZZEazJN1SRRtq1JrtaTIcJlTLtms5j/view?usp=drive_link" %}
+
+### Tabs
+
+You can now open multiple Objects side by side in a tab bar, just like in a browser. Open any Object in a new tab from the context menu, with Cmd+Click / Ctrl+Click, or from Widgets.
+
+Choose between two modes in Settings > Preferences: **Contextual**, where the tab bar appears only when you have more than one tab open, or **Always visible**.
+
+Drag tabs to reorder them, drag a tab out of the window to open it in a new window, and your open tabs are restored when you relaunch the app.
+
+<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+
+### Advanced Filters
+
+Filters now support complex logic. You can combine multiple conditions using AND / OR, and group related rules together to build precise queries – like finding all tasks that are either high priority or due this week.
+
+Add an advanced filter from the filter menu and define your conditions in the dedicated bar.
+
+<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
