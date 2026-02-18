@@ -34,21 +34,31 @@ However, you can customize your homepage using the drop-down menu in your channe
 
 <div><figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
 
+#### **Choose channel type**
+
+In this section, you can switch between a space and a chat.
+
 #### **Default object type**
 
 This option lets you define which Object Type will be used when creating an Object by default.
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### **Choose channel type**
 
-In this section, you can switch between a space and a chat.
 
 #### **Delete your** channel
 
 To delete your channel, click the `...` menu and select <mark style="color:red;">`Delete Channel.`</mark>
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Transfer Channel Ownership
+
+Channel ownership can now be transferred to another member. This allows Channels to be handed over as roles change, without recreating them or losing history.
+
+After the transfer, you become an Editor, and the new owner takes full control, including the ability to transfer ownership again.
+
+<div><figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Invite Members
 

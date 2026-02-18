@@ -37,3 +37,9 @@ Depending on the way you've created your new object, either the default template
 You can also choose the default template for each type by opening the Type object, or you can choose the default template for each List view.
 
 <div><figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure></div>
+
+#### Template Name Pre-fill
+
+When editing a template, a new toggle lets you choose whether the template's name is pre-filled when creating Objects from it, so you no longer need to manually clear inherited names.
+
+<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
