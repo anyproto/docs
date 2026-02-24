@@ -4,7 +4,7 @@ By default, everyone joins the **Anytype Network** when they create a new vault.
 
 Every Anytype user has access to a remote backup node provided by Anytype. Its capacity is currently limited to 1 GB. Objects and other content have no impact on this limit; only files are limited. If you go over the limit, a warning will appear, and you'll be able to ask for more storage.
 
-Our backup nodes are located in Switzerland, and we use AWS (Amazon Web Services).
+Our infrastructure is hosted in Zurich based data centers within Europe. Production currently runs on Google Cloud Platform, with plans to move to dedicated European hosted servers.
 
 The domains we use for our Anytype network are:
 
