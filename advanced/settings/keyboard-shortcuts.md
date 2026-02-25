@@ -8,7 +8,7 @@ We've expanded the number of actions available for keyboard shortcuts, giving yo
 * Categories: Shortcuts are grouped into different categories for better navigation.
 
 {% hint style="info" %}
-You can check all keyboard shortcuts in the app by clicking on `? > Keyboard shortcuts` in the bottom right corner of the app.
+You can check all keyboard shortcuts in the app by clicking on `? > Keyboard shortcuts` in the bottom left corner of the app.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
