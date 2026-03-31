@@ -99,6 +99,6 @@ Your spaces will stop syncing with each other through the backup node and use lo
 
 <summary>Is there a student / educational plan?</summary>
 
-We offer a 50% discount to anyone who contacts us at [membership-upgrade@anytype.io](mailto:membership-upgrade@anytype.io) using their university-associated email address.
+Students or faculty members are eligible for a [50% discount](https://edu.anytype.io/#apply) on all of our membership plans.
 
 </details>
