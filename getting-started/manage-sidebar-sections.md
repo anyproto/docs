@@ -4,7 +4,7 @@ description: Customize what appears in your Channel sidebar.
 
 # Manage Sections
 
-The Channel sidebar is divided into **sections** — Pinned, My Favorites, Recently Edited, Recently Opened, Objects, Bin, and any custom widgets you add. Every section can be hidden, reordered, or fine-tuned to match how you actually work.
+The Channel sidebar is divided into **sections** — Pinned, My Favorites, Recently Edited, Types, Bin, and any custom widgets you add. Every section can be hidden, reordered, or fine-tuned to match how you actually work.
 
 This page covers the controls for managing these sections.
 
@@ -17,8 +17,7 @@ When you first enter a Channel, the sidebar shows:
 | **Shared Pins**     | Objects pinned by the Owner for everyone    | All members                |
 | **My Favorites**    | Your personal favorites                     | Just you                   |
 | **Recently Edited** | Objects modified recently                   | All members (configurable) |
-| **Recently Opened** | Objects you've viewed (history)             | Just you                   |
-| **Objects**         | All Objects grouped by Type                 | All members                |
+| **Types**           | All Objects grouped by Type                 | All members                |
 | **Bin**             | Deleted Objects awaiting permanent deletion | All members                |
 
 In personal (single-member) Channels, the distinction between "you" and "all members" doesn't matter — but the layout is the same.
@@ -48,12 +47,6 @@ Drag the handle to the left of a section name to move it up or down in the sideb
 
 Toggle the eye icon to hide or show a section. Hidden sections aren't deleted — they just don't appear in the sidebar. You can bring them back any time from this panel.
 
-Sections you might want to hide:
-
-* **Recently Opened** — if you don't refer to your browsing history
-* **Bin** — if you don't manage deletions often (the Bin is still accessible from Channel Settings)
-* **Objects** — if you rely entirely on Pins and Search (rare, but valid for read-only Channels)
-
 ### Configuring "Recently Edited"
 
 The **Recently Edited** section has an extra setting: who counts as "recently edited"?
@@ -73,21 +66,21 @@ The Bin appears as its own section in the sidebar. Its three-dot menu lets you:
 * **Hide section** — remove it from view (it's still accessible via Channel Settings > Bin)
 * **Empty Bin** (Owners only) — permanently delete every Object inside
 
-In shared Channels, individual members only see Objects they personally moved to Bin. Owners see all Objects in Bin from any member.
+In shared Channels, individual members can only delete Objects they personally moved to Bin. Owners can delete all Objects in Bin.
 
-### The Objects section
+### The Types section
 
-The **Objects** section groups every Object in your Channel by its Type. You'll see a sub-section for Notes, Tasks, Books, Pages — every Type that has at least one Object.
+The **Types** section groups every Object in your Channel by its Type. You'll see a sub-section for Notes, Tasks, Books, Pages — every Type that has at least one Object.
 
 This section auto-updates: create a Note and "Note" appears as a sub-section; delete the last Note and that sub-section disappears.
 
 #### Quick create from a Type widget
 
-Hover over any Type in the Objects section to reveal a **+** button. Click it to create a new Object of that Type instantly, without opening menus.
+Hover over any Type to reveal a **+** button. Click it to create a new Object of that Type instantly, without opening menus.
 
 #### Reordering Types
 
-Drag a Type within the Objects section to reorder it. The order is per-member.
+Drag a Type within the Objects section to reorder it.
 
 ### Sidebar display modes: Widgets vs Links
 
@@ -106,18 +99,9 @@ In stripe view:
 
 * Channel and Chat icons show only the unread counter (mention indicators are hidden)
 * The **+** button at the bottom lets you create new Channels and Chats
-* Hover over your profile icon to access **Help** and **Gallery**
+* Hover over your profile icon to access **Help**.
 
 Drag the edge wider to return to the full Vault layout.
-
-### Resetting the sidebar
-
-If you've hidden everything or rearranged sections in a way you regret:
-
-1. Open **Manage Sections**.
-2. Click **Reset to default** at the bottom.
-
-This restores the default order and shows all sections.
 
 ### Tips
 

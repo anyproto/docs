@@ -10,12 +10,11 @@ The **Sidebar** is the main navigation panel for a Channel. It lives on the left
 
 The Sidebar is the entry point to almost everything inside a Channel:
 
-* A **Channel widget** at the top with the Channel's name, search, settings, and members
+* A **Channel header** at the top with the Channel's name, search, settings, and members
 * **Pinned and Favorite** sections for quick access
-* **Recently Edited / Recently Opened** for catching up
-* **The Type section** showing every Object grouped by Type
+* **Recently Edited** for catching up
+* **The Types section** showing every Object grouped by Type
 * The **Bin** for deleted Objects
-* A **Help** menu in the corner
 
 Everything you do in a Channel either starts here or returns here.
 
@@ -71,10 +70,6 @@ By default, it shows changes by anyone in the Channel. To narrow it to your chan
 3. Choose **Only me**.
 
 This is especially useful in busy team Channels where everyone else's edits would otherwise crowd out yours.
-
-### Recently Opened
-
-Click the **clock icon** at the top to open your history of recently viewed Objects in this Channel. This is the fastest way to backtrack: "I was looking at something twenty minutes ago, what was it?"
 
 ### The Types section
 
