@@ -112,7 +112,3 @@ Drag the edge wider to return to the full Vault layout.
 {% hint style="info" %}
 **Stripe view is great for focused work.** When you're deep in writing or research, narrow the Vault to its stripe view to maximize editing space. The Channel sidebar can also be collapsed for even more room.
 {% endhint %}
-
-{% hint style="info" %}
-**Pin a Query as a custom widget.** A Query in your sidebar acts as a live widget — pin "Tasks: In Progress" or "Notes: This Week" and it functions as a dynamic section that updates itself.
-{% endhint %}

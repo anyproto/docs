@@ -22,10 +22,10 @@ Use My Favorites for:
 **To add an Object to My Favorites:**
 
 1. Open the Object.
-2. Click the star icon (or right-click > **Add to My Favorites**) in the top-right corner.
+2. Click the star icon in the top-right corner of the Object (or right-click > **Favorite**).
 3. The Object now appears in the **My Favorites** section of your sidebar.
 
-To remove, click the star again or right-click in the sidebar > **Remove from Favorites**.
+To remove, click the star again or right-click in the sidebar > **Unfavorite.**&#x20;
 
 ### Shared Pins
 
@@ -55,12 +55,12 @@ Only Owners can add or remove Shared Pins. Editors and Viewers see Shared Pins b
 | Visible to                 |        Just you       |         All members         |
 | Synced across your devices |          Yes          |    Yes (for all members)    |
 | Who can add                |         Anyone        |          Owner only         |
-| Sidebar section            |     "My Favorites"    |        "Shared Pins"        |
+| Sidebar section            |     "My Favorites"    |           "Pinned"          |
 | Use for                    | Personal quick-access | Team-wide important Objects |
 
 ### Where they appear
 
-Both sections live in the **Widget Bar** (the panel that holds your sidebar widgets). They're always at the top, with My Favorites and Shared Pins displayed as separate, clearly labeled sections.
+Both sections live in the **Widget Bar** (the panel that holds your sidebar widgets). They're always at the top, with My Favorites and Pinned displayed as separate, clearly labeled sections.
 
 You can hide either section if you don't use it:
 
@@ -72,18 +72,14 @@ To bring it back, open **Manage Sections** from the Channel context menu.
 
 ### Reordering
 
-Within either section, drag-and-drop to reorder. Changes to **My Favorites** are personal — they don't affect anyone else. Changes to **Shared Pins** apply to everyone in the Channel.
+Within either section, drag-and-drop to reorder. Changes to **My Favorites** are personal — they don't affect anyone else. Changes to **Pinned** apply to everyone in the Channel.
 
 ### Tips
 
 {% hint style="info" %}
-**For personal Channels, the distinction barely matters** — you're the only member, so My Favorites and Shared Pins behave the same way for you. The split becomes meaningful in Channels with multiple members.
+**For personal Channels, the distinction barely matters** — you're the only member, so My Favorites and Pinned behave the same way for you. The split becomes meaningful in Channels with multiple members.
 {% endhint %}
 
 {% hint style="info" %}
-**Pin a Query, not just static Objects.** Pin a Query like "Tasks where Status = In Progress" or "Notes from this week" — it acts as a live, dynamic widget rather than a static link.
-{% endhint %}
-
-{% hint style="info" %}
-**Use My Favorites for noisy projects.** If a teammate has pinned the whole quarterly planning doc structure as Shared Pins, you can ignore it and pin only the docs _you_ care about as My Favorites.
+**Use My Favorites for noisy projects.** If a teammate has pinned the whole quarterly planning doc structure as Pinned, you can ignore it and save only the docs _you_ care about as My Favorites.
 {% endhint %}
