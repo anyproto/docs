@@ -40,7 +40,6 @@
 * [Collaboration](getting-started/collaboration.md)
 * [Chats](getting-started/chats.md)
   * [Direct Channels](getting-started/direct-channels.md)
-* [Notifications](getting-started/notifications.md)
 * [Publish](getting-started/web-publishing.md)
 
 ## ⚙️ Features
