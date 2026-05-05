@@ -83,20 +83,12 @@ Files contribute to your Channel's storage usage. Owners can monitor this in **C
 
 #### Configurable download size limit
 
-In shared Channels, large files can eat up bandwidth on every device. To prevent this, Owners can set a **maximum file size for automatic downloads** in Channel Settings.
+In shared Channels, large files can eat up bandwidth on every device. To prevent this, you can set a **maximum file size for automatic sync** in Settings.
 
 Files larger than the limit won't be fetched automatically — they're listed but stay on the network until a member explicitly opens them. This keeps storage manageable on devices with limited disk space.
 
 To change the limit:
 
-1. Open **Channel Settings > Remote Storage**.
-2. Find **Auto-download size limit**.
-3. Set a value in MB (or "No limit").
-
-Members can always manually download files above the limit by clicking **Download** on the File Object.
-
-### Tips
-
-{% hint style="info" %}
-**Use the Description field as a transcript.** For voice notes and screen recordings, type or paste a short summary into the Description. This makes the file findable through search by content, not just filename.
-{% endhint %}
+1. Open **Settings > Local Storage**.
+2. Find **Offline Access**.
+3. Set a value in MB (or "Unlilimited").

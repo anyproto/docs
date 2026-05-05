@@ -10,6 +10,8 @@ A **Discussion** is a comment thread attached directly to an Object. Instead of 
 
 Think of it as the comments section for any Object in your Channel.
 
+<figure><img src="../.gitbook/assets/Discussions.png" alt=""><figcaption></figcaption></figure>
+
 ### Why it matters
 
 When discussions live next to the work, you don't lose context. A reviewer's question, a decision someone made three months ago, a quick "looks good" — all of it stays connected to the Object it's about. Anyone who opens that Object later can read the conversation that shaped it.
@@ -18,7 +20,7 @@ This is different from a Chat: Chats are streams of messages organized by topic 
 
 ### How it works
 
-Every Object can hold a Discussion. Open the Object and switch to the Discussion tab to see (or start) the thread. Posts support the same rich content as the editor and Chat — you're not limited to plain text.
+Every Object can hold a Discussion. Posts support the same rich content as the editor — you're not limited to plain text.
 
 Posts in a Discussion can include:
 
@@ -33,7 +35,7 @@ Once posted, you can edit your own messages, react with emoji, and reply to spec
 ### Starting a Discussion
 
 1. Open any Object.
-2. Click the **Discussion** tab next to the Object's title (or use the keyboard shortcut shown in your shortcut settings).
+2. Click the **Discussion** button in the bottom of the Object.
 3. Type your message in the input box at the bottom.
 4. Press Enter (or Cmd/Ctrl + Enter, depending on your Send Message preference) to post.
 
@@ -43,13 +45,9 @@ Your post appears in the thread immediately and syncs to other members of the Ch
 
 Hover over any post and click the reply icon, or right-click the post and choose **Reply**. Your reply is grouped under the original post so the conversation stays organized even when multiple threads are running in parallel.
 
-To jump from a reply back to the original post, click the quoted preview at the top of the reply.
-
 ### Reactions
 
 Hover over any post and click the smiley icon to add an emoji reaction. Reactions show a counter when more than one person reacts with the same emoji, and you can click an existing reaction to add or remove your own.
-
-You'll receive a notification when someone reacts to your post — turn this off in Channel Settings if it gets noisy.
 
 ### Editing and deleting
 
@@ -58,22 +56,6 @@ Right-click your own post (or use the three-dot menu on hover) to:
 * **Edit** — your post stays in place but is marked as edited
 * **Copy text** — copy the post content to your clipboard
 * **Delete** — remove the post entirely (this can't be undone)
-
-You can only edit or delete your own posts. Channel Owners cannot edit other members' posts.
-
-### Discussions vs. Chats
-
-|                           | Discussion                                         | Chat                                              |
-| ------------------------- | -------------------------------------------------- | ------------------------------------------------- |
-| Lives on                  | A specific Object                                  | A standalone Channel-level conversation           |
-| Best for                  | Feedback, decisions, questions about _this_ Object | Ongoing conversations, announcements, casual talk |
-| Searchable across Objects | No (per-Object)                                    | Yes (Cmd/Ctrl + F)                                |
-| Shows in Object's history | Yes                                                | No                                                |
-| Notifications             | Per-Object setting                                 | Per-Chat setting                                  |
-
-{% hint style="info" %}
-Use Discussions when the conversation is _about_ a specific page or task. Use Chats when the conversation is between people and might wander across topics.
-{% endhint %}
 
 ### Permissions
 
