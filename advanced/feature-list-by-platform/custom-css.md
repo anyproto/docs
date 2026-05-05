@@ -10,11 +10,9 @@ For assistance with this CSS guide or CSS in general, please comment in the orig
 
 To enable the Custom CSS style sheet, go to `Menu > File > Apply Custom CSS`.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/custom-css.png" alt=""><figcaption></figcaption></figure>
 
 To edit the custom CSS file, go to `Menu > File > Open > Custom CSS`.
-
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### How <a href="#how-2" id="how-2"></a>
 
@@ -90,10 +88,6 @@ body {
 ```
 
 Of course, the premise for it to take effect is that you have this font on your computer, if not, you can install this font on your computer or choose to import the font online.
-
-{% hint style="info" %}
-
-{% endhint %}
 
 <details>
 
@@ -187,8 +181,7 @@ After obtaining the corresponding Base64 text and replacing it, we have successf
 }
 ```
 
-If you have used PS, you should be able to guess that this is a similar mask function, but unfortunately the final result is not very smooth.\
-
+If you have used PS, you should be able to guess that this is a similar mask function, but unfortunately the final result is not very smooth.\\
 
 <figure><img src="https://community-static.anytype.io/original/2X/7/72dbdcf71ef643f5873aa7ea1ea814bf282dfec5.png" alt=""><figcaption></figcaption></figure>
 
