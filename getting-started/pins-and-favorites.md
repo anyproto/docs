@@ -4,7 +4,7 @@ description: Two ways to keep important Objects close — yours and the team's.
 
 # Pins & Favorites
 
-Every Channel has two distinct mechanisms for surfacing important Objects in the sidebar: **My Favorites** (just for you) and **Shared Pins** (visible to everyone). Both appear in the Widget Bar in clearly separated sections.
+Every Channel has two distinct mechanisms for surfacing important Objects in the sidebar: **My Favorites** (just for you) and **Pinned** (visible to everyone). Both appear in the Widget Bar in clearly separated sections.
 
 Understanding the difference is important — especially in shared Channels where you don't want to clutter someone else's sidebar with what matters to you.
 
@@ -22,16 +22,16 @@ Use My Favorites for:
 **To add an Object to My Favorites:**
 
 1. Open the Object.
-2. Click the star icon in the top-right corner of the Object (or right-click > **Favorite**).
+2. Click the star icon (or right-click > **Favorite**) in the top-right corner.
 3. The Object now appears in the **My Favorites** section of your sidebar.
 
 To remove, click the star again or right-click in the sidebar > **Unfavorite.**&#x20;
 
 ### Shared Pins
 
-**Shared Pins** are public to the Channel. When an Owner pins an Object, every member sees it in their sidebar. This is how Owners surface "this is important — everyone should know it's here."
+**Shared Pins,** or **Pinned** are public to the Channel. When an Owner pins an Object, every member sees it in their sidebar. This is how Owners surface "this is important — everyone should know it's here."
 
-Use Shared Pins for:
+Use Pins for:
 
 * Onboarding documents for new members
 * Channel guidelines or norms
@@ -42,15 +42,15 @@ Use Shared Pins for:
 
 1. Open the Object.
 2. Click the pin icon (or right-click > **Pin to Channel**) in the top-right corner.
-3. The Object now appears in the **Shared Pins** section of every member's sidebar.
+3. The Object now appears in the **Pinned** section of every member's sidebar.
 
 {% hint style="warning" %}
-Only Owners can add or remove Shared Pins. Editors and Viewers see Shared Pins but can't modify them.
+Only Owners can add or remove Pinned Objects. Editors and Viewers see them but can't modify them.
 {% endhint %}
 
 ### Side by side
 
-|                            |      My Favorites     |         Shared Pins         |
+|                            |      My Favorites     |            Pinned           |
 | -------------------------- | :-------------------: | :-------------------------: |
 | Visible to                 |        Just you       |         All members         |
 | Synced across your devices |          Yes          |    Yes (for all members)    |
