@@ -1,32 +1,24 @@
 # Raycast Extension (macOS)
 
-Our long-awaited API is beginning to take shape! The first step is Raycast integration, allowing you to create, read, and delete Channels, Objects, and Types, as well as search across them, all from Raycast on macOS.
-
 [Install the Raycast Extension here](https://www.raycast.com/any/anytype)
 
-<figure><img src="../../.gitbook/assets/raycast_2x.png" alt=""><figcaption></figcaption></figure>
-
-### Update - AI
-
-We've introduced several enhancements based on your requests and feedback, plus Anytype for Raycast is now an AI Extension – search through channels and objects using natural language or create new ones just by instructing <kbd>@anytype</kbd>.
-
-* Improved Pinning & Navigation: Pin objects, types, members and channels for quicker access. Objects of a certain Type now appear below their templates for better organization.
-* Better Collection Management: Create objects directly within collections and browse collection items with ease.
-* Customization & Visibility: Choose <kbd>Open Object in Anytype</kbd> as the default action, show custom properties in the Detail sidebar, toggle metadata in object details and apply templates when creating new objects.
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-03-17 at 11.43.00 AM.png" alt="" width="563"><figcaption></figcaption></figure>
-
-### Update - Local API
-
-As a companion to our Local API, we’ve just shipped great improvements for our Raycast extension.
-
-Here’s what’s new:
+### Local API
 
 * **Quickly create** new channels, objects, types, properties, or tags with the shortcut `CMD+N` while browsing your channels.
 * **Easily edit** your selected items (channels, objects, types, properties or tags) using `CMD+E`.
 * **Conveniently add objects** to lists either through the new `Add object to list` command or directly from the context menu `CMD+K`.
 
-<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/raycast_2x.png" alt=""><figcaption></figcaption></figure>
+
+### Update - AI
+
+Anytype for Raycast is an AI Extension – search through channels and objects using natural language or create new ones just by instructing <kbd>@anytype</kbd>.
+
+* **Pinning & Navigation:** Pin objects, types, members and channels for quicker access. Objects of a certain Type now appear below their templates for better organization.
+* **Collection Management:** Create objects directly within collections and browse collection items with ease.
+* **Customization & Visibility:** Choose <kbd>Open Object in Anytype</kbd> as the default action, show custom properties in the Detail sidebar, toggle metadata in object details and apply templates when creating new objects.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-03-17 at 11.43.00 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Privacy
 

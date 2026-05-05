@@ -10,19 +10,19 @@ The **Anytype Agents Skill** is an open-source toolkit that gives AI assistants 
 
 The repository is on GitHub: [github.com/anyproto/anytype-agents-skill](https://github.com/anyproto/anytype-agents-skill).
 
-### Why it matters
+***
 
-Anytype already exposes a [Local API](feature-list-by-platform/local-api/README.md) for direct integration. The Agents Skill is a layer above that — it bundles the API into ready-made functions an AI agent can use without you having to teach it the protocol.
+Anytype already exposes a [Local API](feature-list-by-platform/local-api/) for direct integration. The Agents Skill is a layer above that — it bundles the API into ready-made functions an AI agent can use without you having to teach it the protocol.
 
 If you've ever thought "I wish I could just describe what I want to do to my notes and have it happen," this is the bridge. You describe the task in plain language, the agent uses the Skill to translate that into the correct Anytype operations, and the work gets done.
 
 Common use cases:
 
-- **Bulk Property updates** — "Set all Tasks in the 'Q1 Planning' Collection to Status: In Progress"
-- **Data transformations** — "Find all Notes tagged 'meeting' from last quarter and create a Collection summarizing them"
-- **Migration and cleanup** — "Rename every Object containing 'TODO' in its title to remove that prefix"
-- **Reporting** — "List all Objects modified by me this month, grouped by Type"
-- **Cross-Channel operations** — "Copy this Type definition from my Personal Channel to my Team Channel"
+* **Bulk Property updates** — "Set all Tasks in the 'Q1 Planning' Collection to Status: In Progress"
+* **Data transformations** — "Find all Notes tagged 'meeting' from last quarter and create a Collection summarizing them"
+* **Migration and cleanup** — "Rename every Object containing 'TODO' in its title to remove that prefix"
+* **Reporting** — "List all Objects modified by me this month, grouped by Type"
+* **Cross-Channel operations** — "Copy this Type definition from my Personal Channel to my Team Channel"
 
 ### How it works
 
@@ -30,12 +30,12 @@ The Skill provides a **lightweight, isolated JavaScript runtime**. When the agen
 
 Around 30 high-level methods are exposed, covering:
 
-- **Reading Objects** — get Object by ID, list Objects by Type, search across Channels
-- **Creating Objects** — add a new Object with Type, Properties, and content
-- **Updating Objects** — set Property values, change Type, edit content blocks
-- **Searching** — full-text search, filter by Property, scope to a Channel
-- **Working with Types and Properties** — list available Types, create new ones, manage Properties
-- **Collections and Queries** — add/remove Objects from a Collection, query with filters
+* **Reading Objects** — get Object by ID, list Objects by Type, search across Channels
+* **Creating Objects** — add a new Object with Type, Properties, and content
+* **Updating Objects** — set Property values, change Type, edit content blocks
+* **Searching** — full-text search, filter by Property, scope to a Channel
+* **Working with Types and Properties** — list available Types, create new ones, manage Properties
+* **Collections and Queries** — add/remove Objects from a Collection, query with filters
 
 The runtime is **isolated** — the script only has access to the Anytype Skill's methods, not to your filesystem or network. This means you can run AI-generated scripts without worrying about them doing something destructive outside Anytype itself.
 
@@ -45,9 +45,9 @@ The runtime is **isolated** — the script only has access to the Anytype Skill'
 
 #### Prerequisites
 
-- Anytype installed and running on the same device
-- A [Local API key](feature-list-by-platform/local-api/README.md) generated in **Vault Settings > API Keys**
-- An AI agent that supports tool use (Claude Code, Cursor, Gemini CLI, GitHub Copilot, etc.)
+* Anytype installed and running on the same device
+* A [Local API key](feature-list-by-platform/local-api/) generated in **Vault Settings > API Keys**
+* An AI agent that supports tool use (Claude Code, Cursor, Gemini CLI, GitHub Copilot, etc.)
 
 #### Install the Skill
 
@@ -113,10 +113,10 @@ Anything the Local API can do. This includes creating, updating, and deleting Ob
 
 #### What the Skill can't do
 
-- Access files on your computer outside Anytype
-- Make network requests outside the Local API
-- See or modify other Channels you haven't given the agent access to (more accurately: the agent can only act on Channels accessible through the API key you provided)
-- Bypass Channel permissions — if your role in a Channel is Viewer, the Skill can only read
+* Access files on your computer outside Anytype
+* Make network requests outside the Local API
+* See or modify other Channels you haven't given the agent access to (more accurately: the agent can only act on Channels accessible through the API key you provided)
+* Bypass Channel permissions — if your role in a Channel is Viewer, the Skill can only read
 
 #### Recommendations
 
@@ -134,6 +134,6 @@ Anything the Local API can do. This includes creating, updating, and deleting Ob
 
 ### Where to learn more
 
-- [Anytype Agents Skill on GitHub](https://github.com/anyproto/anytype-agents-skill) — full method reference, examples, per-agent setup
-- [Local API](feature-list-by-platform/local-api/README.md) — the underlying interface
-- [API Keys](settings/account-and-data.md) — managing keys in Vault Settings
+* [Anytype Agents Skill on GitHub](https://github.com/anyproto/anytype-agents-skill) — full method reference, examples, per-agent setup
+* [Local API](feature-list-by-platform/local-api/) — the underlying interface
+* [API Keys](settings/account-and-data.md) — managing keys in Vault Settings
