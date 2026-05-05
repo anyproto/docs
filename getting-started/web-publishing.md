@@ -23,8 +23,6 @@ With Web Publishing, the Object you've already written is the published page. Up
 
 Within a few seconds, your Object is live at `<your-any-id>.any.org/<slug>`. Copy the URL or share directly from the dialog.
 
-<figure><img src="../.gitbook/assets/published-to-web.png" alt=""><figcaption></figcaption></figure>
-
 ### Updating a published page
 
 Edit the Object normally. Your edits don't auto-publish — you have to republish to push changes:
