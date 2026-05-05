@@ -46,19 +46,9 @@ To add such a link, pick up "Link to website" just like when you add a new link 
 
 #### Date mentions
 
-You can use **Inline Links** to quickly link to either absolute or relative dates.
-
-Some examples:
-
-* @now or @today
-* @tomorrow
-* @nextweek
-* @nextmonth
-* @24/8/2023
-
 It's also possible to use `@date` or `/date` to quickly open the date selection menu.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/date-mention.png" alt=""><figcaption></figcaption></figure>
 
 #### Link aliases
 
@@ -76,16 +66,8 @@ In your documents you may have multiple references or connections which could be
 
 Learn more about [relations.md](../types/relations.md "mention") & the [graph.md](../../advanced/feature-list-by-platform/graph.md "mention") here.
 
-#### Use the Flow
-
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-Another option to check which Objects are linked together can be found in the Flow tab next to the Graph.
-
-On the top, center of your screen you will see the option to toggle to **Flow** view. This will show you which Object is linked before and after the current Object you are viewing.
-
 #### Backlinks
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+You can use the Backlinks property to check which Objects link to the currently opened one.
 
-Lastly, you can use the Backlinks property to check which Objects link to the currently opened one.
+<figure><img src="../../.gitbook/assets/backlinks.png" alt=""><figcaption></figcaption></figure>

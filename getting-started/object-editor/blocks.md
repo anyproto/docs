@@ -125,6 +125,8 @@ See [Embeds](../../advanced/feature-list-by-platform/embeds.md) for the full lis
 
 Useful for surfacing key Properties prominently. The Property block stays in sync with the Property's value — change one, the other updates.
 
+<figure><img src="../../.gitbook/assets/slashmenu-property.png" alt=""><figcaption></figcaption></figure>
+
 ### Selecting and styling blocks
 
 #### Single block
