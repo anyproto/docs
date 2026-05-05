@@ -20,125 +20,117 @@ You can also assign a shortcut to open the Shortcuts panel itself, so you can su
 
 ### Most-used shortcuts
 
-These are the shortcuts most users learn first. They cover ~80% of daily use.
+These are the shortcuts most users learn first. They cover \~80% of daily use.
 
 #### Navigation
 
-| Shortcut | Action |
-|---|---|
-| **Cmd / Ctrl + K** | Open Search |
-| **Cmd / Ctrl + L** | Open Graph |
-| **Cmd / Ctrl + S** | Open Settings |
-| **Cmd / Ctrl + ,** | Open Vault Settings |
-| **Esc** | Close popup, exit fullscreen, or focus parent |
-| **Alt + ←** | Back (in navigation history) |
-| **Alt + →** | Forward |
+| Shortcut           | Action                                        |
+| ------------------ | --------------------------------------------- |
+| **Cmd / Ctrl + K** | Open Search                                   |
+| **Cmd / Ctrl + L** | Open Graph                                    |
+| **Cmd / Ctrl + S** | Open Settings                                 |
+| **Cmd / Ctrl + ,** | Open Vault Settings                           |
+| **Esc**            | Close popup, exit fullscreen, or focus parent |
+| **Alt + ←**        | Back (in navigation history)                  |
+| **Alt + →**        | Forward                                       |
 
 #### Tabs and windows
 
-| Shortcut | Action |
-|---|---|
-| **Cmd / Ctrl + Click** | Open Object in new tab |
-| **Cmd / Ctrl + T** | New tab |
-| **Cmd / Ctrl + W** | Close current tab |
-| **Cmd / Ctrl + Shift + T** | Reopen last closed tab |
-| **Cmd / Ctrl + Tab** | Next tab |
-| **Cmd / Ctrl + Shift + Tab** | Previous tab |
-| **Cmd / Ctrl + 1** through **9** | Switch to tab 1–9 |
-| **Cmd / Ctrl + Shift + N** | New window |
+| Shortcut                         | Action                 |
+| -------------------------------- | ---------------------- |
+| **Cmd / Ctrl + Click**           | Open Object in new tab |
+| **Cmd / Ctrl + T**               | New tab                |
+| **Cmd / Ctrl + W**               | Close current tab      |
+| **Cmd / Ctrl + Shift + T**       | Reopen last closed tab |
+| **Cmd / Ctrl + Tab**             | Next tab               |
+| **Cmd / Ctrl + Shift + Tab**     | Previous tab           |
+| **Cmd / Ctrl + 1** through **9** | Switch to tab 1–9      |
+| **Cmd / Ctrl + Shift + N**       | New window             |
 
 #### Object creation
 
-| Shortcut | Action |
-|---|---|
-| **Cmd / Ctrl + N** | Create new Object (default Type) |
-| **Cmd / Ctrl + Alt / Opt + N** | Open Type picker for new Object |
-| **Cmd / Ctrl + Shift + N** | New window (also: alternative for new Object in some contexts) |
+| Shortcut                       | Action                                                         |
+| ------------------------------ | -------------------------------------------------------------- |
+| **Cmd / Ctrl + N**             | Create new Object (default Type)                               |
+| **Cmd / Ctrl + Alt / Opt + N** | Open Type picker for new Object                                |
+| **Cmd / Ctrl + Shift + N**     | New window (also: alternative for new Object in some contexts) |
 
 #### Editor — block actions
 
-| Shortcut | Action |
-|---|---|
-| **/** | Open slash command menu |
-| **@** | Open mention picker (link to another Object) |
-| **[[** | Open mention picker (alternative) |
-| **Tab** | Indent block / move down list level |
-| **Shift + Tab** | Outdent block |
-| **Cmd / Ctrl + /** | Open block action menu (Turn into, Move, Delete) |
-| **Cmd / Ctrl + Shift + ↑** | Move block up |
-| **Cmd / Ctrl + Shift + ↓** | Move block down |
-| **Cmd / Ctrl + D** | Duplicate block |
-| **Cmd / Ctrl + Backspace** | Delete current block |
+| Shortcut                   | Action                                           |
+| -------------------------- | ------------------------------------------------ |
+| **/**                      | Open slash command menu                          |
+| **@**                      | Open mention picker (link to another Object)     |
+| **\[\[**                   | Open mention picker (alternative)                |
+| **Tab**                    | Indent block / move down list level              |
+| **Shift + Tab**            | Outdent block                                    |
+| **Cmd / Ctrl + /**         | Open block action menu (Turn into, Move, Delete) |
+| **Cmd / Ctrl + Shift + ↑** | Move block up                                    |
+| **Cmd / Ctrl + Shift + ↓** | Move block down                                  |
+| **Cmd / Ctrl + D**         | Duplicate block                                  |
+| **Cmd / Ctrl + Backspace** | Delete current block                             |
 
 #### Editor — text formatting
 
-| Shortcut | Action |
-|---|---|
-| **Cmd / Ctrl + B** | Bold |
-| **Cmd / Ctrl + I** | Italic |
-| **Cmd / Ctrl + U** | Underline |
-| **Cmd / Ctrl + Shift + S** | Strikethrough |
-| **Cmd / Ctrl + Shift + L** | Inline code |
-| **Cmd / Ctrl + K** | Add link to selected text |
+| Shortcut                   | Action                        |
+| -------------------------- | ----------------------------- |
+| **Cmd / Ctrl + B**         | Bold                          |
+| **Cmd / Ctrl + I**         | Italic                        |
+| **Cmd / Ctrl + U**         | Underline                     |
+| **Cmd / Ctrl + Shift + S** | Strikethrough                 |
+| **Cmd / Ctrl + Shift + L** | Inline code                   |
+| **Cmd / Ctrl + K**         | Add link to selected text     |
 | **Cmd / Ctrl + Shift + K** | Link with custom text (alias) |
-| **Cmd / Ctrl + Z** | Undo |
-| **Cmd / Ctrl + Shift + Z** | Redo |
+| **Cmd / Ctrl + Z**         | Undo                          |
+| **Cmd / Ctrl + Shift + Z** | Redo                          |
 
 #### Selection
 
-| Shortcut | Action |
-|---|---|
-| **Cmd / Ctrl + A** (1×) | Select current block |
+| Shortcut                | Action                        |
+| ----------------------- | ----------------------------- |
+| **Cmd / Ctrl + A** (1×) | Select current block          |
 | **Cmd / Ctrl + A** (2×) | Select all blocks on the page |
-| **Shift + Click** | Select range of blocks |
-| **Cmd / Ctrl + Click** | Add block to selection |
+| **Shift + Click**       | Select range of blocks        |
+| **Cmd / Ctrl + Click**  | Add block to selection        |
 
 #### Lists and to-dos
 
-| Shortcut | Action |
-|---|---|
-| **`* ` / `- `** + space | Create bullet list |
-| **`1. `** + space | Create numbered list |
-| **`[] `** + space | Create checkbox / to-do |
-| **Tab** inside list | Increase nesting |
-| **Shift + Tab** inside list | Decrease nesting |
+| Shortcut                    | Action                  |
+| --------------------------- | ----------------------- |
+| **`*` / `-`** + space       | Create bullet list      |
+| **`1.`** + space            | Create numbered list    |
+| **`[]`** + space            | Create checkbox / to-do |
+| **Tab** inside list         | Increase nesting        |
+| **Shift + Tab** inside list | Decrease nesting        |
 
 #### Headings
 
-| Shortcut | Action |
-|---|---|
-| **`# `** + space | Heading 1 |
-| **`## `** + space | Heading 2 |
-| **`### `** + space | Heading 3 |
-| **`> `** + space | Toggle |
-| **`#> `** + space | Toggled Heading 1 |
-| **`##> `** + space | Toggled Heading 2 |
-| **`###> `** + space | Toggled Heading 3 |
+| Shortcut           | Action            |
+| ------------------ | ----------------- |
+| **`#`** + space    | Heading 1         |
+| **`##`** + space   | Heading 2         |
+| **`###`** + space  | Heading 3         |
+| **`>`** + space    | Toggle            |
+| **`#>`** + space   | Toggled Heading 1 |
+| **`##>`** + space  | Toggled Heading 2 |
+| **`###>`** + space | Toggled Heading 3 |
 
 #### Tables and code
 
-| Shortcut | Action |
-|---|---|
+| Shortcut                       | Action                                         |
+| ------------------------------ | ---------------------------------------------- |
 | **Cmd / Ctrl + Shift + Space** | Table cell options (when assigned — see below) |
-| **Tab** in code block | Indent line(s) |
-| **Shift + Tab** in code block | Outdent line(s) |
+| **Tab** in code block          | Indent line(s)                                 |
+| **Shift + Tab** in code block  | Outdent line(s)                                |
 
 You can now select multiple lines in a code block and indent or outdent them all at once with Tab and Shift+Tab.
 
-#### Sidebar
-
-| Shortcut | Action |
-|---|---|
-| **Cmd / Ctrl + .** | Toggle Sidebar |
-| **Cmd / Ctrl + Shift + .** | Toggle Sidebar and Widgets together |
-| **Cmd / Ctrl + Click** in sidebar | Open Object in new tab |
-
 #### Search and find
 
-| Shortcut | Action |
-|---|---|
+| Shortcut           | Action                             |
+| ------------------ | ---------------------------------- |
 | **Cmd / Ctrl + K** | Global search (across the Channel) |
-| **Cmd / Ctrl + F** | Find in current Object or Chat |
+| **Cmd / Ctrl + F** | Find in current Object or Chat     |
 
 In Chats, Cmd / Ctrl + F opens the Chat-specific message search.
 
@@ -148,7 +140,7 @@ Most shortcuts can be reassigned. Some are fixed (like Esc to close a popup) for
 
 To remap a shortcut:
 
-1. Open **Vault Settings > Application > Keyboard Shortcuts** (or the Shortcuts panel from the help menu).
+1. Hover over your **Profile Picture** > **? Help** > **Keyboard Shortcuts**&#x20;
 2. Find the action you want to remap.
 3. Click the existing shortcut field (or the empty field for unmapped actions).
 4. Press the new key combination.
@@ -158,9 +150,9 @@ To remap a shortcut:
 
 Some actions support two different shortcuts simultaneously. This is useful when:
 
-- You want both a Mac-style and a Windows-style shortcut for the same action
-- You want both a single-key and a chord shortcut
-- Different team members have different muscle memory
+* You want both a Mac-style and a Windows-style shortcut for the same action
+* You want both a single-key and a chord shortcut
+* Different team members have different muscle memory
 
 For these, the Shortcuts panel shows two slots — fill in either or both.
 
@@ -168,40 +160,25 @@ For these, the Shortcuts panel shows two slots — fill in either or both.
 
 You can save your full shortcut configuration to a file:
 
-1. **Vault Settings > Application > Keyboard Shortcuts**.
-2. Click **Export** to save your config as a JSON file.
-3. Click **Import** to load a config from a JSON file.
-
-Use this to:
-
-- **Sync across devices** — set up your shortcuts once, import on every machine
-- **Share with teammates** — agree on a team-wide shortcut convention
-- **Switch contexts** — keep separate configs for different workflows
+1. **Profile Picture** > **? Help** > **Keyboard Shortcuts** > **Three-dots menu**
+2. **Export** Shortcuts Mapping
+3. **Import** Shortcuts Mapping
 
 ### Categories in the Shortcuts panel
 
 Shortcuts are grouped into categories for easier browsing:
 
-- **Navigation** — opening Objects, switching tabs, search
-- **Editor** — block actions, text formatting
-- **Selection** — selecting blocks, text, multiple Objects
-- **Sidebar** — toggling, navigating widgets
-- **Settings** — opening various settings panels
-- **Application** — quitting, fullscreen, dev tools (when enabled)
-
-Each category can be collapsed to focus on the others.
+* **Keyboard Shortcuts** (Basic, Editor, Navigation)
+* **Markdown** (Typing, Beggining of new line)
+* **Commands** (Lists, Objects)
 
 ### Platform differences
 
 Anytype runs on macOS, Windows, and Linux. Most shortcuts use **Cmd on macOS** and **Ctrl on Windows / Linux** (the panel shows the right symbol for your OS). A few platform-specific shortcuts:
 
-- **Windows: Alt** opens the system menu (a Windows-only convention)
-- **macOS: Cmd + Q** quits the app entirely
-- **Linux: Ctrl + Q** quits the app entirely
-
-### Mobile
-
-The Anytype mobile app uses gestures and on-screen buttons — keyboard shortcuts apply only to desktop. If you connect a hardware keyboard to mobile, basic typing shortcuts (Cmd + B for bold, etc.) work, but the full shortcut customization isn't exposed on mobile.
+* **Windows: Alt** opens the system menu (a Windows-only convention)
+* **macOS: Cmd + Q** quits the app entirely
+* **Linux: Ctrl + Q** quits the app entirely
 
 ### Tips
 
@@ -211,8 +188,4 @@ The Anytype mobile app uses gestures and on-screen buttons — keyboard shortcut
 
 {% hint style="info" %}
 **Reassign Caps Lock if you don't use it.** A common power-user trick: rebind Caps Lock to something useful at the OS level (Esc, or a modifier), then use Anytype's customization to assign Caps + a letter as your "global Anytype" shortcut for opening search or creating notes.
-{% endhint %}
-
-{% hint style="info" %}
-**Export your config and put it in your dotfiles.** If you keep a personal config repository, exporting your Anytype shortcut JSON and committing it is a good way to keep your setup reproducible across machines.
 {% endhint %}
