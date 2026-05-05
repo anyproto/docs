@@ -15,10 +15,11 @@ This means you don't have to decide upfront where something "lives." You create 
 ### How it works
 
 Every Object has:
-- A **Type** that describes what kind of thing it is (Note, Task, Book, etc.) — see [Types](../types/README.md)
-- **Properties** that hold its details (status, date, author, etc.) — see [Properties](../types/relations.md)
-- **Blocks** that make up its content (text, images, embeds, etc.) — see [Blocks](blocks.md)
-- **Links** to other Objects — see [Links](linking-objects.md)
+
+* A **Type** that describes what kind of thing it is (Note, Task, Book, etc.) — see [Types](../types/)
+* **Properties** that hold its details (status, date, author, etc.) — see [Properties](../types/relations.md)
+* **Blocks** that make up its content (text, images, embeds, etc.) — see [Blocks](blocks.md)
+* **Links** to other Objects — see [Links](linking-objects.md)
 
 You can think of an Object as a flexible document that also acts as a node in your knowledge graph.
 
@@ -26,17 +27,15 @@ You can think of an Object as a flexible document that also acts as a node in yo
 
 #### Sidebar
 
-When clicking the plus button, you’ll immediately create a new object with the type that is set as your default object type in your channel settings.
+When clicking the "Create" button, you’ll immediately create a new object with the type that is set as your default object type in your channel settings.
 
 When clicking the arrow button, you'll be presented with a menu of your types which you can sort to your liking. You can then choose which one you want to create.
-
-<div><figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Command Menu
 
 When working in the editor you can type `/` to bring up the command menu. If you already know which Type you want to use, you can just type it directly. If you're not sure which Type you want to use, you can type `Objects` instead for the below menu to appear with all of your Types listed. Simply select the Object Type you'd like to create and it will be linked at your current place.
 
-<figure><img src="../../.gitbook/assets/image (183).png" alt="" width="375"><figcaption><p>Command menu > Objects</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/slashmenu-newobject.png" alt=""><figcaption><p>Command menu > Objects</p></figcaption></figure>
 
 #### Use a Shortcut
 
@@ -53,7 +52,7 @@ If you are working on something in an existing Object and would like to transfor
 1. Hovering to the left side of the block that you are working on and clicking the 3 dots.
 2. Using the `Cmd / Ctrl + /` keyboard shortcut.
 
-<figure><img src="../../.gitbook/assets/image (34) (1).png" alt="" width="563"><figcaption><p>Action menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/turninto-newobject.png" alt=""><figcaption><p>Action menu</p></figcaption></figure>
 
 ### Locating Your Objects
 
@@ -61,23 +60,25 @@ If you are working on something in an existing Object and would like to transfor
 
 You can now find all your objects in the sidebar, grouped by type.
 
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/objects types sidebar.png" alt=""><figcaption></figcaption></figure>
 
 #### Graph
 
 To find all of your objects and how they are connected, you can look to the [graph.md](../../advanced/feature-list-by-platform/graph.md "mention") for your main source of truth.
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/graph object.png" alt=""><figcaption></figcaption></figure>
 
 #### Search
 
 To navigate to the search, either head to your sidebar, and click on the search button or use the `Cmd / Ctrl + K` keyboard shortcut.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global search.png" alt=""><figcaption></figcaption></figure>
 
 #### Bin
 
 If you've previously removed some objects from your [space.md](../vault-and-key/space.md "mention"), they will appear in your [finding-your-objects.md](../../advanced/data-and-security/data-storage-and-deletion/finding-your-objects.md "mention") unless you've already permanently deleted them.
+
+<figure><img src="../../.gitbook/assets/bin.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Tip:** Don't worry about getting the Type right when you first create an Object. You can always change an Object's Type later from the Type menu at the top of the editor.
