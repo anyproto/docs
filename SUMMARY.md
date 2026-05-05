@@ -48,7 +48,7 @@
 * [Dates](advanced/feature-list-by-platform/dates.md)
 * [Tabs](advanced/feature-list-by-platform/tabs.md)
 * [Embeds](advanced/feature-list-by-platform/embeds.md)
-* [Inline Queries](advanced/feature-list-by-platform/inline-queries.md)
+* [Inline Lists](advanced/feature-list-by-platform/inline-queries.md)
 * [Advanced Filters](advanced/feature-list-by-platform/advanced-filters.md)
 * [Formulas](advanced/feature-list-by-platform/formulas.md)
 * [Custom CSS](advanced/feature-list-by-platform/custom-css.md)
