@@ -6,18 +6,18 @@ description: Sharing Channels, managing roles, and working together.
 
 ### What is Collaboration in Anytype?
 
-Anytype lets you share Channels with other people so you can work together. When you invite someone, they get encrypted access to everything in the Channel — Objects, Types, Properties, Chats — all syncing in real time across everyone's devices.
+Anytype lets you share Channels with other people so you can work together. When you invite someone, they get access to everything in the Channel — Objects, Types, Properties, Chats — all syncing in real time across everyone's devices.
 
-Unlike traditional cloud apps where a company mediates access, sharing in Anytype works **peer-to-peer**. Your data stays end-to-end encrypted, and only people you explicitly invite can decrypt and see it. Anytype's servers help with discovery and backup — but they can't read your content.
+Unlike traditional cloud apps where a company mediates access, sharing in Anytype works **peer-to-peer**. Your data stays end-to-end encrypted, and only people you explicitly invite can decrypt and see it. Anytype's servers help with backup — but they can't read your content.
 
 ### Why it matters
 
 Collaboration in Anytype isn't an add-on, it's part of the core architecture:
 
-- **End-to-end encryption** — messages, Objects, and files are encrypted before sync; the network sees only ciphertext
-- **Real-time sync** — changes appear instantly when members are online
-- **Offline-first** — work without internet, sync when reconnected
-- **No vendor account required** — collaborators don't need a third-party email or paid account, just Anytype
+* **End-to-end encryption** — messages, Objects, and files are encrypted before sync; the network sees only ciphertext
+* **Real-time sync** — changes appear instantly when members are online (or on the same network)
+* **Offline-first** — work without connection, sync when reconnected
+* **No vendor account required** — collaborators don't need a third-party email or paid account, just Anytype
 
 This makes shared Channels suitable for sensitive contexts: legal teams, journalists, communities of practice, family planning — anywhere you'd want collaboration without surveilance.
 
@@ -25,13 +25,11 @@ This makes shared Channels suitable for sensitive contexts: legal teams, journal
 
 Every Channel has three role levels:
 
-| Role | Edit Objects | Add/remove Objects | Edit Channel name/icon | Manage members | Permanent delete |
-|---|:---:|:---:|:---:|:---:|:---:|
-| **Owner** | ✓ | ✓ | ✓ | ✓ | All Objects (incl. others') |
-| **Editor** | ✓ | ✓ | ✓ (name/icon) | — | Only their own |
-| **Viewer** | — (read-only) | — | — | — | — |
-
-There's exactly one Owner per Channel. Editors can change Channel name and icon but can't manage members. Viewers can read everything but cannot create, edit, or delete Objects — they can still react to Chat messages and use search.
+| Role       | Edit Objects | Add/remove Objects | Edit Channel name/icon | Pin Object to Sidebar | Manage members |       Permanent delete      |
+| ---------- | :----------: | :----------------: | :--------------------: | :-------------------: | :------------: | :-------------------------: |
+| **Owner**  |       ✓      |          ✓         |            ✓           |           ✓           |        ✓       | All Objects (incl. others') |
+| **Editor** |       ✓      |          ✓         |           ✓            |           —           |        —       |        Only their own       |
+| **Viewer** |      —       |          —         |            —           |           —           |        —       |              —              |
 
 #### Permanent delete permissions
 
@@ -47,13 +45,12 @@ Open the Channel you want to share, then go to **Channel Settings > Members**.
 
 1. Click **Generate invite link**.
 2. Choose the link type:
-   - **Editor link** — recipients can join immediately as Editors
-   - **Viewer link** — recipients can join immediately as Viewers
-   - **Request access link** — recipients land in a queue; you approve their role
+   * **Editor link** — recipients can join immediately as Editors
+   * **Viewer link** — recipients can join immediately as Viewers
+   * **Request access link** — recipients land in a queue; you approve their role
 3. Copy the link.
-4. Send via your preferred method (email, message, etc.).
 
-The link contains everything needed to access the Channel — treat it as sensitive. Anyone with the link can join (or request to join) the Channel using the access level baked into the link.
+<figure><img src="../.gitbook/assets/members.png" alt=""><figcaption></figcaption></figure>
 
 #### QR codes
 
@@ -64,14 +61,14 @@ You can also generate a QR code for the invite link — useful when sharing in p
 You can revoke an invite link at any time:
 
 1. Open **Channel Settings > Members**.
-2. Find the active link in the list.
-3. Click **Revoke**.
+2. Find the current access option and open the list.
+3. Choose **Link Disabled**.
 
-After revocation, the link no longer works for new joiners. Members who already joined retain their access (revoke them individually if needed — see Managing members below).
+Members who already joined retain their access (revoke them individually if needed — see Managing members below).
 
 #### Editor seat limits
 
-Each Channel has a maximum number of Editors based on the Owner's plan. The default Free tier supports a small number of Editors per Channel. Higher-tier plans (Builder, Co-Creator, Ultra, Group memberships) increase this limit. See [Memberships](../advanced/monetization/README.md).
+Each Channel has a maximum number of Editors based on the Owner's plan. The default Free tier supports a small number of Editors per Channel. Higher-tier plans (Builder, Co-Creator, Ultra, Group memberships) increase this limit. See [Memberships](../advanced/monetization/).
 
 Once you reach the limit, new joiners can only join as Viewers until either the limit is raised or an existing Editor is downgraded or removed.
 
@@ -89,40 +86,40 @@ For Request-Access links, the flow is the same except instead of joining immedia
 
 From **Channel Settings > Members**, the Owner can:
 
-- **See the list** of all current members with their roles
-- **Change a member's role** (Editor ↔ Viewer)
-- **Remove a member** entirely (they'll receive a notification and lose access)
-- **See pending access requests** for Request-Access invite links
-- **Approve or deny** pending requests with a chosen role
+* **See the list** of all current members with their roles
+* **Change a member's role** (Editor ↔ Viewer)
+* **Remove a member** entirely (they'll receive a notification and lose access)
+* **See pending access requests** for Request-Access invite links
+* **Approve or deny** pending requests with a chosen role
 
 #### Members in Chats and Discussions
 
 Member display names and profile pictures (set in their own [Vault Settings > Profile](../advanced/settings/account-and-data.md)) appear next to their messages and posts. Click any member's name or profile to open their profile popup, where you can:
 
-- See their full profile (name, bio, profile picture)
-- Send them a Direct Message — opens a [Direct Channel](direct-channels.md)
-- See which other Channels you both belong to (if any)
+* See their full profile (name, bio, profile picture)
+* Send them a Direct Message — opens a [Direct Channel](direct-channels.md)
+* See which other Channels you both belong to (if any)
 
 ### Transferring Channel ownership
 
 Channel ownership can be transferred to another member. Use this when:
 
-- A team lead changes roles
-- The original creator leaves the team
-- You want to consolidate Owner responsibilities to someone else
+* A team lead changes roles
+* The original creator leaves the team
+* You want to consolidate Owner responsibilities to someone else
 
 #### How to transfer
 
 1. The current Owner opens **Channel Settings > Members**.
-2. Click the three-dot menu next to the future Owner's name (they must already be an Editor).
-3. Choose **Transfer ownership**.
+2. Find **Transfer ownership** next to the three-dot menu in the top right corner.
+3. Select the new Owner from the list of members.
 4. Confirm the transfer.
 
 After the transfer:
 
-- The new Owner takes full control, including the ability to transfer ownership again
-- You become an Editor (you keep your access but lose Owner-only privileges)
-- The transfer is logged in the Channel's activity (visible to other members)
+* The new Owner takes full control, including the ability to transfer ownership again
+* You become an Editor (you keep your access but lose Owner-only privileges)
+* The transfer is logged in the Channel's activity (visible to other members)
 
 This way, Channels can be handed over as roles change without recreating them or losing history.
 
@@ -134,7 +131,7 @@ To leave a Channel you've joined:
 2. Click **Leave Channel**.
 3. Confirm.
 
-You're removed from the Channel and lose access. Other members are notified that you've left. Your past contributions (Objects you created, messages you sent) remain in the Channel — Anytype doesn't delete content when a member leaves.
+You're removed from the Channel and lose access. Your past contributions (Objects you created, messages you sent) remain in the Channel — Anytype doesn't delete content when a member leaves.
 
 If you're the **Owner**, you can't leave directly — you must first transfer ownership to another member. If there are no other members, you can delete the Channel entirely.
 
@@ -142,37 +139,23 @@ If you're the **Owner**, you can't leave directly — you must first transfer ow
 
 When all members are online, changes propagate immediately:
 
-- Type a message → others see it appear character by character (or as soon as it's sent, depending on settings)
-- Edit an Object → other members watching the same Object see the change
-- Add a Property → it appears in everyone's view of the relevant Type
+* Edit an Object → other members watching the same Object see the change
+* Add a Property → it appears in everyone's view of the relevant Type
 
 When members go offline:
 
-- Their changes are queued locally
-- When they reconnect, queued changes sync up
-- Conflict resolution is automatic for most cases — last writer wins on text edits, both contributions are kept on independent Properties
-
-#### Sync status
-
-The globe icon at the top of the sidebar shows your current sync state:
-
-- **Connected** — fully synced with members and the network
-- **Syncing** — pulling or pushing changes
-- **Offline** — no network connection (changes are queued)
-- **Issue** — a sync problem; click to see details
-
-A red dot in the sidebar indicates there's a notice to review (sync issue, member request, system message).
+* Their changes are queued locally
+* When they reconnect, queued changes sync up
 
 ### Privacy in shared Channels
 
 Even when sharing, your data stays encrypted:
 
-- **End-to-end encrypted** between members
-- **No company access** — Anytype's network nodes hold encrypted data only; they can't decrypt content
-- **No log of contents** — what you write, no one outside the Channel can read
-- **Some metadata is visible to the network** — file existence, sync timing, Channel membership counts (but not content)
+* **End-to-end encrypted** between members
+* **No company access** — Anytype's network nodes hold encrypted data only; they can't decrypt content
+* **No log of contents** — what you write, no one outside the Channel can read
 
-For sensitive use, you can also use **self-hosted** networks where you control the relay nodes (see [Networks & Backup](../advanced/data-and-security/self-hosting/README.md)) or **local-only** mode for fully air-gapped sharing on a local network.
+For sensitive use, you can also use **self-hosted** networks where you control the relay nodes (see [Networks & Backup](../advanced/data-and-security/self-hosting/)) or **local-only** mode for fully air-gapped sharing on a local network.
 
 ### Tips
 
