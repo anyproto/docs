@@ -2,41 +2,57 @@
 
 You can access your vault settings from one of these 3 places:
 
-<div><figure><img src="../../.gitbook/assets/image (23).png" alt="" width="328"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (25).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure></div>
+* Click on your **Profile picture in the left bottom corner** on the Vault (List of Channels)
+* Open **Anytype menu** on the top app bar > **Settings** > **Vault**
+* Open **Global Search** > Type "**Profile**"
 
 ## Profile
 
 Here you can add your **name, bio,** and **profile picture.** Your profile represents an Object in your Anytype Graph which you can freely link to other Objects.
 
-<figure><img src="../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/profile-info.png" alt=""><figcaption></figcaption></figure>
 
 ## Application
 
 ### Preferences
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/preferences (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Appearance
 
 **Set color mode:** Choose between light, dark or auto color modes.
 
-#### Editor Personalization
+**Notification sound:** "Off" or Choose between a few pleasant tones.
 
-**Open objects in fullscreen:** You can decide whether you want all objects to be opened in fullscreen by default.
+#### Interface
 
-#### App Appearance
+**Channels hub density: Compact** (Stripe view) or with **Messages Previews**
 
-**Link to object style:** You can decide which style should the /link command use by default (either card or text).
+**Always show tab bar:** Choose whether you want the tab bar to always be visible&#x20;
 
 **Automatically show and hide sidebar:** With this option disabled the sidebar won't automatically pop out when you hover over the left side of the screen.
 
-**Show Anytype in system tray:** Anytype will always stay running in the background, but you have the option to either have it show in the system tray or not.
+<figure><img src="../../.gitbook/assets/preferences (4).png" alt=""><figcaption></figcaption></figure>
 
-**Show menu bar:** This setting will show the default menu bar for your OS.
+#### Content & Views
+
+**Open objects in fullscreen:** You can decide whether you want all objects to be opened in fullscreen by default or in a modal window
+
+**Object link style:** You can decide which style should the /link command use by default (either card or text)
+
+**File block style:** Choose whether you want the file block to use the embedded style or be displayed as a simple link
+
+**Click to edit title in Grid view:** A lets you choose whether clicking a title in Grid view enters edit mode or opens the Object directly:
+
+<figure><img src="../../.gitbook/assets/open-grid (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Messaging
+
+Send messages in Chats / send comments in Discussions with `Enter` or `Cmd+Enter` .
 
 ### Language & Region
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/language.png" alt=""><figcaption></figcaption></figure>
 
 #### **Language & Spelling**
 
@@ -82,17 +98,21 @@ You can manage your [Membership](../monetization/) plans here.
 
 ### Local Storage
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/local-storage.png" alt=""><figcaption></figcaption></figure>
 
 **Local Files:** You can choose to offload files stored in Anytype to our Anytype Network.
+
+**Offline Access: Y**ou can choose a storage threshold (Off, 20MB, 100MB, 250MB, 1GB, or Unlimited) to control how much data is auto-synced for offline use.
 
 **Data Location:** You can also decide where your data is stored (desktop only).
 
 ### Channels
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/channels-settings.png" alt=""><figcaption></figcaption></figure>
 
 Here you can find a list of all of your channel, your access roles and their network status.
+
+In the Three-dot menu you can also find the "Invite Link", QR Code, and "Delete Channel" option.
 
 ### My Sites
 
@@ -102,6 +122,6 @@ Here you are able to find and manage all objects that you've previously publishe
 
 ### API Keys
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-05 at 23.06.33 1.png" alt=""><figcaption></figcaption></figure>
 
-Here you are able to find and manage all API keys that you have you've previously created.
+Here you are able to find and manage all API keys that you have you've previously created, as well as to create new ones.
