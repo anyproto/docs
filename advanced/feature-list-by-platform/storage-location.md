@@ -8,28 +8,7 @@ description: Where your Vault data lives on disk, and how to move it.
 
 The **Storage Location** is the folder on your hard drive where Anytype keeps your Vault data — every Object, every encrypted block, every file you've uploaded, plus the indexes Anytype uses to make search fast.
 
-By default, Anytype picks a standard location based on your operating system:
-
-- **macOS** — `~/Library/Application Support/anytype2`
-- **Windows** — `%APPDATA%\anytype2`
-- **Linux** — `~/.config/anytype2` (may vary by distribution)
-
-You can change this to any folder you choose — useful for moving data to a larger drive, an encrypted partition, or a different filesystem.
-
-{% hint style="warning" %}
-The Storage Location feature is currently desktop only. On mobile, your Vault data lives in the app's sandboxed storage and can't be relocated.
-{% endhint %}
-
-### Why it matters
-
-Most users never need to change the storage location. But there are good reasons to:
-
-- **Disk space** — your default drive is full, and you have a larger secondary drive
-- **Performance** — you want your Vault on an SSD instead of an HDD
-- **Encryption** — you want your Vault on an encrypted volume (FileVault, BitLocker, LUKS)
-- **Portability** — you want your Vault on an external drive that moves between computers
-- **Organization** — you prefer all your data in a specific folder you back up
-- **Privacy** — some users prefer non-default locations for OPSEC reasons
+By default, Anytype picks a standard location based on your operating system, you can change this to any folder you choose — useful for moving data to a larger drive, an encrypted partition, or a different filesystem.
 
 ### Setting the location at first install
 
@@ -65,7 +44,7 @@ The data in the old folder isn't automatically deleted. Once you've confirmed th
 This recovers the disk space.
 
 {% hint style="warning" %}
-**Do not delete the old folder until you've verified the new location is fully synced.** If anything goes wrong, the old folder is your local backup. Wait until you can browse, edit, and search in your new Vault before cleaning up.
+**Do not delete the old folder until you've verified the new location is fully synced.**&#x20;
 {% endhint %}
 
 ### Using external drives
@@ -78,9 +57,9 @@ To store your Vault on an external drive:
 
 This works fine for stationary external drives (a desktop external SSD, a NAS mounted as a local volume). It works less well for drives that connect and disconnect often, since:
 
-- If the drive isn't mounted when Anytype starts, the app can't find your Vault and shows a connection error
-- Sync is paused while the drive is unavailable
-- Some operations may write to the default location if the external drive disappears mid-operation
+* If the drive isn't mounted when Anytype starts, the app can't find your Vault and shows a connection error
+* Sync is paused while the drive is unavailable
+* Some operations may write to the default location if the external drive disappears mid-operation
 
 For a portable Vault, consider using a fast USB-C SSD that you keep mounted while Anytype is running.
 
@@ -88,22 +67,12 @@ For a portable Vault, consider using a fast USB-C SSD that you keep mounted whil
 
 You can put your Vault on:
 
-- **macOS FileVault** — works transparently; no special setup
-- **Windows BitLocker** — works transparently
-- **Linux LUKS / dm-crypt** — works transparently
-- **VeraCrypt containers** — supported, but you must mount the container before launching Anytype
+* **macOS FileVault** — works transparently; no special setup
+* **Windows BitLocker** — works transparently
+* **Linux LUKS / dm-crypt** — works transparently
+* **VeraCrypt containers** — supported, but you must mount the container before launching Anytype
 
 Anytype's data is already encrypted at rest (via the Vault's master key derived from your 12-word phrase), so volume-level encryption is an additional layer rather than a substitute. It's useful if you want defense-in-depth or if you're worried about other apps on the device reading filenames or sync metadata.
-
-### Cloud-synced folders (NOT recommended)
-
-We do not recommend using cloud providers like Google Drive, iCloud, Dropbox, or OneDrive for your Vault folder. The sync conflict behavior of these tools doesn't match Anytype's expectations and you may end up with:
-
-- Sync conflicts where the cloud creates duplicate files (`file (1).db`, `file (2).db`)
-- Index corruption from partial syncs interrupting Anytype's writes
-- Data loss when conflict resolution merges incompatible versions
-
-If you want your Vault available on multiple devices, use Anytype's own sync — it's encrypted, conflict-aware, and designed for the job. The default cloud network or a self-hosted node will keep your devices in sync without requiring third-party storage tools.
 
 ### Local-only mode
 
@@ -111,51 +80,12 @@ If you choose Local-only network mode (in Vault Settings > Networks & Backup), y
 
 This is the most private mode but has tradeoffs:
 
-- **No off-device backup** — if your storage location is wiped, your data is gone
-- **No remote recovery** — you can't restore from another device unless you've synced P2P recently
-- **Sync between your own devices** still works, but only over your local network (Wi-Fi)
+* **No off-device backup** — if your storage location is wiped, your data is gone
+* **No remote recovery** — you can't restore from another device unless you've synced P2P recently
+* **Sync between your own devices** still works, but only over your local network (Wi-Fi)
 
 Combine Local-only mode with a manual backup strategy: regularly export your Channels (Settings > Integrations > Export Channel) to a separate location.
 
 {% hint style="danger" %}
 **In Local-only mode, your storage location is the only copy of your data**. Treat the folder like a precious original — back it up regularly, and never let it live somewhere ephemeral (like a temp directory or unmounted drive).
-{% endhint %}
-
-### Migrating between machines
-
-To move your Vault from one computer to another, you have two options:
-
-#### Option 1: Sync via the network (recommended)
-
-1. On the new machine, install Anytype.
-2. Click **I already have a Key**.
-3. Enter your Key (or scan the QR from your old device).
-4. Anytype downloads your Vault from the network.
-
-This is the cleanest path. No file copying, no opportunity for corruption.
-
-#### Option 2: Copy the storage folder (advanced)
-
-For very large Vaults where re-downloading would be slow:
-
-1. **Quit Anytype** on the old machine.
-2. **Copy the entire storage folder** to the new machine.
-3. **Install Anytype** on the new machine.
-4. **Set the storage location** to point at the copied folder during first login.
-5. **Log in with your Key**.
-
-This works but is fragile — file permission issues, partial copies, or modifications during copy can break the database. The network sync path is generally safer.
-
-### Tips
-
-{% hint style="info" %}
-**Put the Vault on your fastest drive.** Anytype writes frequently — every edit hits the database. An SSD makes the entire app feel snappier than an HDD, especially in large Vaults.
-{% endhint %}
-
-{% hint style="info" %}
-**Volume-level encryption + Anytype's encryption = belt and suspenders.** You're not double-encrypting (Anytype's data is already encrypted); you're protecting metadata and adding a layer against on-disk forensics.
-{% endhint %}
-
-{% hint style="info" %}
-**Back up the Storage Location to your normal backup tool.** Time Machine, Backblaze, restic, whatever you use — just include the Anytype folder. The data is encrypted at rest, so your backup tool can copy it without seeing your content.
 {% endhint %}
