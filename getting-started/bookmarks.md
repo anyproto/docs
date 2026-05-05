@@ -27,6 +27,8 @@ You can then:
 
 ### Bookmark layout
 
+<figure><img src="../.gitbook/assets/bookmark.png" alt=""><figcaption></figcaption></figure>
+
 Bookmarks have their own dedicated layout, separate from the standard Page layout. Each Bookmark displays:
 
 * The page's preview image at the top
@@ -63,27 +65,6 @@ In the editor, type `/bookmark` and paste the URL.
 
 If you've installed the Anytype browser extension, click its icon on any page to save it as a Bookmark Object directly to a Channel of your choice. (See your platform's installation guide for setup.)
 
-### Updating a Bookmark
-
-If a webpage changes its title or preview image, your Bookmark won't update automatically. To refresh:
-
-1. Open the Bookmark Object.
-2. Click the three-dot menu in the top-right corner.
-3. Choose **Refetch metadata**.
-
-This pulls the latest title, description, and image from the source URL.
-
-### Editing the Bookmark
-
-You can override the auto-fetched data:
-
-* **Title** — click the title at the top of the layout and type
-* **Description** — edit the description Property in the Properties panel
-* **Image** — click the preview image and choose **Replace** or **Remove**
-* **URL** — click the URL field and edit
-
-Edits are stored on the Bookmark Object only — they don't affect the original page.
-
 ### Organizing Bookmarks
 
 Because Bookmarks are Objects with their own Type, you can:
@@ -101,8 +82,4 @@ Because Bookmarks are Objects with their own Type, you can:
 
 {% hint style="info" %}
 **Drag Bookmarks into Collections** when you want to group them by topic without setting up a tag system. A "Trip planning" Collection can hold flight bookings, AirBnB pages, and restaurant reviews side by side.
-{% endhint %}
-
-{% hint style="warning" %}
-The preview image and metadata are fetched from the source URL once, when the Bookmark is created. If the page is later taken down, the saved title and image still display — but the **Open Website** button will lead to a dead link.
 {% endhint %}
