@@ -2,7 +2,9 @@
 
 ### What are Properties?
 
-**Properties** are the details you attach to an Object. If an Object is a "thing" in Anytype, Properties are what you know *about* that thing — its status, due date, author, priority, tags, or any other attribute you care about.
+**Properties** are the details you attach to an Object. If an Object is a "thing" in Anytype, Properties are what you know _about_ that thing — its status, due date, author, priority, tags, or any other attribute you care about.
+
+<figure><img src="../../.gitbook/assets/settings-properties.png" alt=""><figcaption></figcaption></figure>
 
 ### Why they matter
 
@@ -12,20 +14,16 @@ Properties turn your Objects from plain documents into structured data. Once you
 
 Properties serve two functions:
 
-**1. Describing an Object (attributes)**
-Add details like Status, Priority, Due Date, or Rating. For example, a Task might have:
-- Status: In Progress
-- Priority: High
-- Due Date: Next Friday
+**1. Describing an Object (attributes)** Add details like Status, Priority, Due Date, or Rating. For example, a Task might have:
 
-**2. Connecting Objects (relations)**
-Link one Object to another through a Property. For example, a Task might have:
-- Assigned To: → Alex (a Person object)
-- Project: → Website Redesign (a Project object)
+* Status: In Progress
+* Priority: High
+* Due Date: Next Friday
 
-These connections show up in your Graph, making it easy to see how your information relates.
+**2. Connecting Objects (relations)** Link one Object to another through a Property. For example, a Task might have:
 
-<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+* Assigned To: → Alex (a Person object)
+* Project: → Website Redesign (a Project object)
 
 ### Worked example: Setting up a reading list
 
@@ -35,7 +33,7 @@ Let's say you have several Book objects and want to track your reading:
 2. Add a **Select** property called "Status" with options: Want to Read, Reading, Finished.
 3. Add a **Number** property called "Rating" (1-5).
 4. Add an **Object** property called "Recommended By" and link it to a Person object.
-5. Now open a Query filtered by Type: Book. Toggle on your new Properties — you'll see them as columns, and you can sort by Rating or filter by Status.
+5. Now open a Type: Book. Toggle on your new Properties — you'll see them as columns, and you can sort by Rating or filter by Status.
 
 This same pattern works for any Type: define the Properties that matter, then use Queries to slice and view your data.
 
@@ -43,9 +41,9 @@ This same pattern works for any Type: define the Properties that matter, then us
 
 #### Creating Properties from the Type Edit Menu
 
-While editing any [Type in your Space settings](./#creating-types-from-space-settings), you can use the `+` button in the top right corner of the Properties section to either add an existing property to the current Type or to create a new one.&#x20;
+While editing any [Type in your Space settings](./#creating-types-from-space-settings), you can use the `+` button in the top right corner of the Properties section to either add an existing property to the current Type or to create a new one.
 
-<div><figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/newproperty-type.png" alt=""><figcaption></figcaption></figure>
 
 #### Creating Properties from Space Settings
 
@@ -53,19 +51,17 @@ Open your [space.md](../vault-and-key/space.md "mention") settings, and navigate
 
 From here, you can choose a name and a type for your new Property.
 
-<div><figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/settings-properties.png" alt=""><figcaption></figcaption></figure>
 
-If you've decided that this Property is no longer relevant, you can use the context menu (mouse right-click) to delete the Property from your space.
-
-<figure><img src="../../.gitbook/assets/image (190).png" alt="" width="375"><figcaption></figcaption></figure>
+If you've decided that this Property is no longer relevant, you can use the context menu (mouse right-click) to delete the Property from your Channel.
 
 #### Creating Properties from the Object Editor
 
 You can add a Property to your Objects as you would with any other block in the editor: by using the `+` button or the in-line `/` menu.
 
-<div><figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/slashmenu-property.png" alt=""><figcaption></figcaption></figure>
 
-Any Property you create from the object editor will be available for editing in your space settings using the steps above.
+Any Property you create from the object editor will be available for editing in your Channel settings using the steps above.
 
 #### Types of Properties <a href="#types-of-relations" id="types-of-relations"></a>
 
@@ -83,15 +79,11 @@ Here are the currently available Property types within Anytype:
 
 ### Managing Properties
 
-You can also manage the Properties for a given Object via its **Properties Panel:** the bullet list icon that appears in the top right corner of the screen. This Panel shows all Properties for that Object.
+You can also manage the Properties for a given Object via **Edit Type** (three-dots menu in the top right corner of any Object).
 
-<div><figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/New Type – Default State.png" alt=""><figcaption></figcaption></figure>
 
 The Properties icon lets you view the properties of a specific object, while the Set up menu allows you to manage the properties of its Type – you can add, remove and organize them into different sections:
 
-* Header properties appear in the header part of every object of that Type
-* Panel properties are those that will be shown by pressing Properties icon
-* Hidden properties live under the "Hidden" toggle
-* Local properties are those that are not associated with the Object's Type
-
-<figure><img src="../../.gitbook/assets/image (127).png" alt="" width="563"><figcaption></figcaption></figure>
+* **Header** properties appear in the header part of every object of that Type
+* **Panel** properties are those that will be shown by pressing Properties icon
