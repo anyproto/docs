@@ -10,17 +10,6 @@ A **Toggled Heading** is a heading that can be collapsed to hide everything bene
 
 This works on all three heading levels: Title (H1), Heading (H2), and Subheading (H3).
 
-### Why it matters
-
-Long Objects become hard to navigate when everything is expanded at once. Toggled Headings let you outline an entire document and collapse sections you're not currently working on, keeping only what you need in view.
-
-This is especially useful for:
-
-* **Outlines and plans** — see the structure first, expand a section to dive in
-* **Meeting notes** — collapse old meetings, keep recent ones expanded
-* **Reference docs** — collapse rarely-used sections so they don't crowd the page
-* **Long-form drafts** — fold finished sections away while you focus on the next one
-
 ### How it works
 
 A Toggled Heading captures everything below it (until the next heading of the same or higher level) as its children. When you collapse the toggle, all those child blocks are hidden.
@@ -111,10 +100,6 @@ Click the block handle on the heading > **Turn into > Heading 1** (or 2, or 3, w
 
 {% hint style="info" %}
 **Use the Title-level toggle as a section divider.** A Toggled H1 named "Archive" or "Old notes" lets you stash content out of the way without deleting it.
-{% endhint %}
-
-{% hint style="info" %}
-**Toggled Headings + Table of Contents = navigation.** With the Table of Contents panel open in the sidebar, click any heading to jump to it — the toggle expands automatically if it was collapsed.
 {% endhint %}
 
 {% hint style="info" %}
