@@ -88,12 +88,6 @@ You can access your Key or scan the QR code to connect your mobile device. For m
 
 **Vault Deletion:** Also, if you would like to delete your vault, you can do it in this section.
 
-### Membership
-
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
-
-You can manage your [Membership](../monetization/) plans here.
-
 ## Data Management
 
 ### Local Storage

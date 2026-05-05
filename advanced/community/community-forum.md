@@ -10,11 +10,9 @@ If you want to post in the Anytype Community, you'll need an account.
 
 In your desktop app, click the **?** (Help) button in the lower right corner of your sidebar, then "[Join Our Community](https://community.anytype.io/invites/sig5xTU4ZZ)".
 
-<figure><img src="../../.gitbook/assets/image (225).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/join-comminuty.png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, find the menu bar at the top of the window just below the title bar, and then click on `Help > Report a Bug.`
-
-<figure><img src="../../.gitbook/assets/image (45) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Squash that bug!
 
@@ -32,9 +30,9 @@ You can find your **Technical Information** by going to `Help > Technical Inform
 
 ### Request a Feature & Vote
 
-This is the place to post, contribute to, & vote for all things related to feature requests & new feature development!&#x20;
+This is the place to post, contribute to, & vote for all things related to feature requests & new feature development!
 
-We prioritize our building agenda based on what is most desired by our community.&#x20;
+We prioritize our building agenda based on what is most desired by our community.
 
 So if there is something you want to see happen, go out and vote for it!
 
@@ -44,9 +42,9 @@ Beware! Search for a topic before, see if it already exists _before_ adding a ne
 
 ### Get help from the community and Any Team!
 
-Are you looking for some help building and using your Anytype? If these docs didn't help you enough, you can always check and see if someone in the community has asked a similar question.&#x20;
+Are you looking for some help building and using your Anytype? If these docs didn't help you enough, you can always check and see if someone in the community has asked a similar question.
 
-If you need suggestions of what to build or inspiration from seeing how others are using Antype, you can find an abundance here.&#x20;
+If you need suggestions of what to build or inspiration from seeing how others are using Antype, you can find an abundance here.
 
 This is the place to get some assistance or shout-out if you have questions unrelated to feature requests or bugs!
 

@@ -183,10 +183,4 @@ Unless they are all part of the same local network, guests will need to be conne
 
 </details>
 
-<details>
-
-<summary>Why do I have an Entry Space?</summary>
-
 Vaults created before version 0.44.0 have an Entry Space. You are free to delete this channel if no longer needed, or you can migrate your data to a different channel by using the [import-export](data-and-security/import-export/ "mention") feature.
-
-</details>
