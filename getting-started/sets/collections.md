@@ -14,22 +14,16 @@ Most things you organize don't share a clean rule. They belong together because 
 
 Collections shine when:
 
-- **A project mixes Types** — tasks, design files, meeting notes, references all in scope. A "Q1 Marketing" Collection holds them all without forcing them into a single Type.
-- **You're curating, not filtering** — your favorite recipes, your top references, your reading list. These aren't "all books" or "books with rating ≥ 4" — they're the ones you specifically chose.
-- **You want a project hub** — open the Collection and you're inside the project. Add new Objects directly. Pin it to the sidebar for one-click access.
-- **You're onboarding someone** — a Collection of "everything a new team member should see" is hand-picked, not filter-defined.
-
-### How a Collection works
-
-A Collection is its own Object. It has:
-
-- **Members** — the Objects you've added (any Type, any number)
-- **Views** — different layouts (Grid, List, Gallery, Board, Calendar) like a Type or Query
-- **Properties** — like any Object, give the Collection itself Tags, a description, anything
-
-Adding an Object to a Collection doesn't move it. The Object still lives wherever it lived before. Collections store *references*, so the same Object can appear in multiple Collections without being duplicated.
+* **A project mixes Types** — tasks, design files, meeting notes, references all in scope. A "Q1 Marketing" Collection holds them all without forcing them into a single Type.
+* **You're curating, not filtering** — your favorite recipes, your top references, your reading list. These aren't "all books" or "books with rating ≥ 4" — they're the ones you specifically chose.
+* **You want a project hub** — open the Collection and you're inside the project. Add new Objects directly. Pin it to the sidebar for one-click access.
+* **You're onboarding someone** — a Collection of "everything a new team member should see" is hand-picked, not filter-defined.
 
 ### Creating a Collection
+
+*
+
+    <figure><img src="../../.gitbook/assets/lists-create-collection.png" alt=""><figcaption></figcaption></figure>
 
 #### From the sidebar
 
@@ -82,17 +76,19 @@ To delete the Object entirely, use **Move to Bin** instead. Removing from a Coll
 
 ### Views in a Collection
 
-Collections support the same View types as Type pages: Grid, List, Gallery, Board, Calendar, Graph. Each View has its own layout, visible Properties, sort, and filters.
+Collections support the same View types as Type pages: Grid, Gallery, List, Kanban, Calendar. Each View has its own layout, visible Properties, sort, and filters.
+
+<figure><img src="../../.gitbook/assets/lists-layout.png" alt=""><figcaption></figcaption></figure>
 
 New Collections use **Grid** as the default layout — Properties show as columns immediately.
 
 #### Filters within a Collection
 
-You can apply filters to a Collection's View. Filters narrow which *members* are shown — they don't pull in new Objects from outside the Collection. Useful when:
+You can apply filters to a Collection's View. Filters narrow which _members_ are shown — they don't pull in new Objects from outside the Collection. Useful when:
 
-- A Collection has many Objects and you want to focus on a subset
-- You want a Board view of just the Tasks in a mixed-Type project Collection
-- You want a Calendar view of just the Date-bearing Objects
+* A Collection has many Objects and you want to focus on a subset
+* You want a Board view of just the Tasks in a mixed-Type project Collection
+* You want a Calendar view of just the Date-bearing Objects
 
 For more on filtering, see [Advanced Filters](../../advanced/feature-list-by-platform/advanced-filters.md).
 
@@ -100,9 +96,9 @@ For more on filtering, see [Advanced Filters](../../advanced/feature-list-by-pla
 
 A "Q1 Marketing" Collection might have:
 
-- **Tasks (Board)** — only Tasks, grouped by Status
-- **Documents (Gallery)** — only Documents, with cover images
-- **All (Grid)** — everything, sortable
+* **Tasks (Board)** — only Tasks, grouped by Status
+* **Documents (Gallery)** — only Documents, with cover images
+* **All (Grid)** — everything, sortable
 
 Switch between Views with the View tabs at the top.
 
@@ -124,20 +120,20 @@ Embed a Collection inside another Object using `/collection > Inline`. The Colle
 
 This works well for:
 
-- Project hub pages with an inline Collection of project Objects
-- Reference pages with curated Object lists embedded in context
-- Templates where the inline Collection holds the structure-relevant Objects
+* Project hub pages with an inline Collection of project Objects
+* Reference pages with curated Object lists embedded in context
+* Templates where the inline Collection holds the structure-relevant Objects
 
 ### Collections vs Queries
 
 The two are easy to confuse, so it's worth being explicit:
 
-| | Collection | Query |
-|---|---|---|
-| Membership | Hand-picked | Auto-filtered by criteria |
-| Mixed Types | Natural fit | Possible via Property queries, but not the common case |
-| Adding an Object | Manual action | Happens automatically when the Object matches |
-| Best for | Projects, curated lists, reading queues | Filtered slices, dashboards, "everything matching X" |
+|                  | Collection                              | Query                                                  |
+| ---------------- | --------------------------------------- | ------------------------------------------------------ |
+| Membership       | Hand-picked                             | Auto-filtered by criteria                              |
+| Mixed Types      | Natural fit                             | Possible via Property queries, but not the common case |
+| Adding an Object | Manual action                           | Happens automatically when the Object matches          |
+| Best for         | Projects, curated lists, reading queues | Filtered slices, dashboards, "everything matching X"   |
 
 Often you'll use both. A project Collection populated by hand, with an [Inline Query](../../advanced/feature-list-by-platform/inline-queries.md) inside it showing live status — like "Tasks in this Collection where Status = In Progress."
 

@@ -6,31 +6,31 @@ description: Filtered views on top of your Types.
 
 ### What is a Query?
 
-When you create a [Type](../types/README.md), Anytype automatically gives you a built-in Query — open the Type and you see every Object of that Type in one view. **For most people, this is all you need to find things.**
+When you create a [Type](../types/), Anytype automatically gives you a built-in Query — open the Type and you see every Object of that Type in one view. **For most people, this is all you need to find things.**
 
-A **Query** is what you create when you want to go further: a filtered, sorted, custom-laid-out slice of Objects. "Tasks where Status is In Progress." "Books I've rated 4 stars or more." "Notes modified this week." You define the filters, and the Query updates live as your data changes.
+<figure><img src="../../.gitbook/assets/types-page (1).png" alt=""><figcaption></figcaption></figure>
 
 If you've used spreadsheet filters or smart playlists, Queries work the same way.
 
 ### When to use a Query
 
+A **Query** is what you create when you want to go further: a filtered, sorted, custom-laid-out slice of Objects. "Tasks where Status is In Progress." "Books I've rated 4 stars or more." "Notes modified this week."&#x20;
+
+<figure><img src="../../.gitbook/assets/lists-query (1).png" alt=""><figcaption></figcaption></figure>
+
 Use a Query when you want to:
 
-- **Slice a Type by Property values** — not all your Tasks, just the active ones. Not all your Books, just the ones you're currently reading.
-- **Create a saved filtered view** — pin "Tasks where Status = In Progress" to your sidebar so you don't filter every time.
-- **Build a dashboard** — combine multiple [Inline Queries](../../advanced/feature-list-by-platform/inline-queries.md) on a single Object for an at-a-glance view of your work.
-- **Cross multiple Types via a Property** — every Object that has a Date Property, regardless of Type.
-- **Customize the view independently** — a Type's built-in Query has one default view; a custom Query can have many.
-
-If you just want "all my Tasks" with no filters, **open the Task Type** instead. The built-in Query is already there.
-
-<figure><img src="../../.gitbook/assets/image (111).png" alt="" width="563"><figcaption></figcaption></figure>
+* **Slice a Type by Property values** — not all your Tasks, just the active ones: Task Tracker. Not all your Books, just the ones you're currently reading.
+* **Create a saved filtered view** — pin "Tasks where Status = In Progress" to your sidebar so you don't filter every time.
+* **Build a dashboard** — combine multiple [Inline Queries](../../advanced/feature-list-by-platform/inline-queries.md) on a single Object for an at-a-glance view of your work.
+* **Cross multiple Types via a Property** — every Object that has a Date Property, regardless of Type.
+* **Customize the view independently** — a Type's built-in Query has one default view; a custom Query can have many.
 
 ### How a Query is structured
 
 Every Query has three layers:
 
-1. **Source** — the universe of Objects to query. Either *Type* (e.g., all Tasks) or *Property* (e.g., all Objects with a "Reviewed" property).
+1. **Source** — the universe of Objects to query. Either _Type_ (e.g., all Tasks) or _Property_ (e.g., all Objects with a "Reviewed" property).
 2. **Filters and sorts** — narrow down and order the source.
 3. **Views** — different visual presentations of the same data (Grid, List, Board, etc.).
 
@@ -45,30 +45,21 @@ Each Query can have multiple Views — same data, different layouts. A Tasks Que
 3. Pick the Type or Property to query.
 4. Configure filters, sort, and view.
 
+<figure><img src="../../.gitbook/assets/lists-create-query (1).png" alt=""><figcaption></figcaption></figure>
+
 #### From the slash menu
 
 Type `/query` in any editor to insert an [Inline Query](../../advanced/feature-list-by-platform/inline-queries.md) — a Query embedded inside another Object.
-
-#### Query by Type vs Query by Property
-
-- **Query by Type** — pulls in all Objects of a specific Type. The most common starting point.
-- **Query by Property** — pulls in all Objects that have a specific Property defined, regardless of Type. Useful for cross-Type views.
-
-You can switch between the two later in the Query's source settings.
 
 ### Filters
 
 Filters narrow your Query to Objects matching specific conditions. Each filter has:
 
-- **Property** — which Property to check
-- **Operator** — how to compare (is, is not, contains, is greater than, etc.)
-- **Value** — what to compare against, including [dynamic values](../../advanced/feature-list-by-platform/advanced-filters.md#dynamic-filter-values) like Current User and This Object
+* **Property** — which Property to check
+* **Operator** — how to compare (is, is not, contains, is greater than, etc.)
+* **Value** — what to compare against, including [dynamic values](../../advanced/feature-list-by-platform/advanced-filters.md#dynamic-filter-values) like Current User and This Object
 
 Multiple filters are joined by AND by default. For OR logic, grouping, and complex conditions, see [Advanced Filters](../../advanced/feature-list-by-platform/advanced-filters.md).
-
-#### The active filter bar
-
-Active filters appear in a **dedicated bar above your view**. Each chip shows the property, operator, and value. Click any chip to edit it; click the × to remove it; click **Clear all** to wipe the filter set.
 
 ### Sorts
 
@@ -80,16 +71,17 @@ In list views, you can also drag and drop Objects to **manually reorder** them. 
 
 A View is one specific layout + filter + sort configuration. Every Query starts with one default View, but you can add more.
 
+<figure><img src="../../.gitbook/assets/lists-layout.png" alt=""><figcaption></figcaption></figure>
+
 #### Layout types
 
-| Layout | Best for |
-|---|---|
-| **Grid** | Spreadsheet-style — every Property as a column. Best for batch editing and detail. |
-| **List** | Compact — minimal Properties shown, more rows visible. |
-| **Gallery** | Visual cards with cover image. Best for media, books, projects. |
-| **Board** | Kanban — Objects grouped into columns by a chosen Property. |
-| **Calendar** | Date-based — Objects appear on the date of their Date Property. |
-| **Graph** | Connection-based — Objects shown as nodes with their links. |
+| Layout       | Best for                                                                           |
+| ------------ | ---------------------------------------------------------------------------------- |
+| **Grid**     | Spreadsheet-style — every Property as a column. Best for batch editing and detail. |
+| **Gallery**  | Visual cards with cover image. Best for media, books, projects.                    |
+| **List**     | Compact — minimal Properties shown, more rows visible.                             |
+| **Kanban**   | Board — Objects grouped into columns by a chosen Property.                         |
+| **Calendar** | Date-based — Objects appear on the date of their Date Property.                    |
 
 {% hint style="warning" %}
 Kanban (Board), Calendar, and Graph views are available on desktop only.
@@ -100,7 +92,7 @@ New Queries use **Grid** as the default layout — Properties are immediately vi
 #### Adding and switching Views
 
 1. Click the View name at the top of the Query.
-2. Click **+ Add View**.
+2. Click **+ Create New View**.
 3. Pick a layout type and name the View.
 
 Each View has its own filters, sorts, visible Properties, and grouping. Switch between Views with one click using the View tabs.
@@ -113,14 +105,16 @@ Each View shows a subset of Properties as columns or fields. To change which Pro
 2. Toggle Properties on or off.
 3. Drag to reorder them.
 
+<figure><img src="../../.gitbook/assets/lists-addproperties.png" alt=""><figcaption></figcaption></figure>
+
 ### Editing Objects in Grid view
 
 Grid view supports inline editing for all Property types. Click a cell to enter edit mode. Tab between cells. Multi-select with Shift + Click for bulk updates.
 
 A toggle in **Vault Settings > Application > Preferences** controls click behavior in Grid view:
 
-- **Click to edit** (default) — clicking the title puts you in edit mode
-- **Click to open** — clicking the title opens the Object directly
+* **Click to edit** (default) — clicking the title puts you in edit mode
+* **Click to open** — clicking the title opens the Object directly
 
 ### Grouping
 
@@ -141,11 +135,7 @@ For example: drag a task from your "To Do" View to your "Done" View, and the Sta
 ### Tips
 
 {% hint style="info" %}
-**Don't create a Query if the Type's built-in Query is enough.** Open the Type to see all Objects of that Type. Only build a custom Query when you need filtering or a saved alternate view.
-{% endhint %}
-
-{% hint style="info" %}
-**Pin focused Queries, not broad ones.** A pinned `Tasks: In Progress` Query in the sidebar acts as your worklist. A pinned `Tasks` Query is just a duplicate of the Type page.
+**Don't create a Query if the Type's built-in Query is enough.**&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -153,5 +143,5 @@ For example: drag a task from your "To Do" View to your "Done" View, and the Sta
 {% endhint %}
 
 {% hint style="info" %}
-**For manually-curated groupings, use a [Collection](collections.md) instead.** Queries are filter-driven; Collections are hand-picked.
+**For manually-curated groupings, use a** [**Collection**](collections.md) **instead.** Queries are filter-driven; Collections are hand-picked.
 {% endhint %}
