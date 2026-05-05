@@ -21,16 +21,14 @@ Collections shine when:
 
 ### Creating a Collection
 
-*
-
-    <figure><img src="../../.gitbook/assets/lists-create-collection.png" alt=""><figcaption></figcaption></figure>
-
 #### From the sidebar
 
 1. Click the **+** dropdown.
 2. Choose **Collection**.
 3. Name it (e.g., "Q1 Marketing").
 4. The empty Collection opens. Add Objects with **+ New** or **Existing object**.
+
+<figure><img src="../../.gitbook/assets/lists-create-collection.png" alt=""><figcaption></figcaption></figure>
 
 #### From the editor
 
@@ -44,7 +42,7 @@ Type `/collection` in any Object to insert an **Inline Collection** — embedded
 2. Click **New** to create a new Object inside.
 3. Pick the Type — Tasks, Notes, Pages, anything.
 
-The new Object is created in your Channel and added to the Collection in one step.
+<figure><img src="../../.gitbook/assets/add-object-collection (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Add existing Objects
 
@@ -54,7 +52,7 @@ The new Object is created in your Channel and added to the Collection in one ste
 
 The Object joins the Collection. It still lives in its original location.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-object-collection (2).png" alt=""><figcaption></figcaption></figure>
 
 #### From outside the Collection
 
@@ -84,10 +82,10 @@ New Collections use **Grid** as the default layout — Properties show as column
 
 #### Filters within a Collection
 
-You can apply filters to a Collection's View. Filters narrow which _members_ are shown — they don't pull in new Objects from outside the Collection. Useful when:
+You can apply filters to a Collection's View. Filters narrow which objects are shown — they don't pull in new Objects from outside the Collection. Useful when:
 
 * A Collection has many Objects and you want to focus on a subset
-* You want a Board view of just the Tasks in a mixed-Type project Collection
+* You want a Kanban view of just the Tasks in a mixed-Type project Collection
 * You want a Calendar view of just the Date-bearing Objects
 
 For more on filtering, see [Advanced Filters](../../advanced/feature-list-by-platform/advanced-filters.md).
@@ -96,7 +94,7 @@ For more on filtering, see [Advanced Filters](../../advanced/feature-list-by-pla
 
 A "Q1 Marketing" Collection might have:
 
-* **Tasks (Board)** — only Tasks, grouped by Status
+* **Tasks (Kanban)** — only Tasks, grouped by Status
 * **Documents (Gallery)** — only Documents, with cover images
 * **All (Grid)** — everything, sortable
 
@@ -111,8 +109,6 @@ Drag a task from "To Do" to "Done" and its Status updates automatically.
 ### Full-text search in a Collection
 
 Collections support full-text search across Object **content**, not just titles. Press Cmd/Ctrl + F inside a Collection View.
-
-The fastest way to find "the Object I added that mentions X" without opening each one.
 
 ### Inline Collections
 
@@ -130,7 +126,7 @@ The two are easy to confuse, so it's worth being explicit:
 
 |                  | Collection                              | Query                                                  |
 | ---------------- | --------------------------------------- | ------------------------------------------------------ |
-| Membership       | Hand-picked                             | Auto-filtered by criteria                              |
+| Object           | Hand-picked                             | Auto-filtered by criteria                              |
 | Mixed Types      | Natural fit                             | Possible via Property queries, but not the common case |
 | Adding an Object | Manual action                           | Happens automatically when the Object matches          |
 | Best for         | Projects, curated lists, reading queues | Filtered slices, dashboards, "everything matching X"   |
@@ -144,13 +140,5 @@ Often you'll use both. A project Collection populated by hand, with an [Inline Q
 {% endhint %}
 
 {% hint style="info" %}
-**Use Gallery layout for visual Collections.** Reading lists, recipe collections, photo archives benefit from cover images. Switch in the layout switcher.
-{% endhint %}
-
-{% hint style="info" %}
-**Drop folders onto the sidebar to import.** This is the fastest way to onboard an on-disk archive — Anytype creates the Collection and converts files automatically.
-{% endhint %}
-
-{% hint style="info" %}
-**Don't worry about choosing between Collection and Query right away.** You can convert in either direction later — and you can use both for the same project. Start with whatever feels natural.
+**Use Gallery layout for visual Collections.** Reading lists, photo archives benefit from cover images. Switch in the layout switcher.
 {% endhint %}
