@@ -78,20 +78,6 @@
 * [Channel Settings](advanced/settings/space-settings.md)
 * [Keyboard Shortcuts](advanced/settings/keyboard-shortcuts.md)
 
-## 📽️ Use Cases
-
-* [Personal](use-cases/personal/README.md)
-  * [PARA Method](use-cases/para-method-for-note-taking.md)
-  * [Daily Notes](use-cases/anytype-editor.md)
-  * [Study Notes](use-cases/study-notes.md)
-  * [Travel Wiki](use-cases/travel-wiki.md)
-  * [Movie Database](use-cases/movie-database.md)
-* [Teams](use-cases/teams/README.md)
-  * [Documentation](use-cases/teams/documentation.md)
-  * [Task Tracker](use-cases/teams/task-tracker.md)
-  * [Project Board](use-cases/teams/project-board.md)
-  * [Clients / CRM](use-cases/teams/clients-crm.md)
-
 ## 🌐 Community
 
 * [Forum](advanced/community/community-forum.md)

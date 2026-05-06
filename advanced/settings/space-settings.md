@@ -1,99 +1,146 @@
 # Channel Settings
 
-You can access your channel settings by clicking on the 'Settings' button in the top left-hand corner of the sidebar.
+Channel Settings is where you control everything about a Channel — its name and icon, who has access, how notifications behave, what loads first when members enter, and how Types and Properties are managed.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="333"><figcaption></figcaption></figure>
+To open Channel Settings, click the Channel name at the top of the sidebar (or right-click the channel icon in the Vault).
+
+<figure><img src="../../.gitbook/assets/channel-settings.png" alt=""><figcaption></figcaption></figure>
 
 ### Preferences
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+The **Preferences** section covers your Channel's identity and basic behavior.
 
-#### **Choose your** channel **icon**
+<figure><img src="../../.gitbook/assets/channels-settings (1).png" alt=""><figcaption></figcaption></figure>
 
-Your channel icon is automatically generated during the onboarding process. To change it, simply click on the icon and choose from your library or upload your own image.
+#### **Channel name and icon**
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+Your Channel's name and icon are how it appears in everyone's Vault.
 
-#### **Choose your** channel **name**
+* **Icon** — automatically generated during onboarding. To change it, click the icon and choose from the icon library, pick an emoji, or upload your own image.
+* **Name** — Hover over the icon area and click **Edit** in the top-right, type the new name, and click **Save**.
 
-To change your channel name, simply click on the `Edit info` button in the top right corner, choose a name, and click on `Save` to confirm.
+#### **Homepage**
 
-<div><figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
+The Homepage is what loads when you (or any member) open the Channel, plus a dedicated **Home** widget is added to your sidebar.
 
-#### **Collaboration**
+It can be any Object — pick whatever you want members to see first when they enter the Channel.
 
-Set your message notification settings to either enable all, mentions only, or disable all.
+* **For conversation-focused Channels**, choose a Chat Object as the Homepage so members land in the live discussion.
+* **For documentation, wikis, or knowledge Channels**, choose a Page Object — usually a "welcome" or "overview" page that links out to the rest.
+* **For project Channels with mixed content**, choose a Collection that brings together everything in scope.
+* **Leave it empty** and the last opened Object will load when you re-enter the Channel.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
+#### **Default Object Type**
 
-#### **Choose your homepage**
+Sets which Object Type is used when you create a new Object without specifying a Type (for example, by pressing Cmd/Ctrl + N or clicking the **+** in the sidebar without choosing).
 
-Your homepage is what you will see each time you open Anytype. By default, it's set to Last opened Object in spaces and to Chat in a chats, which cannot be changed.
+***
 
-However, you can customize your homepage using the drop-down menu in your channel settings. You can choose to display your graph, the last object you opened, or a specific object you created.
+### Members
 
-<div><figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
+Manage who has access to the Channel and what they can do.
 
-#### **Choose channel type**
+Choose what type of **Invite link** to generate:
 
-In this section, you can switch between a space and a chat.
+* **Editor link** — recipients can join immediately as Editors
+* **Viewer link** — recipients can join immediately as Viewers
+* **Request access link** — recipients land in a queue; you approve their role
 
-#### **Default object type**
+You can also generate a QR code for easy in-person sharing — useful in workshops, meetings, or anywhere people can scan from their phone.
 
-This option lets you define which Object Type will be used when creating an Object by default.
+For more on invite types, role permissions, and member management, see [Collaboration](/broken/pages/q3WB0JiwGSjwoBWxXI8O).
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure>
+#### Member list
 
+<figure><img src="../../.gitbook/assets/members-list.png" alt=""><figcaption></figcaption></figure>
 
+The Members tab shows every current member with their role. Owners can:
 
-#### **Delete your** channel
+* Change a member's role (Editor ↔ Viewer)
+* Remove a member entirely
+* See and approve pending access requests
 
-To delete your channel, click the `...` menu and select <mark style="color:red;">`Delete Channel.`</mark>
+#### Transfer Channel ownership
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure>
+Channel ownership can be transferred to another member — useful when team roles change, when a creator leaves, or when consolidating responsibilities.
 
-#### Transfer Channel Ownership
+To transfer:
 
-Channel ownership can now be transferred to another member. This allows Channels to be handed over as roles change, without recreating them or losing history.
+1. Open the Members tab.
+2. Click **Transfer ownership** next to the three-dot in the top right corner.
+3. Select the future Owner from the list of members.
+4. Confirm.
 
-After the transfer, you become an Editor, and the new owner takes full control, including the ability to transfer ownership again.
+After the transfer:
 
-<div><figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure></div>
+* The member will become the new Owner.
+* You'll become an Editor.
+* Only the new Owner can transfer it again.
+* The new Owner's membership limits will apply to this channel.
 
-### Invite Members
+***
 
-Click on the Invite link button to manage access to your channel. For more information, please check out [collaboration.md](../../getting-started/collaboration.md "mention").
+### Notifications
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+Set the default notification mode for messages in this Channel:
 
-You can also use the QR code to share your channel more easily.
+* **Enable all** — every new message produces a notification
+* **Mentions only** — only @-mentions trigger notifications
+* **Disable all** — no notifications (unread counter still updates, but muted)
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+Per-Chat and per-Object Discussion settings can override the Channel default.&#x20;
 
-A list of all of your channel members can also be found here.
-
-<figure><img src="../../.gitbook/assets/image (75).png" alt="" width="375"><figcaption></figcaption></figure>
+***
 
 ### Remote Storage
 
-Locate and manage your files, check your remaining remote storage, and view storage usage of all your channels here.
+The Remote Storage tab shows total storage used in this Channel and your remaining storage allowance based on your membership plan.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
-
-### Bin
-
-Another place from where you can access your [finding-your-objects.md](../data-and-security/data-storage-and-deletion/finding-your-objects.md "mention") .
+***
 
 ### Content Model
 
-The central place to manage both your Types and Properties. For more information on how to manage them, go to either [types](../../getting-started/types/ "mention") or [relations.md](../../getting-started/types/relations.md "mention").
+The Content Model tab is the central place to manage your Channel's Types and Properties.
 
-<div><figure><img src="../../.gitbook/assets/image (79).png" alt="" width="325"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (80).png" alt="" width="324"><figcaption></figcaption></figure></div>
+#### **Types**
+
+A list of every Object Type available in this Channel. From here you can:
+
+* Create new Types
+* Edit existing Types — change name, icon, layout, default Properties, Templates
+* Configure default behavior per Type
+
+For full details, see [Types](../../getting-started/types/).
+
+#### **Properties**
+
+A list of every Property defined in this Channel. From here you can:
+
+* Create new Properties
+* Edit and add new options&#x20;
+* See which Types use Property
+
+For full details, see [Properties](../../getting-started/types/relations.md).
+
+***
 
 ### Import & Export
 
-You can find all of our import and export options under the **Integrations** section.
+<figure><img src="../../.gitbook/assets/import.png" alt=""><figcaption></figcaption></figure>
 
-For a more detailed look into our import and export options, please head out to [import-export](../data-and-security/import-export/ "mention") instead.
+The Integrations tab covers everything related to bringing data in and out of the Channel:
 
-<div><figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure></div>
+* **Import** — bring data in from Notion, Evernote, Obsidian, or generic Markdown / CSV
+* **Export** — back up the entire Channel to Markdown or AnyBlock format
+
+***
+
+### Delete Channel
+
+In shared Channels, only the Owner can delete the Channel. Other members can leave the Channel instead, which removes their access without affecting other members.
+
+<figure><img src="../../.gitbook/assets/delete-channel.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+**Deleting a Channel is permanent.** All Objects, Chats, Discussions, and history are removed for every member. There is no undo. If you might want the data later, export the Channel before deleting.&#x20;
+{% endhint %}

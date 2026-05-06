@@ -111,7 +111,7 @@ Channel ownership can be transferred to another member. Use this when:
 #### How to transfer
 
 1. The current Owner opens **Channel Settings > Members**.
-2. Find **Transfer ownership** next to the three-dot menu in the top right corner.
+2. Click **Transfer ownership** next to the three-dot menu in the top right corner.
 3. Select the new Owner from the list of members.
 4. Confirm the transfer.
 
@@ -119,7 +119,6 @@ After the transfer:
 
 * The new Owner takes full control, including the ability to transfer ownership again
 * You become an Editor (you keep your access but lose Owner-only privileges)
-* The transfer is logged in the Channel's activity (visible to other members)
 
 This way, Channels can be handed over as roles change without recreating them or losing history.
 

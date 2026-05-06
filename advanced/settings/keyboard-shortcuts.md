@@ -16,7 +16,7 @@ When the panel opens, focus is placed automatically in the search field — star
 
 You can also assign a shortcut to open the Shortcuts panel itself, so you can summon it from anywhere with one keystroke.
 
-<figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/keyboard-shortcuts.png" alt=""><figcaption></figcaption></figure>
 
 ### Most-used shortcuts
 
