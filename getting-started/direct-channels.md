@@ -47,7 +47,7 @@ You can leave a Direct Channel by:
 1. Right-clicking it in the Vault.
 2. Selecting **Leave Channel**.
 
-When you leave, the channel disappears from your Vault — but the other member's side remains. They'll see that you've left, and any new messages they send won't reach you. If you want to reconnect, you can start a new Direct Channel with them.
+When you leave, the channel disappears from your Vault — but the other member's side remains. Any new messages they send won't reach you. If you want to reconnect, you will re-enter the original Direct Channel with them.
 
 To leave permanently and clear all history, you can also delete the channel — but this only deletes your local copy. The other member retains their side.
 
