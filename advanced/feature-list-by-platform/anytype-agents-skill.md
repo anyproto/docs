@@ -2,17 +2,17 @@
 description: Let AI assistants act on your Anytype data.
 ---
 
-# Anytype Agents Skill
+# Anytype Agents' Skill
 
-### What is the Anytype Agents Skill?
+### What is the Anytype Agents' Skill?
 
-The **Anytype Agents Skill** is an open-source toolkit that gives AI assistants a safe way to read, search, and modify Objects in your Anytype Channels. Drop it into Claude Code, Cursor, Gemini CLI, GitHub Copilot, or any other agent-capable tool, and the agent can run scripts against your Anytype data — programmatically — to handle bulk edits, transformations, and repetitive tasks you'd rather not do by hand.
+The **Anytype Agents' Skill** is an open-source toolkit that gives AI assistants a safe way to read, search, and modify Objects in your Anytype Channels. Drop it into Claude Code, Cursor, Gemini CLI, GitHub Copilot, or any other agent-capable tool, and the agent can run scripts against your Anytype data — programmatically — to handle bulk edits, transformations, and repetitive tasks you'd rather not do by hand.
 
 The repository is on GitHub: [github.com/anyproto/anytype-agents-skill](https://github.com/anyproto/anytype-agents-skill).
 
 ***
 
-Anytype already exposes a [Local API](feature-list-by-platform/local-api/) for direct integration. The Agents Skill is a layer above that — it bundles the API into ready-made functions an AI agent can use without you having to teach it the protocol.
+Anytype already exposes a [Local API](feature-list-by-platform/local-api/) for direct integration. The Skill is a layer above that — it bundles the API into ready-made functions an AI agent can use without you having to teach it the protocol.
 
 If you've ever thought "I wish I could just describe what I want to do to my notes and have it happen," this is the bridge. You describe the task in plain language, the agent uses the Skill to translate that into the correct Anytype operations, and the work gets done.
 
@@ -134,6 +134,6 @@ Anything the Local API can do. This includes creating, updating, and deleting Ob
 
 ### Where to learn more
 
-* [Anytype Agents Skill on GitHub](https://github.com/anyproto/anytype-agents-skill) — full method reference, examples, per-agent setup
+* [Anytype Agents' Skill on GitHub](https://github.com/anyproto/anytype-agents-skill) — full method reference, examples, per-agent setup
 * [Local API](feature-list-by-platform/local-api/) — the underlying interface
 * [API Keys](settings/account-and-data.md) — managing keys in Vault Settings

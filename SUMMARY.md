@@ -55,7 +55,7 @@
 * [Storage Location](advanced/feature-list-by-platform/storage-location.md)
 * [Local API](advanced/feature-list-by-platform/local-api/README.md)
   * [Raycast Extension (macOS)](advanced/feature-list-by-platform/raycast-extension-macos.md)
-* [Anytype Agents Skill](advanced/feature-list-by-platform/anytype-agents-skill.md)
+* [Anytype Agents' Skill](advanced/feature-list-by-platform/anytype-agents-skill.md)
 
 ## 🔒 Data & Security
 
