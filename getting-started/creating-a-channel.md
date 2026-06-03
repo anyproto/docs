@@ -1,10 +1,4 @@
----
-description: How to create a Channel and set its starting point.
----
-
-# Creating a Channel
-
-Channels are how you separate different parts of your work — personal notes in one, a team project in another, a community in a third. This page walks you through creating a new Channel and setting it up.
+# Create Channel
 
 If you're new to the concept of Channels, start with [Channels](vault-and-key/space.md) for an overview.
 
@@ -16,9 +10,9 @@ Every Channel has three things to define when it's created:
 2. **Members** — who has access (optional at creation time; you can invite later)
 3. **A Home** — what opens first when you or anyone else enters the Channel
 
-The Home is the most important choice — it sets the tone for what the Channel is for.
-
 ### Choosing a Home
+
+The Home sets the tone for what the Channel is for. Every Channel has the same capabilities, the Home simply decides what is the starting point.
 
 <figure><img src="../.gitbook/assets/channel home.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,25 +28,23 @@ You can change the Home later in **Channel Settings > General > Homepage** — s
 
 #### When to pick Chat as Home
 
-A Chat-Home Channel feels like a group conversation. Members open it and see the latest messages — they can post, share Objects, react. Use this for:
+Chat-Home feels like a group conversation. Members open it and see the latest messages immediately. Use this for when conversation is the main activity, with documents and notes as the supporting cast:
 
 * Team standups and async chat
 * Communities and interest groups
-* Family or friend Channels
-* Channels where conversation is the main activity, with documents and notes as supporting cast
+* Family or friend discussions
 
 #### When to pick Page as Home
 
-A Page-Home Channel feels like a wiki or document. Members open it and land on a specific Object — usually a "welcome" or "overview" page that links out to everything else. Use this for:
+Page-Home feels like a wiki or document. Members open it and land on a specific Object — usually a "welcome" or "dashboard" page that links out to everything else. Use this for when knowledge is the main activity:
 
 * Team documentation
 * Personal knowledge bases (your "second brain")
-* Reference Channels
-* Anywhere the structure is read-first, write-occasionally
+* A community center dashboard&#x20;
 
 #### When to pick Collection as Home
 
-A Collection-Home Channel feels like a project board or library. Members open it and see a list of Objects — tasks, documents, references, whatever you've added. Use this for:
+A Collection-Home Channel feels like a project board or library. Members open it and see a list of Objects — tasks, documents, references, whatever you've added. Use this for when there's a need to see a lot of data:
 
 * Project Channels with mixed content (tasks, notes, files)
 * Reading lists and curated archives
@@ -75,7 +67,7 @@ A Collection-Home Channel feels like a project board or library. Members open it
 
 Once your Channel exists, you'll land on the Home you chose. Some next steps:
 
-* **Customize the sidebar** — pin important Objects, add widgets. See [Sidebar](customize-and-edit-the-sidebar.md).
+* **Customize the sidebar** — pin or favorite important Objects and add widgets. See [Sidebar](customize-and-edit-the-sidebar.md).
 * **Set up Types and Properties** — open Channel Settings > Content Model to create or import Types tailored to this Channel's purpose. See [Types](types/).
 * **Invite members** — open Channel Settings > Members to generate invite links. See [Collaboration](collaboration.md).
 * **Pin a Query or Collection as the Home** later — Channel Settings > General > Homepage lets you change what loads first.

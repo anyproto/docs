@@ -48,7 +48,7 @@ Choose what type of **Invite link** to generate:
 
 You can also generate a QR code for easy in-person sharing — useful in workshops, meetings, or anywhere people can scan from their phone.
 
-For more on invite types, role permissions, and member management, see [Collaboration](/broken/pages/q3WB0JiwGSjwoBWxXI8O).
+For more on invite types, role permissions, and member management, see [Collaboration](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/collaboration).
 
 #### Member list
 

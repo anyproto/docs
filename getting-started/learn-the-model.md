@@ -1,41 +1,39 @@
-# Learn the Model
+# Overview
 
-Before diving into individual features, here's a quick map of how Anytype is organized. Understanding these six concepts and how they relate to each other will make everything else in the docs click.
+### A Quick Map of Anytype
 
-### Vault
+Understanding these core concepts will make everything else click.
 
-Your **Vault** is the starting point. It's an encrypted container stored on your device that holds everything you create in Anytype. Think of it like the app itself on your device — one Vault per person, secured with a cryptographic key that only you have.
+#### 1. Vault
 
-Inside your Vault, you'll find one or more **Channels**.
+This is the house. Your **Vault** is essentially your account. It is a container for everything you create protected by end-to-end encryption. Because access to your account depends entirely on your encryption key, it is vital to store it safely.&#x20;
 
-### Channels
+#### 2. Channels&#x20;
 
-A **Channel** is a workspace within your Vault. Each Channel has its own set of Objects, its own sidebar, and its own sharing settings. You might have one Channel for personal notes and another shared with your team.
+The rooms in your house. A **Channel**, also referred to as a Space, is the environment where your work happens. You can create as many Spaces as you like within your Vault. Because Spaces are isolated from one another, they are ideal for separating different areas of your life, such as Personal, Family, or Work. You can keep a Space entirely private or invite others to join shared ones.
 
-Channels are how you separate different areas of your life or work, and control who has access to what.
+#### 3. Objects
 
-### Objects
+The stuff in your rooms. In most apps, 'the stuff' consists of files organized into a folder hierarchy. In Anytype, everything is an **Object**. A recipe is an object, a meeting note is an object, and a photo is an object. Instead of items buried deep in folders, Objects float in your Space like stars in a galaxy that are connected by links. Think of Anytype as a network or a map rather than a traditional folder tree.
 
-Everything you create inside a Channel is an **Object**. A page is an Object. A task is an Object. A note, a bookmark, an image — all Objects.
+#### 4. Types
 
-This is the core idea in Anytype: instead of files in folders, you have Objects in a graph. Every Object can link to any other Object, regardless of where it lives.
+The furniture holding your stuff. **Types** prevent your Objects from becoming a disorganized mess. Every Object is assigned a Type, such as a Note, Task, Person, or Book. This makes it easy to find and organize everything in your space. While Anytype provides default built-in Types, the tool becomes truly powerful when you create custom Types tailored to your specific needs.
 
-### Types
+#### 5. Properties
 
-Every Object has a **Type** that describes what kind of thing it is — a Note, a Task, a Person, a Book. Types help you categorize your Objects so you can find, filter, and display them in useful ways.
+The labels on your stuff. **Properties** allow you to more deeply define your Objects. For example:
 
-Anytype comes with built-in Types, and you can create your own to match how you think about your information.
+* If the Object is a Task Type, the Properties might be 'Due Date' and 'Priority.'&#x20;
+* If the Object is a Person Type, the Properties might be 'Email' and 'Birthday.'
 
-### Properties
+These little details help you describe your Objects and link them together—such as connecting a book object to its movie adaptation, or a meeting that is part of a specific project.
 
-**Properties** are the details attached to an Object. A Task might have properties like Status, Priority, and Due Date. A Book might have Author, Rating, and Genre.
+#### 6. Views
 
-Properties serve two purposes: they **describe** an Object (like a due date), and they **connect** Objects to each other (like linking a Task to a Project).
+Where the magic happens. As your Space grows, you need tools to find, group, and visualize your Objects. Anytype offers two primary methods:
 
-### Lists
+* **Queries**: These are dynamic, live lists. Objects are grouped automatically based on shared criteria, such as 'everything tagged with important'. As you add or edit information, Queries are updated in real-time. You can view your Types as a form of Query.&#x20;
+* **Collections**: These are manual groupings of Objects. Unlike Queries, you must hand-pick the Objects you wish to include in the Collection. They are ideal for gathering diverse Objects that may not share the same Types or Properties.
 
-Once you have Objects with Types and Properties, you need ways to find and view them. Two ways to group and organize your Objects:
-
-A **Query** is a live list of Objects that share something in common – a Type or a Property. As your Objects change, the Query updates automatically. Every Type in Anytype already comes with its own built-in Query – the full list of all Objects of that Type. So if you just want to see _every Task_, it is already there.
-
-A **Collection** is a manual grouping. You add specific Objects to it by hand. Unlike a Query, a Collection can hold Objects of different Types together — for example, a project Collection might contain tasks, notes, and documents side by side.
+All Queries and Collections can be further customized with filters, sorting rules, and various layouts, such as Calendars, Galleries, or Kanban Boards.

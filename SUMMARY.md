@@ -1,23 +1,24 @@
 # Table of contents
 
-## 👋 Getting Started
+## Getting Started
 
 * [Welcome](README.md)
   * [Mission](getting-started/readme/mission.md)
-* [Learn the Model](getting-started/learn-the-model.md)
+* [Overview](getting-started/learn-the-model.md)
 * [Install](getting-started/install-and-setup.md)
 
-## 🏠 Your Workspace
+## Your Workspace
 
 * [Vault](getting-started/vault-and-key/README.md)
   * [Key](getting-started/vault-and-key/key.md)
 * [Channels](getting-started/vault-and-key/space.md)
-  * [Creating a Channel](getting-started/creating-a-channel.md)
+  * [Create Channel](getting-started/creating-a-channel.md)
 * [Sidebar](getting-started/customize-and-edit-the-sidebar.md)
-  * [Manage Sections](getting-started/manage-sidebar-sections.md)
+  * [Widgets](your-workspace/customize-and-edit-the-sidebar/sidebar-widgets.md)
+  * [Sections](your-workspace/customize-and-edit-the-sidebar/sidebar-sections.md)
   * [Pins & Favorites](getting-started/pins-and-favorites.md)
 
-## 📝 Objects & Editor
+## Objects & Editor
 
 * [Objects](getting-started/object-editor/README.md)
   * [Blocks](getting-started/object-editor/blocks.md)
@@ -27,7 +28,7 @@
   * [Files & Media](getting-started/files-and-media.md)
   * [Discussions](getting-started/discussions.md)
 
-## 🗂️ Organizing Your Data
+## Organizing Your Data
 
 * [Types](getting-started/types/README.md)
   * [Properties](getting-started/types/relations.md)
@@ -35,14 +36,15 @@
 * [Queries](getting-started/sets/README.md)
 * [Collections](getting-started/sets/collections.md)
 
-## 👥 Collaboration
+## Collaboration
 
 * [Collaboration](getting-started/collaboration.md)
 * [Chats](getting-started/chats.md)
   * [Direct Channels](getting-started/direct-channels.md)
+* [Discussions](collaboration/discussions.md)
 * [Publish](getting-started/web-publishing.md)
 
-## ⚙️ Features
+## Features
 
 * [Graph](advanced/feature-list-by-platform/graph.md)
 * [Dates](advanced/feature-list-by-platform/dates.md)
@@ -57,7 +59,7 @@
   * [Raycast Extension (macOS)](advanced/feature-list-by-platform/raycast-extension-macos.md)
 * [Anytype Agents' Skill](advanced/feature-list-by-platform/anytype-agents-skill.md)
 
-## 🔒 Data & Security
+## Data & Security
 
 * [Import & Export](advanced/data-and-security/import-export/README.md)
   * [Migrate from Obsidian](advanced/data-and-security/import-export/migrate-from-obsidian.md)
@@ -72,7 +74,7 @@
 * [Data Erasure](advanced/data-and-security/delete-or-reset-your-account.md)
 * [Analytics & Tracking](advanced/data-and-security/analytics-and-tracking.md)
 
-## ⚙️ Settings
+## Settings
 
 * [Vault Settings](advanced/settings/account-and-data.md)
 * [Channel Settings](advanced/settings/space-settings.md)

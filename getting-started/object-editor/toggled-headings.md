@@ -4,13 +4,13 @@ description: Collapse and expand sections of long Objects.
 
 # Toggled Headings
 
-### What is a Toggled Heading?
+## What is a Toggled Heading?
 
 A **Toggled Heading** is a heading that can be collapsed to hide everything beneath it. Click the toggle arrow and the section folds up; click again and it expands. The heading itself stays visible — only the content below collapses.
 
 This works on all three heading levels: Title (H1), Heading (H2), and Subheading (H3).
 
-### How it works
+## How it works
 
 A Toggled Heading captures everything below it (until the next heading of the same or higher level) as its children. When you collapse the toggle, all those child blocks are hidden.
 
@@ -30,7 +30,7 @@ The hierarchy works the same as regular block indentation:
 
 When you collapse "Project Overview", the entire "Goals" and "Timeline" sections fold away with it.
 
-### Creating a Toggled Heading
+## Creating a Toggled Heading
 
 #### From the slash menu
 
@@ -64,7 +64,7 @@ To turn a regular heading into a toggled heading:
 
 When you convert, **everything beneath the heading** becomes a child of the toggle automatically — until the next heading of the same or higher level. You don't need to re-indent anything by hand.
 
-### Working with Toggled Headings
+## Working with Toggled Headings
 
 #### Expand or collapse one
 

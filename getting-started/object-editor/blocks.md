@@ -4,13 +4,13 @@ description: The building blocks of every Object — text, media, embeds, and st
 
 # Blocks
 
-### What are Blocks?
+## What are Blocks?
 
-**Blocks** are the building pieces of every Object. When you open an Object and start editing, you're adding and arranging Blocks — paragraphs, headings, images, lists, embeds, and so on. Each Block is independent and can be moved, restyled, or replaced without affecting the others.
+**Blocks** are the building pieces of every Object, think of them as lego bricks for every document. When you open an Object and start editing, you're adding and arranging Blocks — paragraphs, headings, images, lists, embeds, and so on. Each Block is independent and can be moved, restyled, or replaced without affecting the others.
 
 If you've used Notion, this concept will be familiar. If you've used Microsoft Word or Google Docs, the difference is that Blocks are **discrete units** — you can drag them, nest them, turn one type into another, or build columns by placing them side by side.
 
-### Why they matter
+## Why they matter
 
 Blocks make your content flexible. You're not stuck with a single document format. You can:
 
@@ -20,7 +20,7 @@ Blocks make your content flexible. You're not stuck with a single document forma
 * Convert one type of block into another (paragraph → heading → toggle → checklist)
 * Reuse content by linking to Object blocks rather than duplicating text
 
-### Adding a Block
+## Adding a Block
 
 There are several ways to add a new block:
 
@@ -30,36 +30,36 @@ Type `/` anywhere in the editor. A menu appears with every available block type,
 
 This is the fastest way once you know what you want.
 
-<figure><img src="../../.gitbook/assets/slshmenu-block.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/slshmenu-block.png" alt=""><figcaption></figcaption></figure></div>
 
 #### The plus button
 
 Hover over the left side of any block. A plus icon appears — click it to insert a new block above. The same menu as the slash command opens.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Block Plus Button.png" alt=""><figcaption></figcaption></figure></div>
+
 #### Markdown shortcuts
 
-For text-style blocks, you can use Markdown-style shortcuts at the start of a line:
+For text-style blocks, you can use Markdown-style keyboard shortcuts at the start of a line. Press space after the shortcut and the block transforms.
 
-| Type this        | To create         |
-| ---------------- | ----------------- |
-| `#` (with space) | Heading 1         |
-| `##`             | Heading 2         |
-| `###`            | Heading 3         |
-| `>`              | Toggle            |
-| `*` or `-`       | Bullet point      |
-| `1.`             | Numbered list     |
-| `[]`             | Checkbox / to-do  |
-| `\`\`\` \`       | Code block        |
-| `---`            | Divider           |
-| `#>`             | Toggled Heading 1 |
-| `##>`            | Toggled Heading 2 |
-| `###>`           | Toggled Heading 3 |
+| Type this   | To create         |
+| ----------- | ----------------- |
+| `#`         | Heading 1         |
+| `##`        | Heading 2         |
+| `###`       | Heading 3         |
+| `>`         | Toggle            |
+| `*` or  `-` | Bullet point      |
+| `1.`        | Numbered list     |
+| `[]`        | Checkbox / to-do  |
+| ` ``` `     | Code block        |
+| `---`       | Divider           |
+| `#>`        | Toggled Heading 1 |
+| `##>`       | Toggled Heading 2 |
+| `###>`      | Toggled Heading 3 |
 
-These work in any text block. Press space after the shortcut and the line transforms.
+## Types of Blocks
 
-### Block types
-
-#### Text blocks
+### Text blocks
 
 | Block               | What it's for                                                                                                                |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -72,7 +72,7 @@ These work in any text block. Press space after the shortcut and the line transf
 | **Toggle**          | Collapsible block that hides nested content                                                                                  |
 | **Toggled Heading** | A heading that also toggles its section. See [Toggled Headings](../../advanced/feature-list-by-platform/toggled-headings.md) |
 
-#### List blocks
+### List blocks
 
 | Block                | What it's for                        |
 | -------------------- | ------------------------------------ |
@@ -82,7 +82,7 @@ These work in any text block. Press space after the shortcut and the line transf
 
 Press Tab inside a list item to indent it (creating a nested sub-list). Shift + Tab outdents.
 
-#### Media blocks
+### Media blocks
 
 | Block     | What it's for                              |
 | --------- | ------------------------------------------ |
@@ -94,7 +94,7 @@ Press Tab inside a list item to indent it (creating a nested sub-list). Shift + 
 
 Drag a file onto the editor to insert it. Each file becomes a [File Object](../files-and-media.md) you can find and reference elsewhere.
 
-#### Structural blocks
+### Structural blocks
 
 | Block                 | What it's for                                                                    |
 | --------------------- | -------------------------------------------------------------------------------- |
@@ -103,7 +103,20 @@ Drag a file onto the editor to insert it. Each file becomes a [File Object](../f
 | **Table**             | Spreadsheet-style data block                                                     |
 | **Columns**           | Created by dragging blocks side by side (no separate "column block" — see below) |
 
-#### Reference blocks
+#### Tables
+
+Insert a table block via `/table`. The table starts as a small grid you can extend by dragging the right or bottom edge. Each column can be resized — drag the boundary between two columns to set a custom width. Custom widths are preserved when you export to PDF.
+
+You can also select multiple cells at once:
+
+* Click and drag across cells to select a range
+* Apply formatting (bold, color) to the entire selection
+* Copy multiple cells to paste elsewhere
+* Delete the contents of the selection
+
+
+
+### Reference blocks
 
 | Block                 | What it's for                                                                                         |
 | --------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -113,11 +126,7 @@ Drag a file onto the editor to insert it. Each file becomes a [File Object](../f
 | **Inline Collection** | Embedded Collection                                                                                   |
 | **Inline Chat**       | Embedded Chat thread                                                                                  |
 
-#### Embed blocks
-
-See [Embeds](../../advanced/feature-list-by-platform/embeds.md) for the full list — YouTube, Miro, Mermaid, Figma, Excalidraw, and more.
-
-#### Property blocks
+### Property blocks
 
 | Block        | What it's for                                           |
 | ------------ | ------------------------------------------------------- |
@@ -127,7 +136,24 @@ Useful for surfacing key Properties prominently. The Property block stays in syn
 
 <figure><img src="../../.gitbook/assets/slashmenu-property.png" alt=""><figcaption></figcaption></figure>
 
-### Selecting and styling blocks
+#### Code blocks
+
+Code blocks support:
+
+* **Syntax highlighting** — pick the language from the dropdown in the block's top-right corner
+* **Multi-line indentation** — select multiple lines and press Tab to indent them all, Shift + Tab to outdent
+* **Copy** — a copy button appears on hover to copy the entire block to your clipboard
+* **Wrap toggle** — long lines can wrap or scroll horizontally
+
+Type ` ``` ` (three backticks) followed by space at the start of a line to convert it to a code block instantly. After creation, click the language dropdown to switch syntax highlighting.
+
+### Embed blocks
+
+See [Embeds](../../advanced/feature-list-by-platform/embeds.md) for the full list — YouTube, Miro, Mermaid, Figma, Excalidraw, and more.
+
+
+
+### Styling blocks
 
 #### Single block
 
@@ -148,7 +174,7 @@ Click on a block, hold Shift, and click on another to select all blocks between.
 * **Apply formatting** (bold, italic, color) to all selected text
 * **Convert** them all to a different block type (e.g., turn five paragraphs into bullet points)
 
-### Inline styling
+#### Inline styling
 
 Within any text block, you can format individual characters or words:
 
@@ -165,7 +191,7 @@ Select text and a floating toolbar appears with these options.
 
 <figure><img src="../../.gitbook/assets/block-contextmenu.png" alt=""><figcaption></figcaption></figure>
 
-### Inline LaTeX
+#### Inline LaTeX
 
 Wrap mathematical notation with `$` symbols to render LaTeX inline:
 
@@ -177,18 +203,7 @@ For block-level math, use `$$...$$` or insert a dedicated math block via `/math`
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-### Code blocks
-
-Code blocks support:
-
-* **Syntax highlighting** — pick the language from the dropdown in the block's top-right corner
-* **Multi-line indentation** — select multiple lines and press Tab to indent them all, Shift + Tab to outdent
-* **Copy** — a copy button appears on hover to copy the entire block to your clipboard
-* **Wrap toggle** — long lines can wrap or scroll horizontally
-
-Type ` ``` ` (three backticks) followed by space at the start of a line to convert it to a code block instantly. After creation, click the language dropdown to switch syntax highlighting.
-
-### Columns
+#### Columns
 
 You can place blocks side by side to create columns:
 
@@ -204,24 +219,7 @@ Repeat to add more columns. To break a column back into a single column, drag a 
 
 You can put text next to images, embeds next to lists, or any other combination. This is the closest equivalent to a desktop publishing layout — useful for project pages, dashboards, and any Object where content benefits from side-by-side presentation.
 
-### Tables
-
-Insert a table block via `/table`. The table starts as a small grid you can extend by dragging the right or bottom edge.
-
-#### Multi-cell selection
-
-You can now select multiple cells at once:
-
-* Click and drag across cells to select a range
-* Apply formatting (bold, color) to the entire selection
-* Copy multiple cells to paste elsewhere
-* Delete the contents of the selection
-
-#### Column widths
-
-Each column can be resized — drag the boundary between two columns to set a custom width. Custom widths are preserved when you export to PDF.
-
-### Block handles
+## Block handles
 
 Every block has a handle (six dots) on its left side that opens the block's action menu:
 
@@ -243,19 +241,19 @@ The block handle isn't just for menus — it's a drag handle. Click and hold, th
 * **Out of a nested list** to outdent it
 * **Onto a sub-Object link** to add the block as content in that Object
 
-### Indenting and nesting
+## Indenting and nesting
 
 Tab and Shift + Tab indent and outdent blocks. Most block types support nesting — paragraphs, list items, toggles, and headings can all have children.
 
 You can now also indent **inline images** with Tab, just like text blocks.
 
-### Table of Contents
+## Table of Contents
 
-Add a Table of Contents block (`/toc`) to any Object. It auto-generates from the headings on the page and updates as you add or remove headings.
+You can open the Table of Contents in the right sidebar for navigation while editing — the panel stays open as you scroll. The panel automatically closes when you navigate to a different Object.
 
-You can also open the Table of Contents in the right sidebar for navigation while editing — the panel stays open as you scroll. The panel automatically closes when you navigate to a different Object.
+Alternatively, you can add a Table of Contents block (`/toc`) to any Object. It auto-generates from the headings on the page and updates as you add or remove headings.
 
-### Tips
+## Tips
 
 {% hint style="info" %}
 **Toggled Headings + Table of Contents = best long-page navigation.** With both turned on, you can collapse sections you're not editing and use the Table of Contents to jump between sections. See [Toggled Headings](../../advanced/feature-list-by-platform/toggled-headings.md).

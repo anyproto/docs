@@ -8,7 +8,7 @@ If you've used other tools, you might be used to thinking in terms of files, doc
 
 ### Why it matters
 
-Because everything is an Object, everything can connect to everything else. A task can link to a person. A meeting note can link to a project. You're building a **graph** of interconnected information rather than organizing files into folders.
+Because everything is an Object, everything can connect to everything else. A task can link to a person. A meeting note can link to a project. You're building a **graph** of interconnected information rather than organizing files into folders hierarchies.
 
 This means you don't have to decide upfront where something "lives." You create it, give it a Type (like Note or Task), add Properties (like a due date or a tag), and link it to other Objects. The structure emerges from the connections you make.
 
@@ -21,9 +21,7 @@ Every Object has:
 * **Blocks** that make up its content (text, images, embeds, etc.) — see [Blocks](blocks.md)
 * **Links** to other Objects — see [Links](linking-objects.md)
 
-You can think of an Object as a flexible document that also acts as a node in your knowledge graph.
-
-### Ways to Create Objects
+### How to create Objects
 
 #### Sidebar
 
@@ -47,18 +45,22 @@ Additionally, you can use `Cmd / Ctrl + Opt / Alt + N` to perform the same actio
 
 #### Turn Into Object
 
-If you are working on something in an existing Object and would like to transform only a certain block into an Object, you can do that through the action menu by either:
+If you are working on an existing Object and would like to transform only a certain block into an Object, you can do that through the action menu by either:
 
 1. Hovering to the left side of the block that you are working on and clicking the 3 dots.
 2. Using the `Cmd / Ctrl + /` keyboard shortcut.
 
 <figure><img src="../../.gitbook/assets/turninto-newobject.png" alt=""><figcaption><p>Action menu</p></figcaption></figure>
 
+#### Set default Object Type
+
+This can be found and set in your [space-settings.md](../../advanced/settings/space-settings.md "mention") under 'Default Object Type'.&#x20;
+
 ### Locating Your Objects
 
 #### Sidebar
 
-You can now find all your objects in the sidebar, grouped by type.
+You can now find all your objects in the [customize-and-edit-the-sidebar.md](../customize-and-edit-the-sidebar.md "mention"), grouped in the 'Types' section.
 
 <figure><img src="../../.gitbook/assets/objects types sidebar.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,31 +1,31 @@
 # Channels
 
-### What is a Channel?
+## What is a Channel
 
-A **Channel** is a workspace inside your Vault. Each Channel has its own set of Objects, its own sidebar, and its own sharing settings. Everything you create — notes, tasks, collections — belongs to a specific Channel.
+A **Channel**, also referred to as a Space, is a workspace inside your Vault. Each Channel has its own set of Objects, its own sidebar, and its own sharing settings. Everything you create — notes, tasks, collections — belongs to a specific Channel.
 
 Think of Channels like separate rooms in a house. Your Vault is the house, and each Channel is a room with its own purpose and its own door you can choose to open (or not) to others.
 
-### Why it matters
+## Why it matters
 
-Channels let you separate different parts of your life. You might keep a personal Channel for private notes and journals, a shared Channel for a project with collaborators, and another for a community or team. Each one is independent — Objects, Types, and Properties in one Channel don't affect another.
+Channels let you separate different parts of your life. You might keep a personal Channel for private notes and journals, a shared Channel for a project with collaborators, and another for a community or team. Each one is independent. Objects, Types, and Properties in one Channel don't affect another.
 
 Because each Channel is encrypted separately, you have fine-grained control over who can see what.
 
-### How it works
+## How it works
 
 Every Channel has its own:
 
-* **Graph of Objects** — the notes, tasks, and everything else you create
+* **Objects** — the notes, tasks, and everything else you create
 * **Sidebar** — customized to show what matters in that workspace
-* **Members & permissions** — you decide who can view or edit
+* **Members** — you decide who can view or edit
 
 You can create as many Channels as you need. Use the vault sidebar (the leftmost panel) to switch between them.
 
 <figure><img src="../../.gitbook/assets/channels (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-It's currently impossible to recover deleted Channels unless you've previously exported them, so be careful when deleting them.
+It's impossible to recover deleted Channels unless you've previously exported them, so be careful when deleting them.
 {% endhint %}
 
 ### Setting up a shared Channel
@@ -40,7 +40,7 @@ It's currently impossible to recover deleted Channels unless you've previously e
 <figure><img src="../../.gitbook/assets/shared channel.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Each Channel has its own content model (Types and Properties). If you've set up custom Types in one Channel, they won't automatically appear in another — you'll need to recreate them or use the Experience Gallery to import a template.
+Each Channel has its own content model (Types and Properties). If you've set up custom Types in one Channel, they won't automatically appear in another.
 {% endhint %}
 
 If you would like to customize or delete your Channel, please take a look at [Channel Settings](../../advanced/settings/space-settings.md).
