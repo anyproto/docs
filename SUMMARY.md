@@ -4,45 +4,50 @@
 
 * [Welcome](README.md)
   * [Mission](getting-started/readme/mission.md)
-* [Overview](getting-started/learn-the-model.md)
 * [Install](getting-started/install-and-setup.md)
 
-## Your Workspace
+## Basics
 
-* [Vault](getting-started/vault-and-key/README.md)
-  * [Key](getting-started/vault-and-key/key.md)
-* [Channels](getting-started/vault-and-key/space.md)
-  * [Create Channel](getting-started/creating-a-channel.md)
-* [Sidebar](getting-started/customize-and-edit-the-sidebar.md)
-  * [Widgets](your-workspace/customize-and-edit-the-sidebar/sidebar-widgets.md)
-  * [Sections](your-workspace/customize-and-edit-the-sidebar/sidebar-sections.md)
-  * [Pins & Favorites](getting-started/pins-and-favorites.md)
+* [Overview](basics/learn-the-model.md)
+* [Vault](basics/vault-and-key/README.md)
+  * [Key](basics/vault-and-key/key.md)
+* [Channels](basics/space/README.md)
+  * [Create Channel](basics/space/creating-a-channel.md)
+* [Sidebar](basics/customize-and-edit-the-sidebar/README.md)
+  * [Widgets](basics/customize-and-edit-the-sidebar/sidebar-widgets.md)
+  * [Sections](basics/customize-and-edit-the-sidebar/sidebar-sections.md)
+  * [Pins & Favorites](basics/customize-and-edit-the-sidebar/pins-and-favorites.md)
 
-## Objects & Editor
+## Creation
 
-* [Objects](getting-started/object-editor/README.md)
-  * [Blocks](getting-started/object-editor/blocks.md)
-    * [Toggled Headings](getting-started/object-editor/toggled-headings.md)
-  * [Links](getting-started/object-editor/linking-objects.md)
-  * [Bookmarks](getting-started/bookmarks.md)
-  * [Files & Media](getting-started/files-and-media.md)
-  * [Discussions](getting-started/discussions.md)
+* [Objects](creation/objects/README.md)
+  * [Format](creation/objects/format.md)
+* [Editor](creation/blocks/README.md)
+  * [Block Types](creation/blocks/block-types.md)
+  * [Table of Contents](creation/blocks/table-of-contents.md)
+  * [Toggled Headings](creation/blocks/toggled-headings.md)
+  * [Inline LaTeX](creation/blocks/inline-latex.md)
+* [Links](creation/linking-objects.md)
+* [Bookmarks](creation/bookmarks.md)
+* [Files & Media](creation/files-and-media.md)
 
-## Organizing Your Data
+## Organize
 
-* [Types](getting-started/types/README.md)
-  * [Properties](getting-started/types/relations.md)
-  * [Templates](getting-started/types/templates.md)
-* [Queries](getting-started/sets/README.md)
-* [Collections](getting-started/sets/collections.md)
+* [Types](organize/types/README.md)
+  * [Properties](organize/types/relations.md)
+  * [Templates](organize/types/templates.md)
+* [Queries](organize/sets.md)
+* [Collections](organize/collections.md)
+* [Views](organize/views.md)
+* [Deletion](organize/deletion.md)
 
-## Collaboration
+## Collaborate
 
-* [Collaboration](getting-started/collaboration.md)
-* [Chats](getting-started/chats.md)
-  * [Direct Channels](getting-started/direct-channels.md)
-* [Discussions](collaboration/discussions.md)
-* [Publish](getting-started/web-publishing.md)
+* [Collaboration](collaborate/collaboration.md)
+* [Chats](collaborate/chats/README.md)
+  * [Direct Channels](collaborate/chats/direct-channels.md)
+* [Discussions](collaborate/discussions.md)
+* [Publish](collaborate/web-publishing.md)
 
 ## Features
 

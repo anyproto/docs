@@ -48,7 +48,7 @@ Choose what type of **Invite link** to generate:
 
 You can also generate a QR code for easy in-person sharing — useful in workshops, meetings, or anywhere people can scan from their phone.
 
-For more on invite types, role permissions, and member management, see [Collaboration](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/collaboration).
+For more on invite types, role permissions, and member management, see [Collaboration](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/collaborate).
 
 #### Member list
 
@@ -110,7 +110,7 @@ A list of every Object Type available in this Channel. From here you can:
 * Edit existing Types — change name, icon, layout, default Properties, Templates
 * Configure default behavior per Type
 
-For full details, see [Types](../../getting-started/types/).
+For full details, see [Types](../../organize/types/).
 
 #### **Properties**
 
@@ -120,7 +120,7 @@ A list of every Property defined in this Channel. From here you can:
 * Edit and add new options&#x20;
 * See which Types use Property
 
-For full details, see [Properties](../../getting-started/types/relations.md).
+For full details, see [Properties](../../organize/types/relations.md).
 
 ***
 

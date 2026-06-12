@@ -52,7 +52,7 @@ If the URL is from a recognized embeddable service, **Embed** is the default. Fo
 
 * **Mermaid** — write Mermaid syntax inline, rendered as a flowchart, sequence diagram, or other Mermaid output
 * **Miro** — paste a Miro board URL (anyone with a public Miro link can view; private boards require viewer access)
-* **Excalidraw** — embed an Excalidraw diagram editor as a block, edit inline
+* **Excalidraw** — embed an Excalidraw diagram editor as a block, edit inline (temporarily disabled due to performance issues)
 * **Figma** — paste a Figma frame or file URL
 * **draw.io** — paste a published diagram URL
 
@@ -63,6 +63,7 @@ If the URL is from a recognized embeddable service, **Embed** is the default. Fo
 
 #### Code and content
 
+* **LaTeX** — see here for more information: [inline-latex.md](../../creation/blocks/inline-latex.md "mention")
 * **GitHub Gist** — paste a Gist URL
 * **CodePen** — paste a Pen URL
 * **CodeSandbox** — paste a sandbox URL
@@ -98,7 +99,7 @@ The default is set in **Vault Settings > Application > Editor Personalization > 
 
 Most embed blocks (especially videos, maps, and visual content) have a resize handle. Drag the handle to make the embed larger or smaller. Changes are saved per-block.
 
-You can put an embed in a column alongside text by dragging it next to another block — see [Blocks](../../getting-started/object-editor/blocks.md) for column layouts.
+You can put an embed in a column alongside text by dragging it next to another block — see [Blocks](../../creation/blocks/) for column layouts.
 
 ### Mermaid syntax (quick reference)
 

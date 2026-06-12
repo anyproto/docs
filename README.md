@@ -4,6 +4,8 @@ Anytype is a safe haven for your digital life. We believe your thoughts, plans, 
 
 Most apps store your information on their own servers where they can read or scan it. In those systems, you essentially need permission to access your own data. Anytype is different. We’ve built a tool where you are the sole owner of your digital world.
 
+<figure><img src=".gitbook/assets/Docs Welcome.gif" alt=""><figcaption></figcaption></figure>
+
 ## What makes Anytype different?
 
 * **Local-First**: Everything you create lives on your device first, not on a corporate server. You can work completely offline, sync across your own devices, or self-host your data. Whether you’re on a remote mountain or in a high-security office, you remain in control.
@@ -25,7 +27,7 @@ Anytype lets you create different spaces for your work and personal life. Becaus
 
 #### Can I collaborate on Anytype?
 
-On Anytype, your communication and your knowledge base are integrated together. [chats.md](getting-started/chats.md "mention") and [discussions.md](getting-started/discussions.md "mention") live directly inside your spaces, allowing you to hold private conversations right alongside your documents, tasks, and media.&#x20;
+On Anytype, your communication and your knowledge base are integrated together. [chats](collaborate/chats/ "mention") and [Broken link](/broken/pages/aMvZ7gkJSTzwWXlSot4V "mention") live directly inside your spaces, allowing you to hold private conversations right alongside your documents, tasks, and media.&#x20;
 
 ## What powers Anytype?
 
