@@ -80,7 +80,7 @@ You can also select multiple cells at once:
 | ------------ | ------------------------------------------------------- |
 | **Property** | Add an Object's Property as a block in the body content |
 
-Useful for surfacing key [relations.md](../../organize/types/relations.md "mention") prominently. The Property block stays in sync with the Property's value — change one and all others will update. This enables fancy templates and designs for all of your documents.&#x20;
+Useful for surfacing key [relations.md](../../organize/relations.md "mention") prominently. The Property block stays in sync with the Property's value — change one and all others will update. This enables fancy templates and designs for all of your documents.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/slashmenu-property.png" alt=""><figcaption></figcaption></figure></div>
 

@@ -16,8 +16,8 @@ This means you don't have to decide upfront where something "lives." You create 
 
 Every Object has:
 
-* [types](../../organize/types/ "mention") that categorizes what kind of thing it is (Note, Task, Book, etc.)
-* [relations.md](../../organize/types/relations.md "mention") that hold its details (status, date, author, etc.) etc.)
+* [types.md](../../organize/types.md "mention") that categorizes what kind of thing it is (Note, Task, Book, etc.)
+* [relations.md](../../organize/relations.md "mention") that hold its details (status, date, author, etc.) etc.)
 * [linking-objects.md](../linking-objects.md "mention") to other Objects
 
 ### How to create Objects

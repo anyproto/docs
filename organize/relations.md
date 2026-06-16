@@ -4,7 +4,7 @@
 
 **Properties** are the details you attach to an Object. If an Object is a "thing" in Anytype, Properties are what you know _about_ that thing — its status, due date, author, priority, tags, or any other attribute you care about.
 
-<figure><img src="../../.gitbook/assets/settings-properties.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/settings-properties.png" alt=""><figcaption></figcaption></figure>
 
 ### Why they matter
 
@@ -41,17 +41,17 @@ This same pattern works for any Type: define the Properties that matter, then us
 
 #### Creating Properties from the Type Edit Menu
 
-While editing any [Type in your Space settings](./#creating-types-from-space-settings), you can use the `+` button in the top right corner of the Properties section to either add an existing property to the current Type or to create a new one.
+While editing any [Type in your Space settings](types.md#creating-types-from-space-settings), you can use the `+` button in the top right corner of the Properties section to either add an existing property to the current Type or to create a new one.
 
-<figure><img src="../../.gitbook/assets/newproperty-type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/newproperty-type.png" alt=""><figcaption></figcaption></figure>
 
 #### Creating Properties from Space Settings
 
-Open your [space](../../basics/space/ "mention") settings, and navigate to `Content Model > Properties`. Afterwards, simply click on `New` button to create a new Property.
+Open your [space](../basics/space/ "mention") settings, and navigate to `Content Model > Properties`. Afterwards, simply click on `New` button to create a new Property.
 
 From here, you can choose a name and a type for your new Property.
 
-<figure><img src="../../.gitbook/assets/settings-properties.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/settings-properties.png" alt=""><figcaption></figcaption></figure>
 
 If you've decided that this Property is no longer relevant, you can use the context menu (mouse right-click) to delete the Property from your Channel.
 
@@ -59,7 +59,7 @@ If you've decided that this Property is no longer relevant, you can use the cont
 
 You can add a Property to your Objects as you would with any other block in the editor: by using the `+` button or the in-line `/` menu.
 
-<figure><img src="../../.gitbook/assets/slashmenu-property.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/slashmenu-property.png" alt=""><figcaption></figcaption></figure>
 
 Any Property you create from the object editor will be available for editing in your Channel settings using the steps above.
 
@@ -81,7 +81,7 @@ Here are the currently available Property types within Anytype:
 
 You can also manage the Properties for a given Object via **Edit Type** (three-dots menu in the top right corner of any Object).
 
-<figure><img src="../../.gitbook/assets/New Type – Default State.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/New Type – Default State.png" alt=""><figcaption></figcaption></figure>
 
 The Properties icon lets you view the properties of a specific object, while the Set up menu allows you to manage the properties of its Type – you can add, remove and organize them into different sections:
 

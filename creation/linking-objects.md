@@ -32,11 +32,11 @@ Directly through the editor by using:
 2. **Inline Links** — Type `@` and the object name. These appear as rich text.&#x20;
 3. **Link Alias** — Highlight text,  `Cmd/Ctrl + Shift + K`, select the link. These appear as hyperlinked text, good for alternative names.&#x20;
 
-<figure><img src="../.gitbook/assets/Docs Linking Objects.jpg" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Linking Objects.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Link to a Property
 
-When viewing an Object, you can add links to [relations.md](../organize/types/relations.md "mention") using:&#x20;
+When viewing an Object, you can add links to [relations.md](../organize/relations.md "mention") using:&#x20;
 
 1. [**Object Header**](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/object-editor/format#page-format) — Select a property from the header. If the property is not visible, add it to the header from the [type settings](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/organize/types/relations#managing-properties).&#x20;
 2. [**Block Menu**](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/blocks#adding-blocks) — Add an inline property block from the menu using the plus button or slash command.&#x20;
@@ -76,4 +76,4 @@ In your documents you may have multiple connections which could be attached to o
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Links Backlink Graph.gif" alt=""><figcaption></figcaption></figure></div>
 
-Learn more about [relations.md](../organize/types/relations.md "mention") and the [graph.md](../advanced/feature-list-by-platform/graph.md "mention") with these links.&#x20;
+Learn more about [relations.md](../organize/relations.md "mention") and the [graph.md](../advanced/feature-list-by-platform/graph.md "mention") with these links.&#x20;

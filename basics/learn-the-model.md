@@ -6,11 +6,11 @@ Understanding these core concepts will make everything else click.
 
 #### 1. Vault
 
-**This is your house.** Your [vault-and-key](vault-and-key/ "mention") is essentially your account. It is a container for everything you create protected by end-to-end encryption. Because access to your account depends entirely on your encryption key, it is vital to store it safely.&#x20;
+**This is your house.** Your [vault-and-key.md](vault-and-key.md "mention") is essentially your account. It is a container for everything you create protected by end-to-end encryption. Because access to your account depends entirely on your encryption key, it is vital to store it safely.&#x20;
 
 #### 2. Channels&#x20;
 
-**The rooms in your house.** [space](space/ "mention"), also referred to as a Spaces, are the environment where your work happens. You can create as many Spaces as you like within your Vault. Because Spaces are isolated from one another, they are ideal for separating different areas of your life, such as Personal, Family, or Work. You can keep a Space entirely private or invite others to join shared ones.
+**The rooms in your house.** [space](space/ "mention"), also referred to as a Spaces, are the environment where your work happens. You can create as many Spaces as you like within your Vault. Because Spaces are isolated from one another, they are ideal for separating different areas of your life, such as Personal, Family, or Work. You can keep Channels entirely private or invite others to join shared ones.
 
 #### 3. Objects
 
@@ -18,11 +18,11 @@ Understanding these core concepts will make everything else click.
 
 #### 4. Types
 
-**The furniture holding your stuff.** [types](../organize/types/ "mention") prevent your Objects from becoming a disorganized mess. Every Object is assigned a Type, such as a Note, Task, Person, or Book. This makes it easy to find and organize everything in your space. While Anytype provides default built-in Types, the tool becomes truly powerful when you create custom Types tailored to your specific needs.
+**The furniture holding your stuff.** [types.md](../organize/types.md "mention") prevent your Objects from becoming a disorganized mess. Every Object is assigned a Type, such as a Note, Task, Person, or Book. This makes it easy to find and organize everything in your space. While Anytype provides default built-in Types, the tool becomes truly powerful when you create custom Types tailored to your specific needs.
 
 #### 5. Properties
 
-**The labels on your stuff.** [relations.md](../organize/types/relations.md "mention") allow you to more deeply define your Objects. For example:
+**The labels on your stuff.** [relations.md](../organize/relations.md "mention") allow you to more deeply define your Objects. For example:
 
 * If the Object is a Task Type, the Properties might be 'Due Date' and 'Priority.'&#x20;
 * If the Object is a Person Type, the Properties might be 'Email' and 'Birthday.'

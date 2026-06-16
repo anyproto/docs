@@ -26,7 +26,7 @@ Pages can change layouts depending on what's needed. You can choose from:&#x20;
 * **Action** — Adds a checkbox to the title area (for tasks and action items)
 * **Note** — Removes the need for a title (for quick notes and journals)
 
-The layout settings of an Object is determined by its Type settings. The same Page layout is applied to all objects of the same [Type](../../organize/types/). When viewing an object, you can access this by clicking on the three dots button in the top right corner, and then clicking **Type settings**. &#x20;
+The layout settings of an Object is determined by its Type settings. The same Page layout is applied to all objects of the same [Type](../../organize/types.md). When viewing an object, you can access this by clicking on the three dots button in the top right corner, and then clicking **Type settings**. &#x20;
 
 There is also a special layout dedicated for [bookmarks.md](../bookmarks.md "mention").&#x20;
 

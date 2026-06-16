@@ -68,7 +68,7 @@ A Collection-Home Channel feels like a project board or library. Members open it
 Once your Channel exists, you'll land on the Home you chose. Some next steps:
 
 * **Customize the sidebar** — pin or favorite important Objects and add widgets. See [Sidebar](../customize-and-edit-the-sidebar/).
-* **Set up Types and Properties** — open Channel Settings > Content Model to create or import Types tailored to this Channel's purpose. See [Types](../../organize/types/).
+* **Set up Types and Properties** — open Channel Settings > Content Model to create or import Types tailored to this Channel's purpose. See [Types](../../organize/types.md).
 * **Invite members** — open Channel Settings > Members to generate invite links. See [Collaboration](../../collaborate/collaboration.md).
 * **Pin a Query or Collection as the Home** later — Channel Settings > General > Homepage lets you change what loads first.
 

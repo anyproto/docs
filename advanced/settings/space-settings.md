@@ -110,7 +110,7 @@ A list of every Object Type available in this Channel. From here you can:
 * Edit existing Types — change name, icon, layout, default Properties, Templates
 * Configure default behavior per Type
 
-For full details, see [Types](../../organize/types/).
+For full details, see [Types](../../organize/types.md).
 
 #### **Properties**
 
@@ -120,7 +120,7 @@ A list of every Property defined in this Channel. From here you can:
 * Edit and add new options&#x20;
 * See which Types use Property
 
-For full details, see [Properties](../../organize/types/relations.md).
+For full details, see [Properties](../../organize/relations.md).
 
 ***
 

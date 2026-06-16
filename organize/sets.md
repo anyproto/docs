@@ -6,7 +6,7 @@ description: Filtered views on top of your Types.
 
 ### What is a Query?
 
-When you create a [Type](types/), Anytype automatically gives you a built-in Query — open the Type and you see every Object of that Type in one view. **For most people, this is all you need to find things.**
+When you create a [Type](types.md), Anytype automatically gives you a built-in Query — open the Type and you see every Object of that Type in one view. **For most people, this is all you need to find things.**
 
 <figure><img src="../.gitbook/assets/types-page (1).png" alt=""><figcaption></figcaption></figure>
 

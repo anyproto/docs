@@ -9,8 +9,8 @@
 ## Basics
 
 * [Overview](basics/learn-the-model.md)
-* [Vault](basics/vault-and-key/README.md)
-  * [Key](basics/vault-and-key/key.md)
+* [Vault](basics/vault-and-key.md)
+* [Key](basics/key.md)
 * [Channels](basics/space/README.md)
   * [Create Channel](basics/space/creating-a-channel.md)
 * [Sidebar](basics/customize-and-edit-the-sidebar/README.md)
@@ -33,12 +33,12 @@
 
 ## Organize
 
-* [Types](organize/types/README.md)
-  * [Properties](organize/types/relations.md)
-  * [Templates](organize/types/templates.md)
+* [Types](organize/types.md)
+* [Properties](organize/relations.md)
 * [Queries](organize/sets.md)
 * [Collections](organize/collections.md)
 * [Views](organize/views.md)
+* [Templates](organize/templates.md)
 * [Deletion](organize/deletion.md)
 
 ## Collaborate

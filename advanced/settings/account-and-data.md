@@ -84,7 +84,7 @@ We do not store this data so we cannot help you in recovering your vault in the 
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-You can access your Key or scan the QR code to connect your mobile device. For more details, please check [key.md](../../basics/vault-and-key/key.md "mention").
+You can access your Key or scan the QR code to connect your mobile device. For more details, please check [key.md](../../basics/key.md "mention").
 
 **Vault Deletion:** Also, if you would like to delete your vault, you can do it in this section.
 
