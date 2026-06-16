@@ -6,7 +6,7 @@ Understanding these core concepts will make everything else click.
 
 #### 1. Vault
 
-**This is your house.** Your [vault-and-key.md](vault-and-key.md "mention") is essentially your account. It is a container for everything you create protected by end-to-end encryption. Because access to your account depends entirely on your encryption key, it is vital to store it safely.&#x20;
+**This is your house.** Your [vault-and-key.md](vault-and-key.md "mention") is essentially your account. It is a container for everything you create and is protected by end-to-end encryption. Because access to your account depends entirely on your encryption key, it is vital to store it safely.&#x20;
 
 #### 2. Channels&#x20;
 

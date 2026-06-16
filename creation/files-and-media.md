@@ -83,7 +83,9 @@ This is great for ensuring you're always working from the same file. For example
 
 ## Deleting File Objects
 
-Objects in Anytype are not organized by hierarchy, which means that everything exists independently—this is what enables a single File Object to be referenced in multiple places. Deleting the block link does not delete the Object itself. To do delete, you must explicitly **Move to Bin**.&#x20;
+Objects in Anytype are not organized by hierarchy, which means that everything exists independently. This means a file on a page exists as a block there, but it can also be used across the rest of your space independently.&#x20;
+
+Deleting the file block from the page does not delete the File Object itself, it only removes the block. To do delete the file, you must explicitly **Move to Bin**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Files Deletion.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -97,7 +99,7 @@ For files that are used elsewhere, deleting them from a block or a page will not
 
 **Why does it work this way?**
 
-From using other apps, most users expect that deleting an image from a page will remove it entirely. Because all files on Anytype are also [objects](objects/ "mention"), they have their own life that's independent from the page they were added to. However, this can lead to your space becoming bloated with files that serve no purpose. This smart deletion trigger hopes to alleviate this issue.&#x20;
+With the way most apps work, users typically expect that deleting an image from a page will remove the image entirely. Because this doesn't happen on Anytype, this can lead to your space becoming bloated with undeleted files that serve no purpose. This smart deletion trigger hopes to alleviate this issue.&#x20;
 
 ## Working with File Objects
 

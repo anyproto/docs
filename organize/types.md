@@ -1,45 +1,100 @@
 # Types
 
-### What is a Type?
+## What is a Type?
 
-A **Type** describes what kind of Object something is. Notes, Tasks, Books, People, Projects — these are all Types. When you create an Object, you choose a Type for it, which determines what Properties it starts with and how it can be displayed.
+If an Object is a cookie, then the Type is the cookie cutter. It's a blueprint that defines what the Object is. Notes, Tasks, Books, People, Images—these are all Types. Imagine a cookie cutter helping you to apply a standardised shape to all of your Objects.&#x20;
 
-<figure><img src="../../.gitbook/assets/types-page (1).png" alt=""><figcaption></figcaption></figure>
+* **Tasks** will have a due date, priority, and status.&#x20;
+* **Books** will have a genre, author, and release date.&#x20;
+* **People** will have a phone, email, and relationship.&#x20;
 
-### Why it matters
+## Why it matters
 
-Types help you categorize and find your Objects. When you have hundreds of Objects, being able to filter by Type — "show me all my Tasks" or "show me all my Books" — makes your information manageable.
+1. **Finding what you need**: when you have hundreds of Objects, being able to search by Type is handy. "Show me all my Ideas." "Show me all my Recipes."
+2. **Applying your standards**: Objects that belong together will share the same standard blueprint. All your Movies have a release date. All your Meetings have a transcript.&#x20;
+3. **Defining your relationships**: with Types on all Objects, you're able to clearly link between them. Your Books are linked to Authors. Your Tasks are linked to Projects.&#x20;
 
-### How it works
+## How it works
 
-Every Object has one Type, chosen when you create it (you can change it later). Anytype comes with built-in Types like Note, Task, and Page. You can also create your own Types to match your needs.
+Every Object has one Type, which you apply on creation and can change at any time. Anytype comes with built-in Types, but you can create your own custom Types to match your needs. Every Type has:&#x20;
 
-Each Type can have:
+* [relations.md](relations.md "mention") — adds definition, such as address, date created, and tags.&#x20;
+* [views.md](views.md "mention") — adds organisation, such as a calendar for all important events.&#x20;
+* [templates.md](templates.md "mention") — adds standards, such as all vacations having a photo album.&#x20;
 
-* **Default Properties** — automatically included when you create an Object of this Type
-* **Templates** — pre-filled layouts for faster Object creation (see [Templates](templates.md))
-* **A built-in Query** — open any Type to see all Objects of that Type
+## Create Types
 
-You can view and manage your Types in your Channel settings under `Content Model > Object Types`.
+#### Sidebar
 
-### Create a New Type
+Both the Create Button and Channel Sidebar reveal the Types in your space. Click on the 'Create Type' buttons to add a new type to your Space.&#x20;
 
-#### Creating Types from the Sidebar
+Importantly, only Types that have at least one Object will display in the Sidebar. If the Type you're looking for is not in the Sidebar, add an Object to it and the Type will automatically display.&#x20;
 
-In case you think of a new object type just as you're creating an object, you can create a new type on-the-fly. In this case, use the type selection menu in the same way as the search bar in the Types library. The type will be automatically added to your Types library, while you can proceed with editing the object of your new type.
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Where Sidebar.jpg" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/sidebar-newtype.png" alt=""><figcaption></figcaption></figure>
+#### Channel Settings
+
+You can view all your Types in your [space-settings.md](../advanced/settings/space-settings.md "mention") under Content Model. Click on the 'New' button to add a new type to your Space.&#x20;
+
+Additionally, you can set the **Default Object Type** in the Channel Settings. This changes which Type is applied to your Object when clicking the Create button.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Type Where Sidebar.gif" alt=""><figcaption></figcaption></figure></div>
+
+## Editing Types
+
+To edit a Type, there are two primary ways:&#x20;
+
+* Navigate to the Type and click **Edit Type** on the right-hand side.&#x20;
+* When viewing an Object, click on the 'three dots' button on the top right corner, and select the **Type settings** option.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Edit Type.gif" alt=""><figcaption></figcaption></figure></div>
+
+In this panel, you can make various edits:&#x20;
+
+* Change the Type name and icon.&#x20;
+* Edit the Object [format](../creation/objects/format.md#page-format).&#x20;
+* Add/remove Properties and Templates.&#x20;
+* Make edits to the Object Header.&#x20;
+
+### Object Header
+
+Every Object can display its Properties in the Object Header—the section below the title and above the content blocks. You can choose which Properties show in the header by dragging and dropping the properties into the 'Header' section.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Edit Header.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-You're also able to create new Type directly from the Types section, hover to reveal **+ New** and click it.
+You can choose 'Line' layout for a more minimal look and 'List' layout for a vertical setup. These can be found in the layout section under 'Properties view'.&#x20;
 {% endhint %}
 
-#### Creating Types from Channel Settings
+## Changing Types
 
-Open your [space](../../basics/space/ "mention") settings, and navigate to `Content Model > Object Types`. Afterwards, simply click on `New` button to create a new Type.
+You can change an Object's Type at any time. There are multiple ways:&#x20;
 
-From here, you can choose a name, layout, and add templates and properties to the newly created Type.
+* Navigate to the Type, right click on the Object, and click **Change type** from the menu.&#x20;
+* If the 'Object type' property is in the Object's Header, select it and click **Change type** from the menu.&#x20;
 
-<figure><img src="../../.gitbook/assets/newtype.png" alt=""><figcaption></figcaption></figure>
+When changing Types, the Properties are retained on the Object. This means that you can change the Type back and forth without losing any of the Properties on your Objects.&#x20;
 
-If you've decided that this Type is no longer relevant, you can use the context menu (mouse right-click) to delete the Type from your channel. Please proceed with caution; any objects of this type will show an alert if the Type has been removed from your library.
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Change Types.jpg" alt=""><figcaption></figcaption></figure></div>
+
+## Types in other Channels
+
+Types are specific to each Channel. If you want your Type to exist in other spaces, please see [import-export](../advanced/data-and-security/import-export/ "mention"). At the moment, you cannot share Types between spaces that stay in sync because they are separated with different encryption keys.&#x20;
+
+## Deleting Types
+
+To delete a Type, you can do so from the Sidebar, Channel Settings, or editor settings (three dots icon on the top right). This will move the Type to the Bin where it can be restored or permanently deleted.&#x20;
+
+If the Type still has Objects that are part of it, it will trigger a confirmation window where you can choose to delete or keep the Objects.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Types Delete.jpg" alt=""><figcaption></figcaption></figure></div>
+
+## Tips
+
+{% hint style="info" %}
+**Keep it simple**. Creating too many Types usually leads to a complex system that becomes overwhelming. Start with the built-in Types and only add in more when you feel the need.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+**Use properties**. To fully take advantage of Types, add relevant properties to it. This way, you can sort and filter your Objects into useful Views. Imagine a Project Type with a Kanban view only showing your highest priority tasks.&#x20;
+{% endhint %}

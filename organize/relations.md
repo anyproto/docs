@@ -1,51 +1,64 @@
 # Properties
 
-### What are Properties?
+## What are Properties?
 
-**Properties** are the details you attach to an Object. If an Object is a "thing" in Anytype, Properties are what you know _about_ that thing — its status, due date, author, priority, tags, or any other attribute you care about.
+**Properties** are the details you attach to an Object—its due date, status, priority, tags, or any other attribute you care about. Using a spreadsheet analogy, every Object is a row and every Property is a column.&#x20;
 
-<figure><img src="../.gitbook/assets/settings-properties.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Properties Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Why they matter
+## Why it matters
 
-Properties turn your Objects from plain documents into structured data. Once your Objects have Properties, you can sort, filter, and query them — like finding all Tasks with Priority set to High, or all Books where Status is "Reading."
+Properties enable you to organize your knowledge into flexible systems. Once your Objects have Properties, you can sort, filter, and query them:&#x20;
 
-### How it works
+* Find all **Tasks** with **Priority** set to **High**,
+* Find all **Books** where **Status** is **Reading** and sort by highest **Rating**.&#x20;
+* Find all **Ideas** with a **Creation Date** from **Last Year**.&#x20;
 
-Properties serve two functions:
+### Types vs. Properties
 
-**1. Describing an Object (attributes)** Add details like Status, Priority, Due Date, or Rating. For example, a Task might have:
+* Think of [Types](types.md) as a group of Properties that all get applied to an Object at the same time.
+* Properties exist independently from Types, which means you can use the same property on multiple Types. For example, a Genre Property can be used on both Books and Movies.&#x20;
+* A Type can have many Properties attached to it, but they can be hidden from view.&#x20;
+
+## How it works
+
+Properties serve two functions. We'll use a Task Object as an example.&#x20;
+
+**1. Describe Objects** — Add useful and defining details with Properties such as:&#x20;
 
 * Status: In Progress
 * Priority: High
 * Due Date: Next Friday
 
-**2. Connecting Objects (relations)** Link one Object to another through a Property. For example, a Task might have:
+**2. Connect Objects** — Link an Object to another through a Property, such as:&#x20;
 
-* Assigned To: → Alex (a Person object)
-* Project: → Website Redesign (a Project object)
+* Assigned To: → Alex (a Person Object)
+* Project: → Website Redesign (a Project Object)
 
-### Worked example: Setting up a reading list
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Properties Example.gif" alt=""><figcaption></figcaption></figure></div>
 
-Let's say you have several Book objects and want to track your reading:
+## Create a Property
 
-1. Open any Book object and click the Properties icon (bullet list) in the top right corner.
-2. Add a **Select** property called "Status" with options: Want to Read, Reading, Finished.
-3. Add a **Number** property called "Rating" (1-5).
-4. Add an **Object** property called "Recommended By" and link it to a Person object.
-5. Now open a Type: Book. Toggle on your new Properties — you'll see them as columns, and you can sort by Rating or filter by Status.
+Because all [Objects](../creation/objects/) have a [Type](types.md), it's best to create a Property within the context of a Type.&#x20;
 
-This same pattern works for any Type: define the Properties that matter, then use Queries to slice and view your data.
+#### From the Type View
 
-### Create a New Property
+When viewing a Type, you can click on the 'View settings' button on the top right and select 'Properties'. From this menu, you can also:&#x20;
 
-#### Creating Properties from the Type Edit Menu
+* Toggle the Properties you want to show on and off. &#x20;
+* Rearrange the order of the Properties.
+* Remove the Property entirely from the Type.
+* Move the Property to the Bin.&#x20;
 
-While editing any [Type in your Space settings](types.md#creating-types-from-space-settings), you can use the `+` button in the top right corner of the Properties section to either add an existing property to the current Type or to create a new one.
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Create View (1).gif" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/newproperty-type.png" alt=""><figcaption></figcaption></figure>
+#### From the Type Edit Menu
 
-#### Creating Properties from Space Settings
+[While editing a Type](types.md#editing-types), you can use the 'plus' button of the Properties section to add an existing property or to create a new one.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Properties Create Type Settings.jpg" alt=""><figcaption></figcaption></figure></div>
+
+#### From Channel Settings
 
 Open your [space](../basics/space/ "mention") settings, and navigate to `Content Model > Properties`. Afterwards, simply click on `New` button to create a new Property.
 
@@ -55,7 +68,7 @@ From here, you can choose a name and a type for your new Property.
 
 If you've decided that this Property is no longer relevant, you can use the context menu (mouse right-click) to delete the Property from your Channel.
 
-#### Creating Properties from the Object Editor
+#### From the Object Editor
 
 You can add a Property to your Objects as you would with any other block in the editor: by using the `+` button or the in-line `/` menu.
 
@@ -63,7 +76,7 @@ You can add a Property to your Objects as you would with any other block in the 
 
 Any Property you create from the object editor will be available for editing in your Channel settings using the steps above.
 
-#### Types of Properties <a href="#types-of-relations" id="types-of-relations"></a>
+## Types of Properties <a href="#types-of-relations" id="types-of-relations"></a>
 
 Here are the currently available Property types within Anytype:
 

@@ -6,11 +6,11 @@ description: One-on-one conversations with another member.
 
 ### What is a Direct Channel?
 
-A **Direct Channel** is a private, one-on-one conversation between you and another member.&#x20;
+A **Direct Channel** is a private, one-on-one conversation between you and another member. This is also referred to as a 1:1 channel.&#x20;
 
 Both participants have equal access: there's no admin, no role hierarchy, no permissions to set. It's a place for quick check-ins, a private discussion, creating new Objects, or a side conversation about something happening in another Channel.
 
-<figure><img src="../../.gitbook/assets/direct-channel.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/direct-channel.png" alt=""><figcaption></figcaption></figure></div>
 
 ### How it works
 

@@ -6,7 +6,7 @@ A **Discussion** is a comment thread attached directly to an Object. Instead of 
 
 Think of it as the comments section for any Object in your Channel.
 
-<figure><img src="../.gitbook/assets/Discussions.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Discussions.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Why it matters
 
