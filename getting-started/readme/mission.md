@@ -1,6 +1,6 @@
 # Mission
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Mission.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Why are we building Anytype
 

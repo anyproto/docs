@@ -4,7 +4,7 @@ Anytype is a safe haven for your digital life. We believe your thoughts, plans, 
 
 Most apps store your information on their own servers where they can read or scan it. In those systems, you essentially need permission to access your own data. Anytype is different. We’ve built a tool where you are the sole owner of your digital world.
 
-<figure><img src=".gitbook/assets/Docs Welcome.gif" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/Docs Welcome.gif" alt=""><figcaption></figcaption></figure></div>
 
 ## What makes Anytype different?
 
