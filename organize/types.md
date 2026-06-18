@@ -42,40 +42,46 @@ Additionally, you can set the **Default Object Type** in the Channel Settings. T
 
 ## Editing Types
 
-To edit a Type, there are two primary ways:&#x20;
+To edit a Type and its Properties, there are three primary ways:&#x20;
 
-* Navigate to the Type and click **Edit Type** on the right-hand side.&#x20;
-* When viewing an Object, click on the 'three dots' button on the top right corner, and select the **Type settings** option.&#x20;
+1. Navigate to the Type from the [Sidebar](../basics/customize-and-edit-the-sidebar/) and click **Edit Type** on the top right-hand side.&#x20;
+2. When viewing an [Object](../creation/objects/), click on the 'three dots' button on the top right corner, and select the **Type settings** option.&#x20;
+3. Navigate to the [Channel Settings](../advanced/settings/space-settings.md), click on **Object Types**, and select your desired Type. &#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Edit Type.gif" alt=""><figcaption></figcaption></figure></div>
 
 In this panel, you can make various edits:&#x20;
 
 * Change the Type name and icon.&#x20;
-* Edit the Object [format](../creation/objects/format.md#page-format).&#x20;
 * Add/remove Properties and Templates.&#x20;
 * Make edits to the Object Header.&#x20;
+* Edit the [Object layout](../creation/objects/format.md#page-format).&#x20;
 
 ### Object Header
 
-Every Object can display its Properties in the Object Header—the section below the title and above the content blocks. You can choose which Properties show in the header by dragging and dropping the properties into the 'Header' section.&#x20;
+Every Object can display its Properties in the Object Header, which is the section below the title and above the content blocks. You can choose which Properties show in the header by dragging and dropping the properties into the 'Header' section.&#x20;
+
+If the desired property is not in the list, you can add it using the 'plus' button.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Edit Header.gif" alt=""><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
-You can choose 'Line' layout for a more minimal look and 'List' layout for a vertical setup. These can be found in the layout section under 'Properties view'.&#x20;
-{% endhint %}
+#### Header Layout Types
+
+You can choose how your Properties are displayed in the Object Header. These can be found in the layout section under 'Properties view'.&#x20;
+
+1. Line—for a more minimal look&#x20;
+2. List—for displaying more structured information.
 
 ## Changing Types
 
 You can change an Object's Type at any time. There are multiple ways:&#x20;
 
 * Navigate to the Type, right click on the Object, and click **Change type** from the menu.&#x20;
-* If the 'Object type' property is in the Object's Header, select it and click **Change type** from the menu.&#x20;
-
-When changing Types, the Properties are retained on the Object. This means that you can change the Type back and forth without losing any of the Properties on your Objects.&#x20;
+* If the 'Object type' Property is in the Object's Header, select it and click **Change type** from the menu.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Change Types.jpg" alt=""><figcaption></figcaption></figure></div>
+
+When changing Types, the Properties are retained on the Object. This means that you can change the Type back and forth without losing any of the Properties on your Objects.&#x20;
 
 ## Types in other Channels
 
@@ -85,7 +91,7 @@ Types are specific to each Channel. If you want your Type to exist in other spac
 
 To delete a Type, you can do so from the Sidebar, Channel Settings, or editor settings (three dots icon on the top right). This will move the Type to the Bin where it can be restored or permanently deleted.&#x20;
 
-If the Type still has Objects that are part of it, it will trigger a confirmation window where you can choose to delete or keep the Objects.&#x20;
+If the Type still has Objects that are part of it, it will trigger a confirmation window where you can choose to delete or keep the Objects part of the Type.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Types Delete.jpg" alt=""><figcaption></figcaption></figure></div>
 
