@@ -35,9 +35,9 @@
 
 * [Types](organize/types.md)
 * [Properties](organize/relations.md)
+* [Views](organize/views.md)
 * [Queries](organize/sets.md)
 * [Collections](organize/collections.md)
-* [Views](organize/views.md)
 * [Templates](organize/templates.md)
 * [Deletion](organize/deletion.md)
 

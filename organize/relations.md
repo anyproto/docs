@@ -113,6 +113,8 @@ If you want to have your Properties displayed in the content area of your Pages,
 * Open the command menu, with the `/` or the 'plus' button, and scroll to the Properties section.
 * Type the Property name with the slash command, such as: `/tags` or `/description`.
 
+Property blocks can only be added for Properties that have been added to the Type or already have a value associated with the Property.&#x20;
+
 Once inserted as a block, you can manipulate the Property just like any other block. This is particularly helpful if you want to design nice [Templates](templates.md), as the Object Header is more limited in design flexibility. &#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Properties Blocks.gif" alt=""><figcaption></figcaption></figure></div>
