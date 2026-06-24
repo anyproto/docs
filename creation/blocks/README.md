@@ -76,15 +76,15 @@ Click on a block, hold Shift, and click on another to select all blocks between.
 
 Within any text block, you can format individual characters or words. Highlight the text and a floating toolbar appears with these options:
 
-* **Bold** — Cmd/Ctrl + B, or `**text**`
-* **Italic** — Cmd/Ctrl + I, or `*text*`
-* **Strikethrough** — Cmd/Ctrl + Shift + S, or `~~text~~`
-* **Inline code** — Cmd/Ctrl + Shift + L, or backticks: `` `code` ``
-* **Underline** — Cmd/Ctrl + U
-* **Link** — Cmd/Ctrl + K, then paste a URL or search for an Object
+* **Bold** — `Cmd/Ctrl + B` or `**text**`
+* **Italic** — `Cmd/Ctrl + I` or `*text*`
+* **Strikethrough** — `Cmd/Ctrl + Shift + S` or `~~text~~`
+* **Inline code** — `Cmd/Ctrl + Shift + L` or backticks: `` `code` ``
+* **Underline** — `Cmd/Ctrl + U`
+* **Link** — `Cmd/Ctrl + K`, then paste a URL or search for an Object
 * **Highlight color** — select text, choose a color from the toolbar
 * **Text color** — same as highlight, in the toolbar
-* **Quote in discussion** — Copies text into a [Broken link](/broken/pages/aMvZ7gkJSTzwWXlSot4V "mention") post.&#x20;
+* **Quote in discussion** — Copies text into a [discussions.md](../../collaborate/discussions.md "mention")post.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Blocks Inline Styling (3).jpg" alt=""><figcaption></figcaption></figure></div>
 

@@ -88,6 +88,12 @@ If you've previously removed some objects from your [space](../../basics/space/ 
 
 You can access you Bin from the Sidebar. If this section is not showing, please see [Manage Sections](../../basics/customize-and-edit-the-sidebar/sidebar-sections.md#manage-sections) to reveal it.&#x20;
 
+## Bulk editing Objects
+
+Objects have Types and Properties which are best visualized in [views.md](../../organize/views.md "mention"). To edit multiple objects at the same time, the best approach is to use the Views feature—[see more here](../../organize/views.md#bulk-editing-objects).&#x20;
+
+## Tips
+
 {% hint style="info" %}
-**Tip:** Don't worry about getting the Type right when you first create an Object. You can always change an Object's Type later from the Type menu at the top of the editor.
+**Use Views to make sense of your Objects.** Because there is no folder hierarchy for Objects, the best way to stay organized is to use [Views](../../organize/views.md).&#x20;
 {% endhint %}

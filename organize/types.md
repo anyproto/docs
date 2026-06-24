@@ -83,9 +83,9 @@ You can change an Object's Type at any time. There are multiple ways:&#x20;
 
 When changing Types, the Properties are retained on the Object. This means that you can change the Type back and forth without losing any of the Properties on your Objects.&#x20;
 
-## Types in other Channels
+#### Bulk-changing Types
 
-Types are specific to each Channel. If you want your Type to exist in other spaces, please see [import-export](../advanced/data-and-security/import-export/ "mention"). At the moment, you cannot share Types between spaces that stay in sync because they are separated with different encryption keys.&#x20;
+If you want to change the Type for multiple Objects at the same time, it's best to use [views.md](views.md "mention"). Please [see here](views.md#bulk-editing-objects) for more details.&#x20;
 
 ## Deleting Types
 
@@ -94,6 +94,10 @@ To delete a Type, you can do so from the Sidebar, Channel Settings, or editor se
 If the Type still has Objects that are part of it, it will trigger a confirmation window where you can choose to delete or keep the Objects part of the Type.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Types Delete.jpg" alt=""><figcaption></figcaption></figure></div>
+
+## Duplicating Types to other Channels
+
+Types are specific to each Channel. If you want your Type to exist in other Spaces, please see [import-export](../advanced/data-and-security/import-export/ "mention"). At the moment, you cannot share Types between spaces that stay in sync because they are separated with different encryption keys.&#x20;
 
 ## Tips
 
