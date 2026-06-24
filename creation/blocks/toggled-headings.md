@@ -4,8 +4,6 @@ description: Collapse and expand sections of long Objects.
 
 # Toggled Headings
 
-## What is a Toggled Heading?
-
 A **Toggled Heading** is a heading that can be collapsed to hide everything beneath it. Click the toggle arrow and the section folds up; click again and it expands. The heading itself stays visible — only the content below collapses.
 
 This works on all three heading levels: Title (H1), Heading (H2), and Subheading (H3).&#x20;

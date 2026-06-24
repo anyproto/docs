@@ -4,9 +4,29 @@ description: Hand-curated groupings of Objects.
 
 # Collections
 
-### What is a Collection?
+A Collection is a manually curated container for Objects—the closest thing to a folder in Anytype. You decide what goes in, and Objects stay until you remove them.
 
-A **Collection** is a Channel-level container for hand-picked Objects. You decide what goes in. The Objects stay until you remove them. Different Types live side by side — a project Collection might hold tasks, notes, files, and references all in one place.
+Importantly, Objects exist independently of Collections. The same Object can live in multiple Collections at once, and removing an Object from a Collection doesn't delete it — it simply stops being part of that Collection. For example:&#x20;
+
+* A Collection of all your favorite Objects
+
+
+
+## Why it matters
+
+
+
+## When to use Collections
+
+
+
+## Create a Collection
+
+
+
+
+
+
 
 ### Why Collections matter
 

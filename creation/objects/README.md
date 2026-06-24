@@ -1,7 +1,5 @@
 # Objects
 
-## What is an Object?
-
 In Anytype, **everything you create is an Object**. A page is an Object. A task is an Object. A note, a bookmark, a person, a recipe—all Objects.
 
 If you've used other tools, you might be used to thinking in terms of files, documents, or database rows. In Anytype, there's just one concept: Objects. This keeps things simple — whether you're writing a journal entry or tracking a project, you're always working with the same building block.
@@ -24,9 +22,8 @@ Every Object has:
 
 #### Create Menu
 
-When clicking the 'Create' button, you’ll immediately create a new Object. The default [Type](../../organize/types.md) that is used is set from your [Channel Settings](../../advanced/settings/space-settings.md)—by default it is 'Page'.
-
-When clicking the 'Create Dropdown' button, you'll be presented with a menu of your Types which you can sort to your liking. You can then choose which one you want to create.
+* **Create Button** — when clicking the 'Create' button, you’ll immediately create a new Object. The default [Type](../../organize/types.md) that is used for your Objects is set from your [Channel Settings](../../advanced/settings/space-settings.md)—by default it is 'Page'.
+* **Create Dropdown** — when clicking the 'Create Dropdown' button, you'll be presented with a menu which you can sort to your liking.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Create.jpg" alt=""><figcaption></figcaption></figure></div>
 

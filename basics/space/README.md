@@ -1,7 +1,5 @@
 # Channels
 
-## What is a Channel
-
 A **Channel**, also referred to as a Space, is a workspace inside your Vault. Each Channel has its own set of Objects, its own sidebar, and its own sharing settings. Everything you create — notes, tasks, collections — belongs to a specific Channel.
 
 Think of Channels like separate rooms in a house. Your Vault is the house, and each Channel is a room with its own purpose and its own door you can choose to open (or not) to others.

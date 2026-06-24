@@ -1,13 +1,11 @@
 # Sidebar
 
-## What is the Sidebar?
-
 The **Sidebar** is the main navigation tool.&#x20;
 
 1. **Vault Sidebar** — to move between all channels in your Vault.&#x20;
 2. **Channel Sidebar** — to create, navigate, and organize everything in your Channel.&#x20;
 
-<figure><img src="../../.gitbook/assets/Docs Sidebar.gif" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Sidebar.gif" alt=""><figcaption></figcaption></figure></div>
 
 ### Vault Sidebar
 

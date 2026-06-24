@@ -1,7 +1,5 @@
 # Widgets
 
-## What is a Widget?
-
 Widgets act as real-time lenses into your Channel, allowing you to interact with your content directly from the sidebar. Not just acting as static bookmarks, your Pinned and Favorite Objects can be transformed into live, interactive feeds. Here are a few ways you can utilize them:
 
 * An Upcoming Calendar: Track meetings, deadlines, and time-sensitive events at a glance.

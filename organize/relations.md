@@ -1,8 +1,6 @@
 # Properties
 
-## What are Properties?
-
-**Properties** are the details you attach to an Object—its due date, status, priority, tags, or any other attribute you care about. Using a spreadsheet analogy, think of every Object as a row and every Property as a column.&#x20;
+Properties are the details you attach to an Object—its due date, status, priority, tags, or any other attribute you care about. Using a spreadsheet analogy, think of every Object as a row and every Property as a column.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Properties Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 

@@ -4,8 +4,6 @@ description: Save and organize web links as first-class Objects.
 
 # Bookmarks
 
-### What is a Bookmark?
-
 A **Bookmark** is a special kind of Object that stores a link to a webpage. Instead of just dropping a URL into a note, you create a Bookmark Object that captures the page's title, preview image, favicon, and a description — making it easy to recognize, link to, and organize like any other Object.
 
 ### Why it matters

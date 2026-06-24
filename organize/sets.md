@@ -1,147 +1,107 @@
 ---
-description: Filtered views on top of your Types.
+description: Surfacing information from your knowledge base
 ---
 
 # Queries
 
-### What is a Query?
+Queries are questions you ask your knowledge base that gets saved as a [View](sets.md#views)—a dynamic lens that pulls together [Objects](../creation/objects/) that match your defined criteria. Instead of manually curating a list in your space, you define rules and Anytype will assemble the result automatically and keep it up to date. For example:&#x20;
 
-When you create a [Type](types.md), Anytype automatically gives you a built-in Query — open the Type and you see every Object of that Type in one view. **For most people, this is all you need to find things.**
+* Show me everything that's tagged `idea` that was created `in the last 30 days`.&#x20;
+* Show me all `projects` where the status is `active`, the priority is `high`, and not marked `done`.&#x20;
 
-<figure><img src="../.gitbook/assets/types-page (1).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Queries Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 
-If you've used spreadsheet filters or smart playlists, Queries work the same way.
+## Why it matters
 
-### When to use a Query
+With [Types](types.md) and [Properties](relations.md), your Objects have a lot of structure baked into them—Queries allow you to leverage that structure into useful views.&#x20;
 
-A **Query** is what you create when you want to go further: a filtered, sorted, custom-laid-out slice of Objects. "Tasks where Status is In Progress." "Books I've rated 4 stars or more." "Notes modified this week."&#x20;
+* Surfaces the right things, at the right time, and in the right format.&#x20;
+* You don't have to remember where things are.&#x20;
+* You don't have to manually organize all your space.&#x20;
+* It enables you to handle large amounts of content.&#x20;
 
-<figure><img src="../.gitbook/assets/lists-query (1).png" alt=""><figcaption></figcaption></figure>
+## When to use Queries
 
-Use a Query when you want to:
+Use a query when you want to see a slice of your knowledge base that changes over time and would be tedious or error-prone to maintain by hand. You can create and delete Queries without ever affecting the data in your spaces. Here are some examples:&#x20;
 
-* **Slice a Type by Property values** — not all your Tasks, just the active ones: Task Tracker. Not all your Books, just the ones you're currently reading.
-* **Create a saved filtered view** — pin "Tasks where Status = In Progress" to your sidebar so you don't filter every time.
-* **Build a dashboard** — combine multiple [Inline Queries](../advanced/feature-list-by-platform/inline-queries.md) on a single Object for an at-a-glance view of your work.
-* **Cross multiple Types via a Property** — every Object that has a Date Property, regardless of Type.
-* **Customize the view independently** — a Type's built-in Query has one default view; a custom Query can have many.
+* You want a dashboard — a Query for all tasks with a deadline today.
+* You have a recurring review — a Query for all notes created this week with no tags.&#x20;
+* You want to find something — a Query everything tagged with insight.&#x20;
 
-### How a Query is structured
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Queries Explained.jpg" alt=""><figcaption></figcaption></figure></div>
 
-Every Query has three layers:
+> **Example**:&#x20;
+>
+> Say your Space has three Types: Books, Movies, and Games — all sharing a Genre property. You can create a Query filtering for Genre = Science Fiction, and the result is a View showing every science fiction book, movie, and game in your Space, automatically updated as you add new entries.
+>
+> In other words, the Query is a living answer to: _"What science fiction media do I have?"_ See how to [create this Query below](sets.md#create-a-query).&#x20;
 
-1. **Source** — the universe of Objects to query. Either _Type_ (e.g., all Tasks) or _Property_ (e.g., all Objects with a "Reviewed" property).
-2. **Filters and sorts** — narrow down and order the source.
-3. **Views** — different visual presentations of the same data (Grid, List, Board, etc.).
+#### Types vs. Queries
 
-Each Query can have multiple Views — same data, different layouts. A Tasks Query might have a Board View grouped by Status and a Grid View showing all Properties as columns. Switch between Views in one click.
+[Types](types.md) are effectively built-in Queries, they are inherently the same thing. However, because every Object can only have one Type, Queries really shine when you want to find and group Objects that belong to multiple Types. For example:&#x20;
 
-### Creating a Query
+> You want to find everything science fiction related in your space—create a Query that will pull Objects from the Book, Movie, and Game Types using a 'Science Fiction' Property.&#x20;
 
-#### From the sidebar
+#### Collections vs. Queries
 
-1. Click the **+** button in the sidebar.
-2. Hover over **Query** and choose either **Query by Type** or **Query by Property**.
-3. Pick the Type or Property to query.
-4. Configure filters, sort, and view.
+When you want a hand-picked list of Objects that have no clear relationships between them, it's best to use a [Collection](collections.md). The issue is that Collections require manual upkeep, so they can quickly become redundant. Queries really shine when you want a group of Objects that say updated. For example:&#x20;
 
-<figure><img src="../.gitbook/assets/lists-create-query (1).png" alt=""><figcaption></figcaption></figure>
+> You want a list of notes that haven't been sorted yet—create a Query that will look for Notes with no category and sorted by most recent date modified. &#x20;
 
-#### From the slash menu
+## Create a Query&#x20;
 
-Type `/query` in any editor to insert an [Inline Query](../advanced/feature-list-by-platform/inline-queries.md) — a Query embedded inside another Object.
+Queries are treated the same as Types, so you can find it in all the same places—in the Sidebar, in the Create Dropdown, and in the Channel Settings. Additionally, all Queries have [Views](views.md) and operate in the same way. To create a Query:&#x20;
 
-### Filters
+1. Create a Query through the [Create menu or Types section](../creation/objects/#how-to-create-objects).&#x20;
+2. Choose a **source**. This can be a:
+   1. [Type](types.md), such as Tasks, Projects, Books.
+   2. [Property](relations.md), such as all Objects with a 'Reviewed' tag property.
+3. Set your **filters** and **sorts**.&#x20;
+4. Choose a **layout**.
 
-Filters narrow your Query to Objects matching specific conditions. Each filter has:
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Queries Create.gif" alt=""><figcaption></figcaption></figure></div>
 
-* **Property** — which Property to check
-* **Operator** — how to compare (is, is not, contains, is greater than, etc.)
-* **Value** — what to compare against, including [dynamic values](../advanced/feature-list-by-platform/advanced-filters.md#dynamic-filter-values) like Current User and This Object
+To learn more about how to manage Queries and their settings, see the [Views](views.md#how-it-works) section.&#x20;
 
-Multiple filters are joined by AND by default. For OR logic, grouping, and complex conditions, see [Advanced Filters](../advanced/feature-list-by-platform/advanced-filters.md).
+You can also add [Queries to your Sidebar as a Widget](views.md#views-in-sidebar), just like any other View.&#x20;
 
-### Sorts
+### Inline Queries&#x20;
 
-Click the sort icon to add a sort. Pick a Property and choose ascending or descending. Multiple sorts apply in priority order — drag to rearrange.
+You can use the **Inline Query** block in the editor to add a Query directly into pages. This enables you to see your Objects right alongside your content.&#x20;
 
-In list views, you can also drag and drop Objects to **manually reorder** them. The order is saved per-View.
+1. While editing a page, open the command menu using the `+` button or type `/inline query`.
+2. Select **Inline Query**.&#x20;
+3. Create a new Query or select a pre-existing one.&#x20;
 
-### Views
+Types are also considered a Query, this is why they also appear in the list of choices.&#x20;
 
-A View is one specific layout + filter + sort configuration. Every Query starts with one default View, but you can add more.
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Query Inline.jpg" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/lists-layout.png" alt=""><figcaption></figcaption></figure>
+### Editing Inline Queries
 
-#### Layout types
+Edits made to the view of an Inline Query or Inline Collection apply only to that specific block. Editing an Inline View inside an Object does not affect the master View, which is always preserved at the [Type](types.md), [Query](sets.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
 
-| Layout       | Best for                                                                           |
-| ------------ | ---------------------------------------------------------------------------------- |
-| **Grid**     | Spreadsheet-style — every Property as a column. Best for batch editing and detail. |
-| **Gallery**  | Visual cards with cover image. Best for media, books, projects.                    |
-| **List**     | Compact — minimal Properties shown, more rows visible.                             |
-| **Kanban**   | Board — Objects grouped into columns by a chosen Property.                         |
-| **Calendar** | Date-based — Objects appear on the date of their Date Property.                    |
+This is distinct from editing Objects and their Properties on an Inline View—changes made there _do_ affect the Object itself and are reflected across the entire Space.
 
-{% hint style="warning" %}
-Kanban (Board), Calendar, and Graph views are available on desktop only.
-{% endhint %}
+## Deleting Queries
 
-New Queries use **Grid** as the default layout — Properties are immediately visible as columns.
+Just like Views, Queries are separate from the Objects they organize. Deleting a Query does not affect the underlying Objects—you can safely remove them from your space without losing any data.&#x20;
 
-#### Adding and switching Views
+To delete a Query, navigate to your Queries in your Sidebar. You can then delete it like any Object:
 
-1. Click the View name at the top of the Query.
-2. Click **+ Create New View**.
-3. Pick a layout type and name the View.
+* Right-click the Query in the View to reveal a menu, select Move to Bin.&#x20;
+* Open it the Query and click on the 'three dots' menu in the top right corner, select Move to Bin.&#x20;
 
-Each View has its own filters, sorts, visible Properties, and grouping. Switch between Views with one click using the View tabs.
-
-### Toggling Properties
-
-Each View shows a subset of Properties as columns or fields. To change which Properties are visible:
-
-1. Click the layout settings icon (or right-click a column header in Grid view).
-2. Toggle Properties on or off.
-3. Drag to reorder them.
-
-<figure><img src="../.gitbook/assets/lists-addproperties.png" alt=""><figcaption></figcaption></figure>
-
-### Editing Objects in Grid view
-
-Grid view supports inline editing for all Property types. Click a cell to enter edit mode. Tab between cells. Multi-select with Shift + Click for bulk updates.
-
-A toggle in **Vault Settings > Application > Preferences** controls click behavior in Grid view:
-
-* **Click to edit** (default) — clicking the title puts you in edit mode
-* **Click to open** — clicking the title opens the Object directly
-
-### Grouping
-
-In Grid view, group Objects by a Property:
-
-1. Click the layout settings icon.
-2. Choose **Group by**.
-3. Pick a Property (Select, Multi-select, or Object Properties work best).
-
-Each group becomes a section header with a count. With [Formulas](../advanced/feature-list-by-platform/formulas.md) enabled, each group shows subtotals.
-
-### Dragging Objects between Views
-
-Drag an Object from one View to another inside the same Query. When you drop it into another View, its Properties update to match that View's filters automatically.
-
-For example: drag a task from your "To Do" View to your "Done" View, and the Status Property updates to "Done."
-
-### Tips
+## Tips
 
 {% hint style="info" %}
-**Don't create a Query if the Type's built-in Query is enough.**&#x20;
+**Don't create a Query using Types is enough.** You can think of Types as built-in Queries. It's best to create Queries when you're bringing together Objects from multiple different Types.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-**Save filter combinations as Views, not new Queries.** If you find yourself filtering the same Query the same way repeatedly, save it as a View. View tabs let you switch between filter configurations in one click.
+**Save filter combinations as Views, not new Queries.** If you find yourself filtering the same Query the same way repeatedly, save it as a View. Views let you switch between filter configurations in one click.
 {% endhint %}
 
 {% hint style="info" %}
-**For manually-curated groupings, use a** [**Collection**](collections.md) **instead.** Queries are filter-driven; Collections are hand-picked.
+**For manually-curated groupings, use a** [**Collection**](collections.md) **instead.** Queries are rule-driven by the system while Collections are hand-picked by you.
 {% endhint %}

@@ -1,7 +1,5 @@
 # Vault
 
-## What is a Vault?
-
 Think of this as your account. A **Vault** is your personal, encrypted container in Anytype. Everything you create lives inside your Vault, stored directly on your device.&#x20;
 
 Unlike other apps with accounts and passwords, no company holds the keys to your Vault on Anytype. It is protected by cryptography so strong that it's virtually impossible for the most powerful computers on the planet to break into it. It is highly secure.&#x20;

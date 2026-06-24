@@ -1,7 +1,5 @@
 # Key
 
-## What is your Key?
-
 When you create your Vault, you will receive your very own **Key**, described as a '12 word mnemonic phrase'. This phrase is generated on-device and is the only way to access your vault and decrypt your data. Your Key functions as your login and password at the same time.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure></div>

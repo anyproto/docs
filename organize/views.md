@@ -1,7 +1,5 @@
 # Views
 
-## What are Views?
-
 Views are a visual lens that you place over your content. It allows you to look at the exact same information in different formats, shapes, and orders without ever changing the underlaying content.&#x20;
 
 > **Analogy**: Imagine a building with one hundred people in it. Changing the 'View' doesn't change who is in the building, it just changes where they are. You can have all the people with red clothing in the lobby, while everybody else hides in the basement. Or you can arrange all the people in a long line from shortest to tallest.&#x20;
@@ -10,20 +8,22 @@ Views are a visual lens that you place over your content. It allows you to look 
 
 ## Why it matters
 
-1. With Views, you never need to duplicate content. You can operate from the same set of Objects, just arranged to suit your needs each time.&#x20;
-2. With Views, you can surface new perspectives on your content. By using unique combinations of layouts, filters, and sorts, you can organize your information in new ways.&#x20;
+1. With Views, you can surface new perspectives on your content, such as time-based items in a calendar or visual-driven content in a gallary. By using unique combinations of layouts, filters, and sorts, you can view the same content in multiple ways.&#x20;
+2. With Views, you never need to duplicate content. You can operate from the same set of Objects, just arranged to suit your needs each time.&#x20;
 
 ## How it works
 
 There are three core components to a View:&#x20;
 
-1. **Layouts** — how Objects are visually structured, such as in a 'gallery layout'.&#x20;
+1. **Layouts** — how Objects are visually structured, such as in a 'gallery layout'. [See examples](views.md#views-in-types-queries-and-collections).&#x20;
 2. **Filters** — which Objects are displayed, such as a filter for 'created this year'.&#x20;
 3. **Sorts** — what sequence Objects appear, such as a sort for 'alphabetical'.&#x20;
 
 ### Layouts
 
-<table><thead><tr><th width="130.99609375">Options</th><th>Best For</th><th>Extra Options</th></tr></thead><tbody><tr><td><strong>List</strong></td><td>Simple vertical rows</td><td>Compact Mode, Regular Mode</td></tr><tr><td><strong>Grid</strong></td><td>Spreadsheet-like experience</td><td>Wrap Content</td></tr><tr><td><strong>Calendar</strong></td><td>Date and time arrangement</td><td>Date Property</td></tr><tr><td><strong>Kanban</strong></td><td>Grouping and project management</td><td>Group by, Color columns, Cover</td></tr><tr><td><strong>Gallery</strong></td><td>Visual highlights</td><td>Cover, Card Size</td></tr><tr><td><strong>Graph</strong></td><td>Inter-connected relationships</td><td>Graph Settings</td></tr></tbody></table>
+<table><thead><tr><th width="130.99609375">Options</th><th>Best For</th><th>Extra Options</th></tr></thead><tbody><tr><td><strong>List</strong></td><td>Simple vertical rows</td><td>Compact, Regular</td></tr><tr><td><strong>Grid</strong></td><td>Spreadsheet-like experience</td><td>Wrap content</td></tr><tr><td><strong>Calendar</strong></td><td>Date and time arrangement</td><td>Date property</td></tr><tr><td><strong>Kanban</strong></td><td>Grouping and project management</td><td>Group by, Color columns, Cover</td></tr><tr><td><strong>Gallery</strong></td><td>Visual highlights</td><td>Cover, Card size, Icon, Fit media</td></tr><tr><td><strong>Graph</strong></td><td>Inter-connected relationships</td><td>Graph settings</td></tr></tbody></table>
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Views How Layout.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 Not all views are available on mobile.&#x20;
@@ -45,6 +45,8 @@ Here are some example filters for projects:&#x20;
 
 You can apply multiple filters, they are joined by 'AND'. For more advanced filters using 'OR' logic, grouping, and complex conditions, see [Advanced Filters](../advanced/feature-list-by-platform/advanced-filters.md).
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Filters.jpg" alt=""><figcaption></figcaption></figure></div>
+
 ### Sorts
 
 Sorts sets the sequence in which your Objects appear in your View. It doesn't hide any data, it just sets the order. Whenever you apply a sort, you have to choose a direction:&#x20;
@@ -59,6 +61,8 @@ Here are some common sorts for projects:&#x20;
 * To see what's best ranked: `Rating` sroted by `Descending`.&#x20;
 
 You can apply multiple sorts to a View. The first sort will apply, followed by the second, and so forth.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Sort.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Create & Manage Views
 
@@ -77,10 +81,9 @@ Views are used on all [Types](types.md), [Queries](sets.md), and [Collections](c
 Click on the 'View settings' button, which is the icon next to the 'New' button.&#x20;
 
 * **Layout** — change the layout used to visualize the Objects.&#x20;
-* **Properties** — change the Properties displayed and add new ones.&#x20;
-* **Filter** — apply filters to the View.
-* **Sort** — apply sorts to the View.
-* **Duplicate view** — create a clone of the View.
+* **Properties** — choose the Properties displayed, its order, and add new ones.&#x20;
+* **Filter & Sort** — apply filters and sorts to the View.
+* **Duplicate view** — create a clone of the View with all the same settings.
 * **Remove view** — remove the View (does not affect the Objects).&#x20;
 
 To rearrange the order they appear, click and drag on the View's name that you want to move.&#x20;
@@ -115,20 +118,24 @@ You can cycle between the various Views you have already setup, right in the Sid
 
 ### Views in Objects
 
-You can use the Inline Query and Inline Collection blocks in the editor to add Views directly into pages. This enables you to see your Objects right alongside your content.&#x20;
+You can use the **Inline Query** and **Inline Collection** blocks in the editor to add Views directly into pages. This enables you to see your Objects right alongside your content.&#x20;
 
 1. While editing a page, open the command menu using the `+` button or `/inline` shortcut:&#x20;
 2. Select **Inline Query** to add a [Type](types.md) or [Query](sets.md), and **Inline Collection** for a [Collection](collections.md).&#x20;
 
+Edits made to the view of an Inline Query or Inline Collection apply only to that specific block. Editing an Inline View inside an Object does not affect the master View, which is always preserved at the [Type](types.md), [Query](sets.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
+
+This is distinct from editing Objects and their Properties on an Inline View—changes made there _do_ affect the Object itself and are reflected across the entire Space.
+
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Views Inline.gif" alt=""><figcaption></figcaption></figure></div>
 
-#### Editing Inline Views
+### Search in Views
 
-Edits made to the View of Inline Queries and Inline Collections is applied only to that block in the Object. That is, editing the Inline View does not affect the 'master View', which is always retained at the [Type](types.md), [Query](sets.md), and [Collection](collections.md) level. This means that you can have multiple versions of the Inline View that's specific to each Object while never affecting the master View.&#x20;
+In the View toolbar next to the 'New' button, there is a search icon. Using search here will filter the Objects in the View based on the text you enter. This is great for tempoarily narrowing down your Objects even further.&#x20;
 
-This is not to be mistaken for editing Objects and their Properties, doing so in an Inline View does edit the Object itself and will be reflected across the entire Space.&#x20;
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Views Search.jpg" alt=""><figcaption></figcaption></figure></div>
 
-## Bulk editing Objects
+### Bulk editing Objects
 
 You can edit multiple [Objects](../creation/objects/) at the same time—change types, edit properties, and mass delete. This is best done in a View set to the Grid layout, but it also works in other layouts as well.&#x20;
 
@@ -147,9 +154,17 @@ You can edit multiple [Objects](../creation/objects/) at the same time—change 
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Views Bulk Edit.gif" alt=""><figcaption></figcaption></figure></div>
 
+### Dragging Objects between Views
+
+When you drag and drop an Object from one View to another, its Properties update to match that View's filters automatically. For example: drag a task from your 'All' View to your 'Completed' View, and the Status Property updates to "Done."
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Views Drag.gif" alt=""><figcaption></figcaption></figure></div>
+
 ## Deleting Views
 
-Views are separate from an Object. Deleting a View does not affect the underlying Objects that are part of the View. You can delete them from your Types, Queries, and Collections without worrying about losing your Objects.&#x20;
+Views are separate from the Objects they organize. Deleting a View does not affect the underlying Objects — you can safely remove a View from a Type, Query, or Collection without losing any data.
+
+To delete a View, right-click it to reveal a menu. Alternatively, you can delete it from the View settings in the View toolbar.&#x20;
 
 ## Tips
 

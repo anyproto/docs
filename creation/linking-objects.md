@@ -1,10 +1,9 @@
 ---
 Description: How to link your Objects together.
+description: Creating relationships in your knowledge base
 ---
 
 # Links
-
-## The Power of Links
 
 Linking on Anytype is what turns a bunch of separate notes into a connected knowledge base. When you link a 'Task Object' to a 'Project Object', you are saying that these are related. This relationship is registered in Anytype as a link and becomes visible in your Knowledge Graph—which is a mind map of your entire space.&#x20;
 

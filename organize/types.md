@@ -1,7 +1,5 @@
 # Types
 
-## What is a Type?
-
 If an Object is a cookie, then the Type is the cookie cutter. It's a blueprint that defines what the Object is. Notes, Tasks, Books, People, Images—these are all Types. Imagine a cookie cutter helping you to apply a standardised shape to all of your Objects.&#x20;
 
 * **Tasks** will have a due date, priority, and status.&#x20;
@@ -79,9 +77,9 @@ You can change an Object's Type at any time. There are multiple ways:&#x20;
 * Navigate to the Type, right click on the Object, and click **Change type** from the menu.&#x20;
 * If the 'Object type' Property is in the Object's Header, select it and click **Change type** from the menu.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Change Types.jpg" alt=""><figcaption></figcaption></figure></div>
-
 When changing Types, the Properties are retained on the Object. This means that you can change the Type back and forth without losing any of the Properties on your Objects.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Change Types.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Bulk-changing Types
 
