@@ -4,29 +4,27 @@ description: Surfacing information from your knowledge base
 
 # Queries
 
-Queries are questions you ask your knowledge base that gets saved as a [View](sets.md#views)—a dynamic lens that pulls together [Objects](../creation/objects/) that match your defined criteria. Instead of manually curating a list in your space, you define rules and Anytype will assemble the result automatically and keep it up to date. For example:&#x20;
+A Query is a question you ask your knowledge base—answered instantly and kept up to date automatically. Rather than manually curating a list of things you're looking for, you define the criteria and the Query assembles the result for you as a [View](views.md). For example:
 
 * Show me everything that's tagged `idea` that was created `in the last 30 days`.&#x20;
-* Show me all `projects` where the status is `active`, the priority is `high`, and not marked `done`.&#x20;
+* Show me all my work where the status is `active`, the priority is `high`, and not marked as `done`.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Queries Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Why it matters
 
-With [Types](types.md) and [Properties](relations.md), your Objects have a lot of structure baked into them—Queries allow you to leverage that structure into useful views.&#x20;
+[Types](types.md) and [Properties](relations.md) give your Objects structure, Queries then go and turn that structure into useful answers.
 
-* Surfaces the right things, at the right time, and in the right format.&#x20;
-* You don't have to remember where things are.&#x20;
-* You don't have to manually organize all your space.&#x20;
-* It enables you to handle large amounts of content.&#x20;
+* Instead of remembering where things are, the right Objects get surfaced at the right time, in the right format.
+* Instead of manually organizing everything, you define rules once and Queries keep up with your content as it grows.
 
 ## When to use Queries
 
-Use a query when you want to see a slice of your knowledge base that changes over time and would be tedious or error-prone to maintain by hand. You can create and delete Queries without ever affecting the data in your spaces. Here are some examples:&#x20;
+Use a query when you want to see a slice of your knowledge base that changes over time and would be tedious to maintain by hand. You can create and delete Queries without ever affecting the data in your spaces. Here are some examples:&#x20;
 
-* You want a dashboard — a Query for all tasks with a deadline today.
-* You have a recurring review — a Query for all notes created this week with no tags.&#x20;
-* You want to find something — a Query everything tagged with insight.&#x20;
+* You want a dashboard — a Query for everything that has a deadline set for `today`.
+* You have a recurring review — a Query for everything with a `triage` status sorted by oldest first.&#x20;
+* You want to find something — a Query for everything tagged with `insight`.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Queries Explained.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -38,21 +36,25 @@ Use a query when you want to see a slice of your knowledge base that changes ove
 
 #### Types vs. Queries
 
-[Types](types.md) are effectively built-in Queries, they are inherently the same thing. However, because every Object can only have one Type, Queries really shine when you want to find and group Objects that belong to multiple Types. For example:&#x20;
+[Types](types.md) are effectively built-in Queries, they are the same thing. However, because every Object can only have one Type, Queries really shine when you want to find and group Objects that belong to multiple Types.&#x20;
 
-> You want to find everything science fiction related in your space—create a Query that will pull Objects from the Book, Movie, and Game Types using a 'Science Fiction' Property.&#x20;
+> **Example**:&#x20;
+>
+> You want to find everything related to privacy in your space. You create a Query that looks for all Objects that have been tagged with 'privacy'. This may then pull Objects various different Types, such as Projects, Tasks, Bookmarks, Notes, Films, and New Articles.&#x20;
 
 #### Collections vs. Queries
 
-When you want a hand-picked list of Objects that have no clear relationships between them, it's best to use a [Collection](collections.md). The issue is that Collections require manual upkeep, so they can quickly become redundant. Queries really shine when you want a group of Objects that say updated. For example:&#x20;
+Use a [Collection](collections.md) when you want a hand-picked group of Objects with no clear relationship between them. The tradeoff is manual upkeep — Collections don't update themselves, so they can fall out of date as your Space grows. Queries shine when the group has a logical rule behind it. If you can define it as criteria, let Anytype maintain it for you.
 
-> You want a list of notes that haven't been sorted yet—create a Query that will look for Notes with no category and sorted by most recent date modified. &#x20;
+> **Example**:&#x20;
+>
+> You want to see everything in your Space that hasn't been sorted yet. Create a Query filtering for Objects with no tags, sorted by date modified. This way, you'll always have an up-to-date inbox of unorganized content to sort through, no matter how much your Space evolves.
 
 ## Create a Query&#x20;
 
-Queries are treated the same as Types, so you can find it in all the same places—in the Sidebar, in the Create Dropdown, and in the Channel Settings. Additionally, all Queries have [Views](views.md) and operate in the same way. To create a Query:&#x20;
+Queries live in all the same places as Types—the Sidebar, the Create menu, and Channel Settings. And like Types, every Query has Views that work the same way. To create a Query:
 
-1. Create a Query through the [Create menu or Types section](../creation/objects/#how-to-create-objects).&#x20;
+1. Navigate to the [Create menu or Types section](../creation/objects/#how-to-create-objects) and select **Query**.&#x20;
 2. Choose a **source**. This can be a:
    1. [Type](types.md), such as Tasks, Projects, Books.
    2. [Property](relations.md), such as all Objects with a 'Reviewed' tag property.
@@ -61,7 +63,11 @@ Queries are treated the same as Types, so you can find it in all the same places
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Queries Create.gif" alt=""><figcaption></figcaption></figure></div>
 
+## Using Queries
+
 To learn more about how to manage Queries and their settings, see the [Views](views.md#how-it-works) section.&#x20;
+
+### Sidebar Widget
 
 You can also add [Queries to your Sidebar as a Widget](views.md#views-in-sidebar), just like any other View.&#x20;
 
@@ -77,7 +83,7 @@ Types are also considered a Query, this is why they also appear in the list of c
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Query Inline.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Editing Inline Queries
+#### Editing Inline Queries
 
 Edits made to the view of an Inline Query or Inline Collection apply only to that specific block. Editing an Inline View inside an Object does not affect the master View, which is always preserved at the [Type](types.md), [Query](sets.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
 
