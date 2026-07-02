@@ -1,5 +1,47 @@
 # FAQ
 
+## General
+
+
+
+
+
+## Security
+
+
+
+
+
+## Privacy
+
+
+
+
+
+## Sync
+
+<details>
+
+<summary>What happens when my storage limit is reached? </summary>
+
+You can continue to use the app without interruption, as all text-related content will continue to sync. However, files, images, videos, etc. will no longer sync until you are below the limit again or purchase a plan to increase your limit.&#x20;
+
+The Anytype app will attempt check your limit by attempting to sync files periodically, but this shouldn't occupy resources on your device.&#x20;
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details>
 
 <summary>How to recover my Key from my OS key storage manager?</summary>
