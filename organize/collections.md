@@ -4,19 +4,43 @@ description: Hand-curated groupings of Objects.
 
 # Collections
 
-A Collection is a manually curated container for Objects—the closest thing to a folder in Anytype. You decide what goes in, and Objects stay until you remove them.
+A Collection is a manually curated container for Objects—the closest thing to a folder in Anytype. You decide what goes in, and Objects stay in the Collection until you remove them. Importantly, Objects exist independently of Collections. The same Object can live in multiple Collections at once, and removing an Object from a Collection doesn't delete it — it simply stops being part of that Collection. For example:&#x20;
 
-Importantly, Objects exist independently of Collections. The same Object can live in multiple Collections at once, and removing an Object from a Collection doesn't delete it — it simply stops being part of that Collection. For example:&#x20;
-
-* A Collection of all your favorite Objects
-
-
+* A Collection of all everything you want to do on holiday: sights you want to visit, books you want to read, tasks you want to complete.&#x20;
+* A Collection of resources you want to share with a friends: bookmarks, articles, documentaries, infographics, and notes.&#x20;
 
 ## Why it matters
 
+Not everything in your space shares a clear relationship where you can bring them together, such as: everything tagged with 'inspiration'. For Objects that can't be easily brought together using [Types](types.md), [Properties](relations.md), and [Queries](sets.md), it's best to use Collections.&#x20;
 
+You can think of it as a folder of hand-picked Objects that serve a specific purpose.&#x20;
 
 ## When to use Collections
+
+It's best to understand Collections when comparing it to how you use [Queries](sets.md).&#x20;
+
+|                        | Collection                                                                                   | Query                                  |
+| ---------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------- |
+| Curating vs. Filtering | Everything you want to do on holiday: books to read, tasks to complete, locations to visit.  | All your media with a rating above 4.  |
+|                        |                                                                                              |                                        |
+|                        |                                                                                              |                                        |
+
+Collections shine when:
+
+* **A project mixes Types** — tasks, design files, meeting notes, references all in a scope. A "Q1 Marketing" Collection holds them all without forcing them into a single Type or adding Properties that you have to run through a Query.&#x20;
+* **You're curating, not filtering** — your favorite recipes, your top references, your reading list. These aren't "all books" or "books with rating ≥ 4" — they're the ones you specifically chose.
+* **You want a project hub** — open the Collection and you're inside the project. Add new Objects directly. Pin it to the sidebar for one-click access.
+* **You're onboarding someone** — a Collection of "everything a new team member should see" is hand-picked, not filter-defined.
+
+
+
+
+
+Collections shine best when:&#x20;
+
+* You're curating, not filtering.&#x20;
+
+
 
 
 
@@ -28,16 +52,11 @@ Importantly, Objects exist independently of Collections. The same Object can liv
 
 
 
+
+
 ### Why Collections matter
 
 Most things you organize don't share a clean rule. They belong together because of context: the same project, the same trip, the same person, the same theme. A Collection is the place to gather them.
-
-Collections shine when:
-
-* **A project mixes Types** — tasks, design files, meeting notes, references all in scope. A "Q1 Marketing" Collection holds them all without forcing them into a single Type.
-* **You're curating, not filtering** — your favorite recipes, your top references, your reading list. These aren't "all books" or "books with rating ≥ 4" — they're the ones you specifically chose.
-* **You want a project hub** — open the Collection and you're inside the project. Add new Objects directly. Pin it to the sidebar for one-click access.
-* **You're onboarding someone** — a Collection of "everything a new team member should see" is hand-picked, not filter-defined.
 
 ### Creating a Collection
 

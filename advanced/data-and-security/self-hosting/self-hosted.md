@@ -19,7 +19,7 @@ Please note that all your devices should be manually switched to the same self-h
 5. Click the “Save” button.
 6. Create a new identity or log in with an existing one.
 
-<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Mobile
 
@@ -30,3 +30,10 @@ Please note that all your devices should be manually switched to the same self-h
 5. Create a new identity or log in an existing one.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_20240411-104804_Anytype3.png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Hardware Requirements
+
+The requirements for self-hosting hardware depends on the type of self-hosting:&#x20;
+
+* For Docker Compose, the [minimum requirements are listed here](https://github.com/anyproto/any-sync-dockercompose#requirements.).&#x20;
+* For Ansible/Puppet, the requirements are similar and possibly even less demanding.
