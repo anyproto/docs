@@ -97,7 +97,7 @@ From **Channel Settings > Members**, the Owner can:
 Member display names and profile pictures (set in their own [Vault Settings > Profile](../advanced/settings/account-and-data.md)) appear next to their messages and posts. Click any member's name or profile to open their profile popup, where you can:
 
 * See their full profile (name, bio, profile picture)
-* Send them a Direct Message — opens a [Direct Channel](../getting-started/direct-channels.md)
+* Send them a Direct Message — opens a [Direct Channel](https://github.com/anyproto/docs-new/blob/main/getting-started/direct-channels.md)
 * See which other Channels you both belong to (if any)
 
 ### Transferring Channel ownership

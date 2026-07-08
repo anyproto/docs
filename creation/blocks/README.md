@@ -132,5 +132,5 @@ Repeat to add more columns. To break a column back into a single column, drag a 
 ## Tips
 
 {% hint style="info" %}
-**Toggled Headings + Table of Contents = best long-page navigation.** With both turned on, you can collapse sections you're not editing and use the Table of Contents to jump between sections. See [Toggled Headings](../../advanced/feature-list-by-platform/toggled-headings.md).
+**Toggled Headings + Table of Contents = best long-page navigation.** With both turned on, you can collapse sections you're not editing and use the Table of Contents to jump between sections. See [Toggled Headings](https://github.com/anyproto/docs-new/blob/main/advanced/feature-list-by-platform/toggled-headings.md).
 {% endhint %}

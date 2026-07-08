@@ -6,16 +6,16 @@ There are many different types of blocks, each serving a unique purpose. Feel fr
 
 ### Text blocks
 
-| Block                          | What it's for                                                                                                                |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Paragraph**                  | Standard text                                                                                                                |
-| **Title, Heading, Subheading** | Section structure, also known as headings (H1, H2, and H3)                                                                   |
-| **Title**                      | Title of the object                                                                                                          |
-| **Quote**                      | Quoted or highlighted text                                                                                                   |
-| **Callout**                    | Boxed text for warnings, tips, or notes                                                                                      |
-| **Code**                       | Monospaced code with syntax highlighting                                                                                     |
-| **Toggle**                     | Collapsible block that hides nested content                                                                                  |
-| **Toggled Heading**            | A heading that also toggles its section. See [Toggled Headings](../../advanced/feature-list-by-platform/toggled-headings.md) |
+| Block                          | What it's for                                                                                                                                                         |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Paragraph**                  | Standard text                                                                                                                                                         |
+| **Title, Heading, Subheading** | Section structure, also known as headings (H1, H2, and H3)                                                                                                            |
+| **Title**                      | Title of the object                                                                                                                                                   |
+| **Quote**                      | Quoted or highlighted text                                                                                                                                            |
+| **Callout**                    | Boxed text for warnings, tips, or notes                                                                                                                               |
+| **Code**                       | Monospaced code with syntax highlighting                                                                                                                              |
+| **Toggle**                     | Collapsible block that hides nested content                                                                                                                           |
+| **Toggled Heading**            | A heading that also toggles its section. See [Toggled Headings](https://github.com/anyproto/docs-new/blob/main/advanced/feature-list-by-platform/toggled-headings.md) |
 
 ### List blocks
 
@@ -37,7 +37,7 @@ Press Tab inside a list item to indent it (creating a nested sub-list). Shift + 
 | **File**  | Generic file with download link            |
 | **PDF**   | PDF preview                                |
 
-Drag a file onto the editor to insert it. Each file becomes a [File Object](../../getting-started/files-and-media.md) you can find and reference elsewhere.&#x20;
+Drag a file onto the editor to insert it. Each file becomes a [File Object](https://github.com/anyproto/docs-new/blob/main/getting-started/files-and-media.md) you can find and reference elsewhere.&#x20;
 
 {% hint style="info" %}
 **Tip:** Use the `/file` shortcut to add an existing image or file that's already in your space into a block. This way, you don't need to re-upload the same file. Instead, upload the file once and re-use it over and over again.&#x20;

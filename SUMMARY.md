@@ -21,7 +21,7 @@
 ## Creation
 
 * [Objects](creation/objects/README.md)
-  * [Format](creation/objects/format.md)
+  * [Formats](creation/objects/formats.md)
 * [Editor](creation/blocks/README.md)
   * [Block Types](creation/blocks/block-types.md)
   * [Table of Contents](creation/blocks/table-of-contents.md)

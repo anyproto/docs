@@ -1,4 +1,4 @@
-# Format
+# Formats
 
 Everything in Anytype is an Object, however they can have a different format depending on how they are used.&#x20;
 
@@ -17,7 +17,7 @@ This is the most common type of Object with an editor that's used to create all 
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Page Format.png" alt=""><figcaption></figcaption></figure></div>
 
-#### Page Layout
+#### Page Layouts
 
 Pages can change layouts depending on what's needed. You can choose from:&#x20;
 
@@ -32,19 +32,26 @@ There is also a special layout dedicated for [bookmarks.md](../bookmarks.md "men
 
 ## Type Format
 
-When viewing multiple objects together, this is the format that's used to keep things organized. This format is what you see when you're viewing Types, Queries, and Collections.&#x20;
+When viewing multiple objects together, this is the format that's used to keep things organized. This format is what you see when you're viewing [Types](../../organize/types.md), [Queries](../../organize/sets.md), and [Collections](../../organize/collections.md).&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Format Type.png" alt=""><figcaption></figcaption></figure></div>
 
-#### Type Layout
+#### Type Layouts
 
-You can select from a variety of different layouts such as Calendar, Gallery, List, Kanban, etc. to create customizable Views of your Objects. See [views.md](../../organize/views.md "mention") for more details.&#x20;
+You can select from a variety of different layouts such as:&#x20;
+
+* List
+* Grid
+* Calendar
+* Gallery
+* Kanban
+* Graph
+
+To create customizable Views of your Objects. See [views.md](../../organize/views.md "mention") for more details.&#x20;
 
 ## Chat Format
 
 When you want to have conversations with others, this is the format that's used for messaging. It works just like most chat apps. You can send images, reference existing Objects in the space, share links, reply to messages, and have emoticon reactions.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Object Format Chat.png" alt=""><figcaption></figcaption></figure></div>
-
-
 

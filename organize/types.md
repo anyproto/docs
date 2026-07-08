@@ -53,7 +53,7 @@ In this panel, you can make various edits:&#x20;
 * Change the Type name and icon.&#x20;
 * Add/remove Properties and Templates.&#x20;
 * Make edits to the Object Header.&#x20;
-* Edit the [Object layout](../creation/objects/format.md#page-format).&#x20;
+* Edit the [Object layout](../creation/objects/formats.md#page-format).&#x20;
 
 ### Object Header
 

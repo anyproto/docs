@@ -54,12 +54,14 @@ Use a [Collection](collections.md) when you want a hand-picked group of Objects 
 
 Queries live in all the same places as Types—the Sidebar, the Create menu, and Channel Settings. And like Types, every Query has Views that work the same way. To create a Query:
 
-1. Navigate to the [Create menu or Types section](../creation/objects/#how-to-create-objects) and select **Query**.&#x20;
+1. In the Sidebar, click on the [Create Dropdown button](../creation/objects/#create-menu) and select **Query**.&#x20;
 2. Choose a **source**. This can be a:
    1. [Type](types.md), such as Tasks, Projects, Books.
    2. [Property](relations.md), such as all Objects with a 'Reviewed' tag property.
 3. Set your **filters** and **sorts**.&#x20;
 4. Choose a **layout**.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Queries Create.jpg" alt=""><figcaption></figcaption></figure></div>
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Queries Create.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -85,9 +87,9 @@ Types are also considered a Query, this is why they also appear in the list of c
 
 #### Editing Inline Queries
 
-Edits made to the view of an Inline Query or Inline Collection apply only to that specific block. Editing an Inline View inside an Object does not affect the master View, which is always preserved at the [Type](types.md), [Query](sets.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
+Edits made to the View of an Inline Queries apply only to that specific block. Editing an Inline View inside an Object doesn't affect the master View — that stays intact at the [Type](types.md), [Query](sets.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
 
-This is distinct from editing Objects and their Properties on an Inline View—changes made there _do_ affect the Object itself and are reflected across the entire Space.
+This is different from editing actual Objects and their Properties through an Inline View: those changes **do** affect the underlying Objects and are reflected everywhere they appear across the Space.
 
 ## Deleting Queries
 
@@ -96,7 +98,7 @@ Just like Views, Queries are separate from the Objects they organize. Deleting a
 To delete a Query, navigate to your Queries in your Sidebar. You can then delete it like any Object:
 
 * Right-click the Query in the View to reveal a menu, select Move to Bin.&#x20;
-* Open it the Query and click on the 'three dots' menu in the top right corner, select Move to Bin.&#x20;
+* Open the Query and click on the 'three dots' menu in the top right corner, select Move to Bin.&#x20;
 
 ## Tips
 

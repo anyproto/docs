@@ -4,13 +4,45 @@ description: Pre-filled starting points for new Objects.
 
 # Templates
 
-### What is a Template?
+A **Template** is a saved layout for a page that you can reuse. Instead of starting every new Note, Task, or Project from a blank page, you define what a good starting point looks like once and it'll form the base for every new one you create.
 
-A **Template** is a saved layout for a Type. Instead of starting every new Note, Task, or Page from a blank screen, you define what a "good starting point" looks like once — preset Properties, headings, sample blocks — and reuse it whenever you create a new Object of that Type.
+<figure><img src="../.gitbook/assets/selecttemplate-newobject.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/selecttemplate-newobject.png" alt=""><figcaption></figcaption></figure>
+## Why it matters
+
+Templates help you with three things:&#x20;
+
+* **Standardize your pages** — ensure everything follows the same format.&#x20;
+* **Save time** — set a template once and reuse it forever.&#x20;
+* **Reduce errors** — limit the amount that needs manual entry each time.&#x20;
+
+## When to use templates
+
+It's best to use templates on pages that you find yourself repeatedly entering the same content that follows a similar structure every time. Good examples of this are for cooking recipes, book reviews, project dashboards, and content releases.&#x20;
+
+## How it works
+
+Every Type can have multiple templates, but only one template can be set as the default that is used automatically every time a new Object of that Type is created.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### How it works
+
+&#x20;You can preset headings, sample blocks, and Properties — and reuse it whenever you create a new Object of that Type.
 
 Templates are saved per-Type. Each Type can have:
 
@@ -28,7 +60,7 @@ Templates are saved per-Type. Each Type can have:
 4. Click **+** to start a new Template.
 5. Give the Template a name and start adding Properties, headings, and content.
 
-<figure><img src="../../.gitbook/assets/templates-type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/templates-type.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The Template auto-saves as you edit. Close it when you're done.
@@ -47,7 +79,7 @@ If you've built an Object you'd like to reuse as a Template:
 3. Choose **Use as a Template**.
 4. The Object's content (blocks, Properties, layout) is saved as a new Template for its Type.
 
-<figure><img src="../../.gitbook/assets/useastemplate.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/useastemplate.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The original Object is unchanged — you've made a copy as a Template.
@@ -61,7 +93,7 @@ Inside any list-style view, the **+** button has a dropdown:
 2. The Templates picker opens.
 3. Click **+** to create a new Template.
 
-<figure><img src="../../.gitbook/assets/list-template.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/list-template.png" alt=""><figcaption></figcaption></figure>
 
 ### Editing an existing Template
 
@@ -77,7 +109,7 @@ Changes apply to **future Objects only**, not Objects already created from earli
 
 Open the Type's Templates list and click the star (or "Set as default") next to the Template you want as the default.
 
-<figure><img src="../../.gitbook/assets/template-contextmenu (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/template-contextmenu (1).png" alt=""><figcaption></figcaption></figure>
 
 #### View-level default
 
@@ -101,7 +133,7 @@ When you create a new Object:
 
 The Template Picker shows all available Templates for the Type with a preview:
 
-<figure><img src="../../.gitbook/assets/selecttemplate-newobject.png" alt=""><figcaption><p>The Template Picker</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/selecttemplate-newobject.png" alt=""><figcaption><p>The Template Picker</p></figcaption></figure>
 
 ### Template name pre-fill
 
@@ -116,7 +148,7 @@ To control this behavior:
 
 Use **Empty name** when the Template's name is just for _finding_ the Template (e.g., "Daily Journal" is the Template name, but you don't want every entry to start with "Daily Journal" as the title).
 
-<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
 ### Multiple Templates per Type
 

@@ -84,7 +84,7 @@ Beyond external URLs, you can embed files directly from your Objects:
 * **Audio** — drag in or use `/audio`
 * **PDF** — drag in or use `/pdf`
 
-These embeds are connected to the [File Object](../../getting-started/files-and-media.md) — the file becomes its own Object in your Channel that you can find, link, and tag.
+These embeds are connected to the [File Object](https://github.com/anyproto/docs-new/blob/main/getting-started/files-and-media.md) — the file becomes its own Object in your Channel that you can find, link, and tag.
 
 #### File block default style
 

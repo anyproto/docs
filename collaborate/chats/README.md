@@ -31,7 +31,7 @@ Chat-Home Channels are great for:
 
 <figure><img src="../../.gitbook/assets/home-chat.png" alt=""><figcaption></figcaption></figure>
 
-But even in a Page-Home or Collection-Home Channel, you can have one or more Chats — they live in the sidebar like any other Object. See [Creating a Channel](../../getting-started/creating-a-channel.md).
+But even in a Page-Home or Collection-Home Channel, you can have one or more Chats — they live in the sidebar like any other Object. See [Creating a Channel](https://github.com/anyproto/docs-new/blob/main/getting-started/creating-a-channel.md).
 
 ### Chat as an Object Type
 
@@ -146,7 +146,7 @@ You can only edit or delete your own messages. Channel Owners cannot edit other 
 
 Drag a file onto the Chat input or paste from clipboard. The file uploads and:
 
-* Becomes a [File Object](../../getting-started/files-and-media.md) you can find later
+* Becomes a [File Object](https://github.com/anyproto/docs-new/blob/main/getting-started/files-and-media.md) you can find later
 * Shows as a preview card in the chat&#x20;
 * Is searchable from the global search
 
@@ -163,7 +163,7 @@ Per-Chat notification settings let you control how loud each Chat is:
    * **Mentions only** — only when you're `@`-mentioned
    * **Disable all** — no notifications (unread counter still updates)
 
-These settings are per-Chat and override Channel-level defaults. See [Notifications](../../getting-started/notifications.md) for the full picture.
+These settings are per-Chat and override Channel-level defaults. See [Notifications](https://github.com/anyproto/docs-new/blob/main/getting-started/notifications.md) for the full picture.
 
 ### Spell checking
 
@@ -171,7 +171,7 @@ Chat messages support spell checking with the same red underline and suggestions
 
 ### Direct Channels
 
-For one-on-one conversations, use **Direct Channels** — private chats between two people, with no admin or hierarchy. See [Direct Channels](../../getting-started/direct-channels.md).
+For one-on-one conversations, use **Direct Channels** — private chats between two people, with no admin or hierarchy. See [Direct Channels](https://github.com/anyproto/docs-new/blob/main/getting-started/direct-channels.md).
 
 ### Tips
 
@@ -188,5 +188,5 @@ For one-on-one conversations, use **Direct Channels** — private chats between 
 {% endhint %}
 
 {% hint style="info" %}
-**For Object-specific feedback, use Discussions instead of Chat.** Discussions live on the Object and stay attached forever. Chats are for cross-Object conversations and stream-of-consciousness collaboration. See [Discussions](../../getting-started/discussions.md).
+**For Object-specific feedback, use Discussions instead of Chat.** Discussions live on the Object and stay attached forever. Chats are for cross-Object conversations and stream-of-consciousness collaboration. See [Discussions](https://github.com/anyproto/docs-new/blob/main/getting-started/discussions.md).
 {% endhint %}

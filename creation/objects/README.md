@@ -29,9 +29,10 @@ Every Object has:
 
 #### Types Section
 
-You can create an Object directly from the Types section of the Sidebar by hovering over the [Type](../../organize/types.md) and clicking on the 'plus' button.&#x20;
+You can create an Object directly from the Types section of the Sidebar by hovering over the [Type](../../organize/types.md) and clicking on the 'plus' button. Here you will also find Queries and Collections. Please note:&#x20;
 
-If this section is not showing, please see [Manage Sections](../../basics/customize-and-edit-the-sidebar/sidebar-sections.md#manage-sections) to reveal it. Only Types with at least one Object in them will display in this section.&#x20;
+* If this section is not showing, please see [Manage Sections](../../basics/customize-and-edit-the-sidebar/sidebar-sections.md#manage-sections) to reveal it.&#x20;
+* Only Types with at least one Object in them will display in this section. If your desired category is not in the Types section, [use the create menu](./#create-menu) to create one object first, then it will reveal in this section.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Create Section.jpg" alt=""><figcaption></figcaption></figure></div>
 

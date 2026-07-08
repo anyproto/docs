@@ -23,7 +23,7 @@ When you first enter a Channel, the sidebar shows:
 
 In personal (single-member) Channels, the distinction between "you" and "all members" doesn't matter — but the layout is the same.
 
-### Pins and Favorites Sections
+### Pins and Favorites
 
 Anytype has two distinct mechanisms:
 
@@ -32,32 +32,40 @@ Anytype has two distinct mechanisms:
 
 To learn more on how to add, remove, and organize them, see [pins-and-favorites.md](pins-and-favorites.md "mention") for details.&#x20;
 
-### Recently Edited Section
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Pins Favorites.jpg" alt=""><figcaption></figcaption></figure></div>
+
+### Types
+
+The [Types](../../organize/types.md) section is the master index of your space. Here are some additional features:&#x20;
+
+* **Quick Create Object** — hover over any Type to reveal a '+' button. Click it to create a new Object of that Type instantly.&#x20;
+* **Add New Types** — hover over the Type section title to reveal a '+ New Type' button. &#x20;
+* **Reorder Types** — click and drag a Type to reorder its position in the list.&#x20;
+* **Hidden Types** — only Types that have at least one Object appear in the sidebar automatically. To create an Object of a Type that isn't visible on the sidebar, click the [Create Dropdown in the Sidebar](../../creation/objects/#create-menu) to reveal all your Types.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Types.jpg" alt=""><figcaption></figcaption></figure></div>
+
+### Recently Edited
 
 The **Recently Edited** section shows Objects that have been modified recently. This is useful for picking up where you or others in the space have left off. This section has an extra setting: who counts as "recently edited"?
 
 1. Hover over the **Recently Edited** header.
 2. Click the three-dot menu.
 3. Choose:
-   * **Any member** — shows changes made by anyone in the Channel (default)
+   * **Any member** — shows changes made by anyone in the space
    * **Only me** — shows only Objects you edited
 
 Use **Only me** in busy team Channels where your own work would otherwise be buried under everyone else's edits.
 
-### Types Section
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Recently Edited.jpg" alt=""><figcaption></figcaption></figure></div>
 
-The **Types** section is the master index of your Channel, as it groups every Object by its Type. Here are some additional features:&#x20;
-
-* **Quick Create Object** — hover over any Type to reveal a '+' button. Click it to create a new Object of that Type instantly.&#x20;
-* **Add New Types** — hover over the Type section title to reveal a '+ New Type' button. &#x20;
-* **Reorder Types** — click and drag a Type to reorder its position in the list.&#x20;
-* **Hide Types** — only Types that have at least one Object appear in the sidebar automatically. To create an Object of a Type that isn't visible on the sidebar, click the Create Dropdown in the Sidebar Header to reveal all your Types.&#x20;
-
-### Unread Section
+### Unread
 
 The **Unread** section surfaces notifications from your Channel, this is typically from [chats](../../collaborate/chats/ "mention") and [Broken link](/broken/pages/aMvZ7gkJSTzwWXlSot4V "mention"). This channel is temporary in nature, appearing and disappearing based on active notifications.&#x20;
 
-### Bin Section
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Unread.jpg" alt=""><figcaption></figcaption></figure></div>
+
+### Bin
 
 The Bin appears as its own section in the sidebar. Its three-dot menu lets you:
 
@@ -66,7 +74,7 @@ The Bin appears as its own section in the sidebar. Its three-dot menu lets you:
 
 ## Manage Sections
 
-There are two paths to manage sections in each Channel.&#x20;
+There are two paths to show, hide, and reorder Sidebar sections.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Manage Sections How To Find.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -77,7 +85,7 @@ There are two paths to manage sections in each Channel.&#x20;
 
 **From a section header:**
 
-1. Hover over any section header in the sidebar.
+1. Hover over a section's header in the Sidebar.
 2. Click the three-dot menu next to its name.
 3. Choose **Manage Sections** to see the full list, or **Hide section** to hide just this one.
 
@@ -85,7 +93,7 @@ The Manage Sections panel opens as a centered popup, listing every section with 
 
 ### Reordering Sections
 
-Drag the handle to the left of a section name to move it up or down in the sidebar. The order applies to your view only — other members keep their own ordering.
+Drag the handle to the left of a section name to move it up or down in the sidebar. The section order applies to your settings only — other members keep their own ordering.
 
 ### Hiding Sections
 

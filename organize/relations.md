@@ -33,7 +33,7 @@ Properties serve two functions. We'll use a Task Object as an example.&#x20;
 
 Here are the currently available Property types within Anytype:
 
-<table><thead><tr><th width="189.9609375">Property Type</th><th>Description</th></tr></thead><tbody><tr><td><strong>Text</strong></td><td>Accepts free-form text as input. </td></tr><tr><td><strong>Number</strong></td><td>For all numbers. Different formats are coming soon. </td></tr><tr><td><strong>Date</strong></td><td>Date, with optional time. </td></tr><tr><td><strong>Select</strong></td><td>Predefined list of options. You can choose one. </td></tr><tr><td><strong>Multi-select</strong></td><td>Predefined list of options. You can choose multiple, with no limit. </td></tr><tr><td><strong>Email/Phone/URL</strong></td><td>Special formats for email addresses, phone numbers, or URLs. </td></tr><tr><td><strong>Checkbox</strong></td><td>A true/false value. </td></tr><tr><td><strong>File &#x26; Media</strong></td><td>Attach audio, video, or images to view, play, or download. </td></tr><tr><td><strong>Object</strong></td><td>Reference to another object, such as a person, task, or document. </td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="189.9609375">Property Type</th><th>Description</th></tr></thead><tbody><tr><td><strong>Text</strong></td><td>Accepts free-form text as input. </td></tr><tr><td><strong>Number</strong></td><td>For all numbers. Different formats are coming soon. </td></tr><tr><td><strong>Date</strong></td><td>Date, with optional time. </td></tr><tr><td><strong>Select</strong></td><td>Predefined list of options. You can choose one. </td></tr><tr><td><strong>Multi-select</strong></td><td>Predefined list of options. You can choose multiple, with no limit. </td></tr><tr><td><strong>Email/Phone/URL</strong></td><td>Special formats for email addresses, phone numbers, or URLs. </td></tr><tr><td><strong>Checkbox</strong></td><td>A true/false value. </td></tr><tr><td><strong>File &#x26; Media</strong></td><td>Attach audio, video, or images to view, play, or download. </td></tr><tr><td><strong>Object</strong></td><td>Reference to another object, such as a person, task, or document. </td></tr></tbody></table>
 
 ## Types vs. Properties
 
@@ -122,6 +122,29 @@ Once inserted as a block, you can manipulate the Property just like any other bl
 When viewing an Object, you can quickly see all of its Properties by opening the Properties Panel. This is located in the top right corner with the 'information' icon.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Properties Use Panel.jpg" alt=""><figcaption></figcaption></figure></div>
+
+## Deleting Properties
+
+Properties exist independently from [Types](types.md) and [Objects](../creation/objects/)—they are their own thing. Because of this, there are multiple ways to remove them.&#x20;
+
+#### From a Type
+
+1. [Navigate to the Type](types.md#editing-types) that you want to remove the Property from.&#x20;
+2. Right-click on the Property and select:&#x20;
+   1. **Remove from Type** — unlinks the Property from the Type, but keeps the Property in the space. The values you assigned to Objects under this Property will be retained, even though you've removed it from the Type.&#x20;
+   2. **Move to Bin** — unlinks the Property from all Types and removes it from the space. The Property can be restored from the Bin.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Properties Remove.jpg" alt=""><figcaption></figcaption></figure></div>
+
+#### From the Channel Settings
+
+In this section, you can see how many Objects are connected to a Property, what Types, and other detailed information to help your with organization.&#x20;
+
+1. Navigate to the [Channel Settings](../advanced/settings/space-settings.md) from the Sidebar.&#x20;
+2. Under 'Content Model', select **Properties**.&#x20;
+3. Right-click on the desired Property, select **Move to Bin**. This will unlink the property from all Types as well.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Properties Remove Channel Settings.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Tips
 

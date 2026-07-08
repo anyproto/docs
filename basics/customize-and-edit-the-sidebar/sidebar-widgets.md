@@ -14,14 +14,24 @@ How your Widget functions depends on the underlying Objects that it is connected
 
 #### Layout Options
 
-For pinned and favorite Objects, you can choose between four distinct layouts to match your visual preferences:
+For pinned and favorite Objects, you can choose between distinct layouts to match your visual preferences. Right-click a widget's title area to reveal a menu with options.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets Layouts.jpg" alt=""><figcaption></figcaption></figure></div>
 
 * **Same as Object**: Ideal for pinned Queries or Collections, displaying live embedded views directly in your sidebar. The [view options](../../organize/sets.md#views) that are available in the Widget at set at the Object level.&#x20;
 * **Compact**: Shows linked Objects neatly nested under each main item.
 * **Detailed**: Similar to the Compact view, but exposes more metadata and detail for each item.
 * **Link**: The most minimalist option—displays just the Object's title and its icon.
+* **Hierarchical Structure**: For Pages, you can create a folder-like structure in your sidebar. All link blocks on the page are represented in the widget. [See here for detailed instructions](../../organize/collections.md#sidebar-widget).&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widget Options.jpg" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Hierarchical Structure.gif" alt=""><figcaption></figcaption></figure></div>
+
+#### Number of Objects
+
+To conserve space, each widget has a limit to how many Objects are displayed. If your Objects or Links are not displaying, you can change this setting by:
+
+1. Right-click the Widget title and navigate to 'Number of Objects'.&#x20;
+2. Choose from the options. The default is 6.&#x20;
 
 ***
 
@@ -37,6 +47,8 @@ Depending on the scope of your Space and how you prefer to navigate, you can cha
 Navigate to Channel Preferences > Sidebar View to toggle between two distinct display modes. You can switch back and forth between these modes at any time as your workflow evolves.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar View.png" alt=""><figcaption></figcaption></figure></div>
+
+##
 
 ## Tips
 

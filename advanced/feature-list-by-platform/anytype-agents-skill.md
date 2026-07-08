@@ -12,7 +12,7 @@ The repository is on GitHub: [github.com/anyproto/anytype-agents-skill](https://
 
 ***
 
-Anytype already exposes a [Local API](feature-list-by-platform/local-api/) for direct integration. The Skill is a layer above that — it bundles the API into ready-made functions an AI agent can use without you having to teach it the protocol.
+Anytype already exposes a [Local API](https://github.com/anyproto/docs-new/blob/main/advanced/feature-list-by-platform/feature-list-by-platform/local-api/README.md) for direct integration. The Skill is a layer above that — it bundles the API into ready-made functions an AI agent can use without you having to teach it the protocol.
 
 If you've ever thought "I wish I could just describe what I want to do to my notes and have it happen," this is the bridge. You describe the task in plain language, the agent uses the Skill to translate that into the correct Anytype operations, and the work gets done.
 
@@ -46,7 +46,7 @@ The runtime is **isolated** — the script only has access to the Anytype Skill'
 #### Prerequisites
 
 * Anytype installed and running on the same device
-* A [Local API key](feature-list-by-platform/local-api/) generated in **Vault Settings > API Keys**
+* A [Local API key](https://github.com/anyproto/docs-new/blob/main/advanced/feature-list-by-platform/feature-list-by-platform/local-api/README.md) generated in **Vault Settings > API Keys**
 * An AI agent that supports tool use (Claude Code, Cursor, Gemini CLI, GitHub Copilot, etc.)
 
 #### Install the Skill
@@ -135,5 +135,5 @@ Anything the Local API can do. This includes creating, updating, and deleting Ob
 ### Where to learn more
 
 * [Anytype Agents' Skill on GitHub](https://github.com/anyproto/anytype-agents-skill) — full method reference, examples, per-agent setup
-* [Local API](feature-list-by-platform/local-api/) — the underlying interface
-* [API Keys](settings/account-and-data.md) — managing keys in Vault Settings
+* [Local API](https://github.com/anyproto/docs-new/blob/main/advanced/feature-list-by-platform/feature-list-by-platform/local-api/README.md) — the underlying interface
+* [API Keys](https://github.com/anyproto/docs-new/blob/main/advanced/feature-list-by-platform/settings/account-and-data.md) — managing keys in Vault Settings

@@ -1,6 +1,6 @@
 # Views
 
-Views are a visual lens that you place over your content. It allows you to look at the exact same information in different formats, shapes, and orders without ever changing the underlaying content.&#x20;
+Views are a visual lens that you place over your content. It allows you to look at the exact same information in different formats, shapes, and orders without ever changing the underlaying content. [Types](types.md), [Queries](sets.md), and [Collections](collections.md) all use Views to display their content to you.&#x20;
 
 > **Analogy**: Imagine a building with one hundred people in it. Changing the 'View' doesn't change who is in the building, it just changes where they are. You can have all the people with red clothing in the lobby, while everybody else hides in the basement. Or you can arrange all the people in a long line from shortest to tallest.&#x20;
 
@@ -8,8 +8,8 @@ Views are a visual lens that you place over your content. It allows you to look 
 
 ## Why it matters
 
-1. With Views, you can surface new perspectives on your content, such as time-based items in a calendar or visual-driven content in a gallary. By using unique combinations of layouts, filters, and sorts, you can view the same content in multiple ways.&#x20;
-2. With Views, you never need to duplicate content. You can operate from the same set of Objects, just arranged to suit your needs each time.&#x20;
+1. With Views, you can surface new perspectives on your content, such as time-based items in a calendar or visual-driven content in a gallery. In short, you can arrange and display the same content in multiple different ways.&#x20;
+2. With Views, you never need to duplicate content. You can operate from the same set of Objects, just rearranged to suit your needs each time.&#x20;
 
 ## How it works
 
@@ -66,7 +66,7 @@ You can apply multiple sorts to a View. The first sort will apply, followed by t
 
 ## Create & Manage Views
 
-Views are used on all [Types](types.md), [Queries](sets.md), and [Collections](collections.md). By default, every item starts with one pre-set view, but you can add as many custom views as you like. Because views only change how your data is displayed, you can freely edit, delete, or rearrange them without any risk of breaking your underlying information.
+Views are used on all [Types](types.md), [Queries](sets.md), and [Collections](collections.md). By default, there is one View set, but you can add as many custom Views as you like. Because Views only influence how your data is displayed, you can freely edit, delete, or rearrange them without any risk of affecting your underlying information.
 
 #### Creating a View
 
