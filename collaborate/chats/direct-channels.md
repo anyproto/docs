@@ -1,36 +1,30 @@
----
-description: One-on-one conversations with another member.
----
-
 # Direct Channels
-
-### What is a Direct Channel?
 
 A **Direct Channel** is a private, one-on-one conversation between you and another member. This is also referred to as a 1:1 channel.&#x20;
 
 Both participants have equal access: there's no admin, no role hierarchy, no permissions to set. It's a place for quick check-ins, a private discussion, creating new Objects, or a side conversation about something happening in another Channel.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/direct-channel.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Docs Direct Channel.jpg" alt=""><figcaption></figcaption></figure>
 
-### How it works
+## How it works
 
 A Direct Channel is created automatically when you start a conversation with another member. Once created:
 
-* Both members see the Direct Channel in their **Vault sidebar**
-* Either member can post messages, share Objects, react
-* Both can mute notifications independently
+* Both members see the Direct Channel in their Vault Sidebar.
+* Either member can post messages and create Objects.&#x20;
+* Both can mute notifications independently.
 
 You can have a Direct Channel with any other member — including members of shared Channels you both belong to. The Direct Channel exists separately from those shared Channels.
 
-### Starting a Direct Channel
+## Starting a Direct Channel
 
 1. Click any member's profile picture or name (in a Chat, in a Channel members list, or in their @-mention).
 2. Click **Send message** in the profile popup.
 3. The Direct Channel opens — type your first message and send.
 
-<figure><img src="../../.gitbook/assets/1-1-connect.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Direc Channel Connect.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Notifications
+## Notifications
 
 By default, you'll be notified about every message in a Direct Channel. To change this:
 
@@ -40,7 +34,7 @@ By default, you'll be notified about every message in a Direct Channel. To chang
 
 Each member sets their own notification preferences for the same Direct Channel.
 
-### Leaving a Direct Channel
+## Leaving a Direct Channel
 
 You can leave a Direct Channel by:
 
@@ -51,7 +45,7 @@ When you leave, the channel disappears from your Vault — but the other member'
 
 To leave permanently and clear all history, you can also delete the channel — but this only deletes your local copy. The other member retains their side.
 
-### Tips
+## Tips
 
 {% hint style="warning" %}
 You can't add a third person to a Direct Channel. If a one-on-one conversation needs to expand, create a regular Channel and invite both people.

@@ -4,15 +4,13 @@ description: Publish Objects as static webpages on your personal subdomain.
 
 # Publish
 
-### What is Web Publishing?
-
 **Web Publishing** lets you turn any Object into a public webpage at a URL anyone can visit. Pick an Object, click Publish, and Anytype generates a static HTML page hosted on your personal subdomain at `<your-id>.any.org/<slug>`.
 
 This is for content you want **publicly readable** — blog posts, public profiles, documentation,  meeting briefs, anything you'd otherwise put on a personal website.&#x20;
 
 With Web Publishing, the Object you've already written is the published page. Update the Object, republish, and the public page updates. No second platform to maintain.
 
-### Publishing an Object
+## Publishing an Object
 
 1. Open the Object you want to publish.
 2. Click **Share** in the top-right corner.
@@ -23,7 +21,7 @@ With Web Publishing, the Object you've already written is the published page. Up
 
 Within a few seconds, your Object is live at `<your-any-id>.any.org/<slug>`. Copy the URL or share directly from the dialog.
 
-### Updating a published page
+## Updating a published page
 
 Edit the Object normally. Your edits don't auto-publish — you have to republish to push changes:
 
@@ -33,7 +31,7 @@ Edit the Object normally. Your edits don't auto-publish — you have to republis
 
 <figure><img src="../.gitbook/assets/unpublish-to-web.png" alt=""><figcaption></figcaption></figure>
 
-### What's supported, what isn't
+## What's supported, what isn't
 
 Web Publishing is still developing. Currently:
 
@@ -59,16 +57,14 @@ Web Publishing is still developing. Currently:
 
 For multi-page sites, watch for updates in the Anytype changelog.
 
-
-
-### Managing your published pages
+## Managing your published pages
 
 **Vault Settings > My Sites** is the central management screen for everything you've published:
 
 * See a list of every published Object with title, URL, last published date
 * Click any URL to open the live page in a browser
 
-### Tips
+## Tips
 
 {% hint style="warning" %}
 **Don't publish Objects with sensitive Properties.** Properties like internal status, private notes, and personal information are uploaded too unless you exclude them in the publish dialog. Review what's visible before clicking Publish.

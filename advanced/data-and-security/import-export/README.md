@@ -44,3 +44,13 @@ We currently offer support for exporting in the following formats:
 
 * **Markdown**
 * **Any-Block** (both Protobuf and JSON)
+
+## Not included in Exports
+
+#### Space Members
+
+Each member in a space is tied to a unique encryption key, which is inherently separate from the shared Channel itself. Space Members are therefore not included in exports, which may cause breaks if you import the backup into a new space. For examples, an 'assignee' or 'created by' property may not display the correct Space Member.&#x20;
+
+#### Chats & Discussions
+
+Chat messages and Discussions are tied to each member of the space, which are tied to unique encryption keys for each user. Thus, it is not possible to export chat Objects and messages because they are inherently tied to the space itself.

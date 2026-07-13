@@ -40,7 +40,7 @@ Additionally, you can set the **Default Object Type** in the Channel Settings. T
 
 ## Editing Types
 
-To edit a Type and its Properties, there are three primary ways:&#x20;
+To access the Type settings, there are three primary ways:&#x20;
 
 1. Navigate to the Type from the [Sidebar](../basics/customize-and-edit-the-sidebar/) and click **Edit Type** on the top right-hand side.&#x20;
 2. When viewing an [Object](../creation/objects/), click on the 'three dots' button on the top right corner, and select the **Type settings** option.&#x20;
@@ -51,6 +51,7 @@ To edit a Type and its Properties, there are three primary ways:&#x20;
 In this panel, you can make various edits:&#x20;
 
 * Change the Type name and icon.&#x20;
+* Change the content width
 * Add/remove Properties and Templates.&#x20;
 * Make edits to the Object Header.&#x20;
 * Edit the [Object layout](../creation/objects/formats.md#page-format).&#x20;

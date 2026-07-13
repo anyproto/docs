@@ -6,13 +6,13 @@ description: Save and organize web links as first-class Objects.
 
 A **Bookmark** is a special kind of Object that stores a link to a webpage. Instead of just dropping a URL into a note, you create a Bookmark Object that captures the page's title, preview image, favicon, and a description — making it easy to recognize, link to, and organize like any other Object.
 
-### Why it matters
+## Why it matters
 
 Bookmarks turn ad-hoc URLs into structured information. You can tag them, filter them, link them to projects. If you're collecting research, building a reading list, saving inspiration, or maintaining a list of references, Bookmarks give them a proper home in your knowledge graph rather than scattering URLs across pages.
 
-### How it works
+## How it works
 
-A Bookmark is its own Object Type. When you create one, Anytype fetches metadata from the URL — title, description, preview image, and favicon — and stores them as Properties on the Object.
+A Bookmark is its own Object Type that is created by default (a System Type). When you create a bookmark, Anytype fetches metadata from the URL — title, description, preview image, and favicon — and stores them as Properties on the Object.
 
 You can then:
 
@@ -21,11 +21,11 @@ You can then:
 * Link the Bookmark to other Objects
 * Include it in Queries, Collections, and Discussions
 
-### Bookmark layout
+## Bookmark layout
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Bookmarks Layout.jpg" alt=""><figcaption></figcaption></figure></div>
 
-Bookmarks have their own dedicated layout, separate from the standard Page layout. Each Bookmark displays:
+Bookmarks have their own dedicated layout, separate from the standard [Page layout](objects/formats.md#page-layouts). Each Bookmark displays:
 
 * The page's preview image at the top
 * The page title (editable)
@@ -34,7 +34,7 @@ Bookmarks have their own dedicated layout, separate from the standard Page layou
 
 You can still add blocks below the bookmark layout if you want to write notes, link to related Objects, or build out additional context. To do this from the editor, right click the bookmark and select 'Open as Object'.&#x20;
 
-### Creating a Bookmark
+## Creating a Bookmark
 
 #### From the create menu
 
@@ -64,7 +64,7 @@ If you open your Bookmarks type from the Sidebar, then all of your bookmarks in 
 
 If you've installed the Anytype browser extension, click its icon on any page to save it as a Bookmark Object directly to a Channel of your choice. See your platform's installation guide for setup.
 
-### Organizing Bookmarks
+## Organizing Bookmarks
 
 Because Bookmarks are Objects with their own Type, you can:
 
@@ -75,7 +75,7 @@ Because Bookmarks are Objects with their own Type, you can:
 
 See [views.md](../organize/views.md "mention") for more details.&#x20;
 
-### Tips
+## Tips
 
 {% hint style="info" %}
 **Use Tags or a Status property to track reading state.** Add states like "To read", "Reading", "Read", "Reference" so a single Bookmarks Query can serve as your reading queue, your library, and your reference shelf.

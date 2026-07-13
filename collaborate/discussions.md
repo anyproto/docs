@@ -1,20 +1,18 @@
 # Discussions
 
-### What is a Discussion?
-
 A **Discussion** is a comment thread attached directly to an Object. Instead of switching to a separate Chat to talk about a page, task, or document, you post comments right where the work lives — and the conversation stays attached to that Object forever.
 
 Think of it as the comments section for any Object in your Channel.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Discussions.png" alt=""><figcaption></figcaption></figure></div>
 
-### Why it matters
+## Why it matters
 
 When discussions live next to the work, you don't lose context. A reviewer's question, a decision someone made three months ago, a quick "looks good" — all of it stays connected to the Object it's about. Anyone who opens that Object later can read the conversation that shaped it.
 
 This is different from a Chat: Chats are streams of messages organized by topic or person. Discussions are tied to one specific Object.
 
-### How it works
+## How it works
 
 Every Object can hold a Discussion. Posts support the same rich content as the editor — you're not limited to plain text.
 
@@ -28,7 +26,7 @@ Posts in a Discussion can include:
 
 Once posted, you can edit your own messages, react with emoji, and reply to specific posts to build a threaded conversation.
 
-### Starting a Discussion
+## Starting a Discussion
 
 1. Open any Object.
 2. Click the **Discussion** button in the bottom of the Object.
@@ -69,7 +67,7 @@ By default, you'll be notified about replies to your own posts and reactions to 
 
 Channel-level notification settings still apply on top of per-Object settings.
 
-### Tips
+## Tips
 
 {% hint style="info" %}
 **@-mention people in Discussions** to notify them. The @ menu also lets you mention other Objects, which becomes a clickable link inside the post.

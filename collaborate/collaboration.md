@@ -4,13 +4,11 @@ description: Sharing Channels, managing roles, and working together.
 
 # Collaboration
 
-### What is Collaboration in Anytype?
-
 Anytype lets you share Channels with other people so you can work together. When you invite someone, they get access to everything in the Channel — Objects, Types, Properties, Chats — all syncing in real time across everyone's devices.
 
 Unlike traditional cloud apps where a company mediates access, sharing in Anytype works **peer-to-peer**. Your data stays end-to-end encrypted, and only people you explicitly invite can decrypt and see it. Anytype's servers help with backup — but they can't read your content.
 
-### Why it matters
+## Why it matters
 
 Collaboration in Anytype isn't an add-on, it's part of the core architecture:
 
@@ -21,7 +19,7 @@ Collaboration in Anytype isn't an add-on, it's part of the core architecture:
 
 This makes shared Channels suitable for sensitive contexts: legal teams, journalists, communities of practice, family planning — anywhere you'd want collaboration without surveilance.
 
-### Member roles
+## Member roles
 
 Every Channel has three role levels:
 
@@ -37,7 +35,7 @@ In shared Channels, **Editors can only permanently delete Objects they created**
 
 This means even if an Editor accidentally clicks "Empty Bin", they can only wipe out their own contributions — nothing of yours or other members' is at risk.
 
-### Inviting members
+## Inviting members
 
 Open the Channel you want to share, then go to **Channel Settings > Members**.
 
@@ -72,7 +70,7 @@ Each Channel has a maximum number of Editors based on the Owner's plan. The defa
 
 Once you reach the limit, new joiners can only join as Viewers until either the limit is raised or an existing Editor is downgraded or removed.
 
-### Joining a Channel
+## Joining a Channel
 
 When you receive an invite link, clicking it opens Anytype:
 
@@ -82,7 +80,7 @@ When you receive an invite link, clicking it opens Anytype:
 
 For Request-Access links, the flow is the same except instead of joining immediately, your request goes to the Owner. They'll see a notification and approve or decline; you'll see the Channel appear in your Vault when approved.
 
-### Managing members
+## Managing members
 
 From **Channel Settings > Members**, the Owner can:
 
@@ -100,7 +98,7 @@ Member display names and profile pictures (set in their own [Vault Settings > Pr
 * Send them a Direct Message — opens a [Direct Channel](https://github.com/anyproto/docs-new/blob/main/getting-started/direct-channels.md)
 * See which other Channels you both belong to (if any)
 
-### Transferring Channel ownership
+## Transferring Channel ownership
 
 Channel ownership can be transferred to another member. Use this when:
 
@@ -122,7 +120,7 @@ After the transfer:
 
 This way, Channels can be handed over as roles change without recreating them or losing history.
 
-### Leaving a Channel
+## Leaving a Channel
 
 To leave a Channel you've joined:
 
@@ -134,7 +132,7 @@ You're removed from the Channel and lose access. Your past contributions (Object
 
 If you're the **Owner**, you can't leave directly — you must first transfer ownership to another member. If there are no other members, you can delete the Channel entirely.
 
-### Real-time sync and offline mode
+## Real-time sync and offline mode
 
 When all members are online, changes propagate immediately:
 
@@ -146,7 +144,7 @@ When members go offline:
 * Their changes are queued locally
 * When they reconnect, queued changes sync up
 
-### Privacy in shared Channels
+## Privacy in shared Channels
 
 Even when sharing, your data stays encrypted:
 
@@ -156,7 +154,7 @@ Even when sharing, your data stays encrypted:
 
 For sensitive use, you can also use **self-hosted** networks where you control the relay nodes (see [Networks & Backup](../advanced/data-and-security/self-hosting/)) or **local-only** mode for fully air-gapped sharing on a local network.
 
-### Tips
+## Tips
 
 {% hint style="info" %}
 **Use Request-Access links for public-ish Channels.** A community Channel where you want people to find you but want to gate entry works best with Request-Access — the link can be shared widely, but you control who actually gets in.

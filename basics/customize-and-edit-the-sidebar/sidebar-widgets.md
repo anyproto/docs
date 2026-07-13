@@ -2,9 +2,9 @@
 
 Widgets act as real-time lenses into your Channel, allowing you to interact with your content directly from the sidebar. Not just acting as static bookmarks, your Pinned and Favorite Objects can be transformed into live, interactive feeds. Here are a few ways you can utilize them:
 
-* An Upcoming Calendar: Track meetings, deadlines, and time-sensitive events at a glance.
-* A Project Task List: View and check off to-dos dynamically without leaving your current page.
-* A Visual Gallery: Display recent photos, design assets, or inspiration boards in a rich grid layout.
+* **An Upcoming Calendar**: Track meetings, deadlines, and time-sensitive events at a glance.
+* **A Project Task List**: View and check off to-dos dynamically without leaving your current page.
+* **A Visual Gallery**: Display recent photos, design assets, or inspiration boards in a rich grid layout.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -35,9 +35,9 @@ To conserve space, each widget has a limit to how many Objects are displayed. If
 
 ***
 
-### Widget Channel Display Settings
+## Widgets vs. Links
 
-Depending on the scope of your Space and how you prefer to navigate, you can change your overall sidebar density. Widgets is the default, but you can use **Links** view when you want maximum density — useful in Channels with hundreds of pinned Objects where the rich previews start to feel heavy.
+Depending on the scope of your Space and how you prefer to navigate, you can change your overall sidebar density. Widgets is the default, but you can use **Links** view when you want maximum density — this is useful in Channels with hundreds of pinned Objects where the rich previews start to feel heavy.
 
 | **Display Mode**  | **Description**                                                                               | **Best For**                                                                       |
 | ----------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -48,7 +48,11 @@ Navigate to Channel Preferences > Sidebar View to toggle between two distinct di
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar View.png" alt=""><figcaption></figcaption></figure></div>
 
-##
+### Favorites as Widgets
+
+If your favorites are only displaying as links, you may need to change the setting. You can do this by clicking on the 'three dots' button when hovering over the 'My Favorites' section in the Sidebar.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Favorites Widgets.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Tips
 

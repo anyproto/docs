@@ -1,20 +1,36 @@
 # Create Channel
 
-If you're new to the concept of Channels, start with [Channels](./) for an overview.
+If you're new to the concept of Channels (otherwise known as Spaces), start with [Channels](./) for an overview. Every Channel has three things to define when it's created:
 
-### What you'll choose
+1. **Name & Icon** — what shows up in your Vault
+2. **Members** — who has access to the Channel
+3. **A Home** — what opens first when entering the Channel
 
-Every Channel has three things to define when it's created:
+## How to Create a Channel
 
-1. **A name and icon** — what shows up in your Vault
-2. **Members** — who has access (optional at creation time; you can invite later)
-3. **A Home** — what opens first when you or anyone else enters the Channel
+1. Go to the Vault Sidebar and click the 'plus' button at the top.
+2. Select from any of the options:
+   1. **Personal** — just for you
+   2. **Group** — shared with others
+   3. **Join via invite link** — using an invitation link
+
+There is no difference between what you choose in the beginning, so it's easiest to start with 'Personal' if you don't know what to choose.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Create.jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+1. **Name your Channel.** Pick something descriptive — Personal, Family, Design Team.&#x20;
+2. **Pick an icon.** Choose an emoji, upload an image, or skip.
+3. **Invite members.** This is optional and you can do it later. See [Collaboration](../../collaborate/collaboration.md) for details.
+4. **Choose your Home.** Choose Page by Default. [See below](creating-a-channel.md#choosing-a-home) for more details.&#x20;
+5. **Click Create.**&#x20;
 
 ### Choosing a Home
 
-The Home sets the tone for what the Channel is for. Every Channel has the same capabilities, the Home simply decides what is the starting point.
+The Home sets the tone for what the Channel is for. Every Channel has the same capabilities, the Home simply decides what is the starting point.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/channel home.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Home.jpg" alt=""><figcaption></figcaption></figure></div>
 
 Your Home can be any of three things:
 
@@ -24,9 +40,9 @@ Your Home can be any of three things:
 | **Page**       | Documentation, wikis, reference Channels, personal notebooks        | A single Object with content and links          |
 | **Collection** | Project Channels with multiple related items                        | A curated list of Objects in your chosen layout |
 
-You can change the Home later in **Channel Settings > General > Homepage** — so don't worry about getting it perfect on day one.
+You can change the Home later in **Channel Settings > General > Homepage** — so don't worry about getting it perfect on day one. Here is some help in making a decision of what to choose:&#x20;
 
-#### When to pick Chat as Home
+#### Chat as Home
 
 Chat-Home feels like a group conversation. Members open it and see the latest messages immediately. Use this for when conversation is the main activity, with documents and notes as the supporting cast:
 
@@ -34,7 +50,7 @@ Chat-Home feels like a group conversation. Members open it and see the latest me
 * Communities and interest groups
 * Family or friend discussions
 
-#### When to pick Page as Home
+#### Page as Home
 
 Page-Home feels like a wiki or document. Members open it and land on a specific Object — usually a "welcome" or "dashboard" page that links out to everything else. Use this for when knowledge is the main activity:
 
@@ -42,7 +58,7 @@ Page-Home feels like a wiki or document. Members open it and land on a specific 
 * Personal knowledge bases (your "second brain")
 * A community center dashboard&#x20;
 
-#### When to pick Collection as Home
+#### Collection as Home
 
 A Collection-Home Channel feels like a project board or library. Members open it and see a list of Objects — tasks, documents, references, whatever you've added. Use this for when there's a need to see a lot of data:
 
@@ -50,34 +66,15 @@ A Collection-Home Channel feels like a project board or library. Members open it
 * Reading lists and curated archives
 * Travel planning, event prep, or anything with a defined scope
 
-### Step-by-step
-
-1. **Open the Vault** (the leftmost sidebar) and click the **+** button at the top.
-2. **Choose New Channel.** (You can also create a Direct Channel from this menu — see [Direct Channels](../../collaborate/chats/direct-channels.md).)
-3. **Name your Channel.** Pick something descriptive — "Personal", "Family", "Design Team", "Q1 Marketing".
-4. **Pick an icon.** Choose an emoji, upload an image, or skip — Anytype generates a default icon.
-5. **Invite members (optional).** You can paste email addresses or skip and generate invite links later. See [Collaboration](../../collaborate/collaboration.md) for details on member roles.
-6. **Choose your Home:**
-   * **Chat** — opens a fresh Chat as the landing page
-   * **Page** — creates a new Page Object you can edit
-   * **Collection** — creates a new Collection you can fill with Objects
-7. **Click Create.** Your new Channel appears in the Vault.
-
-### After creating
+## Setting up your Channel
 
 Once your Channel exists, you'll land on the Home you chose. Some next steps:
 
-* **Customize the sidebar** — pin or favorite important Objects and add widgets. See [Sidebar](../customize-and-edit-the-sidebar/).
+* **Customize the Sidebar** — pin or favorite important Objects and add widgets. See [Sidebar](../customize-and-edit-the-sidebar/).
 * **Set up Types and Properties** — open Channel Settings > Content Model to create or import Types tailored to this Channel's purpose. See [Types](../../organize/types.md).
 * **Invite members** — open Channel Settings > Members to generate invite links. See [Collaboration](../../collaborate/collaboration.md).
 * **Pin a Query or Collection as the Home** later — Channel Settings > General > Homepage lets you change what loads first.
 
-### Channels with mixed Homes
+## Direct Channels
 
-Even though you pick one Home, every Channel still has access to the full feature set:
-
-* A Chat-Home Channel can still hold Pages, Collections, and Queries — they live in the sidebar
-* A Page-Home Channel can still have Chats — create them inline (`/chat` in the editor) or in the sidebar
-* A Collection-Home Channel can still have a primary Chat for the team
-
-The Home is just the **first thing you see**. Everything else is one click away.
+You can create a one-to-one Channel between you and another Anytype user with Direct Channels. [See more here](../../collaborate/chats/direct-channels.md).&#x20;

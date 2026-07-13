@@ -18,12 +18,17 @@ Every Object has:
 * [relations.md](../../organize/relations.md "mention") that hold its details (status, date, author, etc.) etc.)
 * [linking-objects.md](../linking-objects.md "mention") to other Objects
 
-## How to create Objects
+## Create Objects
 
 #### Create Menu
 
+Located at the top of the Sidebar next to the Channel name, is your main creation button used to get content into your space. There are two parts to the button:&#x20;
+
 * **Create Button** — when clicking the 'Create' button, you’ll immediately create a new Object. The default [Type](../../organize/types.md) that is used for your Objects is set from your [Channel Settings](../../advanced/settings/space-settings.md)—by default it is 'Page'.
-* **Create Dropdown** — when clicking the 'Create Dropdown' button, you'll be presented with a menu which you can sort to your liking.&#x20;
+* **Create Dropdown** — when clicking the 'Create Dropdown' button, the downward arrow on the right, you'll be presented with a menu:&#x20;
+  * Types that you'd like to create an Object straight into.&#x20;
+  * Create from clipboard
+  * Upload from computer
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Create.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -89,6 +94,19 @@ You can access you Bin from the Sidebar. If this section is not showing, please 
 ## Bulk editing Objects
 
 Objects have Types and Properties which are best visualized in [views.md](../../organize/views.md "mention"). To edit multiple objects at the same time, the best approach is to use the Views feature—[see more here](../../organize/views.md#bulk-editing-objects).&#x20;
+
+## Set Default Object
+
+To choose which Type is used when creating an Object by default:&#x20;
+
+1. Click on the Create Dropdown arrow in the Sidebar
+2. Hover over your desired Type
+3. Click on the 'three dots' button
+4. Select the option **Set as default**.&#x20;
+
+Alternatively you can set this in the [Channel Settings](../../advanced/settings/space-settings.md).&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Create Default.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Tips
 
