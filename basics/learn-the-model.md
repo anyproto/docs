@@ -2,7 +2,7 @@
 
 Here is a quick map of Anytype. Understanding these core concepts will make everything else click.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Overview Map.gif" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Overview Intro.gif" alt=""><figcaption></figcaption></figure></div>
 
 ## 1. Vault
 
@@ -10,7 +10,7 @@ Here is a quick map of Anytype. Understanding these core concepts will make ever
 
 ## 2. Channels&#x20;
 
-**The rooms in your house.** [space](space/ "mention"), also referred to as a Spaces, are the environment where your work happens. You can create as many Spaces as you like within your Vault. Because Spaces are isolated from one another, they are ideal for separating different areas of your life, such as Personal, Family, or Work. You can keep Channels entirely private or invite others to join shared ones.
+**The rooms in your house.** [space.md](space.md "mention"), also referred to as a Spaces, are the environment where your work happens. You can create as many Spaces as you like within your Vault. Because Spaces are isolated from one another, they are ideal for separating different areas of your life, such as Personal, Family, or Work. You can keep Channels entirely private or invite others to join shared ones.
 
 ## 3. Objects
 
