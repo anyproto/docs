@@ -44,18 +44,15 @@ It's easiest to start with 'Personal', you can always add others to your Channel
 Once your Channel exists, you'll land on the Home you chose. Some next steps:
 
 * **Invite members** — open Channel Settings > Members to generate invite links. See [Collaboration](../collaborate/collaboration.md).
-* **Customize the Sidebar** — pin or favorite important Objects and add widgets. See [Sidebar](customize-and-edit-the-sidebar/).
+* **Customize the Sidebar** — pin or favorite important Objects and add widgets. See [Sidebar](sidebar/).
 * **Set up Types and Properties** — create your organization system. See [Types](../organize/types.md).
 * **Choose a Home Page** — pick what loads first when you enter the Channel. See [Choosing Home](space.md#choosing-a-home).&#x20;
 
-### Inviting others to a Channel
+### Inviting others
 
-1. Open the Channel and go to **Channel Settings > Members**.
-2. Generate an invite link — you can choose between Editor, Viewer, or Request Access.
-3. Share the link with the people you want to invite.
-4. Once they join, you'll see them in the Members list where you can manage their roles.
+To share access and collaborate with others, use the Members section in the Channel Settings. You can generate invitation links, approve access, revoke access, and decide on permission levels. [See more here](../advanced/settings/space-settings.md#members).&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/shared channel.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Members.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Choosing a Home
 
@@ -104,6 +101,10 @@ Each Channel has its own Types and Properties. If you've set up custom Types in 
 ## Direct Channels
 
 You can create a one-to-one Channel between you and another Anytype user with Direct Channels. These operate similarly to direct chats with individuals. [See more here](../collaborate/chats/direct-channels.md).&#x20;
+
+## Channel Ownership&#x20;
+
+You can transfer ownership of a Channel to another Space Member, which grants them all of the permissions of the Owner. [See more here](../advanced/settings/space-settings.md#channel-ownership).&#x20;
 
 ## Delete a Channel
 

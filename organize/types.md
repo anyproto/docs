@@ -42,7 +42,7 @@ Additionally, you can set the **Default Object Type** in the Channel Settings. T
 
 To access the Type settings, there are three primary ways:&#x20;
 
-1. Navigate to the Type from the [Sidebar](../basics/customize-and-edit-the-sidebar/) and click **Edit Type** on the top right-hand side.&#x20;
+1. Navigate to the Type from the [Sidebar](../basics/sidebar/) and click **Edit Type** on the top right-hand side.&#x20;
 2. When viewing an [Object](../creation/objects/), click on the 'three dots' button on the top right corner, and select the **Type settings** option.&#x20;
 3. Navigate to the [Channel Settings](../advanced/settings/space-settings.md), click on **Object Types**, and select your desired Type. &#x20;
 

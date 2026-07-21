@@ -83,23 +83,13 @@ This is great for ensuring you're always working from the same file. For example
 
 ## Deleting File Objects
 
-Objects in Anytype are not organized by hierarchy, which means that everything exists independently. This means a file on a page exists as a block there, but it can also be used across the rest of your space independently.&#x20;
+Objects in Anytype are not organized by hierarchy, which means that everything exists independently. This means a file on a page exists as a block, but it can also be used across the rest of your space independently in other pages or as a standalone file.&#x20;
 
-Deleting the file block from the page does not delete the File Object itself, it only removes the block. To do delete the file, you must explicitly **Move to Bin**.&#x20;
+Deleting the file block from the page does not delete the File Object itself, it only removes the block or link. To do delete the file, you must explicitly select **Move to Bin**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Files Deletion.jpg" alt=""><figcaption></figcaption></figure></div>
 
-#### Smart file deletion in editor
-
-When you [upload a file directly onto a page using the editor](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/files-and-media#directly-in-the-editor), and that file isn't linked anywhere else in your space, deleting the block from the page will ask for a confirmation to move the file object to the Bin as well. A notification will appear on screen when this happens. Anything moved to the Bin can be recovered at any time.
-
-For files that are used elsewhere, deleting them from a block or a page will not move the file itself to the Bin. You will have to delete the file separately.&#x20;
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs File Delete Toast.jpg" alt=""><figcaption></figcaption></figure></div>
-
-**Why does it work this way?**
-
-With the way most apps work, users typically expect that deleting an image from a page will remove the image entirely. Because this doesn't happen on Anytype, this can lead to your space becoming bloated with undeleted files that serve no purpose. This smart deletion trigger hopes to alleviate this issue.&#x20;
+If you are worried about storage in your space, there is a [Cleanup section in the Bin](../organize/deletion.md) that suggests files to delete which likely no longer serve a purpose in your space.&#x20;
 
 ## Working with File Objects
 

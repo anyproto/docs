@@ -35,7 +35,7 @@ You can change how the Properties of an Object is displayed. There is an 'Line' 
 
 #### Page Width
 
-You can change the default width of each Page to be 'full width', this is set in the [Type settings](../../organize/types.md#editing-types). Alternatively, you can adjust the width of each Page individually by using the 'set layout width' button which can be found in the Object's title area.&#x20;
+You can change the default width of each Page to be 'full width', this is set in the [Type settings](../../organize/types.md#editing-types). Alternatively, you can adjust the width of each Page individually by using the 'set layout width' button which can be found in the Object's title area. This can be set as a [Template](../../organize/templates.md) as well.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Format Width.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -60,4 +60,3 @@ When you want to have conversations with others, this is the format that's used 
 There is only one standard Chat layout, which is the message stream.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Object Format Chat.png" alt=""><figcaption></figcaption></figure></div>
-

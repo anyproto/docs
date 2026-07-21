@@ -1,8 +1,8 @@
 # Editor
 
-Anytype is a block-based editor and all [Pages](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/object-editor/format#page-format) are built with blocks, which makes your content flexible and easy to use.&#x20;
+Anytype is a block-based editor and all [Pages](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/object-editor/format#page-format) are built with blocks, which makes your content flexible and easy to use. The editor is the primary way for you to build documents on Anytype.&#x20;
 
-## Using Blocks&#x20;
+## How it works&#x20;
 
 **Blocks** are the building pieces of every Object, think of them as lego bricks for every document. When you open an Object and start editing, you're adding and arranging Blocks — paragraphs, headings, images, lists, embeds, and so on. Each Block is independent and can be moved, restyled, or replaced without affecting the others.
 

@@ -4,7 +4,7 @@ description: Customize what appears in your Channel sidebar.
 
 # Sections
 
-The Channel sidebar is divided into **sections**, which can be hidden, reordered, or fine-tuned to match how you actually work. This page covers the controls for managing these sections.
+The Channel Sidebar is divided into **sections**, which can be hidden, reordered, or fine-tuned to match how you actually work. This page covers the controls for managing these sections.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Manage Sections Title.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -12,14 +12,7 @@ The Channel sidebar is divided into **sections**, which can be hidden, reordered
 
 When you first enter a Channel, the sidebar shows:
 
-| Section             | What it contains                            | Who sees it                |
-| ------------------- | ------------------------------------------- | -------------------------- |
-| **Shared Pins**     | Objects pinned by the Owner for everyone    | All members                |
-| **Unread**          | Notifications                               | Just you                   |
-| **My Favorites**    | Your personal favorites                     | Just you                   |
-| **Recently Edited** | Objects modified recently                   | All members (configurable) |
-| **Types**           | All Objects grouped by Type                 | All members                |
-| **Bin**             | Deleted Objects awaiting permanent deletion | All members                |
+<table><thead><tr><th width="189.91015625">Section</th><th>What it contains</th><th>Who sees it</th></tr></thead><tbody><tr><td><strong>Shared Pins</strong></td><td>Objects pinned by the Owner</td><td>All members</td></tr><tr><td><strong>My Favorites</strong></td><td>Objects pinned for you</td><td>Just you</td></tr><tr><td><strong>Unread</strong></td><td>Notifications</td><td>Just you</td></tr><tr><td><strong>Recently Edited</strong></td><td>Objects modified recently</td><td>All members</td></tr><tr><td><strong>Types</strong></td><td>All Objects grouped by Type</td><td>All members</td></tr><tr><td><strong>Bin</strong></td><td>Deleted Objects</td><td>All members</td></tr></tbody></table>
 
 In personal (single-member) Channels, the distinction between "you" and "all members" doesn't matter — but the layout is the same.
 
@@ -67,7 +60,7 @@ The **Unread** section surfaces notifications from your Channel, this is typical
 
 ### Bin
 
-The Bin appears as its own section in the sidebar. Its three-dot menu lets you:
+The Bin appears as its own section in the Sidebar. It's 'three dot' menu lets you:
 
 * **Hide section** — remove it from view (it's still accessible via Channel Settings > Bin)
 * **Empty Bin** (Owners only) — permanently delete every Object inside

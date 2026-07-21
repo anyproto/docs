@@ -14,7 +14,7 @@ Every Channel has two distinct mechanisms for surfacing important Objects in the
 
 ## My Favorites
 
-**My Favorites** are personal. Anything you favorite shows up only in your sidebar, on your devices. Other members of the Channel never see your favorites and can't be affected by them.
+My Favorites are personal. Anything you favorite shows up only in your sidebar, on your devices. Other members of the Channel never see your favorites and can't be affected by them.
 
 **Use My Favorites for:**
 
@@ -33,9 +33,9 @@ To remove, click the star again or right-click in the sidebar > **Unfavorite.**&
 
 ## Shared Pins
 
-**Shared Pins,** or **Pinned**, are seen by every member in the Channel and can only be set by the Owner. This is how Owners surface things that are important for everybody to see.&#x20;
+Shared Pins, or Pinned, are seen by every member in the Channel and can only be set by the Owner. This is how Owners surface things that are important for everybody to see.&#x20;
 
-Use Shared Pins for:
+**Use Shared Pins for:**
 
 * Onboarding documents for new members
 * Channel guidelines or norms

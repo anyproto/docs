@@ -1,10 +1,6 @@
----
-description: Sharing Channels, managing roles, and working together.
----
-
 # Collaboration
 
-Anytype lets you share Channels with other people so you can work together. When you invite someone, they get access to everything in the Channel — Objects, Types, Properties, Chats — all syncing in real time across everyone's devices.
+Anytype lets you share spaces with other people so you can work together. When you invite someone, they get access to everything — Objects, Types, Properties, Chats — all syncing in real time across everyone's devices.
 
 Unlike traditional cloud apps where a company mediates access, sharing in Anytype works **peer-to-peer**. Your data stays end-to-end encrypted, and only people you explicitly invite can decrypt and see it. Anytype's servers help with backup — but they can't read your content.
 
@@ -12,22 +8,23 @@ Unlike traditional cloud apps where a company mediates access, sharing in Anytyp
 
 Collaboration in Anytype isn't an add-on, it's part of the core architecture:
 
-* **End-to-end encryption** — messages, Objects, and files are encrypted before sync; the network sees only ciphertext
-* **Real-time sync** — changes appear instantly when members are online (or on the same network)
-* **Offline-first** — work without connection, sync when reconnected
-* **No vendor account required** — collaborators don't need a third-party email or paid account, just Anytype
+* **End-to-end encryption** — everything in your spaces are encrypted before sync, which ensures only you and the people you share with can access the content.&#x20;
+* **Real-time sync** — changes appear instantly when members are online (or on the same network).&#x20;
+* **Offline-first** — everything works without an network connection, it syncs when reconnected.&#x20;
+* **No vendor account required** — collaborators don't need a third-party email or paid account, just an Anytype vault which can be created without the need for any permission.&#x20;
 
-This makes shared Channels suitable for sensitive contexts: legal teams, journalists, communities of practice, family planning — anywhere you'd want collaboration without surveilance.
+This makes shared Channels suitable for sensitive contexts: legal teams, journalists, communities of practice, family planning — anywhere you'd want collaboration without surveillance.
 
 ## Member roles
 
-Every Channel has three role levels:
+Every Channel has multiple role levels:
 
-| Role       | Edit Objects | Add/remove Objects | Edit Channel name/icon | Pin Object to Sidebar | Manage members |       Permanent delete      |
-| ---------- | :----------: | :----------------: | :--------------------: | :-------------------: | :------------: | :-------------------------: |
-| **Owner**  |       ✓      |          ✓         |            ✓           |           ✓           |        ✓       | All Objects (incl. others') |
-| **Editor** |       ✓      |          ✓         |           ✓            |           —           |        —       |        Only their own       |
-| **Viewer** |      —       |          —         |            —           |           —           |        —       |              —              |
+| Role       | Create, edit, and remove Objects | Chat & Discussions | Edit Channel name/icon | Pin Objects to Sidebar |       Permanent delete      |      Manage members      |
+| ---------- | :------------------------------: | :----------------: | :--------------------: | :--------------------: | :-------------------------: | :----------------------: |
+| **Owner**  |                 ✓                |          ✓         |            ✓           |            ✓           | All Objects (incl. others') |             ✓            |
+| **Admin**  |                 ✓                |          ✓         |            ✓           |            ✓           | All Objects (incl. others') | Only editors and viewers |
+| **Editor** |                 ✓                |          ✓         |           ✓            |            —           |        Only their own       |             —            |
+| **Viewer** |                —                 |          —         |            —           |            —           |              —              |             —            |
 
 #### Permanent delete permissions
 
@@ -37,32 +34,32 @@ This means even if an Editor accidentally clicks "Empty Bin", they can only wipe
 
 ## Inviting members
 
-Open the Channel you want to share, then go to **Channel Settings > Members**.
+Open the Channel you want to share, then go to the [Channel Settings](../advanced/settings/space-settings.md) and members section.&#x20;
 
-#### Generating an invite link
+### Add Members
 
-1. Click **Generate invite link**.
-2. Choose the link type:
-   * **Editor link** — recipients can join immediately as Editors
-   * **Viewer link** — recipients can join immediately as Viewers
-   * **Request access link** — recipients land in a queue; you approve their role
-3. Copy the link.
+The 'add members' button will provide a list of users that you can invite into your space. This list is generated based on users who you are already connected to in other spaces.&#x20;
 
-<figure><img src="../.gitbook/assets/members.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Members.jpg" alt=""><figcaption></figcaption></figure></div>
 
-#### QR codes
+### Invitation Link
 
-You can also generate a QR code for the invite link — useful when sharing in person or on a screen the recipient can scan with their phone. This is the same link, just rendered visually.
+The '**Add members via link**' toggle generates a link you can share with others to invite them into the space, either as a text link or a QR code. There are a few important settings to be aware of:
 
-#### Limiting access
+* **Auto Approval** — Enabling this lets users join the space without manual review, which is useful for community or forum-like spaces. For private spaces, it's best to leave this off so every new member requires approval from the Owner.
+* **Channel-wide Shareable Invite** — Enabling this allows other members to share the invite link themselves. This works well for public spaces, or private spaces where existing members are highly trusted.
+* **Approve Requests** — For members requesting access, you can approve them by navigating to the 'Request' tab which is next to the 'All', 'Editors', and 'Viewers' tab.&#x20;
+* **Reset Link** — If you believe an invite link has been compromised, you can reset it. This immediately voids the previous link and generates a new one, which must be used going forward to join the space.
 
-You can revoke an invite link at any time:
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Invite Link.jpg" alt=""><figcaption></figcaption></figure></div>
 
-1. Open **Channel Settings > Members**.
-2. Find the current access option and open the list.
-3. Choose **Link Disabled**.
+### Change access&#x20;
 
-Members who already joined retain their access (revoke them individually if needed — see Managing members below).
+1. Find the Space Member. Use the shortcut `Cmd/Ctrl + F` to search through a large list.&#x20;
+2. Click on their current permission level.&#x20;
+3. Change it to the desired role. Or remove the member entirely.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Remove Member.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Editor seat limits
 

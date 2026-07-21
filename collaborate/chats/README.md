@@ -82,7 +82,7 @@ Unlike other widgets, **pinned Chats display counters and mention indicators dir
 
 #### Unread section
 
-A temporary **Unread** section also appears automatically when new messages arrive in any Chat — listing Chats with unread content. As you catch up, the section shrinks and eventually disappears. Learn more in the [Sidebar](../../basics/customize-and-edit-the-sidebar/sidebar-sections.md) section.&#x20;
+A temporary **Unread** section also appears automatically when new messages arrive in any Chat — listing Chats with unread content. As you catch up, the section shrinks and eventually disappears. Learn more in the [Sidebar](../../basics/sidebar/sidebar-sections.md) section.&#x20;
 
 ## Using Chat
 

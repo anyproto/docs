@@ -95,7 +95,7 @@ This is different from editing actual Objects and their Properties through an In
 
 You can add [Collections to your Sidebar as a Widget](views.md#views-in-sidebar), just like any other View.&#x20;
 
-Instead of using Collections to simulate a [hierachical folder-like structure in your Sidebar](../basics/customize-and-edit-the-sidebar/sidebar-widgets.md#layout-options), you can alternatively create a Page with link blocks:&#x20;
+Instead of using Collections to simulate a [hierachical folder-like structure in your Sidebar](../basics/sidebar/sidebar-widgets.md#layout-options), you can alternatively create a Page with link blocks:&#x20;
 
 1. Create any Object with a Page format.&#x20;
 2. In the editor, add links to your desired Objects using the `/link` or `@` blocks. This can be to regular Objects, Types, Queries, or Collections.&#x20;

@@ -33,7 +33,7 @@ It can be any Object — pick whatever you want members to see first when they e
 
 #### Sidebar View
 
-Changes how items in the Sidebar are displayed—either as Widgets or Links. [See more here](../../basics/customize-and-edit-the-sidebar/sidebar-widgets.md#widgets-vs.-links).&#x20;
+Changes how items in the Sidebar are displayed—either as Widgets or Links. [See more here](../../basics/sidebar/sidebar-widgets.md#widgets-vs.-links).&#x20;
 
 #### Default Object Type
 
@@ -41,27 +41,40 @@ Sets which Object Type is used when you create a new Object without specifying a
 
 ## Members
 
-Manage who has access to the Channel and what they can do.
+Manage who has access to the Channel. Each user is referred to as a Space Member and their access level is determined by their permissions. It's important to remember to share access to others in a secure method, such as using a private and secure chat.&#x20;
 
-Choose what type of **Invite link** to generate:
+### Roles
 
-* **Editor link** — recipients can join immediately as Editors
-* **Viewer link** — recipients can join immediately as Viewers
-* **Request access link** — recipients land in a queue; you approve their role
+There are various roles that Space Member can have, each with different privileges. Be sure to periodically check your members section to ensure everybody has the correct permissions. For a more detailed breakdown, please see [Collaboration](../../collaborate/collaboration.md).&#x20;
 
-You can also generate a QR code for easy in-person sharing — useful in workshops, meetings, or anywhere people can scan from their phone.
+<table><thead><tr><th width="167.1015625">Role</th><th>Description</th></tr></thead><tbody><tr><td><strong>Viewer</strong></td><td>Read-only access. Can view content in the space but cannot edit documents, chat with others, participate in discussions, or delete anything.</td></tr><tr><td><strong>Editor</strong></td><td>Includes all Viewer privileges, plus the ability to edit content in the space — including documents, chat, and discussions — and permanently delete items.</td></tr><tr><td><strong>Admin</strong></td><td>Includes all Editor privileges, plus the ability to manage other Space Members' permissions. Can upgrade or downgrade Editors and Viewers, or revoke their access entirely.</td></tr><tr><td><strong>Owner</strong></td><td>Includes all Admin privileges, plus the ability to create Admins, to create invitation links, and transfer channel ownership. </td></tr></tbody></table>
 
-For more on invite types, role permissions, and member management, see [Collaboration](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/collaborate).
+### Inviting others
 
-#### Member list
+#### Add Members Button
 
-<figure><img src="../../.gitbook/assets/members-list.png" alt=""><figcaption></figcaption></figure>
+The 'add members' button will provide a list of users that you can invite into your space. This list is generated based on users who you are already connected to in other spaces.&#x20;
 
-The Members tab shows every current member with their role. Owners can:
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Members.jpg" alt=""><figcaption></figcaption></figure></div>
 
-* Change a member's role (Editor ↔ Viewer)
-* Remove a member entirely
-* See and approve pending access requests
+#### Add members via link&#x20;
+
+The '**Add members via link**' toggle generates a link you can share with others to invite them into the space, either as a text link or a QR code. There are a few important settings to be aware of:
+
+* **Auto Approval** — Enabling this lets users join the space without manual review, which is useful for community or forum-like spaces. For private spaces, it's best to leave this off so every new member requires approval from the Owner.
+* **Channel-wide Shareable Invite** — Enabling this allows other members to share the invite link themselves. This works well for public spaces, or private spaces where existing members are highly trusted.
+* **Approve Requests** — For members requesting access, you can approve them by navigating to the 'Request' tab which is next to the 'All', 'Editors', and 'Viewers' tab.&#x20;
+* **Reset Link** — If you believe an invite link has been compromised, you can reset it. This immediately voids the previous link and generates a new one, which must be used going forward to join the space.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Invite Link.jpg" alt=""><figcaption></figcaption></figure></div>
+
+### Change access&#x20;
+
+1. Find the Space Member. Use the shortcut `Cmd/Ctrl + F` to search through a large list.&#x20;
+2. Click on their current permission level.&#x20;
+3. Change it to the desired role. Or remove the member entirely.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Remove Member.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Notifications
 
@@ -133,6 +146,8 @@ After the transfer:
 * You'll become an Editor.
 * Only the new Owner can transfer it again.
 * The new Owner's membership limits will apply to this channel.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Transfer Ownership.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Delete Channel
 

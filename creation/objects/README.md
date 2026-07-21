@@ -1,22 +1,40 @@
 # Objects
 
-In Anytype, **everything you create is an Object**. A page is an Object. A task is an Object. A note, a bookmark, a person, a recipe—all Objects.
+In Anytype, everything you create is an Object. A page, task, project, person, image, recipe—all are Objects. If you've used other tools, you might be used to thinking in terms of files and folders in a tree-like hierarchy. But this is not how Anytype works.&#x20;
 
-If you've used other tools, you might be used to thinking in terms of files, documents, or database rows. In Anytype, there's just one concept: Objects. This keeps things simple — whether you're writing a journal entry or tracking a project, you're always working with the same building block.
+* **Folders ask "where does this go?"** You must decide if your note falls under the folder Meetings, Clients, or Projects. If you want it in more than one, you have to duplicate your note.&#x20;
+* **Objects ask "what does this relate to?"** — Your note exists by itself and you can connect it to your Meetings, Clients, and Projects all at the same time. No duplication.&#x20;
+
+With Anytype, you create an Object and add relationships over time. This builds a flexible system of interconnected knowledge that doesn't care where something is, just cares what it's related to.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Object System.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Why it matters
 
-Because everything is an Object, everything can connect to everything else. A task can link to a person. A meeting note can link to a project. You're building a **graph** of interconnected information rather than organizing files into folders hierarchies.
+Because everything is an Object, everything can connect to everything else. A task can link to a person. A meeting note can link to a project. You're building a graph of interconnected information, rather than sorting files into folder hierarchies.
 
-This means you don't have to decide upfront where something lives. The structure emerges from the links and connections you make to your objects.&#x20;
+This means:
+
+* **Everything is easy to find.** A single person can be connected to a company, a project, a meeting, a task, and more—so you can reach them from any of those angles.
+* **No duplicates.** Link the same image to multiple documents instead of copying it into each one.
+* **Start with creation, not organization.** You never have to decide whether a note belongs under "Work" or "Personal"—it can be both at once.
+* **Patterns emerge over time.** As you add more links, connections you didn't plan for start to surface on their own that can reveal insights.&#x20;
 
 ## How it works
 
 Every Object has:
 
-* [types.md](../../organize/types.md "mention") that categorizes what kind of thing it is (Note, Task, Book, etc.)
-* [relations.md](../../organize/relations.md "mention") that hold its details (status, date, author, etc.) etc.)
-* [linking-objects.md](../linking-objects.md "mention") to other Objects
+* [types.md](../../organize/types.md "mention") that categorizes what kind of thing it is, such as Note, Task, Project, Meeting, etc.
+* [relations.md](../../organize/relations.md "mention") that hold its details, such as status, date, author, email, etc.&#x20;
+* [linking-objects.md](../linking-objects.md "mention") to other Objects, such as a Recipe connected to a Person.&#x20;
+
+Here is a simple example of how this works:&#x20;
+
+1. You create a **Task**, which is a Type.&#x20;
+2. You add a **due date**, which is a Property.&#x20;
+3. You connect it to a **Project**, which is a Link. &#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Objects How.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Create Objects
 
@@ -36,7 +54,7 @@ Located at the top of the Sidebar next to the Channel name, is your main creatio
 
 You can create an Object directly from the Types section of the Sidebar by hovering over the [Type](../../organize/types.md) and clicking on the 'plus' button. Here you will also find Queries and Collections. Please note:&#x20;
 
-* If this section is not showing, please see [Manage Sections](../../basics/customize-and-edit-the-sidebar/sidebar-sections.md#manage-sections) to reveal it.&#x20;
+* If this section is not showing, please see [Manage Sections](../../basics/sidebar/sidebar-sections.md#manage-sections) to reveal it.&#x20;
 * Only Types with at least one Object in them will display in this section. If your desired category is not in the Types section, [use the create menu](./#create-menu) to create one object first, then it will reveal in this section.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Create Section.jpg" alt=""><figcaption></figcaption></figure></div>
@@ -66,7 +84,7 @@ If you are working on an existing Object and would like to transform only a cert
 
 #### Sidebar
 
-You can now find all your objects in the [customize-and-edit-the-sidebar](../../basics/customize-and-edit-the-sidebar/ "mention"), grouped by their respective [types.md](../../organize/types.md "mention"). If this section is not showing, please see [Manage Sections](../../basics/customize-and-edit-the-sidebar/sidebar-sections.md#manage-sections) to reveal it.&#x20;
+You can now find all your objects in the [sidebar](../../basics/sidebar/ "mention"), grouped by their respective [types.md](../../organize/types.md "mention"). If this section is not showing, please see [Manage Sections](../../basics/sidebar/sidebar-sections.md#manage-sections) to reveal it.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Find Sidebar.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -89,7 +107,7 @@ To find all of your objects and how they are connected, you can look to the [gra
 
 If you've previously removed some objects from your [space.md](../../basics/space.md "mention"), they will appear in your [finding-your-objects.md](../../advanced/data-and-security/data-storage-and-deletion/finding-your-objects.md "mention") unless you've already permanently deleted them.&#x20;
 
-You can access you Bin from the Sidebar. If this section is not showing, please see [Manage Sections](../../basics/customize-and-edit-the-sidebar/sidebar-sections.md#manage-sections) to reveal it.&#x20;
+You can access you Bin from the Sidebar. If this section is not showing, please see [Manage Sections](../../basics/sidebar/sidebar-sections.md#manage-sections) to reveal it.&#x20;
 
 ## Bulk editing Objects
 

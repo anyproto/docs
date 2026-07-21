@@ -37,4 +37,4 @@ These little details help you describe your Objects and link them together—suc
 * Display all your 'Artwork' in a 'Gallery layout' filtered by your 'favorites'.&#x20;
 * Have all your 'Tasks' in a 'Kanban layout' grouped by 'assignee'.&#x20;
 
-You can customize Views to suit your exact needs and have as many as you like. Additionally, every View can be added to the [customize-and-edit-the-sidebar](customize-and-edit-the-sidebar/ "mention") as [sidebar-widgets.md](customize-and-edit-the-sidebar/sidebar-widgets.md "mention") to gain quick access at all times.&#x20;
+You can customize Views to suit your exact needs and have as many as you like. Additionally, every View can be added to the [sidebar](sidebar/ "mention") as [sidebar-widgets.md](sidebar/sidebar-widgets.md "mention") to gain quick access at all times.&#x20;

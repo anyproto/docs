@@ -1,12 +1,18 @@
 # Widgets
 
-Widgets act as real-time lenses into your Channel, allowing you to interact with your content directly from the sidebar. Not just acting as static bookmarks, your Pinned and Favorite Objects can be transformed into live, interactive feeds. Here are a few ways you can utilize them:
+Widgets act as real-time lenses into your Channel, allowing you to interact with your content directly from the Sidebar. Not just acting as static bookmarks, your Pinned and Favorite Objects can be transformed into live, interactive feeds. Here are a few ways you can utilize them:
 
 * **An Upcoming Calendar**: Track meetings, deadlines, and time-sensitive events at a glance.
 * **A Project Task List**: View and check off to-dos dynamically without leaving your current page.
 * **A Visual Gallery**: Display recent photos, design assets, or inspiration boards in a rich grid layout.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets.gif" alt=""><figcaption></figcaption></figure></div>
+
+## Create Widgets
+
+
+
+
 
 ## Customizing Widgets
 

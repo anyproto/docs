@@ -12,10 +12,10 @@
 * [Vault](basics/vault-and-key.md)
 * [Key](basics/key.md)
 * [Channels](basics/space.md)
-* [Sidebar](basics/customize-and-edit-the-sidebar/README.md)
-  * [Widgets](basics/customize-and-edit-the-sidebar/sidebar-widgets.md)
-  * [Sections](basics/customize-and-edit-the-sidebar/sidebar-sections.md)
-  * [Pins & Favorites](basics/customize-and-edit-the-sidebar/pins-and-favorites.md)
+* [Sidebar](basics/sidebar/README.md)
+  * [Sections](basics/sidebar/sidebar-sections.md)
+  * [Widgets](basics/sidebar/sidebar-widgets.md)
+  * [Pins & Favorites](basics/sidebar/pins-and-favorites.md)
 
 ## Creation
 
