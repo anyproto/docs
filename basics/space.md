@@ -102,18 +102,12 @@ Each Channel has its own Types and Properties. If you've set up custom Types in 
 
 You can create a one-to-one Channel between you and another Anytype user with Direct Channels. These operate similarly to direct chats with individuals. [See more here](../collaborate/chats/direct-channels.md).&#x20;
 
-## Channel Ownership&#x20;
+## Channel Settings
 
-You can transfer ownership of a Channel to another Space Member, which grants them all of the permissions of the Owner. [See more here](../advanced/settings/space-settings.md#channel-ownership).&#x20;
+To change your preferences and customize your Channel, please see [space-settings.md](../advanced/settings/space-settings.md "mention"). From this section, you can:&#x20;
 
-## Delete a Channel
-
-Be sure to export everything that you need from a channel beforehand.&#x20;
-
-1. Open your [Channel Settings](../advanced/settings/space-settings.md)
-2. In the General section, click on the 'three dots' button on the top right corner.&#x20;
-3. Select Delete Channel.&#x20;
-
-{% hint style="danger" %}
-**Be careful when deleting Channels**. It's impossible to recover deleted Channels unless you've previously exported them, so be sure to backup everything before you delete.&#x20;
-{% endhint %}
+* Invite others to the space
+* Import and export data
+* Change your notifications
+* Change channel ownership
+* Delete a channel

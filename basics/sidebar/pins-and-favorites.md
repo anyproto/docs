@@ -4,7 +4,11 @@ description: Two ways to keep important Objects close — yours and the team's.
 
 # Pins & Favorites
 
-Every Channel has two distinct mechanisms for surfacing important Objects in the sidebar: **My Favorites** (just for you) and **Pinned** (visible to everyone). Both appear in the Channel Sidebar in clearly separated [sidebar-sections.md](sidebar-sections.md "mention") and can be turned into [sidebar-widgets.md](sidebar-widgets.md "mention").&#x20;
+Every Channel has two distinct mechanisms for surfacing important Objects in the sidebar: **My Favorites** (just for you) and **Pinned** (visible to everyone).
+
+All Pins and Favorites can be turned into [Widgets](sidebar-widgets.md), which are interactive feeds directly in your Sidebar. Or they can remain as simple links, which are fast shortcuts to your content.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Pins Favorites.jpg" alt=""><figcaption></figcaption></figure></div>
 
 | Function    | Favorites             | Pinned                      |
 | ----------- | --------------------- | --------------------------- |
@@ -14,7 +18,7 @@ Every Channel has two distinct mechanisms for surfacing important Objects in the
 
 ## My Favorites
 
-My Favorites are personal. Anything you favorite shows up only in your sidebar, on your devices. Other members of the Channel never see your favorites and can't be affected by them.
+My Favorites are personal to only you. Anything you favorite shows up only in your sidebar, on your devices. Other members of the Channel never see your favorites and can't be affected by them.
 
 **Use My Favorites for:**
 
@@ -33,7 +37,7 @@ To remove, click the star again or right-click in the sidebar > **Unfavorite.**&
 
 ## Shared Pins
 
-Shared Pins, or Pinned, are seen by every member in the Channel and can only be set by the Owner. This is how Owners surface things that are important for everybody to see.&#x20;
+Shared Pins are seen by every member in the Channel and can only be set by the Owner. This is how Owners surface things that are important for everybody to see.&#x20;
 
 **Use Shared Pins for:**
 

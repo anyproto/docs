@@ -8,81 +8,62 @@ A **Chat** is a real-time conversation thread inside a Channel. Unlike messages 
 
 Chats give you the rhythm of a messaging app — quick replies, reactions, file shares — but with a twist: every message can reference, create, or open Anytype Objects. A typed thought becomes a Page; a screenshot becomes a File Object; a question can be answered with an Object link that opens in a click.
 
-## Why it matters
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chat Launch.jpg" alt=""><figcaption></figcaption></figure></div>
 
-Conversations are where most knowledge starts — the question you asked your teammate, the screenshot you sent, the link you pasted. In most workflows, this all gets lost in a separate chat app.
+## How it works
 
-Anytype keeps it together: chats live in the same Channel as the work, are searchable from the same search bar, and can be referenced, pinned, and organized like any other content. The conversation isn't separate from the work — it's part of it.
+Just like documents and files, Chats are [Objects](../../creation/objects/) that have their own dedicated [Type](../../organize/types.md). This means that a Chat:
 
-<figure><img src="../../.gitbook/assets/multi-chats.png" alt=""><figcaption></figcaption></figure>
-
-## Creating a Chat Object
-
-#### From the sidebar
-
-1. Click the **+** dropdown.
-2. Choose **Chat**.
-3. Name the Chat.
-
-#### From the Type section
-
-1. Open Chats in the Sidebar.&#x20;
-2. Click **+ New Object.**
-3. Name the Chat.
-
-## Setting up Chats
-
-#### Chat as a Channel Home
-
-When you create a Channel, you can choose **Chat** as the Home — meaning the first thing anyone sees when they open the Channel is the live conversation.
-
-Chat-Home Channels are great for:
-
-* Team standups and async chat
-* Communities and interest groups
-* Family or friend Channels
-* Work where conversation is primary, with documents as supporting cast
-
-<figure><img src="../../.gitbook/assets/home-chat.png" alt=""><figcaption></figcaption></figure>
-
-But even in a Page-Home or Collection-Home Channel, you can have one or more Chats — they live in the sidebar like any other Object. See [Creating a Channel](https://github.com/anyproto/docs-new/blob/main/getting-started/creating-a-channel.md).
-
-#### Chat as an Object Type
-
-Chats are **native Objects** in your Channel. This means a Chat:
-
-* Lives in the sidebar's Objects section under the Chat Type
-* Can have Tags or other Properties
-* Can be included in Collections or Queries
-* Can be `@`-mentioned from any Object for cross-referencing
-* Has its own settings (name, notifications)
+* Lives in the Types section in the Sidebar's under 'Chat'.
+* Can have its own [Properties](../../organize/relations.md).
+* Can be organized into [Views](../../organize/views.md), [Queries](../../organize/sets.md), and [Collections](../../organize/collections.md).&#x20;
+* Can be added as a [Widget](../../basics/sidebar/sidebar-widgets.md) to the Sidebar.&#x20;
+* Can be `@`-mentioned or linked like any other Object.&#x20;
 
 Chat is a system Type, so it doesn't support custom Templates or layout changes. But everything else about Chat behaves like a regular Object Type.
 
-#### Multi-Chats in your Channel
+## Creating Chats
 
-A single Channel can hold multiple Chats — start topic-specific conversations right where the work happens. Examples:
+#### Single Chat
 
-* A team Channel might have separate Chats for #general, #design, #engineering, and a daily standup Chat
-* A project Channel might have a Chat per workstream
-* A community Channel might have one Chat per topic of interest
+1. In the Channel Sidebar header, click on the create dropdown.
+2. Select Chat from the list of Types.&#x20;
+3. Give the Chat a name.&#x20;
 
-Discussions live alongside your notes, tasks, and documentation as part of your knowledge graph. You can `@`-mention a Note from a Chat, link to a Task from a message, or drop a Page directly into the conversation as an attachment card.
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chat Create.jpg" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**Set a Chat as the home page** for Channels where conversations take the forefront.&#x20;
+{% endhint %}
+
+#### Multiple Chats
+
+A single Channel can hold multiple Chats. You can start topic-specific conversations right where the work happens and keep them organized by using [Views](../../organize/views.md).&#x20;
+
+1. Navigate to Chats in the Types section in the Sidebar.&#x20;
+2. Create a new Chat.&#x20;
+3. Add your desired Properties.
+4. Set your preferred Filters and Sorts.&#x20;
+5. Set your desired Layout.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chats Multiple.jpg" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**Use multiple Chats for large Channels.** A single team Channel can have multiple Chats. Mute the noisy ones, leave Mentions-only on others.
+{% endhint %}
 
 #### Chats Widget
 
-The Chats Type Widget works like any other widget in your sidebar:
+The Chats Widget works like any other widget in your sidebar:
 
 * Pin it to keep it always visible
 * Adjust its appearance (compact, list, etc.)
-* Pin individual Chats for quicker access
-* Reorder by drag-and-drop
 
-Unlike other widgets, **pinned Chats display counters and mention indicators directly in the sidebar**. This makes the sidebar function like a chat dock — you see at a glance which Chats have new messages or `@`-mentions for you.
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chat Widget.jpg" alt=""><figcaption></figcaption></figure></div>
 
-#### Unread section
-
-A temporary **Unread** section also appears automatically when new messages arrive in any Chat — listing Chats with unread content. As you catch up, the section shrinks and eventually disappears. Learn more in the [Sidebar](../../basics/sidebar/sidebar-sections.md) section.&#x20;
+{% hint style="info" %}
+**Group your Chats into categories and Kanban board layout** to create an organized list in your Sidebar.&#x20;
+{% endhint %}
 
 ## Using Chat
 
@@ -94,18 +75,7 @@ The message input lives at the bottom of every Chat. You can send:
 * **Mentions** — `@` to mention a member or any Object
 * **Attachments** — drag in a file, paste an image, or share an Object using the 'plus' button.&#x20;
 
-#### Send Message preference
-
-Choose how messages are sent:
-
-* **Enter** to send (Shift + Enter for a new line)
-* **Cmd / Ctrl + Enter** to send (Enter for a new line)
-
-Set this in **Vault Settings > Application > Preferences > Messaging**.
-
-#### Auto-resolve pasted Anytype links
-
-Paste an Anytype Object link into the Chat input and it automatically converts to an attachment card — recipients see a rich preview with the Object's title and Type, and can open it in a click.
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chats Using.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Reactions
 
@@ -118,6 +88,10 @@ When more than one person reacts with the same emoji, you'll see a counter next 
 Right-click a message (or hover and click the reply icon) to reply to it specifically. Your reply quotes the original at the top — recipients see the context immediately and can click the quoted preview to **jump to the original message**.
 
 The scroll-down button takes you back to the reply first, then to the bottom of the chat — so you can navigate replies without losing your place.
+
+#### Smart Anytype links
+
+When pasting an Anytype Object link into the Chat message box and it automatically converts the link into an attachment card. This means recipients see a rich preview of the Object instead of a long URL text string.&#x20;
 
 #### Pinning messages
 
@@ -154,18 +128,48 @@ Drag a file onto the Chat input or paste from clipboard. The file uploads and:
 
 For images, the message includes a preview thumbnail. For audio/video, an inline player.
 
-#### Notifications
+## Chat Notifications
 
-Per-Chat notification settings let you control how loud each Chat is:
+#### Unread section
 
-1. Right-click the Chat in the sidebar, **or** click the three-dot menu inside the Chat.
-2. Open **Notifications**.
-3. Choose:
+A temporary **Unread** section appears automatically when new messages arrive in any Chat. As you catch up, the section shrinks and eventually disappears. This section also displays notifications from [Discussions](../discussions.md). Learn more in the [Sidebar](../../basics/sidebar/sidebar-sections.md) section.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chats Unread.jpg" alt=""><figcaption></figcaption></figure></div>
+
+#### Per-chat Notifications
+
+Per-Chat notification settings let you control how loud each Chat is.&#x20;
+
+1. Open your desired Chat.&#x20;
+2. Click the three-dot button in the top right corner.&#x20;
+3. Select **Notifications**.
+4. Choose:
    * **Enable all** — notifications for every message
    * **Mentions only** — only when you're `@`-mentioned
    * **Disable all** — no notifications (unread counter still updates)
 
 These settings are per-Chat and override Channel-level defaults. See [Notifications](https://github.com/anyproto/docs-new/blob/main/getting-started/notifications.md) for the full picture.
+
+## Chat Settings
+
+#### Chat as a Channel Home
+
+When you create a Channel, you can choose **Chat** as the Home — meaning the first thing anyone sees when they open the Channel is the live conversation. Chat-Home Channels are great for:
+
+* Team standups and async chat
+* Communities and interest groups
+* Work where conversation is primary, with documents as supporting cast
+
+See [Channels](../../basics/space.md#choosing-a-home) for more details.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/home-chat.png" alt=""><figcaption></figcaption></figure></div>
+
+#### Send message preference
+
+Choose how messages are sent in **Vault Settings > Application > Preferences > Messaging**.
+
+* **Enter** to send (Shift + Enter for a new line)
+* **Cmd / Ctrl + Enter** to send (Enter for a new line)
 
 #### Spell checking
 
@@ -177,20 +181,18 @@ For one-on-one conversations with others, use **Direct Channels** — private ch
 
 ## Exporting Chats
 
-Chat messages are tied to each member of the space, which are tied to unique encryption keys for each user. When you export a space and import it into a new space, this new space has different encryption keys and space members. Thus, it is not possible to export chat Objects and messages because they are inherently tied to the space itself.
+You cannot export a chat from a Channel. Chat messages are tied to the individual members of a space, and each member's data is secured with unique encryption keys. When you export a space and import it into a new one, that new space is created with entirely different encryption keys and members.
 
-### Tips
+As a result, chat objects and messages cannot be exported — they are inherently bound to the space in which they were created.
+
+## Tips
 
 {% hint style="info" %}
-**Use multiple Chats for large Channels.** A single team Channel can have separate Chats for general talk, daily standup, project-specific discussions, and announcements. Mute the noisy ones, leave Mentions-only on others.
+**Drop Objects into Chat to share work in progress** — Note, Task, Page, even another Chat. The Object becomes a clickable attachment card. Recipients can open and edit immediately.
 {% endhint %}
 
 {% hint style="info" %}
 **Pin the welcome message.** When someone joins a Channel, the first thing they see is the pinned message at the top. Use this to set norms — what the Channel is for, how to engage.
-{% endhint %}
-
-{% hint style="info" %}
-**Drop Objects into Chat to share work in progress** — Note, Task, Page, even another Chat. The Object becomes a clickable attachment card. Recipients can open and edit immediately.
 {% endhint %}
 
 {% hint style="info" %}

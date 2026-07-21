@@ -1,46 +1,42 @@
 # Collaboration
 
-Anytype lets you share spaces with other people so you can work together. When you invite someone, they get access to everything — Objects, Types, Properties, Chats — all syncing in real time across everyone's devices.
+Anytype lets you collaborate with others without sacrificing your privacy.
 
-Unlike traditional cloud apps where a company mediates access, sharing in Anytype works **peer-to-peer**. Your data stays end-to-end encrypted, and only people you explicitly invite can decrypt and see it. Anytype's servers help with backup — but they can't read your content.
+Unlike traditional cloud apps—where hosting companies can access your content—Anytype uses local-first and end-to-end encryption technology. Your content is always accessible directly on your device and only the people you explicitly invite have the keys to unlock and view it. Anytype’s servers can backup and sync your files, but they never hold the keys to read your content. You can even collaborate directly with others using peer-to-peer sync or self-host on your own network.&#x20;
+
+The result: real collaboration, with no middleman able to see what you're working on.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Collaborate.gif" alt=""><figcaption></figcaption></figure></div>
 
 ## Why it matters
 
-Collaboration in Anytype isn't an add-on, it's part of the core architecture:
+Collaboration in Anytype isn't an afterthought—it's designed from the ground up to give you total ownership and control over your data.
 
-* **End-to-end encryption** — everything in your spaces are encrypted before sync, which ensures only you and the people you share with can access the content.&#x20;
-* **Real-time sync** — changes appear instantly when members are online (or on the same network).&#x20;
-* **Offline-first** — everything works without an network connection, it syncs when reconnected.&#x20;
-* **No vendor account required** — collaborators don't need a third-party email or paid account, just an Anytype vault which can be created without the need for any permission.&#x20;
+* **Complete Privacy:** Everything in your shared spaces is encrypted _before_ it leaves your device. Only you and your invited teammates can ever read it.
+* **Real-Time Sync:** Changes appear instantly when members are online, or on the same local network.
+* **Offline-First:** Work freely without an internet connection. Your changes will sync automatically as soon as you're back online.
+* **No Sign-Up Hassles:** Collaborators don't need to provide an email address, buy a subscription, or ask anyone for permission. Anyone can set up an Anytype Vault instantly.
 
-This makes shared Channels suitable for sensitive contexts: legal teams, journalists, communities of practice, family planning — anywhere you'd want collaboration without surveillance.
+This makes shared spaces suitable for sensitive contexts — legal teams, journalists, communities of practice, family planning — anywhere you want collaboration without surveillance.&#x20;
 
-## Member roles
+## How it works
 
-Every Channel has multiple role levels:
+With typical cloud apps, your data lives on company servers and is often accessible to third parties like Apple or Google for phone notifications. Anytype does things differently:
 
-| Role       | Create, edit, and remove Objects | Chat & Discussions | Edit Channel name/icon | Pin Objects to Sidebar |       Permanent delete      |      Manage members      |
-| ---------- | :------------------------------: | :----------------: | :--------------------: | :--------------------: | :-------------------------: | :----------------------: |
-| **Owner**  |                 ✓                |          ✓         |            ✓           |            ✓           | All Objects (incl. others') |             ✓            |
-| **Admin**  |                 ✓                |          ✓         |            ✓           |            ✓           | All Objects (incl. others') | Only editors and viewers |
-| **Editor** |                 ✓                |          ✓         |           ✓            |            —           |        Only their own       |             —            |
-| **Viewer** |                —                 |          —         |            —           |            —           |              —              |             —            |
+1. **Your device holds the keys:** When you create a shared space, your device generates unique encryption keys. These keys are never shared with Anytype or anyone else.
+2. **Data is locked before it leaves:** Before your files sync anywhere—whether to Anytype’s servers or another person's phone—they are scrambled into unreadable code.
+3. **You pass the keys directly:** When you invite someone, your device securely hands them the decryption key directly with Anytype or anybody else accessing it.&#x20;
+4. **Servers act as blind couriers:** Anytype’s servers help sync and back up your data, but because they don't have the keys, all they see is scrambled code.
+5. **Unlocking happens only on trusted devices:** The scrambled data is turned back into readable content only when it reaches the devices belonging to the people you invited.
 
-#### Permanent delete permissions
+The Bottom Line: Your data is encrypted on your device before it goes anywhere. You and your invited collaborators are the only ones who hold the keys, meaning not even Anytype can read what you're working on.&#x20;
 
-In shared Channels, **Editors can only permanently delete Objects they created**, protecting the team from accidental data loss. Owners can permanently delete any Object and can also empty the entire Bin from a single action.
-
-This means even if an Editor accidentally clicks "Empty Bin", they can only wipe out their own contributions — nothing of yours or other members' is at risk.
+<div><figure><img src="../.gitbook/assets/Docs Regular Sync.gif" alt=""><figcaption><p>Typical Cloud App Sync</p></figcaption></figure> <figure><img src="../.gitbook/assets/Docs E2EE Sync.gif" alt=""><figcaption><p>Anytype Local-first Sync</p></figcaption></figure></div>
 
 ## Inviting members
 
-Open the Channel you want to share, then go to the [Channel Settings](../advanced/settings/space-settings.md) and members section.&#x20;
-
-### Add Members
-
-The 'add members' button will provide a list of users that you can invite into your space. This list is generated based on users who you are already connected to in other spaces.&#x20;
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Members.jpg" alt=""><figcaption></figcaption></figure></div>
+1. Open [Channel Settings](../advanced/settings/space-settings.md) by clicking the Channel name in the Sidebar.&#x20;
+2. Click on the Members section.&#x20;
 
 ### Invitation Link
 
@@ -53,7 +49,36 @@ The '**Add members via link**' toggle generates a link you can share with others
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Invite Link.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Change access&#x20;
+{% hint style="danger" %}
+**Be sure to share the invitation link with a secure method.** If the invitation link is intercepted, it can be used to gain access to the space. If you are concerned that your invitation links have been compromised, you can reset the link and require request approval for all new joiners.&#x20;
+{% endhint %}
+
+### Add Members
+
+The 'add members' button will provide a list of users that you can invite into your space. This list is generated based on users who you are already connected to in other spaces. This is a convenient method to collaborate with people you're already in touch with on Anytype.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Members.jpg" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**If there are many unrecognisable users in your member list**, this may be due to you being part of a community space with many other members not recognizable to you.&#x20;
+{% endhint %}
+
+## Member roles
+
+Every Channel has multiple role levels:
+
+| Role       | Create, edit, and remove Objects | Chat & Discussions | Edit Channel name/icon | Pin Objects to Sidebar |       Permanent delete      |      Manage members      |
+| ---------- | :------------------------------: | :----------------: | :--------------------: | :--------------------: | :-------------------------: | :----------------------: |
+| **Owner**  |                 ✓                |          ✓         |            ✓           |            ✓           | All Objects (incl. others') |             ✓            |
+| **Admin**  |                 ✓                |          ✓         |            ✓           |            ✓           | All Objects (incl. others') | Only editors and viewers |
+| **Editor** |                 ✓                |          ✓         |           ✓            |            —           |        Only their own       |             —            |
+| **Viewer** |                —                 |          —         |            —           |            —           |              —              |             —            |
+
+**Permanent Delete Permissions**
+
+In shared Channels, Editors can only permanently delete Objects they created, protecting the team from accidental data loss. Owners can permanently delete any Object and can also empty the entire Bin from a single action. This means even if an Editor accidentally clicks "Empty Bin", they can only wipe out their own contributions — nothing of yours or other members' is at risk.
+
+#### Changing access&#x20;
 
 1. Find the Space Member. Use the shortcut `Cmd/Ctrl + F` to search through a large list.&#x20;
 2. Click on their current permission level.&#x20;

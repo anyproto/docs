@@ -1,14 +1,14 @@
 # Deletion
 
-In Anytype, everything exists as its own independent Object — the same image can be used many times across many documents. Because of this, everything must be intentionally deleted independently as well. You cannot simply delete a folder and all of its contents with a single action.&#x20;
+In Anytype, everything exists as its own independent Object — the same image can be used many times across many documents. Because of this, everything must be intentionally deleted independently as well. There are no folders that you can simply delete with all of its contents going along with it.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Deletion System.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## How it works
 
-Here is a high level picture of how deletion works differently in Anytype.&#x20;
+In Anytype, you must intentionally choose what you want to delete at every moment. Here is a high level picture of how deletion works differently in Anytype.&#x20;
 
-<table><thead><tr><th width="190.3125">Situation</th><th>Traditional</th><th>Anytype</th></tr></thead><tbody><tr><td>Deleting a block</td><td>Pages have a location, so if you delete the block where a page is located, the entire page will be deleted. </td><td>Blocks represent a link to an Object. If you delete a block, the underlying Object still remains. </td></tr><tr><td>Deleting a folder</td><td>Everything inside the folder is deleted with it. This can lead to unintentionally deleting important items deeply hidden in a large folder. </td><td>There are no folders in Anytype. If you delete a <a href="types.md">Type</a>, you will be asked if you want to delete all Objects with it. </td></tr><tr><td>Deleting a database</td><td>Databases contain all of its entries, so if you delete the database, all of the entries go with it. </td><td>Objects are not contained in databases in Anytype (Types, Queries, and Collections), you can delete the database while preserving all of the entries. </td></tr></tbody></table>
+<table><thead><tr><th width="190.3125">Situation</th><th>Traditional</th><th>Anytype</th></tr></thead><tbody><tr><td><strong>Deleting a block</strong></td><td>Pages have a location, so if you delete the block where a page is located, the entire page will be deleted. </td><td>Blocks represent a link to an Object. If you delete a block, the underlying Object still remains. </td></tr><tr><td><strong>Deleting a folder</strong></td><td>Everything inside the folder is deleted with it. This can lead to unintentionally deleting important items deeply hidden in a large folder. </td><td>There are no folders in Anytype. If you delete a <a href="types.md">Type</a>, you will be asked if you want to delete all Objects with it. </td></tr><tr><td><strong>Deleting a database</strong></td><td>Databases contain all of its entries, so if you delete the database, all of the entries go with it. </td><td>Objects are not contained in 'databases' in Anytype (Types, Queries, and Collections). If you delete a 'database', you can preserve all of its entries. </td></tr></tbody></table>
 
 Because Objects in Anytype exist independently from one another, deletion can be more tricky to navigate. The [Cleanup](deletion.md#cleanup) feature aims to help you ensure your space doesn't have too many redundant Objects in it over time.&#x20;
 
@@ -19,24 +19,43 @@ Deleting an Object will move it to the Bin, otherwise known as 'archiving'. This
 * **Channel Settings** > Preferences > Bin
 * **Sidebar** > Manage Sections > Bin
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Bin Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 
+#### Selection
 
+* **Select** — Click on the checkbox to the left of the Object's name.&#x20;
+* **Select All** — Click on the checkbox to the left of the header, next to 'Name'.&#x20;
 
+Once you have selected at least one Object, you can choose to Delete Permanently or Restore.&#x20;
+
+#### Permanently Delete
+
+Deleting an Object in your Bin means it will be gone forever and cannot be recovered. You will be asked to confirm you want to proceed every time.&#x20;
+
+#### Restore&#x20;
+
+Restoring an Object from your Bin means it will return back to your space. It will retain all of its previous links and settings. This includes restoring Types, Properties, and Templates.&#x20;
+
+#### Search & Sort
+
+You can search for Objects by their name in the Bin and change the deletion date sorting order. At times, Objects may not have a deletion date so it's best to scroll down the list to find what you're looking for.&#x20;
 
 ## Cleanup
 
-Objects listed in this section are suggestions of what could be deleted to clean up your space. Objects in this list are not in your Bin, they exist in your space just like any other Object that has not yet been deleted. They are merely suggestions.  You can find the Cleanup section alongside the Bin in two locations:&#x20;
+Cleanup has suggestions of what could be deleted to clean up your space. Objects in this list are not in your Bin, they exist in your space just like any other Object and has not been deleted. These are merely suggestions. You can find the Cleanup section alongside the Bin in two locations:&#x20;
 
 * **Channel Settings** > Preferences > Bin > Cleanup
 * **Sidebar** > Manage Sections > Bin > Cleanup
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Bin Cleanup.jpg" alt=""><figcaption></figcaption></figure></div>
+
 ### Why it matters
 
-With the way most apps work, users typically expect that deleting something will move it to the bin. Because this doesn't always happen on Anytype, it can lead to your space becoming bloated with undeleted files that serve no purpose. Cleanup helps users to manage their spaces.&#x20;
+With the way most apps work, users typically expect that deleting something will move it to the bin. Because of the object-based system this doesn't always happen on Anytype, which can lead to your space becoming bloated with undeleted files that serve no purpose. Cleanup helps users to manage their spaces.&#x20;
 
 ### How does it work?
 
-Imagine you're writing a report. You insert three images into it, then delete one because it doesn't fit the final draft. All three images remain in your space, since every file is an independent Object. But the image you removed from the report is no longer needed; it's just a leftover from your editing process but it still exists in your space. Over time, this kind of clutter builds up, leaving your space full of files that no longer serve a purpose.
+Imagine you're writing a report. You insert three images into it, then delete one because it doesn't fit the final draft. All three images remain in your space, since every file is an independent Object. But the image you removed from the report is no longer needed; it's just a leftover from your editing process but it still exists in your space. Over time, this clutter builds up, leaving your space full of files that no longer serve a purpose.
 
 Anytype tracks these 'suggested deletions' and lists them in the Cleanup section for you to review. From there, you can dismiss the suggestion or delete the Object permanently. The types of Objects that appear here:
 

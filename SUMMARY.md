@@ -14,8 +14,8 @@
 * [Channels](basics/space.md)
 * [Sidebar](basics/sidebar/README.md)
   * [Sections](basics/sidebar/sidebar-sections.md)
-  * [Widgets](basics/sidebar/sidebar-widgets.md)
   * [Pins & Favorites](basics/sidebar/pins-and-favorites.md)
+  * [Widgets](basics/sidebar/sidebar-widgets.md)
 
 ## Creation
 

@@ -1,11 +1,11 @@
 # Channel Settings
 
-Channel Settings is where you control everything about a Channel — its name and icon, who has access, how notifications behave, what loads first when members enter, and how Types and Properties are managed. To open Channel Settings:
+Channel Settings is where you control everything about a [Channel](../../basics/space.md) — its name and icon, who has access, how notifications behave, what loads first when members enter, and more. There are two ways to get to open the Channel Settings:&#x20;
 
-1. Click the Channel name at the top of the Sidebar. Or right-click the channel icon.
-2. Select the option **Channel Settings**.&#x20;
+1. Click the Channel name at the top of the Channel Sidebar.&#x20;
+2. Right-click the Channel icon in the Vault Sidebar.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Settings.jpg" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Settings Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Preferences
 
@@ -41,40 +41,27 @@ Sets which Object Type is used when you create a new Object without specifying a
 
 ## Members
 
-Manage who has access to the Channel. Each user is referred to as a Space Member and their access level is determined by their permissions. It's important to remember to share access to others in a secure method, such as using a private and secure chat.&#x20;
+Manage who has access to the Channel. Each user is referred to as a Space Member and their access level is determined by their Role. For a more detailed breakdown of shared spaces, please see [collaboration.md](../../collaborate/collaboration.md "mention")
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Settings Members.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Roles
 
-There are various roles that Space Member can have, each with different privileges. Be sure to periodically check your members section to ensure everybody has the correct permissions. For a more detailed breakdown, please see [Collaboration](../../collaborate/collaboration.md).&#x20;
+There are various roles that Space Member can have, each with different privileges. Be sure to periodically check your members section to ensure everybody has the correct permissions.&#x20;
 
-<table><thead><tr><th width="167.1015625">Role</th><th>Description</th></tr></thead><tbody><tr><td><strong>Viewer</strong></td><td>Read-only access. Can view content in the space but cannot edit documents, chat with others, participate in discussions, or delete anything.</td></tr><tr><td><strong>Editor</strong></td><td>Includes all Viewer privileges, plus the ability to edit content in the space — including documents, chat, and discussions — and permanently delete items.</td></tr><tr><td><strong>Admin</strong></td><td>Includes all Editor privileges, plus the ability to manage other Space Members' permissions. Can upgrade or downgrade Editors and Viewers, or revoke their access entirely.</td></tr><tr><td><strong>Owner</strong></td><td>Includes all Admin privileges, plus the ability to create Admins, to create invitation links, and transfer channel ownership. </td></tr></tbody></table>
+<table><thead><tr><th width="167.1015625">Role</th><th>Description</th></tr></thead><tbody><tr><td><strong>Viewer</strong></td><td>Can view content in the space but cannot edit documents, chat with others, participate in discussions, or delete anything.</td></tr><tr><td><strong>Editor</strong></td><td>Includes all Viewer privileges, plus the ability to edit content in the space and permanently delete items.</td></tr><tr><td><strong>Admin</strong></td><td>Includes all Editor privileges, plus the ability to manage Editors and Viewers.</td></tr><tr><td><strong>Owner</strong></td><td>Includes all Admin privileges, plus the ability to create Admins, to create invitation links, and transfer channel ownership. </td></tr></tbody></table>
 
-### Inviting others
+### Access & Invitations
 
-#### Add Members Button
+In this section, you are able to invite others into your space and set their permissions. For details on how it works, please see [collaboration.md](../../collaborate/collaboration.md "mention").&#x20;
 
-The 'add members' button will provide a list of users that you can invite into your space. This list is generated based on users who you are already connected to in other spaces.&#x20;
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Members.jpg" alt=""><figcaption></figcaption></figure></div>
-
-#### Add members via link&#x20;
-
-The '**Add members via link**' toggle generates a link you can share with others to invite them into the space, either as a text link or a QR code. There are a few important settings to be aware of:
-
-* **Auto Approval** — Enabling this lets users join the space without manual review, which is useful for community or forum-like spaces. For private spaces, it's best to leave this off so every new member requires approval from the Owner.
-* **Channel-wide Shareable Invite** — Enabling this allows other members to share the invite link themselves. This works well for public spaces, or private spaces where existing members are highly trusted.
-* **Approve Requests** — For members requesting access, you can approve them by navigating to the 'Request' tab which is next to the 'All', 'Editors', and 'Viewers' tab.&#x20;
-* **Reset Link** — If you believe an invite link has been compromised, you can reset it. This immediately voids the previous link and generates a new one, which must be used going forward to join the space.
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Invite Link.jpg" alt=""><figcaption></figcaption></figure></div>
-
-### Change access&#x20;
-
-1. Find the Space Member. Use the shortcut `Cmd/Ctrl + F` to search through a large list.&#x20;
-2. Click on their current permission level.&#x20;
-3. Change it to the desired role. Or remove the member entirely.&#x20;
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Remove Member.jpg" alt=""><figcaption></figcaption></figure></div>
+* Copy link — a shareable URL link for people to join the space.&#x20;
+* QR code — A QR code suitable for sharing in public places.&#x20;
+* Manage link — settings to restrict and control invitation links.&#x20;
+* All — everybody who has access and their role.&#x20;
+* Requests — pending requests to join the space that requires approval.&#x20;
+* Editors — display only users who are editors.&#x20;
+* Viewers — display only users who are viewers.&#x20;
 
 ## Notifications
 
@@ -86,9 +73,13 @@ Set the default notification mode for messages in this Channel:
 
 Per-Chat and per-Object Discussion settings can override the Channel default.&#x20;
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Settings Notifications.jpg" alt=""><figcaption></figcaption></figure></div>
+
 ## Remote Storage
 
-The Remote Storage tab shows total storage used in this Channel and your remaining storage allowance based on your membership plan.
+The Remote Storage tab shows total storage used in this Channel and your remaining storage allowance based on your membership plan. The files listed are specific to the Channel, not your entire Vault.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Settings Storage.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -106,6 +97,8 @@ A list of every Object Type available in this Channel. From here you can:
 
 For full details, see [Types](../../organize/types.md).
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Settings Types.jpg" alt=""><figcaption></figcaption></figure></div>
+
 #### Properties
 
 A list of every Property defined in this Channel. From here you can:
@@ -116,16 +109,18 @@ A list of every Property defined in this Channel. From here you can:
 
 For full details, see [Properties](../../organize/relations.md).
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Settings Properties.jpg" alt=""><figcaption></figcaption></figure></div>
+
 ***
 
 ## Import & Export
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/import.png" alt=""><figcaption></figcaption></figure></div>
 
 The Integrations tab covers everything related to bringing data in and out of the Channel:
 
 * **Import** — bring data in from Notion, Evernote, Obsidian, or generic Markdown / CSV
 * **Export** — back up the entire Channel to Markdown or AnyBlock format
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/import.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -147,14 +142,19 @@ After the transfer:
 * Only the new Owner can transfer it again.
 * The new Owner's membership limits will apply to this channel.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Transfer Ownership.jpg" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Settings Transfer.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Delete Channel
 
-In shared Channels, only the Owner can delete the Channel. Other members can leave the Channel instead, which removes their access without affecting other members.
+In shared Channels, only the Owner can delete the Channel. Other members can leave the Channel instead, which removes their access without affecting other members. To delete a Channel:&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/delete-channel.png" alt=""><figcaption></figcaption></figure></div>
+1. Navigate to the General section in your Channel Settings.
+2. Click on the 'three dots' button on the top right.
+3. Select Delete Channel.&#x20;
+4. Enter the name of the Channel to confirm deletion.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Settings Delete.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
-**Deleting a Channel is permanent.** All Objects, Chats, Discussions, and history are removed for every member. There is no undo. If you might want the data later, export the Channel before deleting.&#x20;
+**Deleting a Channel is permanent.** All Objects, Chats, Discussions, and history are removed for every member. There is no undo. If you possibly want access to the data later, export the Channel before deleting as precaution.&#x20;
 {% endhint %}

@@ -6,17 +6,30 @@ Widgets act as real-time lenses into your Channel, allowing you to interact with
 * **A Project Task List**: View and check off to-dos dynamically without leaving your current page.
 * **A Visual Gallery**: Display recent photos, design assets, or inspiration boards in a rich grid layout.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets.gif" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widget Types.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Create Widgets
 
+1. Open the Object you want to be a Widget. You can either:&#x20;
+   1. **Pin to Channel**: click on the 'three dots' menu (you must be a Space Owner)
+   2. **Add to Favorites**: click on the 'star' icon (only shows for you).&#x20;
+2. Right-click on the Object in the Sidebar.&#x20;
+3. In view, select 'Same as Object'.&#x20;
+4. Click on the icon to reveal the Widget.&#x20;
 
+The options available on the Widget are based on the [Views](../../organize/views.md) you have set up. By adjusting the Views, you also adjust what is displayed in the Widget.&#x20;
 
+If you are unable to set up the Widget for your Favorites, you must [change the display setting](sidebar-widgets.md#favorites-as-widgets).&#x20;
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets Create.gif" alt=""><figcaption></figcaption></figure></div>
 
 ## Customizing Widgets
 
-How your Widget functions depends on the underlying Objects that it is connected to. If you have pinned an entire Task List with due dates, then it makes sense to view it either as a calendar or kanban board. If you've pinned a wiki home page, then it makes sense to view it all its links in a hierarchical list. After pinning or favoriting an Object, right-click on it in the sidebar to customize it.&#x20;
+The Widget options you have available are based on the Object and Views you have setup. If you have pinned your entire Events Type, then it makes sense to view it as a calendar. If you've pinned a wiki home page, then it makes sense to view it all its links in a hierarchical list.&#x20;
+
+After pinning or favoriting an Object, right-click on it in the sidebar to customize it.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets.gif" alt=""><figcaption></figcaption></figure></div>
 
 #### Layout Options
 
@@ -28,7 +41,7 @@ For pinned and favorite Objects, you can choose between distinct layouts to matc
 * **Compact**: Shows linked Objects neatly nested under each main item.
 * **Detailed**: Similar to the Compact view, but exposes more metadata and detail for each item.
 * **Link**: The most minimalist option—displays just the Object's title and its icon.
-* **Hierarchical Structure**: For Pages, you can create a folder-like structure in your sidebar. All link blocks on the page are represented in the widget. [See here for detailed instructions](../../organize/collections.md#sidebar-widget).&#x20;
+* **Hierarchical Structure**: For Pages, you can create a folder-like structure in your Sidebar. All link blocks on the page are represented in the Widget. [See here for detailed instructions](../../organize/collections.md#sidebar-widget).&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Hierarchical Structure.gif" alt=""><figcaption></figcaption></figure></div>
 

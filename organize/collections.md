@@ -91,17 +91,15 @@ Edits made to the View of an Inline Collection apply only to that specific block
 
 This is different from editing actual Objects and their Properties through an Inline View: those changes **do** affect the underlying Objects and are reflected everywhere they appear across the Space.
 
-### Sidebar Widget
+### Folder-like Widget
 
-You can add [Collections to your Sidebar as a Widget](views.md#views-in-sidebar), just like any other View.&#x20;
-
-Instead of using Collections to simulate a [hierachical folder-like structure in your Sidebar](../basics/sidebar/sidebar-widgets.md#layout-options), you can alternatively create a Page with link blocks:&#x20;
+You can add [Collections to your Sidebar as a Widget](views.md#views-in-sidebar), just like any other View. However, instead of using Collections to simulate a [hierachical folder-like structure in your Sidebar](../basics/sidebar/sidebar-widgets.md#layout-options), you can alternatively create a Page with link blocks:&#x20;
 
 1. Create any Object with a Page format.&#x20;
 2. In the editor, add links to your desired Objects using the `/link` or `@` blocks. This can be to regular Objects, Types, Queries, or Collections.&#x20;
 3. Arrange the order of the blocks on the Page to represent you're hierarchy.&#x20;
 4. Pin the Object to the Sidebar.&#x20;
-5. Right-click the Widget and ensure 'Hierarchical Structure' is selected in the View.&#x20;
+5. Right-click the Widget and select 'Hierarchical Structure' in the view setting.&#x20;
 6. To expand each layer, click on the dropdown arrow near the icon.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Collections Widget Folder-like.jpg" alt=""><figcaption></figcaption></figure></div>

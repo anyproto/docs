@@ -4,7 +4,7 @@ A **Direct Channel** is a private, one-on-one conversation between you and anoth
 
 Both participants have equal access: there's no admin, no role hierarchy, no permissions to set. It's a place for quick check-ins, a private discussion, creating new Objects, or a side conversation about something happening in another Channel.
 
-<figure><img src="../../.gitbook/assets/Docs Direct Channel.jpg" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Direct Channel.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## How it works
 
