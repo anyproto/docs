@@ -1,32 +1,75 @@
 # Key
 
-When you create your Vault, you will receive your very own **Key**, described as a '12 word mnemonic phrase'. This phrase is generated on-device and is the only way to access your vault and decrypt your data. Your Key functions as your login and password at the same time.&#x20;
+When you create your account on Anytype, you receive your own Key — generated locally on your device. It's the only way to access your Vault and decrypt your data, functioning as your login email and password combined.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 3 (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
-## Why no email & password?
+## How it works
 
-Your Key is a **'mnemonic phrase'**, also known as a 'seed phrase'. It's a set of common words that represent a long cryptographic key. The advantage of words over a random string of characters is that they're easier to write down, read back, and verify. This is the same approach used by cryptocurrency wallets like Bitcoin.
+Your Key is a string of 12 words, also known as a mnemonic phrase, seed phrase, or recovery phrase. This unique combination of common words forms a highly secure cryptographic key. Words are used instead of a random string of characters because they're easier to write down, read back, and verify — the same approach used by cryptocurrency wallets like Bitcoin.
 
-Behind the scenes, these 12 words encode a unique master key that encrypts and decrypts everything in your Vault. The math behind it means there are more possible combinations than atoms in the observable universe. This makes it effectively impossible to guess, making it highly secure.&#x20;
+Behind the scenes, these 12 words encode a master key that encrypts and decrypts everything in your Vault. The math behind it means there are more possible combinations than atoms in the observable universe, making your Key effectively impossible to guess.
 
-Changing it is impossible because your Key is generated locally and intrinsically tied to your account. It is not like an email and password where a company can just reset it for you. This means it's extremely important you keep your Key safe. You can access it at any time by navigating to the Key section in your [account-and-data.md](../advanced/settings/account-and-data.md "mention").
+Your Key cannot be changed — it's generated locally and intrinsically tied to your account. This makes it critical to keep safe: even Anytype can't help you if it's compromised.
 
 ## Don't forget to save your Key
 
-Anytype does not save a copy of your Key, which means that if it's lost, we are not able to assist with recovering your Vault. For this reason, we recommend making a secure backup—writing it down, storing it in a password manager, and keeping it somewhere safe.
+Anytype doesn't keep a copy of your Key, so if it's lost, we can't help you recover your Vault. We strongly recommend making a secure backup — you'll need this Key every time you log in on a new device.
 
-You will need this key each time you login on a new device.
+To find your Key in your [Vault Settings](../advanced/settings/account-and-data.md):
+
+1. Click your profile in the bottom-left corner.
+2. Click **Login Key** in the left menu.
+3. Click the eye icon to reveal your 12-word phrase.
 
 ## If you've lost your Key
 
-The benefit of the Key is that you can access Anytype and collaborate with others without needing the permission of anybody—not even Anytype the company itself. However, encrypted apps work in a way that puts the responsibility for your personal data entirely in your hands.&#x20;
+The benefit of using a Key is that you can access Anytype and collaborate with others without needing anyone's permission — not even Anytype's. But that same design puts full responsibility for your data in your hands.
 
-Anytype can't identify, grant access to, or delete individual Vaults. Even if we could, we wouldn't be able to verify with certainty if we're talking to the actual Vault owner or someone impersonating them. The level of privacy and anonymity provided to users on Anytype also makes your Key your responsibility.&#x20;
+Anytype can't identify, grant access to, or delete individual Vaults. Even if we could, we'd have no way to verify whether we were talking to the real Vault owner or an impersonator. The privacy and anonymity Anytype provides is precisely what makes your Key your responsibility alone.
 
-If you've been logged out of Anytype, and haven't stored your Key somewhere else, you only have two options to recover your Key:
+If you've been logged out and haven't stored your Key elsewhere, you can:&#x20;
 
-1. If you're still logged in on another device, you might still be able to restore your Vault. Just open the app there and copy the Key from your settings.
-2. You can also try recovering your Key from your [OS Key storage manager](../advanced/faqs.md#how-to-recover-my-key-from-my-os-key-storage-manager).
+* Check another device. If you're still logged in elsewhere, open the app there and copy your Key from settings.
+* You can also try recovering your Key from your [OS Key storage manager](../advanced/faqs.md#how-to-recover-my-key-from-my-os-key-storage-manager).
 
+{% hint style="danger" %}
 **Anytype cannot recover your Vault if you've completely lost access to your Key.**&#x20;
+{% endhint %}
+
+## Frequently Asked Questions
+
+#### Why no email & password?
+
+Using a Key is the most secure way to create an account without relying on a central authority to control your access. Keys are generated entirely on your device, never shared with anyone, and can even be created offline.
+
+Email/password systems can be compromised in various ways, and typically require handing account access over to the company behind the app — which is how they're able to grant or recover it on your behalf. A Key removes that dependency: you can recover access to your data even if your device is lost, stolen, or damaged, because the Key itself is the master key to your data.
+
+#### Can anyone guess my Key?
+
+Practically speaking, no. Keys are generated using complex mathematical algorithms, and the number of possible combinations is so vast that guessing or brute-forcing one is effectively infeasible:
+
+* **Possible combinations:** 5,444,517,870,735,015,415,413,993,718,908,291,383,296
+* **Cost to crack:** $38,029,518,006,846,883,000,000,000 USD
+
+Even the most well-funded, well-equipped attacker would find this an insurmountable task.
+
+#### What's the risk of creating two Vaults with the same Key?
+
+Essentially none. The odds of two people generating the same 128-bit mnemonic are about 1 in 2¹²⁸ (roughly 3.4 × 10³⁸)—vastly more than the number of grains of sand on Earth. Even generating billions of keys per second for 100 years wouldn’t come close to causing a collision.&#x20;
+
+In short, you do not have to worry about your Key being generated by another user.&#x20;
+
+#### How is my Key generated?&#x20;
+
+Anytype's seed phrases follow BIP-39 (Bitcoin Improvement Proposal 39), a standardized protocol that ensures compatibility across wallets and applications. BIP-39 also includes a checksum to catch transcription errors, reducing the risk of losing access to a simple typo.
+
+#### What happens if I lose my Key?&#x20;
+
+A Key gives you digital sovereignty and strong security — but the tradeoff is that protecting it is entirely your responsibility. Anytype cannot help recover your Key or account if it's lost or compromised.
+
+Storing your Key digitally may seem convenient, but it introduces real vulnerabilities. Instead:
+
+* Write your Key down on a physical medium.
+* Store it somewhere secure that only you know about.
+* Avoid internet-connected devices or cloud storage — if you must store it digitally, use a secure password manager at minimum.

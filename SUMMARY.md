@@ -65,14 +65,14 @@
 
 ## Data & Security
 
+* [Privacy & Encryption](advanced/data-and-security/how-we-keep-your-data-safe.md)
+* [Sync & Backup](advanced/data-and-security/self-hosting/README.md)
+  * [Self-hosted](advanced/data-and-security/self-hosting/self-hosted.md)
+  * [Local-only](advanced/data-and-security/self-hosting/local-only.md)
 * [Import & Export](advanced/data-and-security/import-export/README.md)
   * [Migrate from Obsidian](advanced/data-and-security/import-export/migrate-from-obsidian.md)
   * [Migrate from Notion](advanced/data-and-security/import-export/migrate-from-notion.md)
   * [Migrate from Evernote](advanced/data-and-security/import-export/migrate-from-evernote.md)
-* [Privacy & Encryption](advanced/data-and-security/how-we-keep-your-data-safe.md)
-* [Networks & Backup](advanced/data-and-security/self-hosting/README.md)
-  * [Self-hosted](advanced/data-and-security/self-hosting/self-hosted.md)
-  * [Local-only](advanced/data-and-security/self-hosting/local-only.md)
 * [Storage & Deletion](advanced/data-and-security/data-storage-and-deletion/README.md)
   * [Bin](advanced/data-and-security/data-storage-and-deletion/finding-your-objects.md)
 * [Data Erasure](advanced/data-and-security/delete-or-reset-your-account.md)
