@@ -17,7 +17,7 @@ With Web Publishing, the Object you've already written is the published page. Up
 3. Review the **URL slug.**
 4. Click **Publish**.
 
-<figure><img src="../.gitbook/assets/publish-to-web.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Publish.jpg" alt=""><figcaption></figcaption></figure></div>
 
 Within a few seconds, your Object is live at `<your-any-id>.any.org/<slug>`. Copy the URL or share directly from the dialog.
 
@@ -29,11 +29,20 @@ Edit the Object normally. Your edits don't auto-publish — you have to republis
 2. Click **Share**.
 3. Choose **Unpublish** or **Update.**
 
-<figure><img src="../.gitbook/assets/unpublish-to-web.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Publish Update.jpg" alt=""><figcaption></figcaption></figure></div>
 
-## What's supported, what isn't
+## Managing your published pages
 
-Web Publishing is still developing. Currently:
+**Vault Settings > My Sites** is the central management screen for everything you've published:
+
+* See a list of every published Object with title, URL, last published date
+* Click any URL to open the live page in a browser
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Publish My Sites.jpg" alt=""><figcaption></figcaption></figure></div>
+
+## What's supported and what isn't
+
+Web Publishing is still in development.
 
 #### Supported in published pages
 
@@ -56,13 +65,6 @@ Web Publishing is still developing. Currently:
 * **Custom domains** — published pages live on `<your-id>.any.org`; pointing a custom domain is on the roadmap
 
 For multi-page sites, watch for updates in the Anytype changelog.
-
-## Managing your published pages
-
-**Vault Settings > My Sites** is the central management screen for everything you've published:
-
-* See a list of every published Object with title, URL, last published date
-* Click any URL to open the live page in a browser
 
 ## Tips
 

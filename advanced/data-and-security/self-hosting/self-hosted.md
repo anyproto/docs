@@ -29,7 +29,7 @@ Please note that all your devices should be manually switched to the same self-h
 4. Click on “Tap to provide your network configuration” to upload your self-hosted network configuration (\*.yml file).
 5. Create a new identity or log in an existing one.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_20240411-104804_Anytype3.png" alt="" width="375"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Screenshot_20240411-104804_Anytype3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Hardware Requirements
 

@@ -4,6 +4,16 @@
 
 
 
+<details>
+
+<summary>I can't pin anything to the sidebar or create widgets</summary>
+
+Pin to Channel is available only to Owners of the space. In order to create your own Widgets in a space where you're not an owner, use the Favorites feature with the star icon. These Favorites in the Sidebar only appear to you. If your Pins or Favorites are not appearing as Widgets, you may need to change the Channel Settings. [Learn more](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/71/basics/sidebar/sidebar-widgets#widget-settings).
+
+</details>
+
+
+
 
 
 ## Security

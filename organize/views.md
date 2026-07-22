@@ -16,10 +16,12 @@ Views are a visual lens that you place over your content. It allows you to look 
 There are three core components to a View:&#x20;
 
 1. **Layouts** — how Objects are visually structured, such as in a 'gallery layout'. [See examples](views.md#views-in-types-queries-and-collections).&#x20;
-2. **Filters** — which Objects are displayed, such as a filter for 'created this year'.&#x20;
+2. **Filters** — which Objects are displayed, such as a filter for 'status is complete'.&#x20;
 3. **Sorts** — what sequence Objects appear, such as a sort for 'alphabetical'.&#x20;
 
 ### Layouts
+
+Layouts visually arrange your [Objects](../creation/objects/) and their [Properties](relations.md) in ways that make it easier to work with. A series of events on a calendar and a bunch of tasks on a kanban board. Here are some examples of various [layouts in action](views.md#views-in-types-queries-and-collections).&#x20;
 
 <table><thead><tr><th width="130.99609375">Options</th><th>Best For</th><th>Extra Options</th></tr></thead><tbody><tr><td><strong>List</strong></td><td>Simple vertical rows</td><td>Compact, Regular</td></tr><tr><td><strong>Grid</strong></td><td>Spreadsheet-like experience</td><td>Wrap content</td></tr><tr><td><strong>Calendar</strong></td><td>Date and time arrangement</td><td>Date property</td></tr><tr><td><strong>Kanban</strong></td><td>Grouping and project management</td><td>Group by, Color columns, Cover</td></tr><tr><td><strong>Gallery</strong></td><td>Visual highlights</td><td>Cover, Card size, Icon, Fit media</td></tr><tr><td><strong>Graph</strong></td><td>Inter-connected relationships</td><td>Graph settings</td></tr></tbody></table>
 

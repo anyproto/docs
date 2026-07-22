@@ -8,6 +8,15 @@ Widgets act as real-time lenses into your Channel, allowing you to interact with
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widget Types.jpg" alt=""><figcaption></figcaption></figure></div>
 
+## How it works
+
+All Pins and Favorites in the Sidebar can be set as a Widget or Link:&#x20;
+
+* Link — simple shortcut that quickly gets you to the Object.&#x20;
+* Widget — interactive feed that displays information right in your Sidebar.&#x20;
+
+These can be set on an [individual level](sidebar-widgets.md#layout-options) or [channel wide](sidebar-widgets.md#channel-sidebar-view).&#x20;
+
 ## Create Widgets
 
 1. Open the Object you want to be a Widget. You can either:&#x20;
@@ -17,23 +26,41 @@ Widgets act as real-time lenses into your Channel, allowing you to interact with
 3. In view, select 'Same as Object'.&#x20;
 4. Click on the icon to reveal the Widget.&#x20;
 
-The options available on the Widget are based on the [Views](../../organize/views.md) you have set up. By adjusting the Views, you also adjust what is displayed in the Widget.&#x20;
-
-If you are unable to set up the Widget for your Favorites, you must [change the display setting](sidebar-widgets.md#favorites-as-widgets).&#x20;
-
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets Create.gif" alt=""><figcaption></figcaption></figure></div>
 
-## Customizing Widgets
+The options available on the Widget are based on the [Views](../../organize/views.md) you have set up. By adjusting the Views, you also adjust what is displayed in the Widget.&#x20;
 
-The Widget options you have available are based on the Object and Views you have setup. If you have pinned your entire Events Type, then it makes sense to view it as a calendar. If you've pinned a wiki home page, then it makes sense to view it all its links in a hierarchical list.&#x20;
+{% hint style="warning" %}
+**If you're unable to create Widgets**, please check the [Widget Settings](sidebar-widgets.md#widget-settings) section for more details.&#x20;
+{% endhint %}
 
-After pinning or favoriting an Object, right-click on it in the sidebar to customize it.&#x20;
+## Using Widgets
+
+### Interact
+
+Every Widget layout has unique ways in which you can interact with the Objects. For example:&#x20;
+
+* **Calendar** — click on a day will reveal Objects and enable you to create a new one.&#x20;
+* **Kanban** — click on a group to reveal the section and add a new Object.&#x20;
+* **Tasks** — click on the checkbox of an [Action Object](../../creation/objects/formats.md#page-layouts) to mark it as complete.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets.gif" alt=""><figcaption></figcaption></figure></div>
 
-#### Layout Options
+### Show and Hide
 
-For pinned and favorite Objects, you can choose between distinct layouts to match your visual preferences. Right-click a widget's title area to reveal a menu with options.&#x20;
+To your Sidebar tidy, you can expand and collapse your widgets with toggles. Hover over the Widget's icon to reveal the dropdown icon.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets Show Hide.gif" alt=""><figcaption></figcaption></figure></div>
+
+### Reorder
+
+To change the order of the Widgets, click and drag the title to your desired location.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets Reorder.jpg" alt=""><figcaption></figcaption></figure></div>
+
+### Layout Options
+
+The Widget layout options you have available are based on the Object and Views you have setup. You can choose between distinct layouts to match your visual preferences. Right-click a Widget's title area to reveal a menu with options.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets Layouts.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -45,7 +72,7 @@ For pinned and favorite Objects, you can choose between distinct layouts to matc
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Hierarchical Structure.gif" alt=""><figcaption></figcaption></figure></div>
 
-#### Number of Objects
+### Number of Objects
 
 To conserve space, each widget has a limit to how many Objects are displayed. If your Objects or Links are not displaying, you can change this setting by:
 
@@ -54,9 +81,11 @@ To conserve space, each widget has a limit to how many Objects are displayed. If
 
 ***
 
-## Widgets vs. Links
+## Widget Settings
 
-Depending on the scope of your Space and how you prefer to navigate, you can change your overall sidebar density. Widgets is the default, but you can use **Links** view when you want maximum density — this is useful in Channels with hundreds of pinned Objects where the rich previews start to feel heavy.
+### Channel Sidebar View
+
+Depending on the scope of your Space and how you prefer to navigate, you can change your overall sidebar density in your [Channel Settings](../../advanced/settings/space-settings.md). Widgets is the default, but you can use **Links** view when you want maximum density.&#x20;
 
 | **Display Mode**  | **Description**                                                                               | **Best For**                                                                       |
 | ----------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -67,9 +96,13 @@ Navigate to Channel Preferences > Sidebar View to toggle between two distinct di
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar View.png" alt=""><figcaption></figcaption></figure></div>
 
+### Pins as Widgets
+
+Only Owners are allowed to use the **Pin to Channel** function to create Widgets in the Shared Pins section. This is because Pins are visible to all members of the space. If you are not an Owner of a space or want your own personal Widgets, use the [Favorites feature](pins-and-favorites.md#my-favorites) instead.&#x20;
+
 ### Favorites as Widgets
 
-If your favorites are only displaying as links, you may need to change the setting. You can do this by clicking on the 'three dots' button when hovering over the 'My Favorites' section in the Sidebar.&#x20;
+If your favorites are only displaying as links, you may need to change the setting to 'Widgets'. You can do this by clicking on the 'three dots' button when hovering over the 'My Favorites' section in the Sidebar. If you still cannot see the Widget, it may be because it is collapsed — hover over the icon to reveal the dropdown arrow and click to reveal.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Favorites Widgets.jpg" alt=""><figcaption></figcaption></figure></div>
 

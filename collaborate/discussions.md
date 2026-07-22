@@ -1,10 +1,8 @@
 # Discussions
 
-A **Discussion** is a comment thread attached directly to an Object. Instead of switching to a separate Chat to talk about a page, task, or document, you post comments right where the work lives — and the conversation stays attached to that Object forever.
+A **Discussion** is a comment thread attached directly to an Object. Instead of switching to a separate Chat to talk about a page, task, or document, you post comments right where the work lives — and the conversation stays attached to that Object forever. Think of it as the comments section at the bottom of any Object in your space.&#x20;
 
-Think of it as the comments section for any Object in your Channel.
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Discussions.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Discussions Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Why it matters
 

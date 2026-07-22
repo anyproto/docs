@@ -42,7 +42,7 @@ You can search for Objects by their name in the Bin and change the deletion date
 
 ## Cleanup
 
-Cleanup has suggestions of what could be deleted to clean up your space. Objects in this list are not in your Bin, they exist in your space just like any other Object and has not been deleted. These are merely suggestions. You can find the Cleanup section alongside the Bin in two locations:&#x20;
+Cleanup shows suggestions for what you could delete to tidy up your space. Objects in this list are **not** in your Bin — they still exist in your space just like any other Object that hasn't been deleted. These are merely suggestions. You can find the Cleanup section alongside the Bin in two locations:
 
 * **Channel Settings** > Preferences > Bin > Cleanup
 * **Sidebar** > Manage Sections > Bin > Cleanup
