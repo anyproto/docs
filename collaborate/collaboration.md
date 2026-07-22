@@ -55,7 +55,7 @@ For Request-Access links, the flow is the same except instead of joining immedia
 
 The '**Add members via link**' toggle generates a link you can share with others to invite them into the space, either as a text link or a QR code. There are a few important settings to be aware of:
 
-* **Enabel auto approval** — Enabling this lets users join the space without manual review, which is useful for community or forum-like spaces. For private spaces, it's best to leave this off so every new member requires approval from the Owner.
+* **Enable auto approval** — Enabling this lets users join the space without manual review, which is useful for community or forum-like spaces. For private spaces, it's best to leave this off so every new member requires approval from the Owner.
 * **Everyone in the channel can share this invite** — Enabling this allows other members to share the invite link themselves. This works well for public spaces without sensitive data or private spaces where existing members are highly trusted.
 * **Reset Link** — If you believe an invite link has been compromised, you can reset it. This immediately voids the previous link and generates a new one, which must be used going forward to join the space.
 * **Approve Requests** — For members requesting access, you can approve them by navigating to the 'Request' tab which is next to the 'All', 'Editors', and 'Viewers' tab.&#x20;
@@ -63,7 +63,7 @@ The '**Add members via link**' toggle generates a link you can share with others
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Invite Link.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
-**Be sure to share the invitation link with a secure method.** If the invitation link is intercepted, it can be used to gain access to the space. If you are concerned that your invitation links have been compromised, you can reset the link and require request approval for all new joiners.&#x20;
+**Be sure to share auto-approve invitation links with a secure method.** If it is intercepted, it can be used to gain access to the space without approval. If you are concerned that your invitation links have been compromised, you can reset the link and require request approval for all new joiners.&#x20;
 {% endhint %}
 
 ### Add Members
