@@ -18,11 +18,15 @@ Anytype's architecture ensures privacy is mathematically enforced in code, not p
 * **No master recovery.** Because Anytype holds no keys to your account, we can't reset your password or recover your account if you lose access. Losing your key means losing access to your data permanently.
 * **Blind data sync.** All your content is encrypted before it syncs across devices, so Anytype only ever acts as a blind messenger — passing encrypted data along without being able to read it.
 
+{% hint style="warning" %}
+**Only share sensitive spaces with people you trust who are also using secure devices.** Each additional member you add to a space widens its potential attack surface.
+{% endhint %}
+
 ## Encryption
 
 Anytype encrypts your data using a layered key system, so that even the infrastructure helping sync and back up your data can't read it. In practice, this means:
 
-* **Objects are encrypted at rest.** Your objects are stored — both locally and on syncing nodes — in an encrypted format that can only be decoded with encryption keys. Each document has its own key, organized under a broader key hierarchy.
+* **Objects are encrypted at rest.** Your objects are stored — both locally and on syncing nodes — in an encrypted format that can only be decoded with encryption keys. Your keys are generated locally on your device and never sent to Anytype.&#x20;
 * **Indexes stay local and unencrypted.** In order to search your documents efficiently, Anytype builds local indexes from your encrypted objects, decrypting them on the fly with your keys. These indexes are stored separately from the encrypted data itself and aren't encrypted — this assumes your local device hasn't been compromised.
 * **Indexes never sync.** Your indexes remain only on the device that created them. If you use two devices, each maintains its own independent index storage.
 
@@ -47,9 +51,13 @@ While Anytype has robust encryption, it ultimately assumes the device you're usi
 * Anytype backup nodes have access to the first layer key, so it can group changes for the object and send them in one pack when you want to restore your data.
 * Anytype backup nodes have no access to the second layer, so it can’t read the actual changes to the data.
 
+For more technical details, please [see here](https://tech.anytype.io/any-sync/overview?id=encryption).&#x20;
+
 </details>
 
-For more technical details, please [see here](https://tech.anytype.io/any-sync/overview?id=encryption).&#x20;
+{% hint style="warning" %}
+**Keep your devices secure.** The security of your devices — and your habits while using them — is the first and most important line of defense when using Anytype.
+{% endhint %}
 
 ## Telemetry
 
