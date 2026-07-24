@@ -10,7 +10,7 @@ In the past, local software meant complete ownership and privacy — what you di
 
 The internet solved that. Cloud technology let us collaborate in real time — but along the way, we gave up our privacy, security, and ownership to the apps themselves.
 
-With Anytype, you never have to choose. You retain complete ownership and control of your data at all times, while still using the internet to sync across devices and collaborate with others.&#x20;
+With Anytype, you never have to choose. You retain complete ownership and control of your data at all times, while still using the internet to sync across devices and collaborate with others.
 
 It's the best of both worlds: local ownership meets cloud collaboration.
 
@@ -22,23 +22,23 @@ At a high level, Anytype gives you complete control in three ways:
 {% step %}
 ### Everything is local
 
-All your content is stored locally on your device, and even your access keys are generated on your own hardware. This means an offline-first experience: the app always works without an internet connection, protecting you from downtime, lockouts, and vendor lock-in.&#x20;
+All your content is stored locally on your device, and even your access keys are generated on your own hardware. This means an offline-first experience: the app always works without an internet connection, protecting you from downtime, lockouts, and vendor lock-in.
 {% endstep %}
 
 {% step %}
 ### Sync is end-to-end encrypted
 
-Before any data leaves your device, it's encrypted so that only your key can unlock it. The Anytype Network acts as a "blind orchestrator" — relaying updates across your devices without ever being able to view or access your content. Even if your encrypted data were intercepted, even the world's most capable attackers couldn't break in. This is verifiable through Anytype's open codebase that's constantly inspected by the public.&#x20;
+Before any data leaves your device, it's encrypted so that only your key can unlock it. The Anytype Network acts as a "blind orchestrator" — relaying updates across your devices without ever being able to view or access your content. Even if your encrypted data were intercepted, even the world's most capable attackers couldn't break in. This is verifiable through Anytype's open codebase that's constantly inspected by the public.
 {% endstep %}
 
 {% step %}
 ### Recovery is built-in
 
-To ensure you never lose your data, the Anytype Network keeps an encrypted remote backup. Only your private key can decrypt and restore it to a new device — nobody else, not even Anytype, can access your encrypted data. Being in complete control also means you are fully responsible for your [keys](../../basics/key.md) to access and recover your data.&#x20;
+To ensure you never lose your data, the Anytype Network keeps an encrypted remote backup. Only your private key can decrypt and restore it to a new device — nobody else, not even Anytype, can access your encrypted data. Being in complete control also means you are fully responsible for your [keys](../../basics/key.md) to access and recover your data.
 {% endstep %}
 {% endstepper %}
 
-Anytype was built to be a convenient safe haven for your digital life. To learn more about how this works for collaboration, please [see here](../../collaborate/collaboration.md).&#x20;
+Anytype provides a convenient safe haven for your digital life. Learn more about collaboration in [Collaboration](../../collaborate/collaboration.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs E2EE Sync.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -54,8 +54,8 @@ While using local-first sync on the Anytype Network, you can go fully offline an
 
 Our infrastructure is hosted on dedicated servers in data centers within the European Union. The domains we use for our Anytype network are:
 
-* For syncing: `*.anyclub.org`
-* For our analytics: `*.anytype.io`
+* Syncing: `*.anyclub.org`
+* Analytics: `*.anytype.io`
 
 ## Other syncing modes
 
@@ -76,7 +76,7 @@ Please note that all your devices should be manually switched to Anytype Network
 
 1. Log out from your current identity.
 2. On the onboarding screen, click a gear icon in the top right corner.
-3. In the “Network” field choose the “Anytype” option.
+3. In the “Network” field, choose the “Anytype” option.
 4. Click the “Save” button.
 5. Create a new identity or log in with an existing one.
 
@@ -87,6 +87,6 @@ Please note that all your devices should be manually switched to Anytype Network
 1. Log out from your current identity.
 2. On the onboarding screen, click a gear icon in the top right corner.
 3. Click on “Anytype” in the “Networks” sub-menu.
-4. Create a new identity or log in an existing one.
+4. Create a new identity or log in to an existing one.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot_20240411-104810_Anytype2.png" alt="" width="375"><figcaption></figcaption></figure></div>

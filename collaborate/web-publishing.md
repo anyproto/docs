@@ -6,7 +6,7 @@ description: Publish Objects as static webpages on your personal subdomain.
 
 **Web Publishing** lets you turn any Object into a public webpage at a URL anyone can visit. Pick an Object, click Publish, and Anytype generates a static HTML page hosted on your personal subdomain at `<your-id>.any.org/<slug>`.
 
-This is for content you want **publicly readable** — blog posts, public profiles, documentation,  meeting briefs, anything you'd otherwise put on a personal website.&#x20;
+This is for content you want **publicly readable** — blog posts, public profiles, documentation, meeting briefs, or anything you'd otherwise put on a personal website.
 
 With Web Publishing, the Object you've already written is the published page. Update the Object, republish, and the public page updates. No second platform to maintain.
 
@@ -14,7 +14,7 @@ With Web Publishing, the Object you've already written is the published page. Up
 
 1. Open the Object you want to publish.
 2. Click **Share** in the top-right corner.
-3. Review the **URL slug.**
+3. Review the **URL slug**.
 4. Click **Publish**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Publish.jpg" alt=""><figcaption></figcaption></figure></div>
@@ -27,7 +27,7 @@ Edit the Object normally. Your edits don't auto-publish — you have to republis
 
 1. Open the Object.
 2. Click **Share**.
-3. Choose **Unpublish** or **Update.**
+3. Choose **Unpublish** or **Update**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Publish Update.jpg" alt=""><figcaption></figcaption></figure></div>
 

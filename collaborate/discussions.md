@@ -1,6 +1,6 @@
 # Discussions
 
-A **Discussion** is a comment thread attached directly to an Object. Instead of switching to a separate Chat to talk about a page, task, or document, you post comments right where the work lives — and the conversation stays attached to that Object forever. Think of it as the comments section at the bottom of any Object in your space.&#x20;
+A **Discussion** is a comment thread attached directly to an Object. Instead of switching to a separate Chat to talk about a page, task, or document, you post comments right where the work lives — and the conversation stays attached to that Object forever. Think of it as the comments section at the bottom of any Object in your space.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Discussions Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -27,7 +27,7 @@ Once posted, you can edit your own messages, react with emoji, and reply to spec
 ## Starting a Discussion
 
 1. Open any Object.
-2. Click the **Discussion** button in the bottom of the Object.
+2. Click the **Discussion** button at the bottom of the Object.
 3. Type your message in the input box at the bottom.
 4. Press Enter (or Cmd/Ctrl + Enter, depending on your Send Message preference) to post.
 

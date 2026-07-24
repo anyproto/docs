@@ -6,11 +6,11 @@ description: Collapse and expand sections of long Objects.
 
 A **Toggled Heading** is a heading that can be collapsed to hide everything beneath it. Click the toggle arrow and the section folds up; click again and it expands. The heading itself stays visible — only the content below collapses.
 
-This works on all three heading levels: Title (H1), Heading (H2), and Subheading (H3).&#x20;
+This works on all three heading levels: Title (H1), Heading (H2), and Subheading (H3).
 
 ## How it works
 
-A Toggled Heading captures everything below it until the next heading of the same or higher level as its children. When you collapse the toggle, all those child blocks are hidden.This means that a Heading that is converted into a toggle, will capture all blocks below it until the next Heading block.&#x20;
+A Toggled Heading captures everything below it as children until the next heading of the same or higher level. When you collapse the toggle, all those child blocks are hidden.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Toggled Headings.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -31,7 +31,7 @@ Type these at the start of a line:
 * `##>` + space → Toggled Heading 2
 * `###>` + space → Toggled Heading 3
 
-#### Coverting a regular toggle to a heading
+#### Converting a regular toggle to a heading
 
 If you've already created a regular toggle block (`>` + space), you can convert it to a toggled heading:
 
@@ -41,10 +41,10 @@ If you've already created a regular toggle block (`>` + space), you can convert 
 
 #### Converting an existing heading to a toggle
 
-To turn a regular heading into a toggled heading, you have two options.&#x20;
+To turn a regular heading into a toggled heading, you have two options.
 
 1. Click the block handle, and **Turn into > Toggle Heading**.
-2. Alternatively, you can type `> + space` in front of the heading.&#x20;
+2. Alternatively, you can type `> + space` in front of the heading.
 
 ## Working with Toggled Headings
 
@@ -54,10 +54,10 @@ Click the triangle (▶ / ▼) to the left of the heading to toggle.
 
 #### Expand or collapse multiple toggles at once
 
-1. Highlight all the toggle blocks you want to open or close.&#x20;
-2. Click on the toggle button.&#x20;
+1. Highlight all the toggle blocks you want to open or close.
+2. Click on the toggle button.
 
-This works on both regular toggles and headings.&#x20;
+This works on both regular toggles and headings.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Toggle Headings Multiple.gif" alt=""><figcaption></figcaption></figure></div>
 

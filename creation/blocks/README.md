@@ -1,8 +1,8 @@
 # Editor
 
-Anytype is a block-based editor and all [Pages](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/object-editor/format#page-format) are built with blocks, which makes your content flexible and easy to use. The editor is the primary way for you to build documents on Anytype.&#x20;
+Anytype is a block-based editor and all [Pages](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/object-editor/format#page-format) are built with blocks, which makes your content flexible and easy to use. The editor is the primary way for you to build documents on Anytype.
 
-## How it works&#x20;
+## How it works
 
 **Blocks** are the building pieces of every Object, think of them as lego bricks for every document. When you open an Object and start editing, you're adding and arranging Blocks — paragraphs, headings, images, lists, embeds, and so on. Each Block is independent and can be moved, restyled, or replaced without affecting the others.
 
@@ -12,7 +12,7 @@ If you've used Notion, this concept will be familiar. If you've used Microsoft W
 
 ## Adding Blocks
 
-You can access the different kinds of blocks via the **Block Menu** using the plus button or slash command.&#x20;
+You can access the different kinds of blocks via the **Block Menu** using the plus button or slash command.
 
 #### Plus button
 
@@ -32,20 +32,20 @@ This is the fastest way once you know what you want.
 
 For text-style blocks, you can use Markdown-style keyboard shortcuts at the start of a line. Press space after the shortcut and the block transforms.
 
-| Type this   | To create         |
-| ----------- | ----------------- |
-| `#`         | Heading 1         |
-| `##`        | Heading 2         |
-| `###`       | Heading 3         |
-| `>`         | Toggle            |
-| `*` or  `-` | Bullet point      |
-| `1.`        | Numbered list     |
-| `[]`        | Checkbox / to-do  |
-| ` ``` `     | Code block        |
-| `---`       | Divider           |
-| `#>`        | Toggled Heading 1 |
-| `##>`       | Toggled Heading 2 |
-| `###>`      | Toggled Heading 3 |
+| Type this  | To create         |
+| ---------- | ----------------- |
+| `#`        | Heading 1         |
+| `##`       | Heading 2         |
+| `###`      | Heading 3         |
+| `>`        | Toggle            |
+| `*` or `-` | Bullet point      |
+| `1.`       | Numbered list     |
+| `[]`       | Checkbox / to-do  |
+| ` ``` `    | Code block        |
+| `---`      | Divider           |
+| `#>`       | Toggled Heading 1 |
+| `##>`      | Toggled Heading 2 |
+| `###>`     | Toggled Heading 3 |
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Blocks Markdown.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -84,7 +84,7 @@ Within any text block, you can format individual characters or words. Highlight 
 * **Link** — `Cmd/Ctrl + K`, then paste a URL or search for an Object
 * **Highlight color** — select text, choose a color from the toolbar
 * **Text color** — same as highlight, in the toolbar
-* **Quote in discussion** — Copies text into a [discussions.md](../../collaborate/discussions.md "mention")post.&#x20;
+* **Quote in discussion** — copies text into a [discussions.md](../../collaborate/discussions.md "mention") post.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Blocks Inline Styling (3).jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -92,7 +92,7 @@ Within any text block, you can format individual characters or words. Highlight 
 
 Every block has a handle on its left side that opens the Block Options Menu:
 
-* **Turn into** — convert block into another block type. Such as a sentence → heading, or a numbered list → bulleted list.&#x20;
+* **Turn into** — convert a block into another block type, such as a sentence → heading or a numbered list → bulleted list.
 * **Color** — change the text color
 * **Background** — change the background color
 * **Move** — to relocate the block to another object

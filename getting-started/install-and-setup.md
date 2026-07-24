@@ -1,6 +1,6 @@
 # Install
 
-You can download the latest version of Anytype for your device at [download.anytype.io](https://download.anytype.io). It is available on macOS, Windows, Linux, iOS, and Android. Or you can search for 'Anytype' directly on your phone's app store.&#x20;
+You can download the latest version of Anytype for your device at [download.anytype.io](https://download.anytype.io). It is available on macOS, Windows, Linux, iOS, and Android. Or you can search for 'Anytype' directly on your phone's app store.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/download desktop.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -18,7 +18,7 @@ If this is your first time, click on `I am new here` and follow the provided ins
 
 Your [key.md](../basics/key.md "mention") is the only way to access your account—treat it like an email and password combined that you can never reset. Store it somewhere secure and never share it with anyone. Anyone who has your Key has full access to your account.
 
-If you lose your Key, your account cannot be recovered—by anyone, including Anytype. This is intentional: Anytype's security model lets anyone create an account without needing permission from on a central authority.
+If you lose your Key, your account cannot be recovered—by anyone, including Anytype. This is intentional: Anytype's security model lets anyone create an account without needing permission from a central authority.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 2.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -26,9 +26,9 @@ If you lose your Key, your account cannot be recovered—by anyone, including An
 Store your [key.md](../basics/key.md "mention") somewhere safe and never share it with anyone. Whoever has access to your key has access to your account. It cannot be recovered.
 {% endhint %}
 
-#### Log-in using the QR code
+#### Log in using the QR code
 
-In addition to using your [key.md](../basics/key.md "mention") to log in, you can also use the QR code to login faster. This is especially handy to sign in on your mobile devices if your desktop is close by.
+In addition to using your [key.md](../basics/key.md "mention") to log in, you can also use the QR code to log in faster. This is especially handy to sign in on your mobile devices if your desktop is close by.
 
 To log in using the QR code, simply navigate to your Vault Settings and click **Login Key**.
 
@@ -48,4 +48,4 @@ When you're ready to start your own work, **create a new Channel** for it:
 * Inside your new Channel, create your first Object — a Note, a Task, or a Page.
 * Type `/` in any Object to start adding rich content: headings, lists, images, embeds.
 
-If you'd like a quick overview of how Anytype's core concepts fit together, start with [learn-the-model.md](../basics/learn-the-model.md "mention").&#x20;
+If you'd like a quick overview of how Anytype's core concepts fit together, start with [learn-the-model.md](../basics/learn-the-model.md "mention").

@@ -1,6 +1,6 @@
 # Inline LaTeX
 
-Inline LaTeX is a way of embedding mathematical or scientific notation directly within a line of regular text, without breaking it out into a separate display block. Rather than placing an equation on its own line, inline LaTeX lets a formula flow naturally alongside the words around it
+Inline LaTeX embeds mathematical or scientific notation directly within a line of regular text, without breaking it into a separate display block. Rather than placing an equation on its own line, inline LaTeX lets a formula flow naturally alongside the surrounding words.
 
 ## How to use LaTeX?
 

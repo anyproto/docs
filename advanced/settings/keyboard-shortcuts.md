@@ -18,17 +18,17 @@ You can also assign a shortcut to open the Shortcuts panel itself, so you can su
 
 ## Suggested Shortcuts
 
-<table><thead><tr><th width="264.08984375">Shortcut</th><th>Description</th></tr></thead><tbody><tr><td>Toggle Vault &#x26; Channel Sidebar</td><td>Create a focus mode to remove distractions. </td></tr><tr><td>Copy Link</td><td>Quickly get the link for your Object. </td></tr><tr><td>New Tab</td><td>Create as many tabs as you like. </td></tr><tr><td>Close Tab</td><td>Quickly close your tabs. </td></tr><tr><td>Search</td><td>Quickly find what you're looking for. </td></tr></tbody></table>
+<table><thead><tr><th width="264.08984375">Shortcut</th><th>Description</th></tr></thead><tbody><tr><td>Toggle Vault &#x26; Channel Sidebar</td><td>Create a focus mode to remove distractions.</td></tr><tr><td>Copy Link</td><td>Quickly get the link for your Object.</td></tr><tr><td>New Tab</td><td>Create as many tabs as you like.</td></tr><tr><td>Close Tab</td><td>Quickly close your tabs.</td></tr><tr><td>Search</td><td>Quickly find what you're looking for.</td></tr></tbody></table>
 
-The specific shortcut is dependent on your device platform. Navigate to your keyboard shortcuts to find what is set by default for you.&#x20;
+The specific shortcut depends on your device platform. Open Keyboard Shortcuts to find your defaults.
 
 ## Customizable Shortcuts
 
-Most shortcuts can be reassigned. Some are fixed (like Esc to close a popup) for safety, but the long tail is customizable.
+Most shortcuts can be reassigned. Some are fixed, such as Esc to close a popup, for safety. Most other shortcuts are customizable.
 
 To remap a shortcut:
 
-1. Hover over your **Profile Picture** > **? Help** > **Keyboard Shortcuts**&#x20;
+1. Hover over your **Profile Picture** > **? Help** > **Keyboard Shortcuts**
 2. Find the action you want to remap.
 3. Click the existing shortcut field (or the empty field for unmapped actions).
 4. Press the new key combination.

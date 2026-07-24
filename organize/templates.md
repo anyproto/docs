@@ -10,50 +10,50 @@ A **Template** is a saved layout for a page that you can reuse. Instead of start
 
 ## Why it matters
 
-Templates help you with three things:&#x20;
+Templates help you with three things:
 
-* **Standardize your pages** — ensure everything follows the same format.&#x20;
-* **Save time** — set a template once and reuse it forever.&#x20;
-* **Reduce errors** — limit the amount that needs manual entry each time.&#x20;
+* **Standardize your pages** — ensure everything follows the same format.
+* **Save time** — set a template once and reuse it forever.
+* **Reduce errors** — limit the amount that needs manual entry each time.
 
 ## When to use templates
 
-It's best to use templates on Objects that you find yourself repeatedly entering the same content in that follows a similar structure every time. Good examples of this are cooking recipes, book reviews, project dashboards, and content releases.&#x20;
+It's best to use templates on Objects that you find yourself repeatedly entering the same content in that follows a similar structure every time. Good examples of this are cooking recipes, book reviews, project dashboards, and content releases.
 
-Conversely, it's best to not put too much into a template that may create a lot of work for you in the future to update. Focus on putting only what truly matters into each template.&#x20;
+Conversely, it's best to not put too much into a template that may create a lot of work for you in the future to update. Focus on putting only what truly matters into each template.
 
 ## How it works
 
-* Every new Object that's created will use the default Template if it is set.&#x20;
-* Templates are only applied to Objects when they are created. Futuer updates to a Template will not update Objects in the past that the Template was applied to.&#x20;
+* Every new Object that's created will use the default Template if it is set.
+* Templates are only applied to Objects when they are created. Future updates to a Template will not update Objects created from earlier versions.
 * You can have multiple Templates for each [Type](types.md), but only one can be the default.
-* You can switch to a different Template when an Object is created, but this option is no longer possible afterwards.&#x20;
-* Templates can also be set for [Queries](sets.md) and [Collections](collections.md).&#x20;
-* Templates can also be set per [View](views.md).&#x20;
+* You can switch to a different Template when an Object is created, but this option is no longer possible afterwards.
+* Templates can also be set for [Queries](sets.md) and [Collections](collections.md).
+* Templates can also be set per [View](views.md).
 
-These are all the components you can set with a Template:&#x20;
+These are all the components you can set with a Template:
 
-<table data-search="false"><thead><tr><th width="181.5">Components</th><th>How can you use it?</th></tr></thead><tbody><tr><td><strong>Title</strong></td><td>'Pre-fill name' will set the same title for every new Object created with this Template. 'Empty-name' will not set any title at all. </td></tr><tr><td><strong>Icon</strong></td><td>Choose an emoticon or upload your own image. </td></tr><tr><td><strong>Cover</strong></td><td>Choose an image from the gallery or upload your own image. </td></tr><tr><td><strong>Description</strong></td><td>Show or hide the description by default with preset text. </td></tr><tr><td><strong>Width</strong></td><td>Change the page width. This can also be set at the Type layout level. </td></tr><tr><td><strong>Properties</strong></td><td>Preset specific values for Properties. </td></tr><tr><td><strong>Blocks</strong></td><td>Preset specific blocks and design layouts for the page. </td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="181.5">Components</th><th>How can you use it?</th></tr></thead><tbody><tr><td><strong>Title</strong></td><td>'Pre-fill name' will set the same title for every new Object created with this Template. 'Empty-name' will not set any title at all.</td></tr><tr><td><strong>Icon</strong></td><td>Choose an emoticon or upload your own image.</td></tr><tr><td><strong>Cover</strong></td><td>Choose an image from the gallery or upload your own image.</td></tr><tr><td><strong>Description</strong></td><td>Show or hide the description by default with preset text.</td></tr><tr><td><strong>Width</strong></td><td>Change the page width. This can also be set at the Type layout level.</td></tr><tr><td><strong>Properties</strong></td><td>Preset specific values for Properties.</td></tr><tr><td><strong>Blocks</strong></td><td>Preset specific blocks and design layouts for the page.</td></tr></tbody></table>
 
 ## Create a Template
 
-Building a Template is exactly the same as building your desired Object. Add all of your desired content blocks, pre-fill your Properties, and give it a name. As you edit the Template, it will auto-save every change you make.&#x20;
+Building a Template is exactly the same as building your desired Object. Add all of your desired content blocks, pre-fill your Properties, and give it a name. As you edit the Template, it will auto-save every change you make.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Templates Setting Up.gif" alt=""><figcaption></figcaption></figure></div>
 
 #### From an existing Object
 
-1. Open the Object you'd like to base a template off of.&#x20;
-2. Click on the 'three dots' button on the top-right corner.&#x20;
-3. Click the menu item **Use as template**.&#x20;
+1. Open the Object you'd like to base a template off of.
+2. Click on the 'three dots' button on the top-right corner.
+3. Click the menu item **Use as template**.
 
 #### From any Type, Query, or Collection
 
-1. Open the desired Type, Query, or Collection.&#x20;
-2. Click on the 'Templates' button on the right hand side.&#x20;
+1. Open the desired Type, Query, or Collection.
+2. Click on the 'Templates' button on the right hand side.
 3. Click '**+**' to start a new Template.
 
-Setting the default Template here will apply to all Objects created for this Type, Query, or Collection.&#x20;
+Setting the default Template here will apply to all Objects created for this Type, Query, or Collection.
 
 #### From the Channel Settings
 
@@ -64,64 +64,64 @@ Setting the default Template here will apply to all Objects created for this Typ
 
 #### Editing an existing Template
 
-1. Navigate to the desired Template.&#x20;
-2. While hovering over it, click on the 'three dots' button.&#x20;
-3. Select the menu item **Edit template**.&#x20;
+1. Navigate to the desired Template.
+2. While hovering over it, click on the 'three dots' button.
+3. Select the menu item **Edit template**.
 
 {% hint style="warning" %}
-**Template changes only apply to future Objects that are created with it**. For all Objects already created from past versions of the Template, no updates to the Template will transer to them. Templates are only applied during Object creation.&#x20;
+**Template changes only apply to future Objects that are created with it**. For all Objects already created from past versions of the Template, no updates to the Template will transfer to them. Templates are only applied during Object creation.
 {% endhint %}
 
 ## Using Templates
 
 #### Create Objects with Templates
 
-1. Create an Object with [your preferred method](../creation/objects/#create-objects).&#x20;
-2. The default Template will be applied automatically.&#x20;
-3. Start editing the Template.&#x20;
+1. Create an Object with [your preferred method](../creation/objects/#create-objects).
+2. The default Template will be applied automatically.
+3. Start editing the Template.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Template Default.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Switching to different Templates
 
-You can have multiple Templates. Before making any edits to your new Object, you have the opportunity to switch from the default Template to a different one.&#x20;
+You can have multiple Templates. Before making any edits to your new Object, you have the opportunity to switch from the default Template to a different one.
 
-1. Create a new Object.&#x20;
-2. Click on the button '**This type has # templates**'.&#x20;
-3. Choose your desired Template.&#x20;
+1. Create a new Object.
+2. Click on the button '**This type has # templates**'.
+3. Choose your desired Template.
 
-Templates are applied when an Object is created. This is why making an edit to an Object will remove your ability to switch Templates afterwards. An alternative solution is to navigate to the Template and copy + paste the content into your desired Object.&#x20;
+Templates are applied when an Object is created. This is why making an edit to an Object will remove your ability to switch Templates afterwards. An alternative solution is to navigate to the Template and copy + paste the content into your desired Object.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Templates Switch.gif" alt=""><figcaption></figcaption></figure></div>
 
-#### Change the default Template&#x20;
+#### Change the default Template
 
-1. Navigate to the Type.&#x20;
-2. Click on the 'Templates' button on the right hand side.&#x20;
-3. While hovering over your desired Template, click on the 'three dots' button.&#x20;
-4. Select the menu item **Set as default**.&#x20;
+1. Navigate to the Type.
+2. Click on the 'Templates' button on the right hand side.
+3. While hovering over your desired Template, click on the 'three dots' button.
+4. Select the menu item **Set as default**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Templates Default.jpg" alt=""><figcaption></figcaption></figure></div>
 
-#### Set a Templates for a specific View
+#### Set a Template for a specific View
 
-You can set Templates that are specifically tied to certain [Views](views.md). This means that a Type can have multiple Views and a different Template for each.&#x20;
+You can set Templates that are specifically tied to certain [Views](views.md). This means that a Type can have multiple Views and a different Template for each.
 
 1. Navigate to a Type, Query, or Collection.
 2. Click on the 'dropdown arrow' next to the 'New' button.
-3. Set the **Template for this View**.&#x20;
+3. Set the **Template for this View**.
 
-While you are in this View, clicking on the 'New' button will automatically apply the Template for this view. This overrides the default Template that is set for the entire Type when you are creating an Object from this View.&#x20;
+While you are in this View, clicking on the 'New' button will automatically apply the Template for this view. This overrides the default Template that is set for the entire Type when you are creating an Object from this View.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Template View.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Locking Templates
 
-If you want to be sure your Template remains consistent, you can lock it to prevent accidental edits. Importantly, locking a Template does not prevent it from being deleted. Deleted Templates can be restored from the Bin. To lock a Template:&#x20;
+If you want to be sure your Template remains consistent, you can lock it to prevent accidental edits. Importantly, locking a Template does not prevent it from being deleted. Deleted Templates can be restored from the Bin. To lock a Template:
 
 1. Edit the Template
-2. Click on the 'three dots' button on the top right corner.&#x20;
-3. Select the option **Lock Template**.&#x20;
+2. Click on the 'three dots' button on the top right corner.
+3. Select the option **Lock Template**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Template Lock.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -151,7 +151,7 @@ Use **Empty name** when the Template's name is just for _finding_ the Template (
 
 ## Multiple Templates
 
-You can have many Templates for the same Type. Here is some inspiration:&#x20;
+You can have many Templates for the same Type. Here is some inspiration:
 
 * **Note Type** — Templates for "Daily Journal", "Meeting Note", "Reading Note", "Idea Capture"
 * **Task Type** — Templates for "Bug Report", "Feature Request", "Recurring Maintenance"
@@ -159,7 +159,7 @@ You can have many Templates for the same Type. Here is some inspiration:&#x20;
 
 ## Templates with Properties
 
-Templates can pre-set Property values, making Objects more standardized.&#x20;
+Templates can pre-set Property values, making Objects more standardized.
 
 * **Status** = "Draft" by default for new content ideas
 * **Priority** = "Low" by default for new Tasks
@@ -178,7 +178,7 @@ The Template is removed and can be found in the Bin where it can be restored. **
 ## Tips
 
 {% hint style="info" %}
-**Create your Objects, then create a Template after.** Build the layout you want on a real Object first, iterate until it's right, then save it as a Template. This is more reliable than designing a Template from scratch in the abstract, as it may not truly serve your needs.&#x20;
+**Create your Objects, then create a Template after.** Build the layout you want on a real Object first, iterate until it's right, then save it as a Template. This is more reliable than designing a Template from scratch in the abstract, as it may not truly serve your needs.
 {% endhint %}
 
 {% hint style="info" %}

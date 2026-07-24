@@ -1,23 +1,23 @@
 # Vault Settings
 
-Your [Vault](../../basics/vault-and-key.md) is essentially your account and you can find everything related to your preferences and settings in this section.&#x20;
+Your [Vault](../../basics/vault-and-key.md) is essentially your account. This section contains your preferences and settings.
 
 ## Accessing Vault Settings
 
 #### Vault Sidebar
 
-1. Open your [Vault Sidebar](../../basics/sidebar/).&#x20;
-2. Click on your Profile Picture on the bottom left.&#x20;
+1. Open your [Vault Sidebar](../../basics/sidebar/).
+2. Click your profile picture in the bottom-left corner.
 
 #### Menu
 
-1. Open the Anytype menu on your top app bar (macOS, Windows, Linux).&#x20;
-2. Navigate to **Settings**.&#x20;
-3. Select the option **Vault**.&#x20;
+1. Open the Anytype menu on your top app bar (macOS, Windows, Linux).
+2. Navigate to **Settings**.
+3. Select the option **Vault**.
 
 ## Profile
 
-Here you can add your **name, bio,** and **profile picture.** When you are in a space, your profile is also treated as an Object as a Space Member.&#x20;
+Here you can add your **name, bio,** and **profile picture.** When you are in a space, your profile is also treated as an Object as a Space Member.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/profile-info.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -29,29 +29,29 @@ Here you can add your **name, bio,** and **profile picture.** When you are in a 
 
 #### Appearance
 
-* **Set color mode:** Choose between light, dark or auto color modes.
-* **Notification sound:** "Off" or Choose between a few pleasant tones.
+* **Set color mode:** Choose between light, dark, or auto color modes.
+* **Notification sound:** Choose "Off" or one of several tones.
 
 #### Interface
 
 * **Channels hub density: Compact** (Stripe view) or with **Messages Previews**
-* **Always show tab bar:** Choose whether you want the tab bar to always be visible&#x20;
-* **Automatically show and hide sidebar:** With this option disabled the sidebar won't automatically pop out when you hover over the left side of the screen.
+* **Always show tab bar:** Choose whether you want the tab bar to always be visible
+* **Automatically show and hide sidebar:** With this option disabled, the sidebar will not automatically appear when you hover over the left side of the screen.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/preferences (4).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Content & Views
 
 * **Open objects in fullscreen:** You can decide whether you want all objects to be opened in fullscreen by default or in a modal window
-* **Object link style:** You can decide which style should the /link command use by default (either card or text)
+* **Object link style:** Choose the default style for the `/link` command: card or text.
 * **File block style:** Choose whether you want the file block to use the embedded style or be displayed as a simple link
-* **Click to edit title in Grid view:** A lets you choose whether clicking a title in Grid view enters edit mode or opens the Object directly:
+* **Click to edit title in Grid view:** Choose whether clicking a title in Grid view enters edit mode or opens the Object directly.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/open-grid (1).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Messaging
 
-Send messages in Chats / send comments in Discussions with `Enter` or `Cmd+Enter` .
+Send messages in Chats and comments in Discussions with `Enter` or `Cmd+Enter`.
 
 ### Language & Region
 
@@ -64,7 +64,7 @@ Send messages in Chats / send comments in Discussions with `Enter` or `Cmd+Enter
 
 #### Date & Time
 
-* **Date & Time formats**: Here you are able to choose which date and time formats you want to use across your whole vault.
+* **Date & Time formats:** Choose the date and time formats used across your Vault.
 * **Use relative dates:** You can decide whether you want relative dates like today / tomorrow to be used, or whether you want all dates to show the exact date.
 * **Week starts on**: You can now choose whether your week starts on Sunday or Monday. Head to your updated settings to make the switch in the date-picker.
 
@@ -75,7 +75,7 @@ If you want more privacy, like when sharing a computer, you can set up a PIN cod
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Vault Settings Pin.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
-We do not store this data so we cannot help you in recovering your vault in the case it is lost. Make sure to write down your pin code next to your Key.
+We do not store this data, so we cannot help recover your Vault if it is lost. Record your PIN code alongside your Key.
 {% endhint %}
 
 ***
@@ -84,7 +84,7 @@ We do not store this data so we cannot help you in recovering your vault in the 
 
 ### Login Key
 
-You can access your Key or scan the QR code to connect your mobile device. For more details, please check [key.md](../../basics/key.md "mention").&#x20;
+You can access your Key or scan the QR code to connect your mobile device. For more details, please check [key.md](../../basics/key.md "mention").
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Welcome 3 (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -102,16 +102,16 @@ You can access your Key or scan the QR code to connect your mobile device. For m
 
 ### Channels
 
-Here you can find a list of all of your channel, your access roles and their network status. In the Three-dot menu you can also find the "Invite Link", QR Code, and "Delete Channel" option.
+Here you can find a list of all your Channels, access roles, and network statuses. The three-dot menu also contains the "Invite Link," QR Code, and "Delete Channel" options.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/channels-settings.png" alt=""><figcaption></figcaption></figure></div>
 
 ### My Sites
 
-Here you are able to find and manage all objects that you've previously published.
+Here you can find and manage all previously published Objects.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure></div>
 
 ### API Keys
 
-Here you are able to find and manage all API keys that you have you've previously created, as well as to create new ones.
+Here you can find, manage, and create API keys.

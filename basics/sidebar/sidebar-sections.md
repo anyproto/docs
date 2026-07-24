@@ -20,21 +20,21 @@ In personal (single-member) Channels, the distinction between "you" and "all mem
 
 Anytype has two distinct mechanisms:
 
-* **My Favorites** — personal, visible only to you. Use the 'star' icon&#x20;
-* **Shared Pins** — public, visible to all members set by the Channels' Owner.&#x20;
+* **My Favorites** — personal, visible only to you. Use the 'star' icon
+* **Shared Pins** — public and visible to all members. The Channel Owner sets them.
 
-To learn more on how to add, remove, and organize them, see [pins-and-favorites.md](pins-and-favorites.md "mention") for details.&#x20;
+To learn more on how to add, remove, and organize them, see [pins-and-favorites.md](pins-and-favorites.md "mention") for details.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Pins Favorites.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Types
 
-The [Types](../../organize/types.md) section is the master index of your space. Here are some additional features:&#x20;
+The [Types](../../organize/types.md) section is the master index of your space. Here are some additional features:
 
-* **Quick Create Object** — hover over any Type to reveal a '+' button. Click it to create a new Object of that Type instantly.&#x20;
-* **Add New Types** — hover over the Type section title to reveal a '+ New Type' button. &#x20;
-* **Reorder Types** — click and drag a Type to reorder its position in the list.&#x20;
-* **Hidden Types** — only Types that have at least one Object appear in the sidebar automatically. To create an Object of a Type that isn't visible on the sidebar, click the [Create Dropdown in the Sidebar](../../creation/objects/#create-menu) to reveal all your Types.&#x20;
+* **Quick Create Object** — hover over any Type to reveal a '+' button. Click it to create a new Object of that Type instantly.
+* **Add New Types** — hover over the Type section title to reveal a '+ New Type' button.
+* **Reorder Types** — click and drag a Type to reorder its position in the list.
+* **Hidden Types** — only Types that have at least one Object appear in the sidebar automatically. To create an Object of a Type that isn't visible on the sidebar, click the [Create Dropdown in the Sidebar](../../creation/objects/#create-menu) to reveal all your Types.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Types.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -54,22 +54,22 @@ Use **Only me** in busy team Channels where your own work would otherwise be bur
 
 ### Unread
 
-The **Unread** section surfaces notifications from your Channel, this is typically from [chats](../../collaborate/chats/ "mention") and [discussions.md](../../collaborate/discussions.md "mention"). This section is temporary in nature, appearing and disappearing based on active notifications.&#x20;
+The **Unread** section surfaces notifications from your Channel. These typically come from [chats](../../collaborate/chats/ "mention") and [discussions.md](../../collaborate/discussions.md "mention"). This section is temporary, appearing and disappearing based on active notifications.
 
-You can reorder this section to be at the top or bottom, depending on your needs. You cannot hide this section. See [Manage Sections](sidebar-sections.md#manage-sections) for more details.&#x20;
+You can reorder this section to be at the top or bottom, depending on your needs. You cannot hide this section. See [Manage Sections](sidebar-sections.md#manage-sections) for more details.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Unread.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Bin
 
-The Bin appears as its own section in the Sidebar. It's 'three dot' menu lets you:
+The Bin appears as its own section in the Sidebar. Its three-dot menu lets you:
 
 * **Hide section** — remove it from view (it's still accessible via Channel Settings > Bin)
 * **Empty Bin** (Owners only) — permanently delete every Object inside
 
 ## Manage Sections
 
-There are two paths to show, hide, and reorder Sidebar sections.&#x20;
+There are two paths to show, hide, and reorder Sidebar sections.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Manage Sections How To Find.jpg" alt=""><figcaption></figcaption></figure></div>
 

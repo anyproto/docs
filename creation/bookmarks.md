@@ -32,7 +32,7 @@ Bookmarks have their own dedicated layout, separate from the standard [Page layo
 * A short URL with the site icon
 * A prominent **Open Website** button
 
-You can still add blocks below the bookmark layout if you want to write notes, link to related Objects, or build out additional context. To do this from the editor, right click the bookmark and select 'Open as Object'.&#x20;
+You can still add blocks below the bookmark layout if you want to write notes, link to related Objects, or build out additional context. To do this from the editor, right-click the bookmark and select 'Open as Object'.
 
 ## Creating a Bookmark
 
@@ -44,19 +44,19 @@ In the Channel Sidebar header, click the dropdown arrow and choose **Bookmark**,
 
 #### From the sidebar
 
-In the Sidebar, you can mouse over 'Bookmarks' and click the '+' button. If the Types section is not revealed, then go to [Manage Sections](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/basics/customize-and-edit-the-sidebar/sidebar-sections#manage-sections). If the Bookmarks type is not visible, then you may not have any bookmarks yet. Once you have at least one Bookmark, it will display in the Sidebar.&#x20;
+In the Sidebar, you can mouse over 'Bookmarks' and click the '+' button. If the Types section is not revealed, then go to [Manage Sections](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/basics/customize-and-edit-the-sidebar/sidebar-sections#manage-sections). If the Bookmarks type is not visible, then you may not have any bookmarks yet. Once you have at least one Bookmark, it will display in the Sidebar.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Bookmarks Sidebar.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### From the editor
 
-If you want to add a bookmark to an existing object, paste the URL like you would any other text and a menu should reveal. Select the 'bookmark' option. This method will create a bookmark block in the object.&#x20;
+If you want to add a bookmark to an existing object, paste the URL like you would any other text and a menu should reveal. Select the 'bookmark' option. This method will create a bookmark block in the object.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Bookmark Editor.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### From the type
 
-If you open your Bookmarks type from the Sidebar, then all of your bookmarks in the space will be collected there. Use the 'new' button on the right to add a new bookmark.&#x20;
+If you open your Bookmarks type from the Sidebar, then all of your bookmarks in the space will be collected there. Use the 'new' button on the right to add a new bookmark.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Bookmarks Type.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -73,7 +73,7 @@ Because Bookmarks are Objects with their own Type, you can:
 * **Add an Object Property** linking each Bookmark to a Project or Topic
 * **Use the Gallery layout** in a Query to see Bookmarks as visual cards
 
-See [views.md](../organize/views.md "mention") for more details.&#x20;
+See [views.md](../organize/views.md "mention") for more details.
 
 ## Tips
 

@@ -14,11 +14,11 @@ Chats give you the rhythm of a messaging app — quick replies, reactions, file 
 
 Just like documents and files, Chats are [Objects](../../creation/objects/) that have their own dedicated [Type](../../organize/types.md). This means that a Chat:
 
-* Lives in the Types section in the Sidebar's under 'Chat'.
+* Lives in the Types section of the Sidebar under 'Chat'.
 * Can have its own [Properties](../../organize/relations.md).
-* Can be organized into [Views](../../organize/views.md), [Queries](../../organize/sets.md), and [Collections](../../organize/collections.md).&#x20;
-* Can be added as a [Widget](../../basics/sidebar/sidebar-widgets.md) to the Sidebar.&#x20;
-* Can be `@`-mentioned or linked like any other Object.&#x20;
+* Can be organized into [Views](../../organize/views.md), [Queries](../../organize/sets.md), and [Collections](../../organize/collections.md).
+* Can be added as a [Widget](../../basics/sidebar/sidebar-widgets.md) to the Sidebar.
+* Can be `@`-mentioned or linked like any other Object.
 
 Chat is a system Type, so it doesn't support custom Templates or layout changes. But everything else about Chat behaves like a regular Object Type.
 
@@ -27,24 +27,24 @@ Chat is a system Type, so it doesn't support custom Templates or layout changes.
 #### Single Chat
 
 1. In the Channel Sidebar header, click on the create dropdown.
-2. Select Chat from the list of Types.&#x20;
-3. Give the Chat a name.&#x20;
+2. Select Chat from the list of Types.
+3. Give the Chat a name.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chat Create.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-**Set a Chat as the home page** for Channels where conversations take the forefront.&#x20;
+**Set a Chat as the home page** for Channels where conversations take the forefront.
 {% endhint %}
 
 #### Multiple Chats
 
-A single Channel can hold multiple Chats. You can start topic-specific conversations right where the work happens and keep them organized by using [Views](../../organize/views.md).&#x20;
+A single Channel can hold multiple Chats. You can start topic-specific conversations right where the work happens and keep them organized by using [Views](../../organize/views.md).
 
-1. Navigate to Chats in the Types section in the Sidebar.&#x20;
-2. Create a new Chat.&#x20;
+1. Navigate to Chats in the Types section in the Sidebar.
+2. Create a new Chat.
 3. Add your desired Properties.
-4. Set your preferred Filters and Sorts.&#x20;
-5. Set your desired Layout.&#x20;
+4. Set your preferred Filters and Sorts.
+5. Set your desired Layout.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chats Multiple.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -62,7 +62,7 @@ The Chats Widget works like any other widget in your sidebar:
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chat Widget.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-**Group your Chats into categories and Kanban board layout** to create an organized list in your Sidebar.&#x20;
+**Group your Chats into categories and use a Kanban board layout** to create an organized list in your Sidebar.
 {% endhint %}
 
 ## Using Chat
@@ -73,7 +73,7 @@ The message input lives at the bottom of every Chat. You can send:
 
 * **Text** — typed inline, with full markdown formatting
 * **Mentions** — `@` to mention a member or any Object
-* **Attachments** — drag in a file, paste an image, or share an Object using the 'plus' button.&#x20;
+* **Attachments** — drag in a file, paste an image, or share an Object using the 'plus' button.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chats Using.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -91,7 +91,7 @@ The scroll-down button takes you back to the reply first, then to the bottom of 
 
 #### Smart Anytype links
 
-When pasting an Anytype Object link into the Chat message box and it automatically converts the link into an attachment card. This means recipients see a rich preview of the Object instead of a long URL text string.&#x20;
+When you paste an Anytype Object link into the Chat message box, it automatically converts into an attachment card. This means recipients see a rich preview of the Object instead of a long URL string.
 
 #### Pinning messages
 
@@ -120,28 +120,28 @@ You can only edit or delete your own messages. Channel Owners cannot edit other 
 
 #### File attachments
 
-Drag a file onto the Chat input or paste from clipboard. The file uploads and:
+Drag a file onto the Chat input or paste it from the clipboard. The file uploads and:
 
 * Becomes a [File Object](https://github.com/anyproto/docs-new/blob/main/getting-started/files-and-media.md) you can find later
-* Shows as a preview card in the chat&#x20;
-* Is searchable from the global search
+* Shows as a preview card in the chat
+* Is searchable through global search
 
-For images, the message includes a preview thumbnail. For audio/video, an inline player.
+For images, the message includes a preview thumbnail. Audio and video include an inline player.
 
 ## Chat Notifications
 
 #### Unread section
 
-A temporary **Unread** section appears automatically when new messages arrive in any Chat. As you catch up, the section shrinks and eventually disappears. This section also displays notifications from [Discussions](../discussions.md). Learn more in the [Sidebar](../../basics/sidebar/sidebar-sections.md) section.&#x20;
+A temporary **Unread** section appears automatically when new messages arrive in any Chat. As you catch up, the section shrinks and eventually disappears. This section also displays notifications from [Discussions](../discussions.md). Learn more in the [Sidebar](../../basics/sidebar/sidebar-sections.md) section.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chats Unread.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Per-chat Notifications
 
-Per-Chat notification settings let you control how loud each Chat is.&#x20;
+Per-Chat notification settings let you control how loud each Chat is.
 
-1. Open your desired Chat.&#x20;
-2. Click the three-dot button in the top right corner.&#x20;
+1. Open your desired Chat.
+2. Click the three-dot button in the top right corner.
 3. Select **Notifications**.
 4. Choose:
    * **Enable all** — notifications for every message
@@ -160,7 +160,7 @@ When you create a Channel, you can choose **Chat** as the Home — meaning the f
 * Communities and interest groups
 * Work where conversation is primary, with documents as supporting cast
 
-See [Channels](../../basics/space.md#choosing-a-home) for more details.&#x20;
+See [Channels](../../basics/space.md#choosing-a-home) for more details.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/home-chat.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -177,7 +177,7 @@ Chat messages support spell checking with the same red underline and suggestions
 
 ## Direct Channels
 
-For one-on-one conversations with others, use **Direct Channels** — private chats between two people, with no admin or hierarchy. See [Direct Channels](direct-channels.md) for more information.&#x20;
+For one-on-one conversations with others, use **Direct Channels** — private chats between two people, with no admin or hierarchy. See [Direct Channels](direct-channels.md) for more information.
 
 ## Exporting Chats
 
