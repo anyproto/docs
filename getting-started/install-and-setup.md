@@ -1,55 +1,51 @@
 # Install
 
-You can download the latest version of Anytype for your device at [download.anytype.io](https://download.anytype.io).
+You can download the latest version of Anytype for your device at [download.anytype.io](https://download.anytype.io). It is available on macOS, Windows, Linux, iOS, and Android. Or you can search for 'Anytype' directly on your phone's app store.
 
-<figure><img src="../.gitbook/assets/image (54) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/download desktop.png" alt=""><figcaption></figcaption></figure></div>
 
-### Create your vault
+## Get started
 
-<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+#### Create
 
-If you haven't created a vault yet, you can easily create one by clicking on `I am new here` and then following the provided instructions.
+If this is your first time, click on 'I am new here'. If you already have an account, click on 'I already have a Key'.&#x20;
 
-**Language:** If you would like to use a language other than English for the interface, you can select it in the top right corner.
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 1.jpg" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (233).png" alt="" width="375"><figcaption></figcaption></figure>
+#### Language
 
-#### Save your Key!
+If you would like to use a language other than English for the interface, you can select it in the top right corner.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Install Language.jpg" alt=""><figcaption></figcaption></figure></div>
+
+#### Save your Key
+
+Your [Key](../basics/key.md) is the only way to access your account—treat it like an email and password combined that you can never reset. Store it somewhere secure and never share it with anyone. Anyone who has your Key has full access to your account.
+
+If you lose your Key, your account cannot be recovered—by anyone, including Anytype. This is intentional: Anytype's security model lets anyone create an account without needing permission from a central authority.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 2.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
-Make sure you store your [key.md](vault-and-key/key.md "mention") somewhere safe, and try not to share it with anyone who can't be trusted!
+Store your [key.md](../basics/key.md "mention") somewhere safe and never share it with anyone. Whoever has access to your key has access to your account. It cannot be recovered.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+#### Log in on other devices
 
-#### Stay in the loop
+In addition to using your [Key](../basics/key.md) to log in, you can also use the QR code to log in faster. This is especially handy to sign in on your mobile devices if your desktop is close by. Having multiple devices logged in also creates more backups for you to recover your account from.&#x20;
 
-Enter your email address to receive tips and tricks from the Anytype team.
+1. Navigate to your [Vault Settings](../advanced/settings/account-and-data.md).
+2. Click **Login Key**.
+3. Click on the QR code and scan it with your device.&#x20;
 
-<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 3.jpg" alt=""><figcaption></figcaption></figure></div>
 
-#### Share a bit about yourself
+## After installation
 
-Help us build and improve Anytype by telling us how you plan to use it.
+Once you've created your Vault and saved your Key, you'll land in a sandbox where you can poke around, open things, and break stuff. Go wild and explore with no pressure. When you're ready to start your own work, create a new Channel.&#x20;
 
+If you'd like a quick overview of how Anytype's core concepts fit together, start with our [Overview](../basics/learn-the-model.md).&#x20;
 
+#### Import
 
-<div><figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure></div>
-
-### Log-in using your Key
-
-On the contrary, if you already have a vault, click on `I already have a Key` and enter your [key.md](vault-and-key/key.md "mention") to proceed.
-
-<figure><img src="../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
-
-#### Log-in using the QR code
-
-In addition to using your [key.md](vault-and-key/key.md "mention") to log in, you can also use the QR code to login faster if your desktop is close by.
-
-To log in using the QR code, simply navigate to [#login-key](../advanced/settings/account-and-data.md#login-key "mention") in your Vault Settings.
-
-<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
-
-### Import
-
-If you would like to import some of your existing data into your Space, you can find the instructions on how to do so in [#import](../advanced/data-and-security/import-export/#import "mention").
+If you would like to import some of your existing data into your Space, you can find the instructions on how to do so in [Import & Export](../data/import-export/).&#x20;

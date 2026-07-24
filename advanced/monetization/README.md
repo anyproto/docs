@@ -1,39 +1,26 @@
+---
+description: Plans, pricing, and how to support the project
+---
+
 # Memberships
 
 Our memberships are designed to reflect the same core principles that have always guided Anytype’s development: unrestricted access to our software and an open ecosystem where contributions are fairly rewarded.
 
 For more information about the philosophy behind our membership and its planned evolution, please visit this blog post: [Our Membership Philosophy](https://blog.anytype.io/our-memberships-philosophy/).
 
-## Membership Model & Plans
+## Plans
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+Anytype offers a Free tier plus several paid plans.&#x20;
 
-**Free Membership:**
+Paid plans:&#x20;
 
-* 100 MB of remote storage
-* 10 shared spaces
-* Unlimited private spaces
+* Extend storage limits
+* Unlock unlimited shared Channels
+* Include a custom **ANY ID** — your unique handle, used for web publishing URLs
 
-**Plus Membership:**
-
-* 1 GB of remote storage
-* Unlimited shared spaces
-* Unlimited private spaces
-* ANY ID (9+ symbols)
-
-**Pro:**
-
-* 10 GB of remote storage
-* Unlimited shared spaces
-* Unlimited private spaces
-* ANY ID (7+ symbols)
-
-**Ultra:**
-
-* 100 GB of remote storage
-* Unlimited shared spaces
-* Unlimited private spaces
-* ANY ID (5+ symbols)
+{% hint style="info" %}
+For current plan tiers, prices, and exact limits, see the [Anytype pricing page](https://anytype.io/pricing).&#x20;
+{% endhint %}
 
 ## Pricing for Contributors
 
@@ -45,7 +32,11 @@ If you believe that your contribution status is incorrect, please write us at [a
 
 Self-hosters can manage the limits of Viewers/Editors they invite to their Channels themselves. Those who would like to purchase a name in the Anytype naming system or access priority support, can purchase a membership at the same price as other beta testers.
 
-In the future, we will introduce membership discounts for self-hosters. For those who would like to support the network in the meantime, we welcome your donation [here](https://stripe.pay.anytype.io/b/4gw0337MrdvbejK28f) (thank you!).
+In the future, we will introduce membership discounts for self-hosters.&#x20;
+
+{% hint style="info" %}
+For those who would like to support the network in the meantime, we welcome your donation [here](https://stripe.pay.anytype.io/b/4gw0337MrdvbejK28f) (thank you!).
+{% endhint %}
 
 ## FAQ
 
@@ -102,3 +93,4 @@ Your spaces will stop syncing with each other through the backup node and use lo
 Students or faculty members are eligible for a [50% discount](https://edu.anytype.io/#apply) on all of our membership plans.
 
 </details>
+
