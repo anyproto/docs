@@ -63,20 +63,19 @@
   * [Raycast Extension (macOS)](advanced/feature-list-by-platform/raycast-extension-macos.md)
 * [Anytype Agents' Skill](advanced/feature-list-by-platform/anytype-agents-skill.md)
 
-## Data & Security
+## Data
 
-* [Privacy & Encryption](advanced/data-and-security/how-we-keep-your-data-safe.md)
-* [Sync & Backup](advanced/data-and-security/self-hosting/README.md)
-  * [Self-hosted](advanced/data-and-security/self-hosting/self-hosted.md)
-  * [Local-only](advanced/data-and-security/self-hosting/local-only.md)
-* [Import & Export](advanced/data-and-security/import-export/README.md)
-  * [Migrate from Obsidian](advanced/data-and-security/import-export/migrate-from-obsidian.md)
-  * [Migrate from Notion](advanced/data-and-security/import-export/migrate-from-notion.md)
-  * [Migrate from Evernote](advanced/data-and-security/import-export/migrate-from-evernote.md)
-* [Storage & Deletion](advanced/data-and-security/data-storage-and-deletion/README.md)
-  * [Bin](advanced/data-and-security/data-storage-and-deletion/finding-your-objects.md)
-* [Data Erasure](advanced/data-and-security/delete-or-reset-your-account.md)
-* [Analytics & Tracking](advanced/data-and-security/analytics-and-tracking.md)
+* [Sync & Backup](data/sync-and-backup/README.md)
+  * [Self-host](data/sync-and-backup/self-host.md)
+  * [Local-only](data/sync-and-backup/local-only.md)
+* [Privacy & Encryption](data/how-we-keep-your-data-safe.md)
+* [Import & Export](data/import-export/README.md)
+  * [Migrate from Obsidian](data/import-export/migrate-from-obsidian.md)
+  * [Migrate from Notion](data/import-export/migrate-from-notion.md)
+  * [Migrate from Evernote](data/import-export/migrate-from-evernote.md)
+* [Storage](data/storage.md)
+* [Deletion & Recovery](data/deletion-and-recovery.md)
+* [Analytics & Tracking](data/analytics-and-tracking.md)
 
 ## Settings
 

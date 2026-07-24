@@ -96,7 +96,7 @@ If the Type still has Objects that are part of it, it will trigger a confirmatio
 
 ## Duplicating Types to other Channels
 
-Types are specific to each Channel. If you want your Type to exist in other Spaces, please see [import-export](../advanced/data-and-security/import-export/ "mention"). At the moment, you cannot share Types between spaces that stay in sync because they are separated with different encryption keys.&#x20;
+Types are specific to each Channel. If you want your Type to exist in other Spaces, please see [import-export](../data/import-export/ "mention"). At the moment, you cannot share Types between spaces that stay in sync because they are separated with different encryption keys.&#x20;
 
 ## Tips
 

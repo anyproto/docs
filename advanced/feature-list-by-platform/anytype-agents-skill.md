@@ -4,8 +4,6 @@ description: Let AI assistants act on your Anytype data.
 
 # Anytype Agents' Skill
 
-### What is the Anytype Agents' Skill?
-
 The **Anytype Agents' Skill** is an open-source toolkit that gives AI assistants a safe way to read, search, and modify Objects in your Anytype Channels. Drop it into Claude Code, Cursor, Gemini CLI, GitHub Copilot, or any other agent-capable tool, and the agent can run scripts against your Anytype data — programmatically — to handle bulk edits, transformations, and repetitive tasks you'd rather not do by hand.
 
 The repository is on GitHub: [github.com/anyproto/anytype-agents-skill](https://github.com/anyproto/anytype-agents-skill).
@@ -24,7 +22,7 @@ Common use cases:
 * **Reporting** — "List all Objects modified by me this month, grouped by Type"
 * **Cross-Channel operations** — "Copy this Type definition from my Personal Channel to my Team Channel"
 
-### How it works
+## How it works
 
 The Skill provides a **lightweight, isolated JavaScript runtime**. When the agent decides to do something to your Anytype data, it writes a short JavaScript script using the Skill's high-level methods, then runs it in the sandbox. The script reads or writes through your local Anytype Local API.
 
@@ -41,7 +39,7 @@ The runtime is **isolated** — the script only has access to the Anytype Skill'
 
 (Inside Anytype, of course, the script can change anything the API allows. See the **Safety** section below.)
 
-### Setup
+## Setup
 
 #### Prerequisites
 
@@ -67,7 +65,7 @@ Ask the agent something simple, like:
 
 If the Skill is connected, the agent runs a method like `listTypes()` against your Local API and reports back. If it isn't, you'll see an error or the agent will fall back to general-knowledge guesswork.
 
-### Example workflows
+## Example workflows
 
 #### Bulk update
 
@@ -105,7 +103,7 @@ The agent:
 2. For each, creates a new Review Object with a relation back to the Book
 3. Reports what it did
 
-### Safety
+## Safety
 
 #### What the Skill can do
 

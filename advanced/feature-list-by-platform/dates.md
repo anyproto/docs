@@ -4,8 +4,6 @@ description: How dates work as Objects, Properties, and references in Anytype.
 
 # Dates
 
-### Dates as first-class Objects
-
 In Anytype, **every date is its own Object**. When you mention `@today`, set a Due Date, or open a Calendar view, the dates aren't just text or metadata — they exist as Date Objects in your Channel that you can open, link to, and use as a hub for everything happening on that day.
 
 Click on a date anywhere — a property value, a mention, a calendar slot — and you open the Date Object. You'll see:
@@ -19,7 +17,7 @@ This makes the Date Object a **temporal index** — a single page that shows you
 
 <figure><img src="../../.gitbook/assets/date.png" alt=""><figcaption></figcaption></figure>
 
-### Three ways dates appear
+## Three ways dates appear
 
 Dates show up in Anytype in three forms:
 
@@ -48,7 +46,7 @@ Every Object has built-in date Properties Anytype manages automatically:
 
 You can show or hide these in any View, filter by them, sort by them, and reference them in formulas.
 
-### Date as Object: what's there
+## Date as Object
 
 Open any Date Object — by clicking a mention, a date Property, or a calendar slot — and you see:
 
@@ -83,7 +81,7 @@ The same setting controls:
 * Whether to use relative dates (today / tomorrow) or always show the literal date
 * Week start day (Sunday or Monday)
 
-### Tips
+## Tips
 
 {% hint style="info" %}
 **Use Date Properties for project timelines.** A project Object with Started, Target, and Completed Date Properties lets you build a timeline View that updates as work progresses.

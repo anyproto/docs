@@ -36,7 +36,7 @@ To log in using the QR code, simply navigate to your Vault Settings and click **
 
 ### Import
 
-If you would like to import some of your existing data into your Space, you can find the instructions on how to do so in [import-export](../advanced/data-and-security/import-export/ "mention").
+If you would like to import some of your existing data into your Space, you can find the instructions on how to do so in [import-export](../data/import-export/ "mention").
 
 ### What to expect after install
 

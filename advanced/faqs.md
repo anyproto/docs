@@ -2,55 +2,51 @@
 
 ## General
 
+<details>
 
+<summary>Can I use two separate Vaults at the same time?</summary>
+
+We do not suggest using two separate Vaults at the same time. Ideally, you create a separate user account (macOS, Windows, or Linux) and log into your other Vault there.&#x20;
+
+However, here's a tweak that works only on desktop: you need to create a separate shortcut for your other Vault and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
+
+</details>
+
+<details>
+
+<summary>What can I do if I can't open Anytype links through a browser?</summary>
+
+You can still open any Anytype links by simply pasting them in the global search menu within Anytype. Shortcut: `Cmd/Ctrl + K`
+
+</details>
 
 <details>
 
 <summary>I can't pin anything to the sidebar or create widgets</summary>
 
-Pin to Channel is available only to Owners of the space. In order to create your own Widgets in a space where you're not an owner, use the Favorites feature with the star icon. These Favorites in the Sidebar only appear to you. If your Pins or Favorites are not appearing as Widgets, you may need to change the Channel Settings. [Learn more](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/71/basics/sidebar/sidebar-widgets#widget-settings).
+Pin to Channel is available only to owners of the space. In order to add your own Widgets when you're not an owner, use the Favorites feature with the star icon. These Favorites in the Sidebar only appear to you. If your Pins or Favorites are not appearing as Widgets, you may need to change the Channel Settings. [Learn more](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/71/basics/sidebar/sidebar-widgets#widget-settings).
 
 </details>
-
-
-
-
-
-## Security
-
-
-
-
-
-## Privacy
-
-
-
-
-
-## Sync
 
 <details>
 
-<summary>What happens when my storage limit is reached? </summary>
+<summary>How can I create columns?</summary>
 
-You can continue to use the app without interruption, as all text-related content will continue to sync. However, files, images, videos, etc. will no longer sync until you are below the limit again or purchase a plan to increase your limit.&#x20;
+Click and drag the 'handle' to the left of each block and move it to your desired location. [Learn more](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/75/creation/blocks#columns).&#x20;
 
-The Anytype app will attempt check your limit by attempting to sync files periodically, but this shouldn't occupy resources on your device.&#x20;
+<figure><img src="../.gitbook/assets/Docs Blocks Columns.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
+## Account, Security, and Privacy
 
+<details>
 
+<summary>I've lost my Key, what can I do? </summary>
 
+Anytype does not have access to your account in any way, thus we do not have your Key and cannot recover it for you. However you may be able to recover it on your own, [see here for more details](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/75/basics/key#if-youve-lost-your-key).&#x20;
 
-
-
-
-
-
-
-
+</details>
 
 <details>
 
@@ -91,6 +87,102 @@ We use the [**BIP39**](https://medium.com/coinmonks/mnemonic-generation-bip39-si
 
 <details>
 
+<summary>Why does it say that my key is too short?</summary>
+
+This issue is usually resolved by adding a space at the end after pasting your key.
+
+</details>
+
+<details>
+
+<summary>What to do if I'm asked to enter my key / recovery phrase each time on Linux?</summary>
+
+Linux users may be asked for their Key each time they log in. To resolve this issue, please install a keychain. The most popular is [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring). Additionally, ensure that you have met all the [dependencies](https://github.com/anyproto/anytype-ts#dependencies) beforehand.
+
+</details>
+
+## Sync & Storage
+
+<details>
+
+<summary>What happens when my storage limit is reached? </summary>
+
+You can continue to use the app without interruption, creating Objects and editing them will all continue to sync as usual. The difference is that files, images, videos, etc. will no longer sync until you are below the limit again or purchase a plan to increase your limit.&#x20;
+
+The Anytype app will attempt check your limit by attempting to sync files periodically, but this shouldn't occupy resources on your device.&#x20;
+
+</details>
+
+<details>
+
+<summary>Are there any network requests when using local-only mode?</summary>
+
+We can guarantee that there are no network requests to our Anytype Network, but our telemetry will still send requests (you will be able to opt-out later on). Additionally, the client still needs to to send requests for some of the features (embedding blocks, fetching bookmarks, etc.) to work properly.
+
+</details>
+
+<details>
+
+<summary>Can guests of my channel use Anytype from local-only mode?</summary>
+
+Unless they are all part of the same local network, guests will need to be connected to the Anytype network in order to see all changes in the channel.
+
+</details>
+
+## Miscellaneous
+
+<details>
+
+<summary>Why is there no browser version of Anytype?</summary>
+
+There's no browser version of the app. Anytype is a stand-alone software, that works on desktop or mobile devices. There are many points of vulnerability in-browser apps that would compromise our commitment to data security and encryption.
+
+</details>
+
+<details>
+
+<summary>What are some of the things that are not yet supported on mobile?</summary>
+
+* Columns
+* Inline LaTeX
+* [inline-queries.md](feature-list-by-platform/inline-queries.md "mention")
+* Kanban, Calendar, and Graph Views
+* [formulas.md](feature-list-by-platform/formulas.md "mention")
+* [embeds.md](feature-list-by-platform/embeds.md "mention")
+* [custom-css.md](feature-list-by-platform/custom-css.md "mention")
+* [storage-location.md](feature-list-by-platform/storage-location.md "mention")
+* [graph.md](feature-list-by-platform/graph.md "mention") & Flow
+* [import-export](../data/import-export/ "mention")
+* PIN Code
+
+</details>
+
+<details>
+
+<summary>Why can't I search inside objects on iOS?</summary>
+
+Currently, this feature is unavailable on iOS.
+
+</details>
+
+<details>
+
+<summary>Why can't I search or batch select objects inside queries on mobile?</summary>
+
+These features are currently unavailable on both iOS and Android.
+
+</details>
+
+<details>
+
+<summary>Does Anytype have a bug bounty program?</summary>
+
+As a non-profit organization that hasn’t reached a sustainable income yet, we don’t have any guaranteed bug bounty program. If you can prove that you found a critical vulnerability in our applications but don’t want to disclose it, we can discuss a potential reward. Please check this [page](https://github.com/anyproto/.github/blob/main/docs/SECURITY.md) from our GitHub for more information.
+
+</details>
+
+<details>
+
 <summary>What are the minimum specs?</summary>
 
 * For Desktop, Electron follows Chrome, and they follow [vendor support policies](https://support.google.com/chrome/a/answer/7100626?hl=en).\
@@ -121,118 +213,12 @@ We use the [**BIP39**](https://medium.com/coinmonks/mnemonic-generation-bip39-si
 
 <details>
 
-<summary>Are there any network requests when using local-only mode?</summary>
-
-We can guarantee that there are no network requests to our Anytype Network, but our telemetry will still send requests (you will be able to opt-out later on). Additionally, the client still needs to to send requests for some of the features (embedding blocks, fetching bookmarks, etc.) to work properly.
-
-</details>
-
-<details>
-
-<summary>What to do if I'm asked to enter my key / recovery phrase each time on Linux?</summary>
-
-Linux users may be asked for their Key each time they log in. To resolve this issue, please install a keychain. The most popular is [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring). Additionally, ensure that you have met all the [dependencies](https://github.com/anyproto/anytype-ts#dependencies) beforehand.
-
-</details>
-
-<details>
-
-<summary>Why is there no browser version of Anytype?</summary>
-
-There's no browser version of the app. Anytype is a stand-alone software, that works on desktop or mobile devices. There are many points of vulnerability in-browser apps that would compromise our commitment to data security and encryption.
-
-</details>
-
-<details>
-
-<summary>Can I use two separate Vaults at the same time?</summary>
-
-Here's a tweak that works only on desktop: you need to create a separate shortcut for your other Vault and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
-
-</details>
-
-<details>
-
 <summary>Can I install Anytype on a Chromebook?</summary>
 
 There are a few ways you can install Anytype on a Chromebook, but probably the easiest one is to use an [AppImage](https://download.anytype.io). For the full guide from one of our community members, please click [here](https://community.anytype.io/t/guide-to-use-anytype-on-a-chromebook/12181).
 
 </details>
 
-<details>
+## Notes
 
-<summary>Does Anytype have a bug bounty program?</summary>
-
-As a non-profit organization that hasn’t reached a sustainable income yet, we don’t have any guaranteed bug bounty program. If you can prove that you found a critical vulnerability in our applications but don’t want to disclose it, we can discuss a potential reward. Please check this [page](https://github.com/anyproto/.github/blob/main/docs/SECURITY.md) from our GitHub for more information.
-
-</details>
-
-<details>
-
-<summary>What can I do if I can't open Anytype links through a browser?</summary>
-
-You can still open any Anytype links by simply pasting them in the global search menu within Anytype and hitting enter.
-
-</details>
-
-<details>
-
-<summary>How can I create columns?</summary>
-
-You can use the orange 'handle' to the left of each block to create parent/child blocks or new columns in your editor by dragging and dropping them.
-
-<div><figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure></div>
-
-</details>
-
-<details>
-
-<summary>Why can't I search inside objects on iOS?</summary>
-
-Currently, this feature is unavailable on iOS.
-
-</details>
-
-<details>
-
-<summary>Why can't I search or batch select objects inside queries on mobile?</summary>
-
-These features are currently unavailable on both iOS and Android.
-
-</details>
-
-<details>
-
-<summary>Why does it say that my key is too short?</summary>
-
-This issue is usually resolved by adding a space at the end after pasting your key.
-
-</details>
-
-<details>
-
-<summary>Can guests of my channel use Anytype from local-only mode?</summary>
-
-Unless they are all part of the same local network, guests will need to be connected to the Anytype network in order to see all changes in the channel.
-
-</details>
-
-<details>
-
-<summary>What are some of the things that are not yet supported on mobile?</summary>
-
-* Columns
-* Inline LaTeX
-* [inline-queries.md](feature-list-by-platform/inline-queries.md "mention")
-* Kanban, Calendar, and Graph Views
-* [formulas.md](feature-list-by-platform/formulas.md "mention")
-* [embeds.md](feature-list-by-platform/embeds.md "mention")
-* [custom-css.md](feature-list-by-platform/custom-css.md "mention")
-* [storage-location.md](feature-list-by-platform/storage-location.md "mention")
-* [graph.md](feature-list-by-platform/graph.md "mention") & Flow
-* [import-export](data-and-security/import-export/ "mention")
-* PIN Code
-
-</details>
-
-Vaults created before version 0.44.0 have an Entry Space. You are free to delete this channel if no longer needed, or you can migrate your data to a different channel by using the [import-export](data-and-security/import-export/ "mention") feature.
+Vaults created before version 0.44.0 have an Entry Space. You are free to delete this channel if no longer needed, or you can migrate your data to a different channel by using the [import-export](../data/import-export/ "mention") feature.

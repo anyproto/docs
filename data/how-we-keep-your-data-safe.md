@@ -14,7 +14,7 @@ Anytype's architecture ensures privacy is mathematically enforced in code, not p
 
 #### How it works
 
-* **Local key generation.** Your cryptographic [Key](../../basics/key.md) is generated locally on your device when you create your [Vault](../../basics/vault-and-key.md). It's never transmitted over the internet or stored on Anytype's servers — only you have it.
+* **Local key generation.** Your cryptographic [Key](../basics/key.md) is generated locally on your device when you create your [Vault](../basics/vault-and-key.md). It's never transmitted over the internet or stored on Anytype's servers — only you have it.
 * **No master recovery.** Because Anytype holds no keys to your account, we can't reset your password or recover your account if you lose access. Losing your key means losing access to your data permanently.
 * **Blind data sync.** All your content is encrypted before it syncs across devices, so Anytype only ever acts as a blind messenger — passing encrypted data along without being able to read it.
 
@@ -49,4 +49,31 @@ While Anytype has robust encryption, it ultimately assumes the device you're usi
 
 </details>
 
-For more details, please [see here](https://tech.anytype.io/any-sync/overview?id=encryption).&#x20;
+For more technical details, please [see here](https://tech.anytype.io/any-sync/overview?id=encryption).&#x20;
+
+## Telemetry
+
+While your content is always private and encrypted, Anytype does collect limited anonymized product usage data to understand how the app is used and to guide development. This telemetry data is entirely separate from your actual content.&#x20;
+
+In practice, this means:
+
+* **Content is never part of telemetry.** No object titles, document contents, chat messages, or files are ever visible through telemetry. Your spaces remain private to you and those you share with.&#x20;
+* **Usage data is anonymous and viewed in aggregate.** We can see high-level signals, but not the specifics. For example, we can see how many users created custom Types but not what the Types contain or how it was used.&#x20;
+* **Data is compartmentalized.** Product analytics and email tools are kept separate, with no linking of identifiable data between them. Emails collected on the website or during onboarding are not tied to your Vault or product telemetry in any way.
+* **Data is abstracted.** Extra care is taken to make telemetry as abstract as possible, such as creating synthetic Channel IDs rather than using real IDs. This further obscures any ability to interpret the activity happening in any space.&#x20;
+* **Nothing is sold.** Usage data is never sold to third parties — it's used solely to inform internal product decisions.
+
+## User Emails
+
+Anytype accounts are permissionless and created using a seed phrase—no email required. When emails are collected (via support requests, newsletters, or website sign-ups), we take measures to isolate then from your Vault and our tools.&#x20;
+
+* **Strict Compartmentalization**: Email tools and product analytics tools are separate and do not share data.
+* **No Cross-Linking**: Even if analytics show 1,000 users have stopped using Anytype, our systems aren't connected, so we cannot send them re-engagement emails.
+
+We take precautionary measures to minimise any anonymity loss, however it's advised that users take their own measures.&#x20;
+
+* Email Aliases: Use services like SimpleLogin or DuckDuckGo when contacting support.
+* VPNs: Mask your IP address during node syncs.
+* Self-Hosting: Run your own infrastructure to keep sync data entirely off Anytype nodes.
+
+For GDPR-related requests, i.e. data removal from other services, please contact us at: [gdpr@anytype.io](mailto:anylab@anytype.io)

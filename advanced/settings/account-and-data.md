@@ -1,14 +1,23 @@
 # Vault Settings
 
-You can access your vault settings from one of these 3 places:
+Your [Vault](../../basics/vault-and-key.md) is essentially your account and you can find everything related to your preferences and settings in this section.&#x20;
 
-* Click on your **Profile picture in the left bottom corner** on the Vault (List of Channels)
-* Open **Anytype menu** on the top app bar > **Settings** > **Vault**
-* Open **Global Search** > Type "**Profile**"
+## Accessing Vault Settings
+
+#### Vault Sidebar
+
+1. Open your [Vault Sidebar](../../basics/sidebar/).&#x20;
+2. Click on your Profile Picture on the bottom left.&#x20;
+
+#### Menu
+
+1. Open the Anytype menu on your top app bar (macOS, Windows, Linux).&#x20;
+2. Navigate to **Settings**.&#x20;
+3. Select the option **Vault**.&#x20;
 
 ## Profile
 
-Here you can add your **name, bio,** and **profile picture.** Your profile represents an Object in your Anytype Graph which you can freely link to other Objects.
+Here you can add your **name, bio,** and **profile picture.** When you are in a space, your profile is also treated as an Object as a Space Member.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/profile-info.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -75,9 +84,11 @@ We do not store this data so we cannot help you in recovering your vault in the 
 
 ### Login Key
 
-You can access your Key or scan the QR code to connect your mobile device. For more details, please check [key.md](../../basics/key.md "mention"). **Vault Deletion:** Also, if you would like to delete your vault, you can do it in this section.
+You can access your Key or scan the QR code to connect your mobile device. For more details, please check [key.md](../../basics/key.md "mention").&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Welcome 3 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+
+**Vault Deletion:** Also, if you would like to delete your vault, you can do it in this section. Learn more here: [deletion-and-recovery.md](../../data/deletion-and-recovery.md "mention")
 
 ## Data Management
 

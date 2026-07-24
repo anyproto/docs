@@ -33,17 +33,7 @@ The Bottom Line: Your data is encrypted on your device before it goes anywhere. 
 
 <div><figure><img src="../.gitbook/assets/Docs Regular Sync.gif" alt=""><figcaption><p>Typical Cloud App Sync</p></figcaption></figure> <figure><img src="../.gitbook/assets/Docs E2EE Sync.gif" alt=""><figcaption><p>Anytype Local-first Sync</p></figcaption></figure></div>
 
-## Joining Channels
-
-When you receive an invite link, clicking it opens Anytype:
-
-1. If you're not logged in, you'll be prompted to log in or create a Vault.
-2. Once logged in, you'll see a confirmation popup with the Channel and the role you're given.
-3. Click **Accept** to join. The Channel appears in your Vault.
-
-For Request-Access links, the flow is the same except instead of joining immediately, your request goes to the Owner. They'll see a notification and approve or decline; you'll see the Channel appear in your Vault when approved.
-
-## Inviting members
+## Inviting and joining
 
 1. Open [Channel Settings](../advanced/settings/space-settings.md) by clicking the Channel name in the Sidebar.&#x20;
 2. Click on the Members section.&#x20;
@@ -73,31 +63,43 @@ The 'add members' button will provide a list of users that you can invite into y
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Collaborate Add.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-**If there are many unrecognisable users in your member list**, this may be due to you being part of a community space with many other members not recognizable to you.&#x20;
+**If there are many unrecognisable users in your member list**, this may be due to you being part of a large community space with many members unrecognizable to you.&#x20;
 {% endhint %}
 
-## Member roles
+### Joining Channels
 
-Every Channel has multiple role levels:
+When you receive an invite link, clicking it opens Anytype:
 
-| Role       | Create, edit, and remove Objects | Chat & Discussions | Edit Channel name/icon | Pin Objects to Sidebar |       Permanent delete      |      Manage members      |
-| ---------- | :------------------------------: | :----------------: | :--------------------: | :--------------------: | :-------------------------: | :----------------------: |
-| **Owner**  |                 ✓                |          ✓         |            ✓           |            ✓           | All Objects (incl. others') |             ✓            |
-| **Admin**  |                 ✓                |          ✓         |            ✓           |            ✓           | All Objects (incl. others') | Only editors and viewers |
-| **Editor** |                 ✓                |          ✓         |           ✓            |            —           |        Only their own       |             —            |
-| **Viewer** |                —                 |          —         |            —           |            —           |              —              |             —            |
+1. If you're not logged in, you'll be prompted to log in or create a Vault.
+2. Once logged in, you'll see a confirmation popup with the Channel and the role you're given.
+3. Click **Accept** to join. The Channel appears in your Vault.
 
-#### Permanent delete permissions
+For Request-Access links, the flow is the same except instead of joining immediately, your request goes to the Owner. They'll see a notification and approve or decline; you'll see the Channel appear in your Vault when approved.
 
-In shared Channels, Editors can only permanently delete Objects they created, protecting the team from accidental data loss. Owners can permanently delete any Object and can also empty the entire Bin from a single action. This means even if an Editor accidentally clicks "Empty Bin", they can only wipe out their own contributions — nothing of yours or other members' is at risk.
+## Members
 
-#### Editor seat limits
+All members part of a space are referred to as Space Members. You can be referenced with `@` mentions, assigned tasks, and participate in discussions.&#x20;
 
-Each Channel has a maximum number of Editors based on the Owner's plan. The default Free tier supports a small number of Editors per Channel. Higher-tier plans (Builder, Co-Creator, Ultra, Group memberships) increase this limit. See [Memberships](../advanced/monetization/).
+### Roles
 
-Once you reach the limit, new joiners can only join as Viewers until either the limit is raised or an existing Editor is downgraded or removed.
+All spaces have multiple role levels, each with progressively higher privileges: Viewer, Editor, Admin, and Owner. In short:&#x20;
 
-## Managing members
+* **Viewers** can only read content.&#x20;
+* **Editors** can edit and delete.&#x20;
+* **Admins** can manage members.&#x20;
+* **Owners** can do everything.&#x20;
+
+<table data-search="false"><thead><tr><th width="176.796875">Privilege</th><th align="center">Viewer</th><th align="center">Editor</th><th align="center">Admin</th><th align="center">Owner</th></tr></thead><tbody><tr><td>Create, edit, and remove objects</td><td align="center">—</td><td align="center">✓</td><td align="center">✓</td><td align="center">✓</td></tr><tr><td>Participate in chats and discussions</td><td align="center">—</td><td align="center">✓</td><td align="center">✓</td><td align="center">✓</td></tr><tr><td>Edit space name and icon</td><td align="center">—</td><td align="center">✓</td><td align="center">✓</td><td align="center">✓</td></tr><tr><td>Add shared pins to sidebar</td><td align="center">—</td><td align="center">—</td><td align="center">✓</td><td align="center">✓</td></tr><tr><td>Manage members</td><td align="center">—</td><td align="center">—</td><td align="center">Only editors &#x26; viewers</td><td align="center">✓</td></tr><tr><td>Manage invitation links</td><td align="center">—</td><td align="center">—</td><td align="center">—</td><td align="center">✓</td></tr><tr><td>Change space ownership</td><td align="center">—</td><td align="center">—</td><td align="center">—</td><td align="center">✓</td></tr></tbody></table>
+
+{% hint style="info" %}
+**To share an Object with somebody outside of Anytype**, use the publish feature. This creates a webpage that can be visited in the browser.&#x20;
+{% endhint %}
+
+{% hint style="warning" %}
+**You cannot set permissions on per-Object basis**. All Space Members have the ability view everything inside a Space. If you require more separation, use a different space entirely and only import the content you're happy to share with everyone.&#x20;
+{% endhint %}
+
+### Managing members
 
 From the members section, the Owner and Admin can:
 
@@ -115,36 +117,17 @@ From the members section, the Owner and Admin can:
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Remove Member.jpg" alt=""><figcaption></figcaption></figure></div>
 
-#### Members in Chats and Discussions
+#### Editor seat limits
 
-Member display names and profile pictures appear next to their messages and posts. Click any member's name or profile to:
+Each Channel has a maximum number of Editors based on the Owner's plan. The default Free tier supports a small number of Editors per Channel. Higher-tier plans (Builder, Co-Creator, Ultra, Group memberships) increase this limit. See [Memberships](../advanced/monetization/).
 
-* See their full profile — name, bio, profile picture
-* Connect with them — opens a [Direct Channel](https://github.com/anyproto/docs-new/blob/main/getting-started/direct-channels.md)
+Once you reach the limit, new joiners can only join as Viewers until either the limit is raised or an existing Editor is downgraded or removed.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Direc Channel Connect.jpg" alt=""><figcaption></figcaption></figure></div>
+## Collaborating with others
 
-## Transfer ownership
+#### Working and syncing offline
 
-Channel ownership can be transferred to another member in the [Channel Settings](../advanced/settings/space-settings.md#channel-ownership).&#x20;
-
-## Leaving a Channel
-
-To leave a Channel you've joined:
-
-1. Right-click the Channel in your Vault, or open Channel Settings.
-2. Click **Leave Channel**.
-3. Confirm.
-
-Your past contributions remain in the Channel after leaving it — Anytype does not remove your chat messages or documents in a space, you must delete them before leaving.&#x20;
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Collaborate Leave Channel.jpg" alt=""><figcaption></figcaption></figure></div>
-
-{% hint style="warning" %}
-**Owners of a space must first transfer ownership to another member.** If there are no other members, you can delete the Channel entirely.
-{% endhint %}
-
-## Syncing offline
+Anytype is built with local-first technology, which means that everything works offline by default and syncs with end-to-end encryption again once a network connection is established. You don't need to save specific pages for offline use.&#x20;
 
 When members are **online**, changes update immediately like usual:
 
@@ -156,11 +139,36 @@ When members are **offline**, everything still works by default:&#x20;
 * Make an edit → it will save locally and be queued for sync once back online.&#x20;
 * Send a message → it appears locally but will only be sent once back online.&#x20;
 
-Anytype is built with local-first technology, which means that everything works offline by default and syncs with end-to-end encryption again once a network connection is established.&#x20;
+#### Members in Chats and Discussions
 
-## Privacy in shared Channels
+Member names and profile pictures appear next to their messages and posts. Click any member's name or profile to:
 
-When sharing spaces and collaborating with others on Anytype, your data stays encrypted when being synced. For even more sensitive and high security cases, you can also use **self-hosted** networks where you control the relay nodes (see [Networks & Backup](../advanced/data-and-security/self-hosting/)) or **local-only** mode for fully air-gapped sharing on a local network.&#x20;
+* See their full profile — name, bio, profile picture
+* Connect with them privately — opens a [Direct Channel](https://github.com/anyproto/docs-new/blob/main/getting-started/direct-channels.md)
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Direc Channel Connect.jpg" alt=""><figcaption></figcaption></figure></div>
+
+#### Privacy in shared Channels
+
+When sharing spaces and collaborating with others on Anytype, your data stays encrypted when being synced. You can collaborate with a piece in mind. However, it's important that you only share spaces with people you trust to have access. They are able to view and export data.&#x20;
+
+For even more sensitive and high security cases, you can also use **self-hosted** networks where you control the relay nodes (see [Networks & Backup](../data/sync-and-backup/)) or **local-only** mode for fully air-gapped sharing on a local network.&#x20;
+
+## Leaving a Channel
+
+To leave a Channel you've joined:
+
+1. Right-click the Channel in your Vault, or open Channel Settings.
+2. Click **Leave Channel**.
+3. Confirm.
+
+Your past contributions remain in the Channel after leaving it — Anytype does not remove your chat messages or documents in a space.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Collaborate Leave Channel.jpg" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+**Owners of a space must first transfer ownership to another member before leaving.** If there are no other members, you can delete the Channel entirely.
+{% endhint %}
 
 ## Tips
 

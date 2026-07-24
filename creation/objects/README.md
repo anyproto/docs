@@ -105,7 +105,7 @@ To find all of your objects and how they are connected, you can look to the [gra
 
 #### Bin
 
-If you've previously removed some objects from your [space.md](../../basics/space.md "mention"), they will appear in your [finding-your-objects.md](../../advanced/data-and-security/data-storage-and-deletion/finding-your-objects.md "mention") unless you've already permanently deleted them.&#x20;
+If you've previously removed some objects from your [space.md](../../basics/space.md "mention"), they will appear in your [Broken link](/broken/pages/VTvMTnaFZfC0GfngfZmD "mention") unless you've already permanently deleted them.&#x20;
 
 You can access you Bin from the Sidebar. If this section is not showing, please see [Manage Sections](../../basics/sidebar/sidebar-sections.md#manage-sections) to reveal it.&#x20;
 

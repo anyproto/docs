@@ -1,4 +1,4 @@
-# Storage & Deletion
+# Storage
 
 ### Storage <a href="#storage" id="storage"></a>
 
@@ -17,11 +17,3 @@ You can also manage your files on desktop by going into `Channel settings -> Man
 {% hint style="info" %}
 Files are stored inside `flatfs dir` in encrypted fragments, so they can’t be accessed outside of Anytype.
 {% endhint %}
-
-### Deletion <a href="#deletion" id="deletion"></a>
-
-To delete objects in Anytype, you will first need to move them to the [finding-your-objects.md](finding-your-objects.md "mention"). Afterwards, you can remove them completely from all devices by permanently deleting them from the bin. All your devices will also delete them when getting online. This action is irreversible, so please be careful.
-
-The deleted objects are still accessible in read-only mode, either from the bin, or through previously added links. You are also able to restore these objects directly through the read-only mode without needing to go through the bin.
-
-Types and Properties created by Anytype can't be deleted at the moment, but might be deletable in future releases.

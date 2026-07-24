@@ -47,7 +47,7 @@ Manage who has access to the Channel. Each user is referred to as a Space Member
 
 ### Roles
 
-There are various roles that Space Member can have, each with different privileges. Be sure to periodically check your members section to ensure everybody has the correct permissions.&#x20;
+There are various roles that Space Member can have, each with different privileges. Be sure to periodically check your members section to ensure everybody has the correct permissions. For details, please see [Member Roles](../../collaborate/collaboration.md#member-roles).&#x20;
 
 <table><thead><tr><th width="167.1015625">Role</th><th>Description</th></tr></thead><tbody><tr><td><strong>Viewer</strong></td><td>Can view content in the space but cannot edit documents, chat with others, participate in discussions, or delete anything.</td></tr><tr><td><strong>Editor</strong></td><td>Includes all Viewer privileges, plus the ability to edit content in the space and permanently delete items.</td></tr><tr><td><strong>Admin</strong></td><td>Includes all Editor privileges, plus the ability to manage Editors and Viewers.</td></tr><tr><td><strong>Owner</strong></td><td>Includes all Admin privileges, plus the ability to create Admins, to create invitation links, and transfer channel ownership. </td></tr></tbody></table>
 

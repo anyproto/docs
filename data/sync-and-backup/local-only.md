@@ -44,7 +44,7 @@ By contrast, local-only mode offers very little additional security for the aver
 4. Click the “Save” button.
 5. Create a new identity or log in with an existing one.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Mobile
 
@@ -53,15 +53,15 @@ By contrast, local-only mode offers very little additional security for the aver
 3. Click on “Local-only” in the “Networks” sub-menu.
 4. Create a new identity or log in an existing one.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Screenshot_20240411-104810_Anytype2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot_20240411-104810_Anytype2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Recovering data in local-only mode
 
-In Local-Only Mode, your data is 100% your responsibility. Because Anytype has zero access to your device or encryption keys, we cannot assist with recovering lost, deleted, or corrupted data under any circumstances.
+In Local-Only Mode, your data is 100% your responsibility. Because Anytype has zero access to your device or encryption keys, we cannot assist with recovering lost, deleted, or corrupted data. There are no remote backups stored on our nodes.&#x20;
 
 **To protect your work from device failure or accidental deletion, you must regularly export and back up your spaces to a secure external location.**
 
-## Third-Party Sync Services & Network Drives
+## Third-party services & network drives
 
 Do not place your active Anytype data directory inside a third-party cloud-synced folder (such as Nextcloud, Dropbox, OneDrive, or Google Drive) or on a shared network drive. Doing so introduces severe risks to both your data integrity and your privacy.
 

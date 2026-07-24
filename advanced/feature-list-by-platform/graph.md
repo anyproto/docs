@@ -4,11 +4,9 @@ description: Visualize the connections between your Objects.
 
 # Graph
 
-### What is the Graph?
-
 The **Graph** is a live, visual map of every Object in your Channel and how they connect to each other. Each Object is a node; each link or Property reference is an edge. Open the Graph and you see your Channel's structure — what's central, what's isolated, what clusters around which projects.
 
-### Opening the Graph
+## Opening the Graph
 
 The Graph icon (a small node-and-edge symbol) appears at the top of every Object. Click it to switch to Graph view.
 
@@ -16,7 +14,7 @@ The Graph icon (a small node-and-edge symbol) appears at the top of every Object
 
 You can also press the keyboard shortcut listed in your shortcut settings to open Graph from any Object.
 
-### Reading the Graph
+## Reading the Graph
 
 Each **node** is an Object. Hover over a node to see its title and Type.
 
@@ -27,7 +25,7 @@ The **direction of the edge** (when arrows are enabled) shows which Object refer
 * A → B means Object A links to or references Object B
 * A bidirectional connection (A ↔ B) means both link to each other
 
-### Display settings
+## Display settings
 
 Click the gear icon (or settings menu) on the top right of the Graph view to access display options:
 
@@ -54,7 +52,7 @@ The **Filter by Types** menu lets you show only certain Object Types in the Grap
 
 This is the fastest way to study a slice — for example, "show only Tasks and Projects" to see how your work breaks down.
 
-### Search in the Graph
+## Search in the Graph
 
 The search at the top of the Graph lets you find specific Objects:
 
