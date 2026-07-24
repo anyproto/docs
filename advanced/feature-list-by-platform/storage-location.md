@@ -4,8 +4,6 @@ description: Where your Vault data lives on disk, and how to move it.
 
 # Storage Location
 
-### What is the Storage Location?
-
 The **Storage Location** is the folder on your hard drive where Anytype keeps your Vault data — every Object, every encrypted block, every file you've uploaded, plus the indexes Anytype uses to make search fast.
 
 By default, Anytype picks a standard location based on your operating system, you can change this to any folder you choose — useful for moving data to a larger drive, an encrypted partition, or a different filesystem.
@@ -76,15 +74,7 @@ Anytype's data is already encrypted at rest (via the Vault's master key derived 
 
 ### Local-only mode
 
-If you choose Local-only network mode (in Vault Settings > Networks & Backup), your Vault never syncs to any remote server. Your data lives only at the storage location you've chosen, plus any other devices you sync with via local peer-to-peer.
-
-This is the most private mode but has tradeoffs:
-
-* **No off-device backup** — if your storage location is wiped, your data is gone
-* **No remote recovery** — you can't restore from another device unless you've synced P2P recently
-* **Sync between your own devices** still works, but only over your local network (Wi-Fi)
-
-Combine Local-only mode with a manual backup strategy: regularly export your Channels (Settings > Integrations > Export Channel) to a separate location.
+If you choose [Local-only](../../data/sync-and-backup/local-only.md) network mode (in Vault Settings > Networks & Backup), your Vault never syncs to any remote server. Your data lives only at the storage location you've chosen, plus any other devices you sync with via local peer-to-peer. Please [see here](../../data/sync-and-backup/local-only.md) for more details.&#x20;
 
 {% hint style="danger" %}
 **In Local-only mode, your storage location is the only copy of your data**. Treat the folder like a precious original — back it up regularly, and never let it live somewhere ephemeral (like a temp directory or unmounted drive).

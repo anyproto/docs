@@ -54,7 +54,7 @@
 * [Dates](advanced/feature-list-by-platform/dates.md)
 * [Tabs](advanced/feature-list-by-platform/tabs.md)
 * [Embeds](advanced/feature-list-by-platform/embeds.md)
-* [Inline Lists](advanced/feature-list-by-platform/inline-queries.md)
+* [Inline Views](advanced/feature-list-by-platform/inline-queries.md)
 * [Advanced Filters](advanced/feature-list-by-platform/advanced-filters.md)
 * [Formulas](advanced/feature-list-by-platform/formulas.md)
 * [Custom CSS](advanced/feature-list-by-platform/custom-css.md)
@@ -74,7 +74,7 @@
   * [Migrate from Notion](data/import-export/migrate-from-notion.md)
   * [Migrate from Evernote](data/import-export/migrate-from-evernote.md)
 * [Storage](data/storage.md)
-* [Deletion & Recovery](data/deletion-and-recovery.md)
+* [Data Erasure & Recovery](data/data-erasure-and-recovery.md)
 * [Analytics & Tracking](data/analytics-and-tracking.md)
 
 ## Settings

@@ -4,9 +4,11 @@ You can download the latest version of Anytype for your device at [download.anyt
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/download desktop.png" alt=""><figcaption></figcaption></figure></div>
 
-### Get started
+## Get started
 
-If this is your first time, click on `I am new here` and follow the provided instructions. If you already have an account, click on `I already have a Key` and enter your [key.md](../basics/key.md "mention") to proceed.
+If this is your first time, click on 'I am new here' and follow the provided instructions.&#x20;
+
+If you already have an account, click on 'I already have a Key'.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 1.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -28,24 +30,18 @@ Store your [key.md](../basics/key.md "mention") somewhere safe and never share i
 
 #### Log in using the QR code
 
-In addition to using your [key.md](../basics/key.md "mention") to log in, you can also use the QR code to log in faster. This is especially handy to sign in on your mobile devices if your desktop is close by.
+In addition to using your [Key](../basics/key.md) to log in, you can also use the QR code to log in faster. This is especially handy to sign in on your mobile devices if your desktop is close by.
 
 To log in using the QR code, simply navigate to your Vault Settings and click **Login Key**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 3.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Import
+#### Import
 
-If you would like to import some of your existing data into your Space, you can find the instructions on how to do so in [import-export](../data/import-export/ "mention").
+If you would like to import some of your existing data into your Space, you can find the instructions on how to do so in [Import & Export](../data/import-export/).&#x20;
 
-### What to expect after install
+## After installation
 
-Once you've created your Vault and saved your Key, you'll land in your first Channel — **Get Started** — already populated with example Objects to help you explore. This is your sandbox: poke around, open things, break stuff, no pressure.
+Once you've created your Vault and saved your Key, you'll land in a sandbox where you can poke around, open things, and break stuff. Go wild and explore with no pressure. When you're ready to start your own work, create a new Channel.&#x20;
 
-When you're ready to start your own work, **create a new Channel** for it:
-
-* Click the `+` button at the top of the Vault (the leftmost panel) to create a new Channel.
-* Inside your new Channel, create your first Object — a Note, a Task, or a Page.
-* Type `/` in any Object to start adding rich content: headings, lists, images, embeds.
-
-If you'd like a quick overview of how Anytype's core concepts fit together, start with [learn-the-model.md](../basics/learn-the-model.md "mention").
+If you'd like a quick overview of how Anytype's core concepts fit together, start with our [Overview](../basics/learn-the-model.md).&#x20;

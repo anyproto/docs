@@ -2,14 +2,14 @@
 
 Anytype is a safe haven for your digital life. We believe your thoughts, plans, and private conversations should belong to you—and only you.
 
-Most apps store your information on their own computers, meaning they can scan it, monetize it, or lock you out of it. In those systems, you're essentially asking for permission to access your own digital life. Anytype is different. We’ve built a tool where you are the sole owner of your digital world.
+Most apps store your data to view, scan, monetize, and control it. You're essentially asking for permission to access your own digital life. Anytype puts you back in charge. We’ve built a tool where you are the sole owner of your digital world.
 
 <div data-with-frame="true"><figure><img src=".gitbook/assets/Welcome Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## What makes Anytype different?
 
 * **Local-First**: Everything you create lives on your device first, not on a corporate server. You can work completely offline, sync across your own devices, or self-host your data. Whether you’re on a remote mountain or in a high-security office, you remain in control.
-* **End-to-End Encryption**: Your data is protected by a digital vault where it is scrambled into a secret code. Only you, and the people you explicitly choose to share with, can access the information in your app. Nobody, not even the team at Anytype, can see what you’re working on.
+* **End-to-End Encryption**: Your data is protected by a digital vault where it is scrambled into a secret code. Only you, and the people you explicitly choose to share with, can access the information. Nobody, not even the team at Anytype, can see what you’re working on.
 * **No Lock-In**: You are never a hostage to a subscription or a service provider. You have access to your data and the Anytype software forever. Because you aren't dependent on any vendor, nobody can ever switch off your access to your own digital life—not even us.
 
 ## Quick Overview
@@ -23,11 +23,7 @@ In this short video, you will gain an overview of Anytype and how to get started
 Anytype lets you create different spaces for your work and personal life. Because each space is kept isolated, you never have to worry about your information being shared with the wrong people.
 
 * **Personal Spaces**: A private sanctuary for your eyes only. Use these to organize your diary, manage to-do lists, and store important documents.
-* **Collaborative Spaces**: Shared environments where you can work seamlessly with family, project teams, or entire communities.
-
-#### Can I collaborate on Anytype?
-
-On Anytype, your communication and your knowledge base are integrated together. Chats and discussions live directly inside your spaces, allowing you to hold private conversations right alongside your documents, tasks, and media.&#x20;
+* **Collaborative Spaces**: Shared environments where you can work seamlessly with family, project teams, or entire communities. Chats and discussions live directly inside your spaces, allowing you to hold private conversations right alongside your documents, tasks, and media.&#x20;
 
 ## What powers Anytype?
 
@@ -37,6 +33,4 @@ Anytype is powered by [AnySync](https://tech.anytype.io/any-sync/overview), whic
 
 ## Join the Community
 
-* Support: Have questions or ideas? Join our [Community Forum](https://www.google.com/search?q=%23).
-* Contribute: Want to help build the future of Anytype? [Get involved here](https://www.google.com/search?q=%23).
-* Templates: Explore pre-made layouts in our [Experience Gallery](https://www.google.com/search?q=%23).
+Have questions or ideas? Join our [Community Forum](https://community.anytype.io/).

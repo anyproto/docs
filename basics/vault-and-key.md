@@ -14,7 +14,7 @@ This means your information stays private by default. It's not protected by a fl
 
 ## How it works
 
-Your Vault is created the first time you set up Anytype. Along with it, you receive a [key.md](key.md "mention")—think of it like a master password that replaces the standard email and password combination.&#x20;
+Your Vault is created the first time you set up Anytype. Along with it, you receive a Key—think of it like a master password that replaces the standard email and password combination.&#x20;
 
 * Your Key is a 12-word phrase that can never be changed or reset.&#x20;
 * It is generated locally on your device and never shared with Anytype, which ensures that your data is secure.&#x20;

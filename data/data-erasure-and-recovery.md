@@ -1,10 +1,10 @@
-# Deletion & Recovery
+# Data Erasure & Recovery
 
 You are the only person who holds the [Keys](../basics/key.md) to your data and can manage it.
 
 ## Delete your Vault / Account
 
-Anytype cannot access your data. We also cannot connect your [Vault](../basics/vault-and-key.md), AnytypeID, or email address. You can only delete your data yourself through the app.
+Anytype cannot access your data or verify your identity in any way. To delete your data, you must do so yourself through the app.
 
 1. Go to your [Vault Settings](../advanced/settings/account-and-data.md) by clicking on your profile picture in the Sidebar.
 2. Click on **Login Key** in the menu on the side.
@@ -29,6 +29,10 @@ Your [keys](../basics/key.md) are generated locally on your device, so Anytype n
 #### What can I do if I can't access my Vault?
 
 If you have signed in to Anytype on multiple devices, your [Key](../basics/key.md) is available on each device. Open Anytype on another device, then navigate to [Vault Settings](../advanced/settings/account-and-data.md) to obtain your Key. Use it to sign in again.
+
+#### What if I can't delete my Vault?&#x20;
+
+If you are unable to retrieve your Key to access your Vault, Anytype is unable to delete your account for you because we have no way of identifying it correctly with your identity. Your Vault will remain encrypted on our backup nodes without anybody being able to access it.&#x20;
 
 {% hint style="danger" %}
 **Anytype cannot recover a lost Key.** Save multiple copies of your Key using a secure method.

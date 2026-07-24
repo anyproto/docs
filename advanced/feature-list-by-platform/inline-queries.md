@@ -2,17 +2,15 @@
 description: Display a live filtered view of Objects directly inside another Object.
 ---
 
-# Inline Lists
-
-### What is an Inline List?
+# Inline Views
 
 An **Inline Query** (or **Inline Collection**) is an embedded Object inside another Object. Instead of opening a separate Query as its own page, you display the Query's results directly in the editor — alongside your text, images, and other blocks.
 
 The Query stays live: as Objects are added, modified, or removed in your Channel, the inline display updates automatically.
 
-<figure><img src="../../.gitbook/assets/inline-list (1).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/inline-list (1).png" alt=""><figcaption></figcaption></figure></div>
 
-### Why it matters
+## Why it matters
 
 Inline Queries and Collections turn ordinary pages into **dashboards**. A project page can show:
 
@@ -23,7 +21,7 @@ Inline Queries and Collections turn ordinary pages into **dashboards**. A projec
 
 …all rendered live, all in one Object. You don't have to click into a separate Query page to see what's happening — it's right there.
 
-### Creating an Inline Query
+## Creating an Inline Query
 
 #### Method 1: Embed an existing Query
 
@@ -46,7 +44,7 @@ If you want a one-off Query that lives only inside this Object:
 
 You can also embed an Inline Collection the same way — useful for manually-curated lists embedded in a project page.
 
-### Customizing an Inline Query view
+## Customizing an Inline Query view
 
 Click the inline Query block to focus it, then use the standard Query controls:
 
@@ -89,7 +87,7 @@ You can put as many inline Queries as you want on a single Object:
 
 Each Query block is independent. They render side by side, refresh in real time, and let you build a personal "command center" page.
 
-### Tips
+## Tips
 
 {% hint style="info" %}
 **Build a daily homepage with inline Queries.** Set this Object as your Channel Homepage (Channel Settings > Preferences > Homepage). Every time you open the Channel, you see today's view.

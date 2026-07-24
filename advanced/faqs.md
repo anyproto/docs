@@ -46,6 +46,8 @@ Click and drag the 'handle' to the left of each block and move it to your desire
 
 Anytype does not have access to your account in any way, thus we do not have your Key and cannot recover it for you. However you may be able to recover it on your own, [see here for more details](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/75/basics/key#if-youve-lost-your-key).&#x20;
 
+If you're still unable to retrieve your Key to access your Vault, Anytype is unable to delete your account for you because we have no way of identifying it correctly with your identity. Your Vault will remain encrypted on our backup nodes without anybody being able to access it.&#x20;
+
 </details>
 
 <details>

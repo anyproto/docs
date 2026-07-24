@@ -6,7 +6,9 @@ description: Open multiple Objects side by side in a tab bar.
 
 **Tabs** let you keep multiple Objects open at once in the same window — just like in a browser. Each tab is one Object. Click between tabs to switch instantly without losing your scroll position or your edit cursor.
 
-<figure><img src="../../.gitbook/assets/tabs.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Tabs.jpg" alt=""><figcaption></figcaption></figure></div>
+
+## Why it matters
 
 Most knowledge work involves jumping between things — a note while you're editing a doc, a task while you're in a meeting, a reference while you're writing. Tabs make this fluid:
 

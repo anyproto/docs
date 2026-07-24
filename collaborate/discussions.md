@@ -1,6 +1,8 @@
 # Discussions
 
-A **Discussion** is a comment thread attached directly to an Object. Instead of switching to a separate Chat to talk about a page, task, or document, you post comments right where the work lives — and the conversation stays attached to that Object forever. Think of it as the comments section at the bottom of any Object in your space.
+A **Discussion** is a comment thread attached directly to an Object. Instead of switching to a separate Chat to talk about a page, task, or document, you post comments right where the work lives — and the conversation stays attached to that Object forever.&#x20;
+
+Discussions can be used for collaboration purposes, but it can also be used as an appendix for personal-use. This is great for attaching notes and files to an Object without having it be part of the main content.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Discussions Intro.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -12,30 +14,33 @@ This is different from a Chat: Chats are streams of messages organized by topic 
 
 ## How it works
 
-Every Object can hold a Discussion. Posts support the same rich content as the editor — you're not limited to plain text.
+Every Object can hold a Discussion and they support the same rich content as the editor — you're not limited to plain text. It can include:&#x20;
 
-Posts in a Discussion can include:
-
-* Code blocks with syntax highlighting
-* Checkboxes for tracking action items inside a thread
 * Attachments (files, images, embeds)
 * Inline links to other Objects with `@` mentions
 * Standard text formatting (bold, italic, lists)
+* Checkboxes for tracking action items inside a thread
+* Code blocks with syntax highlighting
 
 Once posted, you can edit your own messages, react with emoji, and reply to specific posts to build a threaded conversation.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Discussion Formatting.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Starting a Discussion
 
 1. Open any Object.
 2. Click the **Discussion** button at the bottom of the Object.
 3. Type your message in the input box at the bottom.
-4. Press Enter (or Cmd/Ctrl + Enter, depending on your Send Message preference) to post.
+4. Press Enter (or `Cmd/Ctrl + Enter` depending on your Send Message preference)
+5. Your discussion appears immediately and notifies other members of the Channel.
 
-Your post appears in the thread immediately and syncs to other members of the Channel.
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Discussion Start.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Replying to a post
 
 Hover over any post and click the reply icon, or right-click the post and choose **Reply**. Your reply is grouped under the original post so the conversation stays organized even when multiple threads are running in parallel.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Discussion Reply.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Reactions
 
@@ -66,6 +71,10 @@ By default, you'll be notified about replies to your own posts and reactions to 
 Channel-level notification settings still apply on top of per-Object settings.
 
 ## Tips
+
+{% hint style="info" %}
+**No collaboration required: use the Discussions area as a personal appendix to your documents.** It separates additional notes and files from the main content area.&#x20;
+{% endhint %}
 
 {% hint style="info" %}
 **@-mention people in Discussions** to notify them. The @ menu also lets you mention other Objects, which becomes a clickable link inside the post.

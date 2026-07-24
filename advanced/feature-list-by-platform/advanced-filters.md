@@ -4,15 +4,13 @@ description: Build precise queries with AND/OR logic and grouped conditions.
 
 # Advanced Filters
 
-### What are Advanced Filters?
-
 **Advanced Filters** let you combine multiple filter conditions with AND/OR logic and group them into nested rules — so you can express complex queries like:
 
 > Show me all Tasks where (Priority is High **OR** Due Date is this week) **AND** Status is not Done
 
 Without advanced filters, every condition is joined by AND and applied flatly. Advanced filters give you parentheses — you can express OR, you can group rules, and you can build precise queries that match how you actually think about your data.
 
-### Why it matters
+## Why it matters
 
 Most filtering needs are simple: "tasks assigned to me", "books I've read". A single condition handles those.
 
@@ -24,7 +22,7 @@ But once your data has any complexity, you start needing things like:
 
 Each of those needs at least two conditions, and the way they combine matters. Advanced filters make this expressible.
 
-### How to add an Advanced Filter
+## How to add an Advanced Filter
 
 Advanced filters live alongside basic filters in the filter bar of any Query or Collection.
 
@@ -37,7 +35,7 @@ The basic filter bar shows simple conditions joined by AND. The advanced filter 
 
 <figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
-### Building conditions
+## Building conditions
 
 Each condition has three parts:
 
@@ -152,7 +150,7 @@ Status is Blocked  OR  (Status is In Progress  AND  Modified is before 7 days ag
 (Type is Document  OR  Type is Note)  AND  Reviewed is unchecked  AND  Created is before this week
 ```
 
-### Tips
+## Tips
 
 {% hint style="info" %}
 **Group OR conditions.** AND has higher default precedence — `A AND B OR C` may not mean what you think. Wrapping the OR in a group makes the intent explicit and unambiguous.

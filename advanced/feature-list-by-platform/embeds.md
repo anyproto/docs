@@ -4,11 +4,9 @@ description: Add live external content directly inside your Objects.
 
 # Embeds
 
-### What is an Embed?
-
 An **Embed** is a block in the editor that displays live content from an external service — a YouTube video, a Miro board, a Google Maps location, a Mermaid diagram. Instead of just linking to the source, the content renders inside your Object so you can see and (in many cases) interact with it without leaving Anytype.
 
-### Why it matters
+## Why it matters
 
 Embeds keep your work in one place. A project page can show:
 
@@ -19,7 +17,7 @@ Embeds keep your work in one place. A project page can show:
 
 …all without bouncing between tabs and apps. When you come back to the page weeks later, everything you need is still there — and the embedded content reflects whatever's current at the source.
 
-### Adding an Embed
+## Adding an Embed
 
 The fastest way:
 
@@ -36,9 +34,9 @@ You can also paste a URL directly into the editor. The paste menu offers four op
 
 If the URL is from a recognized embeddable service, **Embed** is the default. For unknown services, you'll see only **Mention**, **Bookmark**, and **Link**.
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-### Supported embed types
+## Supported embed types
 
 #### Video and audio
 
@@ -75,7 +73,7 @@ If the URL is from a recognized embeddable service, **Embed** is the default. Fo
 * **Facebook**
 * **Instagram**
 
-### File embeds
+## File embeds
 
 Beyond external URLs, you can embed files directly from your Objects:
 
@@ -114,7 +112,7 @@ graph TD
 
 Anytype renders this as a flowchart in real time. Mermaid supports flowcharts, sequence diagrams, Gantt charts, class diagrams, and more — see the [Mermaid documentation](https://mermaid.js.org) for full syntax.
 
-### Tips
+## Tips
 
 {% hint style="info" %}
 **Embed reference, link to source for citation.** A Wikipedia article is best linked (it's not very embeddable); a Miro board is best embedded (you want to see it). Pick the format that matches how you'll use it.

@@ -4,17 +4,15 @@ description: Two ways to keep important Objects close — yours and the team's.
 
 # Pins & Favorites
 
-Every Channel has two distinct mechanisms for surfacing important Objects in the sidebar: **My Favorites** (just for you) and **Pinned** (visible to everyone).
-
-All Pins and Favorites can be turned into [Widgets](sidebar-widgets.md), which are interactive feeds directly in your Sidebar. Or they can remain as simple links, which are fast shortcuts to your content.&#x20;
+You can add your most important [Objects](../../creation/objects/) to your Sidebar with Pins and Favorites. All Pins and Favorites can be turned into [Widgets](sidebar-widgets.md), which are interactive feeds directly in your Sidebar. Or they can remain as simple links, which are fast shortcuts to your content.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Pins Favorites.jpg" alt=""><figcaption></figcaption></figure></div>
 
-| Function    | Favorites             | Pinned                      |
-| ----------- | --------------------- | --------------------------- |
-| Visible to  | Just you              | All members                 |
-| Who can add | Anyone                | Owner only                  |
-| Use for     | Personal quick-access | Team-wide important Objects |
+## Favorites vs. Pins
+
+My Favorites (just for you) and Pinned (visible to everyone).
+
+<table><thead><tr><th width="153.71875">Function</th><th>Favorites</th><th>Pinned</th></tr></thead><tbody><tr><td>Visible to</td><td>Just you</td><td>All members</td></tr><tr><td>Who can add</td><td>Anyone</td><td>Owner &#x26; Admin</td></tr><tr><td>Use for</td><td>Personal quick-access</td><td>Important for everybody</td></tr></tbody></table>
 
 ## My Favorites
 
@@ -54,7 +52,7 @@ Shared Pins are seen by every member in the Channel and can only be set by the O
 4. The Object now appears in the **Pinned** section of every member's sidebar.
 
 {% hint style="warning" %}
-Only Owners can add or remove Pinned Objects. Admin, Editors, and Viewers see them but can't modify them.
+Only Owners and Admins can add, remove, and reorder Pinned Objects. Editors and Viewers see them but can't modify them.
 {% endhint %}
 
 ## Tips

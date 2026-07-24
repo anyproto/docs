@@ -38,14 +38,7 @@ Execute the file named:
 
 #### Result <a href="#p-42130-result-6" id="p-42130-result-6"></a>
 
-*   If your sync is **working as expected**, your output log should look something like this:\
-
+*   If your sync is **working as expected**, your output log should look something like this:\\
 
     <figure><img src="../../.gitbook/assets/Screenshot 2023-08-02 at 16.40.02.png" alt=""><figcaption></figcaption></figure>
 * **If the tool detects any errors:** please provide all details about your network setup, including VPN, proxy, firewalls, and antivirus. In this event, we may request you to run a trace-route or other system tools for further analysis later on.
-
-***
-
-#### Send to Anyteam <a href="#p-42130-send-to-anyteam-7" id="p-42130-send-to-anyteam-7"></a>
-
-Send the resulting log and your network specs to [support@anytype.io](mailto:support@anytype.io).

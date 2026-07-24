@@ -4,8 +4,6 @@ description: Aggregations and counts in Grid view.
 
 # Formulas
 
-### What are Formulas?
-
 **Formulas** let you summarize and aggregate Property values across the Objects in a Query or Collection. When you're looking at your data in Grid view, you can show counts, sums, averages, minimums, maximums, and other calculations at the bottom of any column.
 
 The result is a row of summary values right under your data — useful for things like:
@@ -18,7 +16,7 @@ The result is a row of summary values right under your data — useful for thing
 
 <figure><img src="../../.gitbook/assets/formulas.png" alt=""><figcaption></figcaption></figure>
 
-### Where Formulas appear
+## Where Formulas appear
 
 Formulas live at the **bottom of each column in Grid view**. Each column gets its own formula, so different columns can show different calculations.
 
@@ -33,7 +31,7 @@ The result displays in the column footer and updates as your data changes.
 
 <figure><img src="../../.gitbook/assets/formulas (1).png" alt=""><figcaption></figcaption></figure>
 
-### Available formulas
+## Available formulas
 
 The formulas available depend on the Property type of the column. Here's the full list:
 
@@ -60,7 +58,7 @@ The formulas available depend on the Property type of the column. Here's the ful
 | **Maximum** | Largest value            |
 | **Range**   | Maximum − Minimum        |
 
-### Limitations
+## Limitations
 
 * **Formulas are visual only** — they're shown in the column footer but you can't reference them in another Object or use them in filters
 * **No custom expressions** — you choose from the list of available formulas; there's no way to write `column1 + column2`
@@ -69,7 +67,7 @@ The formulas available depend on the Property type of the column. Here's the ful
 
 For more complex calculations, export the data to CSV and process it externally — or use the [Anytype Agents Skill](https://github.com/anyproto/docs-new/blob/main/getting-started/anytype-agents-skill.md) to run scripts against your data.
 
-### Common patterns
+## Common patterns
 
 #### Sprint hours estimate
 

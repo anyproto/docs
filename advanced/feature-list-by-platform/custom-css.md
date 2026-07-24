@@ -6,15 +6,15 @@ Original shared by [LavaC](https://community.anytype.io/u/LavaC) on our communit
 
 For assistance with this CSS guide or CSS in general, please comment in the original topic linked above.
 
-### Where <a href="#where-1" id="where-1"></a>
+## Where <a href="#where-1" id="where-1"></a>
 
 To enable the Custom CSS style sheet, go to `Menu > File > Apply Custom CSS`.
 
-<figure><img src="../../.gitbook/assets/custom-css.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/custom-css.png" alt=""><figcaption></figcaption></figure></div>
 
 To edit the custom CSS file, go to `Menu > File > Open > Custom CSS`.
 
-### How <a href="#how-2" id="how-2"></a>
+## How <a href="#how-2" id="how-2"></a>
 
 In order to take into beginners, many methods in this article are not best practices. If you understand CSS, you can likely skip most of the contents.
 
@@ -24,11 +24,11 @@ When developing software, styles variables are usually set first as a baseline. 
 
 These variables are usually under the `:root` selector, we can see these in Dev tools.
 
-<figure><img src="https://community-static.anytype.io/optimized/2X/8/8c798a22e6bddd7bd190043a2ec7c226fcf5cf24_2_690x408.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://community-static.anytype.io/optimized/2X/8/8c798a22e6bddd7bd190043a2ec7c226fcf5cf24_2_690x408.png" alt=""><figcaption></figcaption></figure></div>
 
 For example, `--color-text-primary` seems to be the color variable for the darkest black text, so we can write it this way in the custom.css file:
 
-<figure><img src="https://community-static.anytype.io/original/2X/b/bbefbe5a417032384cde12b1e80e4b2f480ded68.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://community-static.anytype.io/original/2X/b/bbefbe5a417032384cde12b1e80e4b2f480ded68.png" alt=""><figcaption></figcaption></figure></div>
 
 After saving, you can refresh Anytype by pressing `(Command/Ctrl) + r`.
 
@@ -36,11 +36,11 @@ After saving, you can refresh Anytype by pressing `(Command/Ctrl) + r`.
 
 At this point, we can see that the red I just wrote overrode the default value, so my text has all turned red.
 
-<figure><img src="https://community-static.anytype.io/optimized/2X/0/0e16feda708cfeee241bc7128caa3f802a09c66d_2_690x384.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://community-static.anytype.io/optimized/2X/0/0e16feda708cfeee241bc7128caa3f802a09c66d_2_690x384.png" alt=""><figcaption></figcaption></figure></div>
 
 Below is part of the custom.css I modified referring to [Solarized 18](https://en.wikipedia.org/wiki/Solarized), which is actually like a word filling game, change these variables more to see where they take effect, and then you’ll know what to modify next.
 
-<figure><img src="https://community-static.anytype.io/optimized/2X/0/0a67ca485d41ba2d1e72dd5b30b5cae7f489f82e_2_690x394.jpeg" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://community-static.anytype.io/optimized/2X/0/0a67ca485d41ba2d1e72dd5b30b5cae7f489f82e_2_690x394.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 ```css
 :root {
@@ -185,6 +185,6 @@ If you have used PS, you should be able to guess that this is a similar mask fun
 
 <figure><img src="https://community-static.anytype.io/original/2X/7/72dbdcf71ef643f5873aa7ea1ea814bf282dfec5.png" alt=""><figcaption></figcaption></figure>
 
-### Examples
+## Examples
 
 {% embed url="https://community.anytype.io/t/anytype-mist-light-dark-a-brand-new-anytype-theme/16329" %}

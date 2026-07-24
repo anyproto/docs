@@ -88,7 +88,7 @@ You can access your Key or scan the QR code to connect your mobile device. For m
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Welcome 3 (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
-**Vault Deletion:** Also, if you would like to delete your vault, you can do it in this section. Learn more here: [deletion-and-recovery.md](../../data/deletion-and-recovery.md "mention")
+**Vault Deletion:** Also, if you would like to delete your vault, you can do it in this section. Learn more here: [data-erasure-and-recovery.md](../../data/data-erasure-and-recovery.md "mention")
 
 ## Data Management
 
