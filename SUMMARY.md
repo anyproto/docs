@@ -17,18 +17,18 @@
   * [Pins & Favorites](basics/sidebar/pins-and-favorites.md)
   * [Widgets](basics/sidebar/widgets.md)
 
-## Creation
+## Create
 
-* [Objects](creation/objects/README.md)
-  * [Formats](creation/objects/formats.md)
-* [Editor](creation/editor/README.md)
-  * [Block Types](creation/editor/block-types.md)
-  * [Table of Contents](creation/editor/table-of-contents.md)
-  * [Toggled Headings](creation/editor/toggled-headings.md)
-  * [Inline LaTeX](creation/editor/inline-latex.md)
-* [Links](creation/links.md)
-* [Bookmarks](creation/bookmarks.md)
-* [Files & Media](creation/files-and-media.md)
+* [Objects](create/objects/README.md)
+  * [Formats](create/objects/formats.md)
+* [Editor](create/editor/README.md)
+  * [Block Types](create/editor/block-types.md)
+  * [Table of Contents](create/editor/table-of-contents.md)
+  * [Toggled Headings](create/editor/toggled-headings.md)
+  * [Inline LaTeX](create/editor/inline-latex.md)
+* [Links](create/links.md)
+* [Bookmarks](create/bookmarks.md)
+* [Files & Media](create/files-and-media.md)
 
 ## Organize
 

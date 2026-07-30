@@ -14,7 +14,7 @@ Here is a quick map of Anytype. Understanding these core concepts will make ever
 
 ## 3. Objects
 
-**The stuff in your rooms.** In most apps, 'the stuff' consists of files organized into a folder hierarchy. In Anytype, we have [Objects](../creation/objects/). A recipe is an object, a meeting note is an object, and a photo is an object. Instead of items buried deep in folders, Objects float in like stars in space that are connected by links. Think of documents and files in Anytype as a network rather than a hierarchical folder tree.
+**The stuff in your rooms.** In most apps, 'the stuff' consists of files organized into a folder hierarchy. In Anytype, we have [Objects](../create/objects/). A recipe is an object, a meeting note is an object, and a photo is an object. Instead of items buried deep in folders, Objects float in like stars in space that are connected by links. Think of documents and files in Anytype as a network rather than a hierarchical folder tree.
 
 ## 4. Types
 

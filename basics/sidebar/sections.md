@@ -34,7 +34,7 @@ The [Types](../../organize/types.md) section is the master index of your space. 
 * **Quick Create Object** — hover over any Type to reveal a '+' button. Click it to create a new Object of that Type instantly.
 * **Add New Types** — hover over the Type section title to reveal a '+ New Type' button.
 * **Reorder Types** — click and drag a Type to reorder its position in the list.
-* **Hidden Types** — only Types that have at least one Object appear in the sidebar automatically. To create an Object of a Type that isn't visible on the sidebar, click the [Create Dropdown in the Sidebar](../../creation/objects/#create-menu) to reveal all your Types.
+* **Hidden Types** — only Types that have at least one Object appear in the sidebar automatically. To create an Object of a Type that isn't visible on the sidebar, click the [Create Dropdown in the Sidebar](../../create/objects/#create-menu) to reveal all your Types.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Types.jpg" alt=""><figcaption></figcaption></figure></div>
 

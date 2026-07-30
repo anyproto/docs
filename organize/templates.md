@@ -76,7 +76,7 @@ Setting the default Template here will apply to all Objects created for this Typ
 
 #### Create Objects with Templates
 
-1. Create an Object with [your preferred method](../creation/objects/#create-objects).
+1. Create an Object with [your preferred method](../create/objects/#create-objects).
 2. The default Template will be applied automatically.
 3. Start editing the Template.
 

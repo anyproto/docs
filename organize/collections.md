@@ -34,7 +34,7 @@ Collections live in all the same places as [Types](types.md)—the Sidebar, the 
 
 To create a Collection:
 
-1. In the Sidebar, click on the [Create Dropdown button](../creation/objects/#create-menu) and select **Collection**.
+1. In the Sidebar, click on the [Create Dropdown button](../create/objects/#create-menu) and select **Collection**.
 2. Add existing Objects from your space or create new ones.
 3. Set your **filters** and **sorts**.
 4. Choose a **layout**.

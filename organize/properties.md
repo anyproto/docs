@@ -43,7 +43,7 @@ Here are the currently available Property types within Anytype:
 
 ## Create & Manage Properties
 
-Because all [Objects](../creation/objects/) have a [Type](types.md), it's best to use Properties within the context of a Type. You can:
+Because all [Objects](../create/objects/) have a [Type](types.md), it's best to use Properties within the context of a Type. You can:
 
 * Create new Properties.
 * Add existing Properties.
@@ -125,7 +125,7 @@ When viewing an Object, you can quickly see all of its Properties by opening the
 
 ## Deleting Properties
 
-Properties exist independently from [Types](types.md) and [Objects](../creation/objects/)—they are their own thing. Because of this, there are multiple ways to remove them.
+Properties exist independently from [Types](types.md) and [Objects](../create/objects/)—they are their own thing. Because of this, there are multiple ways to remove them.
 
 #### From a Type
 

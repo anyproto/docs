@@ -54,7 +54,7 @@ Use a [Collection](collections.md) when you want a hand-picked group of Objects 
 
 Queries live in all the same places as Types—the Sidebar, the Create menu, and Channel Settings. And like Types, every Query has Views that work the same way. To create a Query:
 
-1. In the Sidebar, click on the [Create Dropdown button](../creation/objects/#create-menu) and select **Query**.
+1. In the Sidebar, click on the [Create Dropdown button](../create/objects/#create-menu) and select **Query**.
 2. Choose a **source**. This can be a:
    1. [Type](types.md), such as Tasks, Projects, Books.
    2. [Property](properties.md), such as all Objects with a 'Reviewed' tag property.

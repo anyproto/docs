@@ -42,7 +42,7 @@ Every Widget layout has unique ways in which you can interact with the Objects. 
 
 * **Calendar** — click on a day will reveal Objects and enable you to create a new one.
 * **Kanban** — click on a group to reveal the section and add a new Object.
-* **Tasks** — click on the checkbox of an [Action Object](../../creation/objects/formats.md#page-layouts) to mark it as complete.
+* **Tasks** — click on the checkbox of an [Action Object](../../create/objects/formats.md#page-layouts) to mark it as complete.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets.gif" alt=""><figcaption></figcaption></figure></div>
 

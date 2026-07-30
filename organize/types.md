@@ -43,7 +43,7 @@ Additionally, you can set the **Default Object Type** in the Channel Settings. T
 To access the Type settings, there are three primary ways:
 
 1. Navigate to the Type from the [Sidebar](../basics/sidebar/) and click **Edit Type** on the top right-hand side.
-2. When viewing an [Object](../creation/objects/), click on the 'three dots' button on the top right corner, and select the **Type settings** option.
+2. When viewing an [Object](../create/objects/), click on the 'three dots' button on the top right corner, and select the **Type settings** option.
 3. Navigate to the [Channel Settings](../settings/channel-settings.md), click on **Object Types**, and select your desired Type.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Edit Type.gif" alt=""><figcaption></figcaption></figure></div>
@@ -54,7 +54,7 @@ In this panel, you can make various edits:
 * Change the content width
 * Add/remove Properties and Templates.
 * Make edits to the Object Header.
-* Edit the [Object layout](../creation/objects/formats.md#page-format).
+* Edit the [Object layout](../create/objects/formats.md#page-format).
 
 ### Object Header
 

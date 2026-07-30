@@ -21,7 +21,7 @@ There are three core components to a View:
 
 ### Layouts
 
-Layouts visually arrange your [Objects](../creation/objects/) and their [Properties](properties.md) in ways that make it easier to work with. A series of events on a calendar and a bunch of tasks on a kanban board. Here are some examples of various [layouts in action](views.md#views-in-types-queries-and-collections).
+Layouts visually arrange your [Objects](../create/objects/) and their [Properties](properties.md) in ways that make it easier to work with. A series of events on a calendar and a bunch of tasks on a kanban board. Here are some examples of various [layouts in action](views.md#views-in-types-queries-and-collections).
 
 <table><thead><tr><th width="130.99609375">Options</th><th>Best For</th><th>Extra Options</th></tr></thead><tbody><tr><td><strong>List</strong></td><td>Simple vertical rows</td><td>Compact, Regular</td></tr><tr><td><strong>Grid</strong></td><td>Spreadsheet-like experience</td><td>Wrap content</td></tr><tr><td><strong>Calendar</strong></td><td>Date and time arrangement</td><td>Date property</td></tr><tr><td><strong>Kanban</strong></td><td>Grouping and project management</td><td>Group by, Color columns, Cover</td></tr><tr><td><strong>Gallery</strong></td><td>Visual highlights</td><td>Cover, Card size, Icon, Fit media</td></tr><tr><td><strong>Graph</strong></td><td>Inter-connected relationships</td><td>Graph settings</td></tr></tbody></table>
 
@@ -139,7 +139,7 @@ In the View toolbar next to the 'New' button, there is a search icon. Using sear
 
 ### Bulk editing Objects
 
-You can edit multiple [Objects](../creation/objects/) at the same time—change types, edit properties, and mass delete. This is best done in a View set to the Grid layout, but it also works in other layouts as well.
+You can edit multiple [Objects](../create/objects/) at the same time—change types, edit properties, and mass delete. This is best done in a View set to the Grid layout, but it also works in other layouts as well.
 
 1. Navigate to the View from the Sidebar.
 2. Select all Objects you want to edit. You can do this by:

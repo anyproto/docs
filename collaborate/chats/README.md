@@ -12,7 +12,7 @@ Chats give you the rhythm of a messaging app — quick replies, reactions, file 
 
 ## How it works
 
-Just like documents and files, Chats are [Objects](../../creation/objects/) that have their own dedicated [Type](../../organize/types.md). This means that a Chat:
+Just like documents and files, Chats are [Objects](../../create/objects/) that have their own dedicated [Type](../../organize/types.md). This means that a Chat:
 
 * Lives in the Types section of the Sidebar under 'Chat'.
 * Can have its own [Properties](../../organize/properties.md).

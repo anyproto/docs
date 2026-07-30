@@ -61,7 +61,7 @@ If the URL is from a recognized embeddable service, **Embed** is the default. Fo
 
 #### Code and content
 
-* **LaTeX** — see here for more information: [inline-latex.md](../../creation/editor/inline-latex.md "mention")
+* **LaTeX** — see here for more information: [inline-latex.md](../../create/editor/inline-latex.md "mention")
 * **GitHub Gist** — paste a Gist URL
 * **CodePen** — paste a Pen URL
 * **CodeSandbox** — paste a sandbox URL
@@ -97,7 +97,7 @@ The default is set in **Vault Settings > Application > Editor Personalization > 
 
 Most embed blocks (especially videos, maps, and visual content) have a resize handle. Drag the handle to make the embed larger or smaller. Changes are saved per-block.
 
-You can put an embed in a column alongside text by dragging it next to another block — see [Blocks](../../creation/editor/) for column layouts.
+You can put an embed in a column alongside text by dragging it next to another block — see [Blocks](../../create/editor/) for column layouts.
 
 ### Mermaid syntax (quick reference)
 
