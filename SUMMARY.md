@@ -3,39 +3,39 @@
 ## Getting Started
 
 * [Welcome](README.md)
-  * [Mission](getting-started/readme/mission.md)
-* [Install](getting-started/install-and-setup.md)
+  * [Mission](getting-started/welcome/mission.md)
+* [Install](getting-started/install.md)
 
 ## Basics
 
-* [Overview](basics/learn-the-model.md)
-* [Vault](basics/vault-and-key.md)
+* [Overview](basics/overview.md)
+* [Vault](basics/vault.md)
 * [Key](basics/key.md)
-* [Channels](basics/space.md)
+* [Channels](basics/channels.md)
 * [Sidebar](basics/sidebar/README.md)
-  * [Sections](basics/sidebar/sidebar-sections.md)
+  * [Sections](basics/sidebar/sections.md)
   * [Pins & Favorites](basics/sidebar/pins-and-favorites.md)
-  * [Widgets](basics/sidebar/sidebar-widgets.md)
+  * [Widgets](basics/sidebar/widgets.md)
 
 ## Creation
 
 * [Objects](creation/objects/README.md)
   * [Formats](creation/objects/formats.md)
-* [Editor](creation/blocks/README.md)
-  * [Block Types](creation/blocks/block-types.md)
-  * [Table of Contents](creation/blocks/table-of-contents.md)
-  * [Toggled Headings](creation/blocks/toggled-headings.md)
-  * [Inline LaTeX](creation/blocks/inline-latex.md)
-* [Links](creation/linking-objects.md)
+* [Editor](creation/editor/README.md)
+  * [Block Types](creation/editor/block-types.md)
+  * [Table of Contents](creation/editor/table-of-contents.md)
+  * [Toggled Headings](creation/editor/toggled-headings.md)
+  * [Inline LaTeX](creation/editor/inline-latex.md)
+* [Links](creation/links.md)
 * [Bookmarks](creation/bookmarks.md)
 * [Files & Media](creation/files-and-media.md)
 
 ## Organize
 
 * [Types](organize/types.md)
-* [Properties](organize/relations.md)
+* [Properties](organize/properties.md)
 * [Views](organize/views.md)
-* [Queries](organize/sets.md)
+* [Queries](organize/queries.md)
 * [Collections](organize/collections.md)
 * [Templates](organize/templates.md)
 * [Deletion](organize/deletion.md)
@@ -46,7 +46,7 @@
 * [Chats](collaborate/chats/README.md)
   * [Direct Channels](collaborate/chats/direct-channels.md)
 * [Discussions](collaborate/discussions.md)
-* [Publish](collaborate/web-publishing.md)
+* [Publish](collaborate/publish.md)
 
 ## Features
 
@@ -68,19 +68,19 @@
 * [Sync & Backup](data/sync-and-backup/README.md)
   * [Self-host](data/sync-and-backup/self-host.md)
   * [Local-only](data/sync-and-backup/local-only.md)
-* [Privacy & Encryption](data/how-we-keep-your-data-safe.md)
-* [Import & Export](data/import-export/README.md)
-  * [Migrate from Obsidian](data/import-export/migrate-from-obsidian.md)
-  * [Migrate from Notion](data/import-export/migrate-from-notion.md)
-  * [Migrate from Evernote](data/import-export/migrate-from-evernote.md)
+* [Privacy & Encryption](data/privacy-and-encryption.md)
+* [Import & Export](data/import-and-export/README.md)
+  * [Migrate from Obsidian](data/import-and-export/migrate-from-obsidian.md)
+  * [Migrate from Notion](data/import-and-export/migrate-from-notion.md)
+  * [Migrate from Evernote](data/import-and-export/migrate-from-evernote.md)
 * [Storage](data/storage.md)
 * [Data Erasure & Recovery](data/data-erasure-and-recovery.md)
 * [Analytics & Tracking](data/analytics-and-tracking.md)
 
 ## Settings
 
-* [Vault Settings](advanced/settings/account-and-data.md)
-* [Channel Settings](advanced/settings/space-settings.md)
+* [Vault Settings](settings/vault-settings.md)
+* [Channel Settings](settings/channel-settings.md)
 * [Keyboard Shortcuts](advanced/settings/keyboard-shortcuts.md)
 
 ## 🌐 Community
@@ -92,9 +92,9 @@
 
 ## 📚 Resources
 
-* [Memberships](advanced/monetization/README.md)
-  * [Refund policy](advanced/monetization/refund-policy.md)
-* [FAQ](advanced/faqs.md)
+* [Memberships](resources/memberships/README.md)
+  * [Refund policy](resources/memberships/refund-policy.md)
+* [FAQ](resources/faq.md)
 * [Troubleshooting](advanced/troubleshooting/README.md)
   * [AnySync Netcheck Tool](advanced/troubleshooting/anysync-netcheck-tool.md)
 * [Connect](advanced/connect.md)

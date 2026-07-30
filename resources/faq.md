@@ -6,7 +6,7 @@
 
 <summary>Can I use two separate Vaults at the same time?</summary>
 
-We do not suggest using two separate Vaults at the same time. Ideally, you create a separate user account (macOS, Windows, or Linux) and log into your other Vault there.&#x20;
+We do not suggest using two separate Vaults at the same time. Ideally, you create a separate user account (macOS, Windows, or Linux) and log into your other Vault there.
 
 However, here's a tweak that works only on desktop: you need to create a separate shortcut for your other Vault and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
 
@@ -24,7 +24,7 @@ You can still open any Anytype links by simply pasting them in the global search
 
 <summary>I can't pin anything to the sidebar or create widgets</summary>
 
-Pin to Channel is available only to owners of the space. In order to add your own Widgets when you're not an owner, use the Favorites feature with the star icon. These Favorites in the Sidebar only appear to you. If your Pins or Favorites are not appearing as Widgets, you may need to change the Channel Settings. [Learn more](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/71/basics/sidebar/sidebar-widgets#widget-settings).
+Pin to Channel is available only to owners of the space. In order to add your own Widgets when you're not an owner, use the Favorites feature with the star icon. These Favorites in the Sidebar only appear to you. If your Pins or Favorites are not appearing as Widgets, you may need to change the Channel Settings. [Learn more](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/basics/sidebar/sidebar-widgets#widget-settings).
 
 </details>
 
@@ -32,7 +32,7 @@ Pin to Channel is available only to owners of the space. In order to add your ow
 
 <summary>How can I create columns?</summary>
 
-Click and drag the 'handle' to the left of each block and move it to your desired location. [Learn more](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/75/creation/blocks#columns).&#x20;
+Click and drag the 'handle' to the left of each block and move it to your desired location. [Learn more](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/creation/blocks#columns).
 
 <figure><img src="../.gitbook/assets/Docs Blocks Columns.gif" alt=""><figcaption></figcaption></figure>
 
@@ -42,11 +42,11 @@ Click and drag the 'handle' to the left of each block and move it to your desire
 
 <details>
 
-<summary>I've lost my Key, what can I do? </summary>
+<summary>I've lost my Key, what can I do?</summary>
 
-Anytype does not have access to your account in any way, thus we do not have your Key and cannot recover it for you. However you may be able to recover it on your own, [see here for more details](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/75/basics/key#if-youve-lost-your-key).&#x20;
+Anytype does not have access to your account in any way, thus we do not have your Key and cannot recover it for you. However you may be able to recover it on your own, [see here for more details](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/basics/key#if-youve-lost-your-key).
 
-If you're still unable to retrieve your Key to access your Vault, Anytype is unable to delete your account for you because we have no way of identifying it correctly with your identity. Your Vault will remain encrypted on our backup nodes without anybody being able to access it.&#x20;
+If you're still unable to retrieve your Key to access your Vault, Anytype is unable to delete your account for you because we have no way of identifying it correctly with your identity. Your Vault will remain encrypted on our backup nodes without anybody being able to access it.
 
 </details>
 
@@ -107,11 +107,11 @@ Linux users may be asked for their Key each time they log in. To resolve this is
 
 <details>
 
-<summary>What happens when my storage limit is reached? </summary>
+<summary>What happens when my storage limit is reached?</summary>
 
-You can continue to use the app without interruption, creating Objects and editing them will all continue to sync as usual. The difference is that files, images, videos, etc. will no longer sync until you are below the limit again or purchase a plan to increase your limit.&#x20;
+You can continue to use the app without interruption, creating Objects and editing them will all continue to sync as usual. The difference is that files, images, videos, etc. will no longer sync until you are below the limit again or purchase a plan to increase your limit.
 
-The Anytype app will attempt check your limit by attempting to sync files periodically, but this shouldn't occupy resources on your device.&#x20;
+The Anytype app will attempt check your limit by attempting to sync files periodically, but this shouldn't occupy resources on your device.
 
 </details>
 
@@ -147,14 +147,14 @@ There's no browser version of the app. Anytype is a stand-alone software, that w
 
 * Columns
 * Inline LaTeX
-* [inline-queries.md](feature-list-by-platform/inline-queries.md "mention")
+* [inline-queries.md](../advanced/feature-list-by-platform/inline-queries.md "mention")
 * Kanban, Calendar, and Graph Views
-* [formulas.md](feature-list-by-platform/formulas.md "mention")
-* [embeds.md](feature-list-by-platform/embeds.md "mention")
-* [custom-css.md](feature-list-by-platform/custom-css.md "mention")
-* [storage-location.md](feature-list-by-platform/storage-location.md "mention")
-* [graph.md](feature-list-by-platform/graph.md "mention") & Flow
-* [import-export](../data/import-export/ "mention")
+* [formulas.md](../advanced/feature-list-by-platform/formulas.md "mention")
+* [embeds.md](../advanced/feature-list-by-platform/embeds.md "mention")
+* [custom-css.md](../advanced/feature-list-by-platform/custom-css.md "mention")
+* [storage-location.md](../advanced/feature-list-by-platform/storage-location.md "mention")
+* [graph.md](../advanced/feature-list-by-platform/graph.md "mention") & Flow
+* [import-and-export](../data/import-and-export/ "mention")
 * PIN Code
 
 </details>
@@ -223,4 +223,4 @@ There are a few ways you can install Anytype on a Chromebook, but probably the e
 
 ## Notes
 
-Vaults created before version 0.44.0 have an Entry Space. You are free to delete this channel if no longer needed, or you can migrate your data to a different channel by using the [import-export](../data/import-export/ "mention") feature.
+Vaults created before version 0.44.0 have an Entry Space. You are free to delete this channel if no longer needed, or you can migrate your data to a different channel by using the [import-and-export](../data/import-and-export/ "mention") feature.

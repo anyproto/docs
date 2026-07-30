@@ -86,7 +86,7 @@ Within any text block, you can format individual characters or words. Highlight 
 * **Text color** — same as highlight, in the toolbar
 * **Quote in discussion** — copies text into a [discussions.md](../../collaborate/discussions.md "mention") post.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Blocks Inline Styling (3).jpg" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Blocks Inline Styling (2).jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Block handles
 

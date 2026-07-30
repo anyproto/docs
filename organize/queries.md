@@ -13,7 +13,7 @@ A Query is a question you ask your knowledge base—answered instantly and kept 
 
 ## Why it matters
 
-[Types](types.md) and [Properties](relations.md) give your Objects structure, Queries then go and turn that structure into useful answers.
+[Types](types.md) and [Properties](properties.md) give your Objects structure, Queries then go and turn that structure into useful answers.
 
 * Instead of remembering where things are, the right Objects get surfaced at the right time, in the right format.
 * Instead of manually organizing everything, you define rules once and Queries keep up with your content as it grows.
@@ -32,7 +32,7 @@ Use a query when you want to see a slice of your knowledge base that changes ove
 >
 > Say your Space has three Types: Books, Movies, and Games — all sharing a Genre property. You can create a Query filtering for Genre = Science Fiction, and the result is a View showing every science fiction book, movie, and game in your Space, automatically updated as you add new entries.
 >
-> In other words, the Query is a living answer to: _"What science fiction media do I have?"_ See how to [create this Query below](sets.md#create-a-query).
+> In other words, the Query is a living answer to: _"What science fiction media do I have?"_ See how to [create this Query below](queries.md#create-a-query).
 
 #### Types vs. Queries
 
@@ -57,7 +57,7 @@ Queries live in all the same places as Types—the Sidebar, the Create menu, and
 1. In the Sidebar, click on the [Create Dropdown button](../creation/objects/#create-menu) and select **Query**.
 2. Choose a **source**. This can be a:
    1. [Type](types.md), such as Tasks, Projects, Books.
-   2. [Property](relations.md), such as all Objects with a 'Reviewed' tag property.
+   2. [Property](properties.md), such as all Objects with a 'Reviewed' tag property.
 3. Set your **filters** and **sorts**.
 4. Choose a **layout**.
 
@@ -87,7 +87,7 @@ Types are also considered a Query, this is why they also appear in the list of c
 
 #### Editing Inline Queries
 
-Edits made to the View of an Inline Query apply only to that specific block. Editing an Inline View inside an Object doesn't affect the master View — that stays intact at the [Type](types.md), [Query](sets.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
+Edits made to the View of an Inline Query apply only to that specific block. Editing an Inline View inside an Object doesn't affect the master View — that stays intact at the [Type](types.md), [Query](queries.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
 
 This is different from editing actual Objects and their Properties through an Inline View: those changes **do** affect the underlying Objects and are reflected everywhere they appear across the Space.
 

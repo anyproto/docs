@@ -35,7 +35,7 @@ The Bottom Line: Your data is encrypted on your device before it goes anywhere. 
 
 ## Inviting and joining
 
-1. Open [Channel Settings](../advanced/settings/space-settings.md) by clicking the Channel name in the Sidebar.
+1. Open [Channel Settings](../settings/channel-settings.md) by clicking the Channel name in the Sidebar.
 2. Click on the Members section.
 3. Choose your invitation method — availability is set by the Space Owner.
 
@@ -45,7 +45,7 @@ The Bottom Line: Your data is encrypted on your device before it goes anywhere. 
 
 The '**Add members via link**' toggle generates a link you can share with others to invite them into the space, either as a text link or a QR code. By default, all requests to join the space require approval. There are a few important settings to be aware of:
 
-* **Enable auto approval** — This lets users join the space automatically without manual review, which is useful for community or forum-like spaces. For private and sensitive spaces, it's best to not enable this.&#x20;
+* **Enable auto approval** — This lets users join the space automatically without manual review, which is useful for community or forum-like spaces. For private and sensitive spaces, it's best to not enable this.
 * **Everyone in the channel can share this invite** — Enabling this allows other members to share the invite link themselves. This works well for public spaces without sensitive data or private spaces where members are highly trusted.
 * **Reset Link** — If you believe an invite link has been compromised, you can reset it. This immediately voids the previous link and generates a new one, which must be used going forward to join the space.
 * **Approve Requests** — For members requesting access, approve them from the 'Requests' tab, next to the 'All', 'Editors', and 'Viewers' tabs.
@@ -119,7 +119,7 @@ From the members section, the Owner and Admin can:
 
 #### Editor seat limits
 
-Each Channel has a maximum number of Editors based on the Owner's plan. The default Free tier supports a small number of Editors per Channel. Higher-tier plans (Builder, Co-Creator, Ultra, Group memberships) increase this limit. See [Memberships](../advanced/monetization/).
+Each Channel has a maximum number of Editors based on the Owner's plan. The default Free tier supports a small number of Editors per Channel. Higher-tier plans (Builder, Co-Creator, Ultra, Group memberships) increase this limit. See [Memberships](../resources/memberships/).
 
 Once you reach the limit, new joiners can only join as Viewers until either the limit is raised or an existing Editor is downgraded or removed.
 
@@ -181,7 +181,7 @@ Your past contributions remain in the Channel after leaving it — Anytype does 
 {% endhint %}
 
 {% hint style="warning" %}
-**Currently, you can only share entire Channels — not individual Objects.** If you want to share just one thing publicly with no access controls, use [Web Publishing](web-publishing.md) instead.
+**Currently, you can only share entire Channels — not individual Objects.** If you want to share just one thing publicly with no access controls, use [Web Publishing](publish.md) instead.
 {% endhint %}
 
 {% hint style="warning" %}

@@ -11,8 +11,8 @@ The Sidebar is the main navigation tool to move around Anytype.
 
 On the left is the Vault Sidebar. Here you can navigate at the highest level across all the various spaces you are part of. You will find:
 
-1. [Channel List](../space.md) — all of the spaces you are part of
-2. [Vault Settings](../../advanced/settings/account-and-data.md) — ability to manage your account
+1. [Channel List](../channels.md) — all of the spaces you are part of
+2. [Vault Settings](../../settings/vault-settings.md) — ability to manage your account
 3. [Keyboard Shortcuts](../../advanced/settings/keyboard-shortcuts.md) — to customize your shortcuts
 4. Resources — contact, release notes, version, etc.
 
@@ -42,7 +42,7 @@ Below the header are sections, which appear in this order by default:
 5. **Types** — Objects grouped by Type.
 6. **Bin** — Objects archived that await permanent deletion.
 
-Each section can be hidden, reordered, or fine-tuned. See [Widgets](sidebar-widgets.md) and [Sections](sidebar-sections.md) for details.
+Each section can be hidden, reordered, or fine-tuned. See [Widgets](widgets.md) and [Sections](sections.md) for details.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Sidebar Channel.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -55,7 +55,7 @@ Drag the right edge of the Sidebar to resize it. You can:
 * Make it wider for more space
 * Make it narrower to save space
 * Collapse it entirely by dragging the edge to the left until it disappears
-* Turn on auto show/hide the sidebar in your [account-and-data.md](../../advanced/settings/account-and-data.md "mention")
+* Turn on auto show/hide the sidebar in your [vault-settings.md](../../settings/vault-settings.md "mention")
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Sidebar.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -85,7 +85,7 @@ To quickly switch to a focus mode, you can assign a keyboard shortcut to toggle 
 {% endhint %}
 
 {% hint style="info" %}
-**Pin a Query, not just static Objects.** A pinned Query like "Tasks where Status = In Progress" or "Notes where Modified is this week" acts as live [sidebar-widgets.md](sidebar-widgets.md "mention") — it updates itself as your data changes.
+**Pin a Query, not just static Objects.** A pinned Query like "Tasks where Status = In Progress" or "Notes where Modified is this week" acts as live [widgets.md](widgets.md "mention") — it updates itself as your data changes.
 {% endhint %}
 
 {% hint style="info" %}

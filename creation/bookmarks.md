@@ -44,7 +44,7 @@ In the Channel Sidebar header, click the dropdown arrow and choose **Bookmark**,
 
 #### From the sidebar
 
-In the Sidebar, you can mouse over 'Bookmarks' and click the '+' button. If the Types section is not revealed, then go to [Manage Sections](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/basics/customize-and-edit-the-sidebar/sidebar-sections#manage-sections). If the Bookmarks type is not visible, then you may not have any bookmarks yet. Once you have at least one Bookmark, it will display in the Sidebar.
+In the Sidebar, you can mouse over 'Bookmarks' and click the '+' button. If the Types section is not revealed, then go to [Manage Sections](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/basics/sidebar/sidebar-sections#manage-sections). If the Bookmarks type is not visible, then you may not have any bookmarks yet. Once you have at least one Bookmark, it will display in the Sidebar.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Bookmarks Sidebar.jpg" alt=""><figcaption></figcaption></figure></div>
 

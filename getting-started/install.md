@@ -8,7 +8,7 @@ You can download the latest version of Anytype for your device at [download.anyt
 
 #### Create
 
-If this is your first time, click on 'I am new here'. If you already have an account, click on 'I already have a Key'.&#x20;
+If this is your first time, click on 'I am new here'. If you already have an account, click on 'I already have a Key'.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 1.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -32,20 +32,20 @@ Store your [key.md](../basics/key.md "mention") somewhere safe and never share i
 
 #### Log in on other devices
 
-In addition to using your [Key](../basics/key.md) to log in, you can also use the QR code to log in faster. This is especially handy to sign in on your mobile devices if your desktop is close by. Having multiple devices logged in also creates more backups for you to recover your account from.&#x20;
+In addition to using your [Key](../basics/key.md) to log in, you can also use the QR code to log in faster. This is especially handy to sign in on your mobile devices if your desktop is close by. Having multiple devices logged in also creates more backups for you to recover your account from.
 
-1. Navigate to your [Vault Settings](../advanced/settings/account-and-data.md).
+1. Navigate to your [Vault Settings](../settings/vault-settings.md).
 2. Click **Login Key**.
-3. Click on the QR code and scan it with your device.&#x20;
+3. Click on the QR code and scan it with your device.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 3.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## After installation
 
-Once you've created your Vault and saved your Key, you'll land in a sandbox where you can poke around, open things, and break stuff. Go wild and explore with no pressure. When you're ready to start your own work, create a new Channel.&#x20;
+Once you've created your Vault and saved your Key, you'll land in a sandbox where you can poke around, open things, and break stuff. Go wild and explore with no pressure. When you're ready to start your own work, create a new Channel.
 
-If you'd like a quick overview of how Anytype's core concepts fit together, start with our [Overview](../basics/learn-the-model.md).&#x20;
+If you'd like a quick overview of how Anytype's core concepts fit together, start with our [Overview](../basics/overview.md).
 
 #### Import
 
-If you would like to import some of your existing data into your Space, you can find the instructions on how to do so in [Import & Export](../data/import-export/).&#x20;
+If you would like to import some of your existing data into your Space, you can find the instructions on how to do so in [Import & Export](../data/import-and-export/).

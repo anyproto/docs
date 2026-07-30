@@ -62,7 +62,7 @@ Because all [Objects](../creation/objects/) have a [Type](types.md), it's best t
 
 When viewing a Type, you can click on the 'View settings' button on the top right, select **Properties**, and add your desired Property. To edit a Property, simply click on it. The rearrange the order, click and drag on the handle located on the left-hand side.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Create View (1).gif" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Types Create View.gif" alt=""><figcaption></figcaption></figure></div>
 
 #### From the Object Editor
 
@@ -74,7 +74,7 @@ You can add Properties to the Object that are not connected to the Object's Type
 
 #### From Channel Settings
 
-Open your [space-settings.md](../advanced/settings/space-settings.md "mention"), and navigate to Content Model and select **Properties**. Afterwards, simply click on 'New' button to create a new Property.
+Open your [channel-settings.md](../settings/channel-settings.md "mention"), and navigate to Content Model and select **Properties**. Afterwards, simply click on 'New' button to create a new Property.
 
 ## Using Properties
 
@@ -140,7 +140,7 @@ Properties exist independently from [Types](types.md) and [Objects](../creation/
 
 In this section, you can see how many Objects are connected to a Property, which Types use it, and other details to help you stay organized.
 
-1. Navigate to the [Channel Settings](../advanced/settings/space-settings.md) from the Sidebar.
+1. Navigate to the [Channel Settings](../settings/channel-settings.md) from the Sidebar.
 2. Under 'Content Model', select **Properties**.
 3. Right-click on the desired Property, select **Move to Bin**. This will unlink the property from all Types as well.
 
@@ -153,5 +153,5 @@ In this section, you can see how many Objects are connected to a Property, which
 {% endhint %}
 
 {% hint style="info" %}
-**Tags is the easiest way to get started with Properties.** Add relevant tags to all of your documents and create a [Query](sets.md) that groups them all together.
+**Tags is the easiest way to get started with Properties.** Add relevant tags to all of your documents and create a [Query](queries.md) that groups them all together.
 {% endhint %}

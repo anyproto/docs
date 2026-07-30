@@ -8,7 +8,7 @@ Available on desktop only.
 
 ## Import
 
-1. Go to your [Channel Settings](../../advanced/settings/space-settings.md).
+1. Go to your [Channel Settings](../../settings/channel-settings.md).
 2. Click on **Import** in the side menu.
 3. Based on the type of content, choose your option.
 
@@ -42,7 +42,7 @@ Available on desktop only.
 
 ### Export Channel
 
-1. Go to your [Channel Settings](../../advanced/settings/space-settings.md).
+1. Go to your [Channel Settings](../../settings/channel-settings.md).
 2. Click on **Export** in the side menu.
 3. Choose your preferred format: Markdown or Any-Block.
 

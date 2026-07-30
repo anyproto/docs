@@ -35,10 +35,10 @@ Directly through the editor by using:
 
 ### Link to a Property
 
-When viewing an Object, you can add links to [relations.md](../organize/relations.md "mention") using:
+When viewing an Object, you can add links to [properties.md](../organize/properties.md "mention") using:
 
-1. [**Object Header**](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/object-editor/format#page-format) — Select a property from the header. If the property is not visible, add it to the header from the [type settings](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/organize/types/relations#managing-properties).
-2. [**Block Menu**](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/blocks#adding-blocks) — Add an inline property block from the menu using the plus button or slash command.
+1. [**Object Header**](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/creation/object-editor/format#page-format) — Select a property from the header. If the property is not visible, add it to the header from the [type settings](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/organize/relations#managing-properties).
+2. [**Block Menu**](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/creation/blocks#adding-blocks) — Add an inline property block from the menu using the plus button or slash command.
 
 Alternatively, you can add a property from [views.md](../organize/views.md "mention"). This is better when you are editing properties of multiple Objects.
 
@@ -65,7 +65,7 @@ To add such a link, select the "Link to website" in the editor just like when yo
 
 #### Backlinks
 
-You can use the Backlinks property in the Object Header to check which Objects link to the currently opened one. If you cannot locate the Backlinks property, go to the Type settings and add it to Header section. [See here](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/46/organize/types/relations#managing-properties) for more details.
+You can use the Backlinks property in the Object Header to check which Objects link to the currently opened one. If you cannot locate the Backlinks property, go to the Type settings and add it to Header section. [See here](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/organize/relations#managing-properties) for more details.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Link Back.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -75,4 +75,4 @@ In your documents you may have multiple connections which could be attached to o
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Links Backlink Graph.gif" alt=""><figcaption></figcaption></figure></div>
 
-Learn more about [relations.md](../organize/relations.md "mention") and the [graph.md](../advanced/feature-list-by-platform/graph.md "mention") with these links.
+Learn more about [properties.md](../organize/properties.md "mention") and the [graph.md](../advanced/feature-list-by-platform/graph.md "mention") with these links.

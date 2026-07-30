@@ -1,6 +1,6 @@
 # Block Types
 
-There are many different types of blocks, each serving a unique purpose. Feel free to add and test out as many as you like.&#x20;
+There are many different types of blocks, each serving a unique purpose. Feel free to add and test out as many as you like.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Block Types.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -37,10 +37,10 @@ Press Tab inside a list item to indent it (creating a nested sub-list). Shift + 
 | **File**  | Generic file with download link            |
 | **PDF**   | PDF preview                                |
 
-Drag a file onto the editor to insert it. Each file becomes a [File Object](https://github.com/anyproto/docs-new/blob/main/getting-started/files-and-media.md) you can find and reference elsewhere.&#x20;
+Drag a file onto the editor to insert it. Each file becomes a [File Object](https://github.com/anyproto/docs-new/blob/main/getting-started/files-and-media.md) you can find and reference elsewhere.
 
 {% hint style="info" %}
-**Tip:** Use the `/file` shortcut to add an existing image or file that's already in your space into a block. This way, you don't need to re-upload the same file. Instead, upload the file once and re-use it over and over again.&#x20;
+**Tip:** Use the `/file` shortcut to add an existing image or file that's already in your space into a block. This way, you don't need to re-upload the same file. Instead, upload the file once and re-use it over and over again.
 {% endhint %}
 
 ### Structural blocks
@@ -80,7 +80,7 @@ You can also select multiple cells at once:
 | ------------ | ------------------------------------------------------- |
 | **Property** | Add an Object's Property as a block in the body content |
 
-Useful for surfacing key [relations.md](../../organize/relations.md "mention") prominently. The Property block stays in sync with the Property's value — change one and all others will update. This enables fancy templates and designs for all of your documents.&#x20;
+Useful for surfacing key [properties.md](../../organize/properties.md "mention") prominently. The Property block stays in sync with the Property's value — change one and all others will update. This enables fancy templates and designs for all of your documents.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/slashmenu-property.png" alt=""><figcaption></figcaption></figure></div>
 

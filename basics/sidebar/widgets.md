@@ -15,7 +15,7 @@ All Pins and Favorites in the Sidebar can be set as a Widget or Link:
 * Link — simple shortcut that quickly gets you to the Object.
 * Widget — interactive feed that displays information right in your Sidebar.
 
-These can be set on an [individual level](sidebar-widgets.md#layout-options) or [channel-wide](sidebar-widgets.md#channel-sidebar-view).
+These can be set on an [individual level](widgets.md#layout-options) or [channel-wide](widgets.md#channel-sidebar-view).
 
 ## Create Widgets
 
@@ -31,7 +31,7 @@ These can be set on an [individual level](sidebar-widgets.md#layout-options) or 
 The options available on the Widget are based on the [Views](../../organize/views.md) you have set up. By adjusting the Views, you also adjust what is displayed in the Widget.
 
 {% hint style="warning" %}
-**If you're unable to create Widgets**, please check the [Widget Settings](sidebar-widgets.md#widget-settings) section for more details.
+**If you're unable to create Widgets**, please check the [Widget Settings](widgets.md#widget-settings) section for more details.
 {% endhint %}
 
 ## Using Widgets
@@ -64,7 +64,7 @@ The Widget layout options available depend on the Object and Views you have set 
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Widgets Layouts.jpg" alt=""><figcaption></figcaption></figure></div>
 
-* **Same as Object**: Ideal for pinned Queries or Collections, displaying live embedded views directly in your sidebar. The [view options](../../organize/sets.md#views) available in the Widget are set at the Object level.
+* **Same as Object**: Ideal for pinned Queries or Collections, displaying live embedded views directly in your sidebar. The [view options](../../organize/queries.md#views) available in the Widget are set at the Object level.
 * **Compact**: Shows linked Objects neatly nested under each main item.
 * **Detailed**: Similar to the Compact view, but exposes more metadata and detail for each item.
 * **Link**: The most minimalist option—displays just the Object's title and its icon.
@@ -85,7 +85,7 @@ To conserve space, each widget has a limit to how many Objects are displayed. If
 
 ### Channel Sidebar View
 
-Depending on the scope of your Space and how you prefer to navigate, you can change your overall sidebar density in your [Channel Settings](../../advanced/settings/space-settings.md). Widgets is the default, but you can use **Links** view when you want maximum density.
+Depending on the scope of your Space and how you prefer to navigate, you can change your overall sidebar density in your [Channel Settings](../../settings/channel-settings.md). Widgets is the default, but you can use **Links** view when you want maximum density.
 
 | **Display Mode**  | **Description**                                                                               | **Best For**                                                                       |
 | ----------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |

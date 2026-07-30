@@ -4,7 +4,7 @@ description: Two ways to keep important Objects close — yours and the team's.
 
 # Pins & Favorites
 
-You can add your most important [Objects](../../creation/objects/) to your Sidebar with Pins and Favorites. All Pins and Favorites can be turned into [Widgets](sidebar-widgets.md), which are interactive feeds directly in your Sidebar. Or they can remain as simple links, which are fast shortcuts to your content.&#x20;
+You can add your most important [Objects](../../creation/objects/) to your Sidebar with Pins and Favorites. All Pins and Favorites can be turned into [Widgets](widgets.md), which are interactive feeds directly in your Sidebar. Or they can remain as simple links, which are fast shortcuts to your content.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Pins Favorites.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -31,11 +31,11 @@ My Favorites are personal to only you. Anything you favorite shows up only in yo
 2. Click the star icon (or right-click > **Favorite**) in the top-right corner.
 3. The Object now appears in the **My Favorites** section of your sidebar.
 
-To remove, click the star again or right-click in the sidebar > **Unfavorite.**&#x20;
+To remove, click the star again or right-click in the sidebar > **Unfavorite.**
 
 ## Shared Pins
 
-Shared Pins are seen by every member in the Channel and can only be set by the Owner. This is how Owners surface things that are important for everybody to see.&#x20;
+Shared Pins are seen by every member in the Channel and can only be set by the Owner. This is how Owners surface things that are important for everybody to see.
 
 **Use Shared Pins for:**
 
@@ -48,7 +48,7 @@ Shared Pins are seen by every member in the Channel and can only be set by the O
 
 1. Open the Object.
 2. Click the three dots icon in the top-right corner.
-3. Select the 'Pin to Channel' option.&#x20;
+3. Select the 'Pin to Channel' option.
 4. The Object now appears in the **Pinned** section of every member's sidebar.
 
 {% hint style="warning" %}

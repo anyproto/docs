@@ -1,6 +1,6 @@
 # Direct Channels
 
-A **Direct Channel** is a private, one-on-one connection between you and another user. It is also called a 1:1 channel and has all the capabilities of a regular [Channel](../../basics/space.md).
+A **Direct Channel** is a private, one-on-one connection between you and another user. It is also called a 1:1 channel and has all the capabilities of a regular [Channel](../../basics/channels.md).
 
 Both participants have equal access: there's no admin, no role hierarchy, no permissions to set. It's a place for quick check-ins, a private discussion, creating new Objects, or a side conversation about something happening in another Channel.
 

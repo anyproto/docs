@@ -31,7 +31,7 @@ You can change how a Page is structured to suit your needs. A Page's layout is d
 
 #### Properties View
 
-You can change how an Object's Properties are displayed. There are 'Line' and 'List' layouts. This setting will apply across all Objects of the same Type. Learn more in the [Properties section](../../organize/relations.md#properties-in-the-object-header).
+You can change how an Object's Properties are displayed. There are 'Line' and 'List' layouts. This setting will apply across all Objects of the same Type. Learn more in the [Properties section](../../organize/properties.md#properties-in-the-object-header).
 
 #### Page Width
 
@@ -41,7 +41,7 @@ You can change the default width of each Page to be 'full width', this is set in
 
 ## View Format
 
-When viewing multiple objects together, this is the format that's used to keep things organized. This format is what you see when you're viewing [Types](../../organize/types.md), [Queries](../../organize/sets.md), and [Collections](../../organize/collections.md).
+When viewing multiple objects together, this is the format that's used to keep things organized. This format is what you see when you're viewing [Types](../../organize/types.md), [Queries](../../organize/queries.md), and [Collections](../../organize/collections.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Format Type.png" alt=""><figcaption></figcaption></figure></div>
 

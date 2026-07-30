@@ -56,7 +56,7 @@ Use **Only me** in busy team Channels where your own work would otherwise be bur
 
 The **Unread** section surfaces notifications from your Channel. These typically come from [chats](../../collaborate/chats/ "mention") and [discussions.md](../../collaborate/discussions.md "mention"). This section is temporary, appearing and disappearing based on active notifications.
 
-You can reorder this section to be at the top or bottom, depending on your needs. You cannot hide this section. See [Manage Sections](sidebar-sections.md#manage-sections) for more details.
+You can reorder this section to be at the top or bottom, depending on your needs. You cannot hide this section. See [Manage Sections](sections.md#manage-sections) for more details.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Unread.jpg" alt=""><figcaption></figcaption></figure></div>
 

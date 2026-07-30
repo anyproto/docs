@@ -25,8 +25,8 @@ This means:
 Every Object has:
 
 * [types.md](../../organize/types.md "mention") that categorizes what kind of thing it is, such as Note, Task, Project, Meeting, etc.
-* [relations.md](../../organize/relations.md "mention") that hold its details, such as status, date, author, email, etc.
-* [linking-objects.md](../linking-objects.md "mention") to other Objects, such as a Recipe connected to a Person.
+* [properties.md](../../organize/properties.md "mention") that hold its details, such as status, date, author, email, etc.
+* [links.md](../links.md "mention") to other Objects, such as a Recipe connected to a Person.
 
 Here is a simple example of how this works:
 
@@ -42,7 +42,7 @@ Here is a simple example of how this works:
 
 Located at the top of the Sidebar next to the Channel name, is your main creation button used to get content into your space. There are two parts to the button:
 
-* **Create Button** — when clicking the 'Create' button, you’ll immediately create a new Object. The default [Type](../../organize/types.md) that is used for your Objects is set from your [Channel Settings](../../advanced/settings/space-settings.md)—by default it is 'Page'.
+* **Create Button** — when clicking the 'Create' button, you’ll immediately create a new Object. The default [Type](../../organize/types.md) that is used for your Objects is set from your [Channel Settings](../../settings/channel-settings.md)—by default it is 'Page'.
 * **Create Dropdown** — when clicking the 'Create Dropdown' button, the downward arrow on the right, you'll be presented with a menu:
   * Types that you'd like to create an Object straight into.
   * Create from clipboard
@@ -54,7 +54,7 @@ Located at the top of the Sidebar next to the Channel name, is your main creatio
 
 You can create an Object directly from the Types section of the Sidebar by hovering over the [Type](../../organize/types.md) and clicking on the 'plus' button. Here you will also find Queries and Collections. Please note:
 
-* If this section is not showing, please see [Manage Sections](../../basics/sidebar/sidebar-sections.md#manage-sections) to reveal it.
+* If this section is not showing, please see [Manage Sections](../../basics/sidebar/sections.md#manage-sections) to reveal it.
 * Only Types with at least one Object in them will display in this section. If your desired category is not in the Types section, [use the create menu](./#create-menu) to create one object first, then it will reveal in this section.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Create Section.jpg" alt=""><figcaption></figcaption></figure></div>
@@ -63,7 +63,7 @@ You can create an Object directly from the Types section of the Sidebar by hover
 
 When working in the editor you can type `/` to bring up the command menu. If you already know which Type you want to use, you can just type it directly. If you're not sure which Type you want to use, you can scroll to the 'Types' section to choose.
 
-Objects created this way will leave a block link on the page and set a [backlink](../linking-objects.md) to the newly created object.
+Objects created this way will leave a block link on the page and set a [backlink](../links.md) to the newly created object.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Object Create Command.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -84,7 +84,7 @@ If you are working on an existing Object and would like to transform only a cert
 
 #### Sidebar
 
-You can now find all your objects in the [sidebar](../../basics/sidebar/ "mention"), grouped by their respective [types.md](../../organize/types.md "mention"). If this section is not showing, please see [Manage Sections](../../basics/sidebar/sidebar-sections.md#manage-sections) to reveal it.
+You can now find all your objects in the [sidebar](../../basics/sidebar/ "mention"), grouped by their respective [types.md](../../organize/types.md "mention"). If this section is not showing, please see [Manage Sections](../../basics/sidebar/sections.md#manage-sections) to reveal it.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Find Sidebar.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -105,9 +105,9 @@ To find all of your objects and how they are connected, you can look to the [gra
 
 #### Bin
 
-If you've previously removed some objects from your [space.md](../../basics/space.md "mention"), they will appear in your [Broken link](/broken/pages/VTvMTnaFZfC0GfngfZmD "mention") unless you've already permanently deleted them.
+If you've previously removed some objects from your [channels.md](../../basics/channels.md "mention"), they will appear in your [Broken link](/broken/pages/VTvMTnaFZfC0GfngfZmD "mention") unless you've already permanently deleted them.
 
-You can access your Bin from the Sidebar. If this section is not showing, please see [Manage Sections](../../basics/sidebar/sidebar-sections.md#manage-sections) to reveal it.
+You can access your Bin from the Sidebar. If this section is not showing, please see [Manage Sections](../../basics/sidebar/sections.md#manage-sections) to reveal it.
 
 ## Bulk editing Objects
 
@@ -122,7 +122,7 @@ To choose which Type is used when creating an Object by default:
 3. Click on the 'three dots' button
 4. Select the option **Set as default**.
 
-Alternatively you can set this in the [Channel Settings](../../advanced/settings/space-settings.md).
+Alternatively you can set this in the [Channel Settings](../../settings/channel-settings.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Create Default.jpg" alt=""><figcaption></figcaption></figure></div>
 

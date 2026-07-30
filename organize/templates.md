@@ -28,7 +28,7 @@ Conversely, it's best to not put too much into a template that may create a lot 
 * Templates are only applied to Objects when they are created. Future updates to a Template will not update Objects created from earlier versions.
 * You can have multiple Templates for each [Type](types.md), but only one can be the default.
 * You can switch to a different Template when an Object is created, but this option is no longer possible afterwards.
-* Templates can also be set for [Queries](sets.md) and [Collections](collections.md).
+* Templates can also be set for [Queries](queries.md) and [Collections](collections.md).
 * Templates can also be set per [View](views.md).
 
 These are all the components you can set with a Template:

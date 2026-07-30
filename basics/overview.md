@@ -6,11 +6,11 @@ Here is a quick map of Anytype. Understanding these core concepts will make ever
 
 ## 1. Vault
 
-**This is your house.** Your [Vault](vault-and-key.md) is essentially your account. It is a container for everything you create and is protected by end-to-end encryption. The only way to access your content is with your [Key](key.md), nobody should have access to this.
+**This is your house.** Your [Vault](vault.md) is essentially your account. It is a container for everything you create and is protected by end-to-end encryption. The only way to access your content is with your [Key](key.md), nobody should have access to this.
 
 ## 2. Channels
 
-**The rooms in your house.** [Channels](space.md) are where all the work happens. Also known as Spaces, you can create as many as you like. Because Spaces are isolated from one another, they are ideal for separating different areas of your life, such as Personal, Family, or Work. You can keep them private or invite others to join shared ones.
+**The rooms in your house.** [Channels](channels.md) are where all the work happens. Also known as Spaces, you can create as many as you like. Because Spaces are isolated from one another, they are ideal for separating different areas of your life, such as Personal, Family, or Work. You can keep them private or invite others to join shared ones.
 
 ## 3. Objects
 
@@ -22,7 +22,7 @@ Here is a quick map of Anytype. Understanding these core concepts will make ever
 
 ## 5. Properties
 
-**The labels on your stuff.** [Properties](../organize/relations.md) allow you to more deeply define your Objects. For example:
+**The labels on your stuff.** [Properties](../organize/properties.md) allow you to more deeply define your Objects. For example:
 
 * For a task, the Properties might be 'Due Date' and 'Priority.'
 * For a person, the Properties might be 'Birthday' and 'Email.'
@@ -37,4 +37,4 @@ These little details help you describe your Objects and link them together—suc
 * Display all your artwork in a 'Gallery layout' filtered by your 'favorites.'
 * Have all your tasks in a 'Kanban layout' grouped by 'assignee.'
 
-You can customize Views to suit your exact needs and have as many as you like. Additionally, every View can be turned into [Widgets](sidebar/sidebar-widgets.md) for quick access in your sidebar.
+You can customize Views to suit your exact needs and have as many as you like. Additionally, every View can be turned into [Widgets](sidebar/widgets.md) for quick access in your sidebar.

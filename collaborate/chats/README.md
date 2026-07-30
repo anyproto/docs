@@ -15,9 +15,9 @@ Chats give you the rhythm of a messaging app — quick replies, reactions, file 
 Just like documents and files, Chats are [Objects](../../creation/objects/) that have their own dedicated [Type](../../organize/types.md). This means that a Chat:
 
 * Lives in the Types section of the Sidebar under 'Chat'.
-* Can have its own [Properties](../../organize/relations.md).
-* Can be organized into [Views](../../organize/views.md), [Queries](../../organize/sets.md), and [Collections](../../organize/collections.md).
-* Can be added as a [Widget](../../basics/sidebar/sidebar-widgets.md) to the Sidebar.
+* Can have its own [Properties](../../organize/properties.md).
+* Can be organized into [Views](../../organize/views.md), [Queries](../../organize/queries.md), and [Collections](../../organize/collections.md).
+* Can be added as a [Widget](../../basics/sidebar/widgets.md) to the Sidebar.
 * Can be `@`-mentioned or linked like any other Object.
 
 Chat is a system Type, so it doesn't support custom Templates or layout changes. But everything else about Chat behaves like a regular Object Type.
@@ -132,7 +132,7 @@ For images, the message includes a preview thumbnail. Audio and video include an
 
 #### Unread section
 
-A temporary **Unread** section appears automatically when new messages arrive in any Chat. As you catch up, the section shrinks and eventually disappears. This section also displays notifications from [Discussions](../discussions.md). Learn more in the [Sidebar](../../basics/sidebar/sidebar-sections.md) section.
+A temporary **Unread** section appears automatically when new messages arrive in any Chat. As you catch up, the section shrinks and eventually disappears. This section also displays notifications from [Discussions](../discussions.md). Learn more in the [Sidebar](../../basics/sidebar/sections.md) section.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Chats Unread.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -160,7 +160,7 @@ When you create a Channel, you can choose **Chat** as the Home — meaning the f
 * Communities and interest groups
 * Work where conversation is primary, with documents as supporting cast
 
-See [Channels](../../basics/space.md#choosing-a-home) for more details.
+See [Channels](../../basics/channels.md#choosing-a-home) for more details.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/home-chat.png" alt=""><figcaption></figcaption></figure></div>
 

@@ -1,6 +1,6 @@
 # Analytics & Tracking
 
-While the product is still in pre-release, we use analytics services to help us understand performance of the app as a whole, adoption of certain features, and how the latter impacts retention. [Learn more here](https://app.gitbook.com/o/Ssa9i5QAuI6HhV4jXCLv/s/uI82XLdf1100Q75OKbEQ/~/edit/~/changes/75/data/how-we-keep-your-data-safe#telemetry).&#x20;
+While the product is still in pre-release, we use analytics services to help us understand performance of the app as a whole, adoption of certain features, and how the latter impacts retention. [Learn more here](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/data/how-we-keep-your-data-safe#telemetry).
 
 Analytics consists of two parts: low-level analytics at the network level and app usage analytics at the client level. Both types are anonymous and do not analyze the content you are working with, as it is encrypted.
 

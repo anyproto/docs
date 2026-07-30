@@ -10,11 +10,11 @@ A Collection is a container of hand-picked Objects—the closest thing to a fold
 
 ## Why it matters
 
-When there's a clear relationship, it's easy to bring Objects together using a [Query](sets.md), such as 'everything tagged inspiration'. But when there isn't a clear [Property](relations.md) or [Type](types.md) that can link everything together, this is when Collections work best. It's a curated container for everything you see having a relationship together but the system can't easily define.
+When there's a clear relationship, it's easy to bring Objects together using a [Query](queries.md), such as 'everything tagged inspiration'. But when there isn't a clear [Property](properties.md) or [Type](types.md) that can link everything together, this is when Collections work best. It's a curated container for everything you see having a relationship together but the system can't easily define.
 
 ## When to use Collections
 
-The easiest way to understand Collections is to compare them with [Queries](sets.md). With Collections, you're curating a group of Objects that don't change much over time. With Queries, you're filtering Objects that likely change over time.
+The easiest way to understand Collections is to compare them with [Queries](queries.md). With Collections, you're curating a group of Objects that don't change much over time. With Queries, you're filtering Objects that likely change over time.
 
 Think of a Collection as something you curate by hand—like 'Grandma's Favorites.' Think of a Query as something you define with rules and filters—like everything tagged with 'important.'
 
@@ -87,13 +87,13 @@ You can use the **Inline Collection** block in the editor to add a Collection di
 
 #### Editing Inline Collections
 
-Edits made to the View of an Inline Collection apply only to that specific block. Editing an Inline View inside an Object doesn't affect the master View — that stays intact at the [Type](types.md), [Query](sets.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
+Edits made to the View of an Inline Collection apply only to that specific block. Editing an Inline View inside an Object doesn't affect the master View — that stays intact at the [Type](types.md), [Query](queries.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
 
 This is different from editing actual Objects and their Properties through an Inline View: those changes **do** affect the underlying Objects and are reflected everywhere they appear across the Space.
 
 ### Folder-like Widget
 
-You can add [Collections to your Sidebar as a Widget](views.md#views-in-sidebar), just like any other View. However, instead of using Collections to simulate a [hierarchical folder-like structure in your Sidebar](../basics/sidebar/sidebar-widgets.md#layout-options), you can create a Page with link blocks:
+You can add [Collections to your Sidebar as a Widget](views.md#views-in-sidebar), just like any other View. However, instead of using Collections to simulate a [hierarchical folder-like structure in your Sidebar](../basics/sidebar/widgets.md#layout-options), you can create a Page with link blocks:
 
 1. Create any Object with a Page format.
 2. In the editor, add links to your desired Objects using the `/link` or `@` blocks. This can be to regular Objects, Types, Queries, or Collections.

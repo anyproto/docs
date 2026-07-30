@@ -29,13 +29,13 @@ You can create as many Channels as you need. Use the Vault Sidebar (the leftmost
    1. **Personal** — just for you
    2. **Group** — shared with others
    3. **Join via invite link** — using an invitation link
-3. **Name your Channel.** Pick something descriptive — Personal, Family, Design Team.&#x20;
+3. **Name your Channel.** Pick something descriptive — Personal, Family, Design Team.
 4. **Pick an icon.** Choose an emoji, upload an image, or skip.
 5. **Invite members.** This is optional and you can do it later. See [Collaboration](../collaborate/collaboration.md) for details.
-6. **Choose your Home.** Choose Page by Default. [See below](space.md#choosing-a-home) for more details.&#x20;
-7. **Click Create.**&#x20;
+6. **Choose your Home.** Choose Page by Default. [See below](channels.md#choosing-a-home) for more details.
+7. **Click Create.**
 
-It's easiest to start with 'Personal', you can always add others to your Channel later and share an invitation link.&#x20;
+It's easiest to start with 'Personal', you can always add others to your Channel later and share an invitation link.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Channel Create.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -46,17 +46,17 @@ Once your Channel exists, you'll land on the Home you chose. Some next steps:
 * **Invite members** — open Channel Settings > Members to generate invite links. See [Collaboration](../collaborate/collaboration.md).
 * **Customize the Sidebar** — pin or favorite important Objects and add widgets. See [Sidebar](sidebar/).
 * **Set up Types and Properties** — create your organization system. See [Types](../organize/types.md).
-* **Choose a Home Page** — pick what loads first when you enter the Channel. See [Choosing Home](space.md#choosing-a-home).&#x20;
+* **Choose a Home Page** — pick what loads first when you enter the Channel. See [Choosing Home](channels.md#choosing-a-home).
 
 ### Inviting others
 
-To share access and collaborate with others, use the Members section in the Channel Settings. You can generate invitation links, approve access, revoke access, and decide on permission levels. [See more here](../advanced/settings/space-settings.md#members).&#x20;
+To share access and collaborate with others, use the Members section in the Channel Settings. You can generate invitation links, approve access, revoke access, and decide on permission levels. [See more here](../settings/channel-settings.md#members).
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Members.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Choosing a Home
 
-The Home sets the tone for what the Channel is for. Every Channel has the same capabilities, the Home simply decides what is the starting point.&#x20;
+The Home sets the tone for what the Channel is for. Every Channel has the same capabilities, the Home simply decides what is the starting point.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Channel Home.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -68,7 +68,7 @@ Your Home can be any of three things:
 | **Page**       | Documentation, wikis, reference Channels, personal notebooks        | A single Object with content and links          |
 | **Collection** | Project Channels with multiple related items                        | A curated list of Objects in your chosen layout |
 
-You can change the Home later in **Channel Settings > General > Homepage** — so don't worry about getting it perfect on day one. Here is some help in making a decision of what to choose:&#x20;
+You can change the Home later in **Channel Settings > General > Homepage** — so don't worry about getting it perfect on day one. Here is some help in making a decision of what to choose:
 
 #### Chat as Home
 
@@ -84,7 +84,7 @@ Page-Home feels like a wiki or document. Members open it and land on a specific 
 
 * Team documentation
 * Personal knowledge bases (your "second brain")
-* A community center dashboard&#x20;
+* A community center dashboard
 
 #### Collection as Home
 
@@ -100,11 +100,11 @@ Each Channel has its own Types and Properties. If you've set up custom Types in 
 
 ## Direct Channels
 
-You can create a one-to-one Channel between you and another Anytype user with Direct Channels. These operate similarly to direct chats with individuals. [See more here](../collaborate/chats/direct-channels.md).&#x20;
+You can create a one-to-one Channel between you and another Anytype user with Direct Channels. These operate similarly to direct chats with individuals. [See more here](../collaborate/chats/direct-channels.md).
 
 ## Channel Settings
 
-To change your preferences and customize your Channel, please see [space-settings.md](../advanced/settings/space-settings.md "mention"). From this section, you can:&#x20;
+To change your preferences and customize your Channel, please see [channel-settings.md](../settings/channel-settings.md "mention"). From this section, you can:
 
 * Invite others to the space
 * Import and export data

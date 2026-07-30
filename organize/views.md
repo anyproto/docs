@@ -1,6 +1,6 @@
 # Views
 
-Views are visual lenses that you place over your content. They allow you to view the same information in different formats, shapes, and orders without changing the underlying content. [Types](types.md), [Queries](sets.md), and [Collections](collections.md) all use Views to display their content to you.
+Views are visual lenses that you place over your content. They allow you to view the same information in different formats, shapes, and orders without changing the underlying content. [Types](types.md), [Queries](queries.md), and [Collections](collections.md) all use Views to display their content to you.
 
 > **Analogy**: Imagine a building with one hundred people in it. Changing the 'View' doesn't change who is in the building, it just changes where they are. You can have all the people with red clothing in the lobby, while everybody else hides in the basement. Or you can arrange all the people in a long line from shortest to tallest.
 
@@ -21,7 +21,7 @@ There are three core components to a View:
 
 ### Layouts
 
-Layouts visually arrange your [Objects](../creation/objects/) and their [Properties](relations.md) in ways that make it easier to work with. A series of events on a calendar and a bunch of tasks on a kanban board. Here are some examples of various [layouts in action](views.md#views-in-types-queries-and-collections).
+Layouts visually arrange your [Objects](../creation/objects/) and their [Properties](properties.md) in ways that make it easier to work with. A series of events on a calendar and a bunch of tasks on a kanban board. Here are some examples of various [layouts in action](views.md#views-in-types-queries-and-collections).
 
 <table><thead><tr><th width="130.99609375">Options</th><th>Best For</th><th>Extra Options</th></tr></thead><tbody><tr><td><strong>List</strong></td><td>Simple vertical rows</td><td>Compact, Regular</td></tr><tr><td><strong>Grid</strong></td><td>Spreadsheet-like experience</td><td>Wrap content</td></tr><tr><td><strong>Calendar</strong></td><td>Date and time arrangement</td><td>Date property</td></tr><tr><td><strong>Kanban</strong></td><td>Grouping and project management</td><td>Group by, Color columns, Cover</td></tr><tr><td><strong>Gallery</strong></td><td>Visual highlights</td><td>Cover, Card size, Icon, Fit media</td></tr><tr><td><strong>Graph</strong></td><td>Inter-connected relationships</td><td>Graph settings</td></tr></tbody></table>
 
@@ -68,7 +68,7 @@ You can apply multiple sorts to a View. The first sort will apply, followed by t
 
 ## Create & Manage Views
 
-Views are used on all [Types](types.md), [Queries](sets.md), and [Collections](collections.md). By default, there is one View set, but you can add as many custom Views as you like. Because Views only influence how your data is displayed, you can freely edit, delete, or rearrange them without any risk of affecting your underlying information.
+Views are used on all [Types](types.md), [Queries](queries.md), and [Collections](collections.md). By default, there is one View set, but you can add as many custom Views as you like. Because Views only influence how your data is displayed, you can freely edit, delete, or rearrange them without any risk of affecting your underlying information.
 
 #### Creating a View
 
@@ -107,7 +107,7 @@ Views all follow a three step process: choose a layout, set some filters, and ar
 
 ### Views in Sidebar
 
-You are able to add Views to your Sidebar for immediate access.
+You are able to add Views to your Sidebar for immediate access, also known as [widgets.md](../basics/sidebar/widgets.md "mention").
 
 1. Using the 'three dots' button on the top right corner and select **Pin to Channel**.
 2. Right click the item in the Sidebar.
@@ -123,9 +123,9 @@ You can cycle between the various Views you have already set up, right in the Si
 You can use the **Inline Query** and **Inline Collection** blocks in the editor to add Views directly into pages. This enables you to see your Objects right alongside your content.
 
 1. While editing a page, open the command menu using the `+` button or `/inline` shortcut:
-2. Select **Inline Query** to add a [Type](types.md) or [Query](sets.md), and **Inline Collection** for a [Collection](collections.md).
+2. Select **Inline Query** to add a [Type](types.md) or [Query](queries.md), and **Inline Collection** for a [Collection](collections.md).
 
-Edits made to the view of an Inline Query or Inline Collection apply only to that specific block. Editing an Inline View inside an Object does not affect the master View, which is always preserved at the [Type](types.md), [Query](sets.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
+Edits made to the view of an Inline Query or Inline Collection apply only to that specific block. Editing an Inline View inside an Object does not affect the master View, which is always preserved at the [Type](types.md), [Query](queries.md), or [Collection](collections.md) level. This means each Object can have its own version of the Inline View without ever touching the master.
 
 This is distinct from editing Objects and their Properties on an Inline View—changes made there _do_ affect the Object itself and are reflected across the entire Space.
 
@@ -175,5 +175,5 @@ To delete a View, right-click it to reveal a menu. Alternatively, you can delete
 {% endhint %}
 
 {% hint style="info" %}
-**When bulk editing Objects, it's best to first set up the View filters** to show only the Objects you want to edit. This makes selection much quicker. You can also create a [Query](sets.md) to do this.
+**When bulk editing Objects, it's best to first set up the View filters** to show only the Objects you want to edit. This makes selection much quicker. You can also create a [Query](queries.md) to do this.
 {% endhint %}
