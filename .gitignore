@@ -1,3 +1,7 @@
 
 *.py
 *.tmp
+/.gitbook
+/es-ES-old
+/.gitbook
+.gitbook/assets/Sidebar View.png
