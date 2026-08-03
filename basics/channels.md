@@ -43,7 +43,7 @@ It's easiest to start with 'Personal', you can always add others to your Channel
 
 Once your Channel exists, you'll land on the Home you chose. Some next steps:
 
-* **Invite members** — open Channel Settings > Members to generate invite links. See [Collaboration](../collaborate/collaboration.md).
+* **Invite members** — open Channel Settings > Invite Members share your space with others. See [Collaboration](../collaborate/collaboration.md).
 * **Customize the Sidebar** — pin or favorite important Objects and add widgets. See [Sidebar](sidebar/).
 * **Set up Types and Properties** — create your organization system. See [Types](../organize/types.md).
 * **Choose a Home Page** — pick what loads first when you enter the Channel. See [Choosing Home](channels.md#choosing-a-home).

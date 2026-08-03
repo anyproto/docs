@@ -21,9 +21,8 @@ Embeds keep your work in one place. A project page can show:
 
 The fastest way:
 
-1. In the editor, type `/embed`.
-2. The slash menu shows the supported embed types.
-3. Pick the type and paste the URL when prompted.
+1. In the editor, type `/` to open the menu and type the name of your desired Embed—[full list here](embeds.md#supported-embed-types). Or scroll down to the Embeds section.&#x20;
+2. Pick the type and paste the URL when prompted.
 
 You can also paste a URL directly into the editor. The paste menu offers four options:
 
@@ -36,7 +35,7 @@ If the URL is from a recognized embeddable service, **Embed** is the default. Fo
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-## Supported embed types
+## Supported Embeds
 
 #### Video and audio
 
