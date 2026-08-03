@@ -2,7 +2,7 @@
 
 En el momento de crear tu cuenta en Anytype, recibes tu propia clave, que se genera localmente en tu dispositivo. Es la única forma de acceder a tu arca y descifrar tus datos, como una combinación de tu correo y contraseña de inicio de sesión.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Welcome 3.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Welcome 3.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Cómo funciona
 
