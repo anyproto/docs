@@ -84,8 +84,6 @@ There are two paths to show, hide, and reorder Sidebar sections.
 2. Click the three-dot menu next to its name.
 3. Choose **Manage Sections** to see the full list, or **Hide section** to hide just this one.
 
-The Manage Sections panel opens as a centered popup, listing every section with toggles to show or hide each one and drag handles to reorder.
-
 ### Reordering Sections
 
 Drag the handle to the left of a section name to move it up or down in the sidebar. The section order applies to your settings only — other members keep their own ordering.
@@ -93,8 +91,6 @@ Drag the handle to the left of a section name to move it up or down in the sideb
 ### Hiding Sections
 
 Toggle the eye icon to hide or show a section. Hidden sections aren't deleted — they just don't appear in the sidebar. You can bring them back any time from this panel.
-
-In shared Channels, individual members can only delete Objects they personally moved to Bin. Owners can delete all Objects in Bin.
 
 ## Tips
 

@@ -105,7 +105,7 @@ To find all of your objects and how they are connected, you can look to the [gra
 
 #### Bin
 
-If you've previously removed some objects from your [channels.md](../../basics/channels.md "mention"), they will appear in your [Broken link](/broken/pages/VTvMTnaFZfC0GfngfZmD "mention") unless you've already permanently deleted them.
+If you've previously removed some objects from your [channels.md](../../basics/channels.md "mention"), they will appear in your [Bin](../../organize/deletion.md) unless you've already permanently deleted them.
 
 You can access your Bin from the Sidebar. If this section is not showing, please see [Manage Sections](../../basics/sidebar/sections.md#manage-sections) to reveal it.
 
