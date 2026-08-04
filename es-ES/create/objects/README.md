@@ -7,7 +7,7 @@ En Anytype, todo lo que creas es un objeto. Páginas, tareas, proyectos, persona
 
 En Anytype, creas un objeto y le vas añadiendo relaciones con el tiempo. Así se construye un sistema flexible de conocimiento interconectado en el que no importa dónde están las cosas, sino con qué están relacionadas.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Object System.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Object System.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Qué significa esto
 
@@ -34,7 +34,7 @@ Aquí tienes un ejemplo sencillo de este funcionamiento:
 2. Le añades una **fecha de vencimiento**, que es una propiedad.
 3. La conectas a un **proyecto**, lo que es un enlace.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Objects How.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Objects How.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Cómo crear objetos
 
@@ -48,7 +48,7 @@ En la parte superior de la barra lateral, junto al nombre del canal, está el bo
   * Crear a partir del portapapeles
   * Cargar desde el dispositivo
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Create.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Objects Create.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 #### Sección Tipos
 
@@ -57,7 +57,7 @@ Puedes crear un objeto directamente desde la sección «Tipos» de la barra late
 * Si esta sección no está visible, consulta [Gestionar secciones](../../basics/sidebar/sections.md#gestionar-secciones) para mostrarla.
 * En esta sección solo se muestran los tipos que tienen al menos un objeto. Si la categoría que buscas no aparece en la sección «Tipos», [usa el menú Crear](./README.md#menú-crear) para crear primero un objeto de ese tipo y así aparecerá en esta sección.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Create Section.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Objects Create Section.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 #### Menú de comandos
 
@@ -65,7 +65,7 @@ Mientras trabajas en el editor, puedes escribir `/` para abrir el menú de coman
 
 Los objetos creados de esta forma dejan un bloque de enlace en la página y generan un [enlace entrante](../links.md) hacia el objeto recién creado.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Object Create Command.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Object Create Command.gif" alt=""/><figcaption></figcaption></figure></div>
 
 #### Atajo de teclado
 
@@ -78,7 +78,7 @@ Si estás trabajando en un objeto y quieres transformar un bloque determinado en
 1. Pasa el puntero por el extremo izquierdo del bloque en cuestión y haz clic en los 3 puntos.
 2. Haz clic en **Convertir en objeto** y selecciona el [tipo](../../organize/types.md) que desees.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/hjhgjkgf.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/hjhgjkgf.gif" alt=""/><figcaption></figcaption></figure></div>
 
 ## Cómo localizar tus objetos
 
@@ -86,7 +86,7 @@ Si estás trabajando en un objeto y quieres transformar un bloque determinado en
 
 Puedes encontrar todos tus objetos en la [barra lateral](../../basics/sidebar/ "mention"), agrupados por sus respectivos [types.md](../../organize/types.md "mention"). Si esta sección no está visible, consulta [Gestionar secciones](../../basics/sidebar/sections.md#gestionar-secciones) para mostrarla.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Find Sidebar.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Objects Find Sidebar.gif" alt=""/><figcaption></figcaption></figure></div>
 
 #### Búsqueda
 
@@ -95,13 +95,13 @@ Usa uno de estos métodos para hacer una búsqueda:
 * Ve a la barra lateral y haz clic en el botón de búsqueda.
 * Usa el atajo de teclado `Cmd / Ctrl + K`.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Search.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Objects Search.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 #### Gráfico
 
 Para ver todos tus objetos y las conexiones entre ellos, puedes recurrir al [graph.md](../../advanced/feature-list-by-platform/graph.md "mention") como tu principal fuente de información. Cuando tengas abierto un objeto, haz clic en el icono «Gráfico» que aparece junto a los botones de avance y retroceso.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Objects Find Graph.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Objects Find Graph.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 #### Papelera
 
@@ -124,7 +124,7 @@ Sigue estos pasos para elegir el tipo que se usará por defecto al crear un obje
 
 También puedes configurarlo en los [ajustes del canal](../../settings/channel-settings.md).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Create Default.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Create Default.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Notas
 
