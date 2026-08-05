@@ -26,8 +26,6 @@ This will add the file as a block in the page and create a standalone Object in 
 * Copy and paste with shortcut `cmd/ctrl + v`
 * Add the 'File Block' from the menu with the shortcut `/file`
 
-Adding files via the editor will treat deletion differently, [learn more below](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/creation/files-and-media#deleting-file-objects).
-
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Files Editor.gif" alt=""><figcaption></figcaption></figure></div>
 
 #### Directly in chat

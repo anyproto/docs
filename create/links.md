@@ -38,7 +38,7 @@ Directly through the editor by using:
 When viewing an Object, you can add links to [properties.md](../organize/properties.md "mention") using:
 
 1. [**Object Header**](../organize/properties.md#properties-in-the-object-header) — Select a property from the header. If the property is not visible, add it to the header from the [type settings](../organize/properties.md#create-and-manage-properties).
-2. [**Block Menu**](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/creation/blocks#adding-blocks) — Add an inline property block from the menu using the plus button or slash command.
+2. [**Block Menu**](editor/#adding-blocks) — Add an inline property block from the menu using the plus button or slash command.
 
 Alternatively, you can add a property from [views.md](../organize/views.md "mention"). This is better when you are editing properties of multiple Objects.
 
@@ -65,7 +65,7 @@ To add such a link, select the "Link to website" in the editor just like when yo
 
 #### Backlinks
 
-You can use the Backlinks property in the Object Header to check which Objects link to the currently opened one. If you cannot locate the Backlinks property, go to the Type settings and add it to Header section. [See here](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/organize/relations#managing-properties) for more details.
+You can use the Backlinks property in the Object Header to check which Objects link to the currently opened one. If you cannot locate the Backlinks property, go to the Type settings and add it to Header section. [See here for more details](../organize/properties.md#create-and-manage-properties).
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Link Back.gif" alt=""><figcaption></figcaption></figure></div>
 
