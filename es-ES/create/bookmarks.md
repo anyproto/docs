@@ -44,7 +44,7 @@ En la cabecera de la barra lateral del canal, haz clic en la flecha desplegable,
 
 #### Desde la barra lateral
 
-En la barra lateral, pasa el puntero por encima de «Marcadores» y haz clic en el botón «+». Si la sección «Tipos» no está visible, ve a [Gestionar secciones](../basics/sidebar/sections.md#gestionar-las-secciones). Si el tipo «Marcadores» no aparece en la sección, es posible que aún no tengas ningún marcador; aparecerá en cuanto guardes un primer marcador.
+En la barra lateral, pasa el puntero por encima de «Marcadores» y haz clic en el botón «+». Si la sección «Tipos» no está visible, ve a [Gestionar secciones](../basics/sidebar/sections.md#gestionar-las-secciones). Si el tipo «Marcadores» no aparece en la sección, es posible que aún no tengas ningún marcador; aparecerá en cuanto guardes el primero.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Bookmarks Sidebar.jpg" alt=""/><figcaption></figcaption></figure></div>
 

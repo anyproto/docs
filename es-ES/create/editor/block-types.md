@@ -6,36 +6,17 @@ Hay muchos tipos de bloques, cada uno con su propia utilidad. Añade y prueba to
 
 ### Bloques de texto
 
-|Bloque                          |Para qué sirve                                                                                          |
-|--------------------------------|--------------------------------------------------------------------------------------------------------|
-|**Párrafo**                     |Texto normal                                                                                            |
-|**Título 1, Título 2, Título 3**|Estructura de secciones, o títulos (H1, H2 y H3)                                                        |
-|**Título**                      |Título del objeto                                                                                       |
-|**Cita**                        |Texto citado o destacado                                                                                |
-|**Globo**                       |Texto en recuadro para advertencias, consejos o notas                                                   |
-|**Código**                      |Código monoespaciado con resaltado de sintaxis                                                          |
-|**Desplegable**                 |Bloque contraíble que oculta el contenido anidado                                                       |
-|**Título desplegable**          |Un título que también contrae y expande su sección, consulta [Títulos desplegables](toggled-headings.md)|
+<table data-search="false"><thead><tr><th width="244.21484375">Bloque</th><th>Para qué sirve</th></tr></thead><tbody><tr><td><strong>Párrafo</strong></td><td>Texto normal</td></tr><tr><td><strong>Título 1, Título 2, Título 3</strong></td><td>Estructura de secciones, o títulos (H1, H2 y H3)</td></tr><tr><td><strong>Título</strong></td><td>Título del objeto</td></tr><tr><td><strong>Cita</strong></td><td>Texto citado o destacado</td></tr><tr><td><strong>Globo</strong></td><td>Texto en recuadro para advertencias, consejos o notas</td></tr><tr><td><strong>Código</strong></td><td>Código monoespaciado con resaltado de sintaxis</td></tr><tr><td><strong>Desplegable</strong></td><td>Bloque contraíble que oculta el contenido anidado</td></tr><tr><td><strong>Título desplegable</strong></td><td>Un título que también contrae y expande su sección, consulta <a href="toggled-headings.md">Títulos desplegables</a></td></tr></tbody></table>
 
 ### Bloques de lista
 
-|Bloque               |Para qué sirve                                   |
-|---------------------|-------------------------------------------------|
-|**Lista con viñetas**|Lista sin orden                                  |
-|**Lista numerada**   |Lista numerada automáticamente                   |
-|**Casilla**          |Casillas de verificación para elementos de acción|
+<table><thead><tr><th width="200.66796875">Bloque</th><th>Para qué sirve</th></tr></thead><tbody><tr><td><strong>Lista con viñetas</strong></td><td>Lista sin orden</td></tr><tr><td><strong>Lista numerada</strong></td><td>Lista numerada automáticamente</td></tr><tr><td><strong>Casilla</strong></td><td>Casillas de verificación para elementos de acción</td></tr></tbody></table>
 
 Pulsa Tab dentro de un elemento de lista para añadirle sangría y crear una sublista anidada. Mayús + Tab le quita la sangría.
 
 ### Bloques de medios
 
-|Bloque     |Para qué sirve                         |
-|-----------|---------------------------------------|
-|**Imagen** |Imagen insertada                       |
-|**Vídeo**  |Reproductor de vídeo incrustado        |
-|**Audio**  |Reproductor de audio incrustado        |
-|**Archivo**|Archivo genérico con enlace de descarga|
-|**PDF**    |PDF con vista previa                   |
+<table><thead><tr><th width="165.9921875">Bloque</th><th>Para qué sirve</th></tr></thead><tbody><tr><td><strong>Imagen</strong></td><td>Imagen insertada</td></tr><tr><td><strong>Vídeo</strong></td><td>Reproductor de vídeo incrustado</td></tr><tr><td><strong>Audio</strong></td><td>Reproductor de audio incrustado</td></tr><tr><td><strong>Archivo</strong></td><td>Archivo genérico con enlace de descarga</td></tr><tr><td><strong>PDF</strong></td><td>PDF con vista previa</td></tr></tbody></table>
 
 Arrastra un archivo al editor para insertarlo. Cada archivo se convierte en un [objeto de archivo](../files-and-media.md) que puedes encontrar y e insertar en otros lugares.
 
@@ -43,12 +24,7 @@ Arrastra un archivo al editor para insertarlo. Cada archivo se convierte en un [
 
 ### Bloques de estructura
 
-|Bloque      |Para qué sirve                                                                              |
-|------------|--------------------------------------------------------------------------------------------|
-|**Divisor** |Línea de separación horizontal                                                              |
-|**Índice**  |Generado automáticamente a partir de tus títulos                                            |
-|**Tabla**   |Bloque de datos con estilo de hoja de cálculo                                               |
-|**Columnas**|Se crean arrastrando bloques uno al lado del otro (no hay un «bloque de columna» específico)|
+<table><thead><tr><th width="205.1328125">Bloque</th><th>Para qué sirve</th></tr></thead><tbody><tr><td><strong>Divisor</strong></td><td>Línea de separación horizontal</td></tr><tr><td><strong>Índice</strong></td><td>Generado automáticamente a partir de tus títulos</td></tr><tr><td><strong>Tabla</strong></td><td>Bloque de datos con estilo de hoja de cálculo</td></tr><tr><td><strong>Columnas</strong></td><td>Se crean arrastrando bloques uno al lado del otro (no hay un «bloque de columna» específico)</td></tr></tbody></table>
 
 #### Tablas
 
@@ -63,20 +39,11 @@ También puedes seleccionar varias celdas a la vez:
 
 ### Bloques de referencia
 
-|Bloque                 |Para qué sirve                                                                                                   |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------|
-|**Enlace a objeto**    |Tarjeta o texto que hace referencia a otro objeto                                                                |
-|**Fecha insertada**    |Referencia a una fecha                                                                                           |
-|**Mención insertada**  |Mención con estilo `@` a un objeto                                                                               |
-|**Consulta insertada** |Consulta dinámica incrustada, ver [Consultas insertadas](../../advanced/feature-list-by-platform/inline-queries.md)|
-|**Colección insertada**|Colección dinámica incrustada                                                                                    |
-|**Chat insertado**     |Hilo de chat incrustado                                                                                          |
+<table><thead><tr><th width="205.19921875">Bloque</th><th>Para qué sirve</th></tr></thead><tbody><tr><td><strong>Enlace a objeto</strong></td><td>Tarjeta o texto que hace referencia a otro objeto</td></tr><tr><td><strong>Fecha insertada</strong></td><td>Referencia a una fecha</td></tr><tr><td><strong>Mención insertada</strong></td><td>Mención con estilo <code>@</code> a un objeto</td></tr><tr><td><strong>Consulta insertada</strong></td><td>Consulta dinámica incrustada</td></tr><tr><td><strong>Colección insertada</strong></td><td>Colección dinámica incrustada</td></tr><tr><td><strong>Chat insertado</strong></td><td>Hilo de chat incrustado</td></tr></tbody></table>
 
 ### Bloques de propiedades
 
-|Bloque       |Para qué sirve                                            |
-|-------------|----------------------------------------------------------|
-|**Propiedad**|Añade una propiedad del objeto como bloque en el contenido|
+<table><thead><tr><th width="193.50390625">Bloque</th><th>Para qué sirve</th></tr></thead><tbody><tr><td><strong>Propiedad</strong></td><td>Añade una propiedad del objeto como bloque en el contenido</td></tr></tbody></table>
 
 Sirve para mostrar [properties.md](../../organize/properties.md "mention") de forma destacada. El valor de la propiedad se mantiene sincronizado en el bloque: si cambias uno, todos los demás se actualizan. Esto permite crear plantillas y diseños elaborados para todos tus documentos.
 
