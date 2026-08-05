@@ -1,31 +1,18 @@
 # Índice
 
-## 👋 Introducción
+## Primeros pasos
 
 * [Anytype te da la bienvenida](README.md)
-* [Obtén la aplicación](intro/get-the-app.md)
-* [Ponte en contacto](intro/connect-with-us.md)
+  * [Misión](getting-started/welcome/mission.md)
+* [Instalar](getting-started/install.md)
 
-## ⬛ Nociones básicas
+## Nociones básicas
 
-* [Arca y clave](basics/vault-and-key.md)
-* [Espacio](basics/space/README.md)
-* [Objetos](basics/object-editor/README.md)
-  * [Los bloques y el editor](basics/object-editor/blocks.md)
-  * [Maneras de crear objetos](basics/object-editor/create-an-object.md)
-* [Tipos](basics/types/README.md)
-  * [Plantillas](basics/types/templates.md)
-* [Relaciones](basics/relations/README.md)
-* [Conjuntos y colecciones](basics/sets-and-collections/README.md)
-  * [Vistas](basics/sets-and-collections/views.md)
-* [Biblioteca](basics/anytype-library.md)
-* [Enlaces](anytype-basics/object-editor/linking-objects.md)
-* [Gráfico](basics/graph.md)
-
-## 📽️ Casos de uso
-
-* [💫 En profundidad: Plantillas](use-cases/deep-dive-templates.md)
-
-## 🌍 COMUNIDAD
-
-* [Foro de la comunidad](community/community-forum/README.md)
+* [Vista general](basics/overview.md)
+* [Arca](basics/vault.md)
+* [Clave](basics/key.md)
+* [Canales](basics/channels.md)
+* [Barra lateral](basics/sidebar/README.md)
+  * [Secciones](basics/sidebar/sections.md)
+  * [Anclados y favoritos](basics/sidebar/pins-and-favorites.md)
+  * [Widgets](basics/sidebar/widgets.md)

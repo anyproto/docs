@@ -1,42 +1,36 @@
----
-description: Herramientas para el pensamiento, la libertad y la confianza
----
+# Anytype te da la bienvenida
 
-# Saludos de Anytype
+Anytype es un refugio seguro para tu vida digital. Creemos que tus ideas, planes y conversaciones privadas deben pertenecerte a ti, y solo a ti.
 
-{% embed url="https://www.youtube.com/watch?v=dh_3NHY5eVs" %}
+La mayoría de las aplicaciones almacenan tus datos para verlos, analizarlos, monetizarlos y controlarlos. En esencia, estás pidiendo permiso para acceder a tu propia vida digital. Anytype te devuelve el control. Hemos creado una herramienta que te devuelve la propiedad de tu mundo digital.
 
-Anytype es la **alternativa cifrada con base local** a una Internet basada en la nube. 
+<div data-with-frame="true"><figure><img src=".gitbook/assets/Welcome Intro.jpg" alt=""/><figcaption></figcaption></figure></div>
 
-Con Anytype puedes construir espacios digitales en torno a tus intereses. Estos espacios pueden ser personales, para tus diarios, ideas y borradores, o compartidos con tu familia, comunidad, equipo, vecinos y personas con intereses comunes.
+## ¿En qué se diferencia Anytype?
 
-A diferencia de las aplicaciones de nube, Anytype pone enteramente en tus manos el control de las claves de cifrado para que conserves la propiedad de tus datos y de tu tejido social. Los espacios que creas son, antes que nada, locales: los puedes crear sin conexión y sincronizarlos directamente (P2P) entre dispositivos de tu red local. 
+* **Base local**: Todo lo que creas existe primero en tu dispositivo, no en el servidor de una compañía. Puedes trabajar sin conexión, sincronizar entre tus propios dispositivos o alojar tus datos por tu cuenta. Estés en una montaña remota o en una oficina de alta seguridad, tú tienes el control.
+* **Cifrado de extremo a extremo**: Tus datos están protegidos en un arca digital, donde se cifran en un código secreto. Solo tú, y las personas con las que los compartas de forma explícita, tenéis acceso a esa información. Nadie, ni siquiera el equipo de Anytype, puede ver lo que estás haciendo.
+* **Sin ataduras**: Nunca dependerás de una suscripción ni de un proveedor de servicios. Tienes acceso a tus datos y al software de Anytype para siempre. Como no dependes de ningún proveedor, nadie puede impedirte jamás acceso a tu propia vida digital, ni siquiera nosotros.
 
-Anytype se basa en [AnySync](https://tech.anytype.io/any-sync/overview), un protocolo de código abierto que permite colaborar con gran eficiencia empleando datos cifrados y claves controladas por los creadores. Nuestro código se encuentra aquí.
+## Vistazo rápido
 
-Con cada decisión arquitectónica, aspiramos a eliminar las restricciones a las [libertades digitales fundamentales](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U). Aquí hablamos más sobre la diferencia entre [una Internet basada en la nube y una con prioridad local](https://blog.anytype.io/the-nervous-system-of-humanity-needs-an-upgrade/).
+En este breve vídeo, verás enseguida lo que hace Anytype y cómo empezar.
 
-También puedes visitar nuestra [galería de experiencias](https://gallery.any.coop) para explorar plantillas y experiencias preconfiguradas por nuestra comunidad. 
+{% embed url="https://www.youtube.com/watch?v=DpPEl8VTPjg" %}
 
-Si quieres exponer tus dudas, comentarios e ideas, únete al [foro de nuestra comunidad](https://community.anytype.io). Si quieres contribuir al proyecto, [puedes hacerlo desde aquí](https://github.com/orgs/anyproto/discussions).
+## ¿Cómo funciona Anytype?
 
-### Para empezar
+Anytype te permite crear diferentes espacios para el trabajo y la vida personal. Como cada espacio está aislado, no tienes que preocuparte de que tu información llegue a quien no debe.
+
+* **Espacios personales**: Un santuario privado, solo para ti. Úsalos para llevar tu diario, crear listas de tareas y almacenar documentos importantes.
+* **Espacios colaborativos**: Entornos compartidos en los que puedes colaborar fácilmente con familiares, equipos de proyecto o grandes comunidades. Los chats y debates se encuentran dentro de tus espacios, de forma que puedes sostener conversaciones privadas junto a tus documentos, tareas y contenido multimedia. 
+
+## ¿En qué se basa Anytype?
+
+Anytype funciona con [AnySync](https://tech.anytype.io/any-sync/overview), un [protocolo de código abierto](https://github.com/anyproto) que hemos desarrollado y que ofrece un alto rendimiento en la colaboración con datos cifrados y funciona sin conexión de forma prioritaria. Con cada decisión arquitectónica, buscamos que las [libertades digitales fundamentales](https://youtu.be/6Hyr881Xi8A?si=tVftb8x9V5koMt0U) sean inquebrantables. Aquí puedes leer algunas de nuestras reflexiones sobre [Internet en la nube frente a Internet con base local](https://blog.anytype.io/from-cloud-to-local-first/). 
 
 ***
 
-Si estás empezando a usar Anytype, aquí tienes algunas nociones básicas:
+## Únete a la comunidad
 
-* [Arca y clave](basics/vault-and-key.md)
-* [Espacio](basics/space/)
-* [Objetos](basics/object-editor/)
-* [Páginas y bloques](basics/object-editor/blocks.md)
-* [Enlaces](anytype-basics/object-editor/linking-objects.md) y [relaciones](basics/relations/)
-* [Conjuntos y colecciones](basics/sets-and-collections/)
-* [Vistas de kanban, lista, cuadrícula y calendario](basics/sets-and-collections/views.md)
-* [Barra lateral y widgets](basics/vault-and-key/customize-and-edit-the-sidebar.md)
-* [Tipos](basics/types/) y [plantillas](basics/types/templates.md)
-* [Gráfico](basics/graph.md)
-
-Y si aún tienes dudas con algunos conceptos, puedes ver esta estupenda guía de uno de nuestros usuarios avanzados:
-
-{% embed url="https://www.youtube.com/watch?v=oY-ihuDJIvQ" %}
+¿Tienes preguntas o ideas? Únete al [foro de nuestra comunidad](https://community.anytype.io/).
