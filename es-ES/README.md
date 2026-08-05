@@ -1,4 +1,5 @@
 # Anytype te da la bienvenida
+{% hint style="info" %} <small>La traducción al español de esta documentación es una tarea en curso realizada por seres humanos. Irán apareciendo más páginas traducidas según estén terminadas.</small> {% endhint %}
 
 Anytype es un refugio seguro para tu vida digital. Creemos que tus ideas, planes y conversaciones privadas deben pertenecerte a ti, y solo a ti.
 

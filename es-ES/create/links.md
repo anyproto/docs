@@ -5,7 +5,7 @@ description: Crea relaciones en tu base de conocimiento
 
 # Enlaces
 
-En Anytype, los enlaces son lo que convierte un montón de notas dispersas en una base de conocimiento conectada. Cuando vinculas un objeto «Tarea» a un objeto «Proyecto», estás indicando que están relacionados. Anytype registra esta relación como un enlace y lo hace visible en tu gráfico, que es un mapa mental de todo tu espacio.
+En Anytype, los enlaces son vínculos que convierten un montón de notas dispersas en una base de conocimiento conectada. Cuando enlazas un objeto «Tarea» a un objeto «Proyecto», estás indicando que están relacionados. Anytype registra esta relación como un vínculo y lo hace visible en el gráfico, que es un mapa mental de todo tu espacio.
 
 Con el tiempo, estas conexiones adquieren un valor increíble. Te permiten rastrear las relaciones entre ideas, ver todo lo relacionado con un proyecto y descubrir patrones que no habías imaginado.
 
