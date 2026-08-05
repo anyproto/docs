@@ -6,7 +6,7 @@ description: Dos formas de tener cerca los objetos importantes, los tuyos y los 
 
 Puedes añadir tus [objetos](../../create/objects/) más importantes a la barra lateral como anclados y como favoritos. Todos los objetos anclados y favoritos se pueden convertir en [widgets](widgets.md), secciones dinámicas e interactivas de la barra lateral. También puedes dejarlos como simples enlaces para que sirvan como atajos rápidos a tu contenido.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Pins Favorites.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Pins Favorites.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Diferencia entre favoritos y anclados
 

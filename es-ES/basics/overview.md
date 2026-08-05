@@ -2,7 +2,7 @@
 
 Aquí tienes un diagrama rápido de Anytype. Cuando entiendes estos conceptos básicos, todo lo demás encaja en su sitio.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Overview Intro.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Overview Intro.gif" alt=""/><figcaption></figcaption></figure></div>
 
 ## 1\. Arca
 

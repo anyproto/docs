@@ -5,7 +5,7 @@ La barra lateral es la herramienta de navegación principal de Anytype.
 1. **Barra lateral del arca**: para cambiar de un canal a otro en tu arca.
 2. **Barra lateral del canal**: para crear, abrir y organizar todo en ese canal.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Sidebar Regular.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Sidebar Regular.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Barra lateral del arca
 
@@ -16,7 +16,7 @@ El panel de la izquierda es la barra lateral del arca. Te permite navegar por to
 3. [Atajos de teclado](../../advanced/settings/keyboard-shortcuts.md), donde puedes personalizar tus atajos.
 4. Recursos, como contacto de soporte, notas de publicación, versión, etc.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Sidebar Vault.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Sidebar Vault.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Barra lateral del canal
 
@@ -44,7 +44,7 @@ Bajo la cabecera hay varias secciones que aparecen en este orden por defecto:
 
 Todas las secciones se pueden ocultar, cambiar de lugar y personalizar. Encontrarás más detalles en [Widgets](widgets.md) y [Secciones](sections.md).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Sidebar Channel.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Sidebar Channel.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Ajustes de la barra lateral
 
@@ -57,7 +57,7 @@ Arrastra el borde derecho de la barra lateral para cambiar su tamaño. Tienes es
 * arrastrar hacia la izquierda para contraerla por completo y que desaparezca,
 * activar la preferencia de mostrarla y ocultarla automáticamente en tus [vault-settings.md](../../settings/vault-settings.md "mention").
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Sidebar.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Sidebar.gif" alt=""/><figcaption></figcaption></figure></div>
 
 ### Barra del arca compacta
 
@@ -65,7 +65,7 @@ La barra del arca tiene un modo compacto para ocupar menos espacio visual. Así 
 
 Arrastra el borde derecho del arca para estrecharla hasta cierto punto y cambiará automáticamente al modo compacto. Arrástralo para ampliarla y recuperará su diseño normal.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Sidebar Compact.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Sidebar Compact.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ### Modo de concentración
 
@@ -76,7 +76,7 @@ Para cambiar rápidamente al modo de concentración, puedes usar un atajo de tec
 3. Busca **Barra lateral del arca y del canal**.
 4. Asígnale un atajo.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Sidebar Focus.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Sidebar Focus.gif" alt=""/><figcaption></figcaption></figure></div>
 
 ## Notas
 

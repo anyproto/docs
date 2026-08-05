@@ -4,7 +4,7 @@ Anytype es un refugio seguro para tu vida digital. Creemos que tus ideas, planes
 
 La mayoría de las aplicaciones almacenan tus datos para verlos, analizarlos, monetizarlos y controlarlos. En esencia, estás pidiendo permiso para acceder a tu propia vida digital. Anytype te devuelve el control. Hemos creado una herramienta que te devuelve la propiedad de tu mundo digital.
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/Welcome Intro.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Welcome Intro.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## ¿En qué se diferencia Anytype?
 

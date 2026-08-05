@@ -6,7 +6,7 @@ description: Personaliza lo que aparece en la barra lateral de tu canal.
 
 La barra lateral de canales está dividida en **secciones** que se pueden ocultar, ordenar y personalizar según tu forma de trabajar. Esta página describe los controles para organizar esas secciones.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Manage Sections Title.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Manage Sections Title.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Secciones por defecto
 
@@ -25,7 +25,7 @@ Anytype tiene dos mecanismos distintos:
 
 Para ver detalles sobre la forma de añadirlos, eliminarlos y organizarlos, consulta [pins-and-favorites.md](pins-and-favorites.md "mention").
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Pins Favorites.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Sidebar Pins Favorites.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ### Tipos
 
@@ -36,7 +36,7 @@ La sección [Tipos](../../organize/types.md) es el índice principal de tu espac
 * **Ordenar los tipos**: haz clic en un tipo y arrástralo para cambiar su posición en la lista.
 * **Tipos ocultos**: en la barra lateral solo aparecen automáticamente los tipos que tienen al menos un objeto. Si quieres crear un objeto de un tipo que no esté visible en la barra lateral, haz clic en el [desplegable Crear de la barra lateral](../../create/objects/#menú-crear) para ver todos tus tipos.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Types.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Sidebar Types.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ### Editado recientemente
 
@@ -50,7 +50,7 @@ La sección **Editado recientemente** muestra los objetos que se han modificado 
 
 Puedes usar **Solo yo** en canales de equipo muy activos para evitar que tu propio trabajo quede invisible bajo las ediciones de los demás.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Recently Edited.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Sidebar Recently Edited.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ### No leídos
 
@@ -58,7 +58,7 @@ La sección **No leídos** muestra las notificaciones de tu canal. Suelen proced
 
 Puedes colocar esta sección al principio o al final, según te venga mejor. No puedes ocultarla. Tienes más detalles en [Gestionar secciones](sections.md#gestionar-secciones).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sidebar Unread.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Sidebar Unread.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ### Papelera
 
@@ -71,7 +71,7 @@ La papelera tiene su propia sección en la barra lateral. Su menú de tres punto
 
 Hay dos formas de mostrar, ocultar y ordenar las secciones de la barra lateral.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Manage Sections How To Find.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Manage Sections How To Find.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 **Desde la cabecera del canal:**
 

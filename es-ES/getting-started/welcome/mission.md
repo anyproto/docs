@@ -1,6 +1,6 @@
 # Misión
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Mission.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Mission.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ### Por qué estamos construyendo Anytype
 

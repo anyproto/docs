@@ -2,7 +2,7 @@
 
 Un **canal**, o espacio, es un espacio de trabajo dentro de tu arca. Si tu arca es la casa, cada canal es una habitación aparte con su propia puerta cerrada. Cada canal tiene su propio conjunto de objetos, su propia barra lateral y sus propios miembros. Todo lo que creas forma parte de un canal determinado.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Channels Intro.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channels Intro.gif" alt=""/><figcaption></figcaption></figure></div>
 
 ## Qué significa esto
 
@@ -20,7 +20,7 @@ Estos son los elementos propios de cada canal:
 
 Puedes crear tantos canales como necesites. Usa la barra lateral del arca (el panel situado más a la izquierda) para cambiar de un canal a otro.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Channels Switch.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channels Switch.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Cómo crear un canal
 
@@ -37,7 +37,7 @@ Puedes crear tantos canales como necesites. Usa la barra lateral del arca (el pa
 
 Lo más fácil es empezar con «Personal»; más adelante, podrás añadir otros miembros a tu canal y compartir un enlace de invitación.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Channel Create.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Create.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ## Cómo configurar tu canal
 
@@ -52,13 +52,13 @@ Una vez creado el canal, accederás a la página de inicio que hayas elegido. Ah
 
 Para compartir el acceso y colaborar con más personas, usa la sección Miembros de los ajustes del canal. Puedes generar enlaces de invitación, aprobar accesos, anular accesos y decidir el nivel de los permisos. [Puedes ver más detalles aquí](../settings/channel-settings.md#miembros).
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Members.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Members.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 ### Tu página de inicio
 
 La página de inicio muestra el propósito del canal. Todos los canales tienen las mismas capacidades; la página de inicio solo determina el punto de partida.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/Docs Channel Home.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Channel Home.jpg" alt=""/><figcaption></figcaption></figure></div>
 
 Tu Inicio puede ser una de estas tres cosas:
 
