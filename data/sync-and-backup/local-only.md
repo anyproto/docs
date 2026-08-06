@@ -10,25 +10,26 @@ If you prefer to fully keep your data on your device without any server to sync 
 
 Anytype is built on [local-first principles](https://www.inkandswitch.com/essay/local-first/)—designed for people who love the convenience of modern cloud apps, but do not want to sacrifice their privacy, security, and ownership. To understand how local-only is different from local-first:
 
-**Local-Only**
+#### **Local-Only**
 
 * Storage: Data lives exclusively on your device.
 * Syncing: No syncing through a server.
 * Risk: If your device breaks or gets lost, your data is gone forever.
 * Backups: Entirely manual and your personal responsibility.
 
-**Local-First (Anytype Network)**
+#### **Local-First (Anytype Network)**
 
 * Storage: Data lives on your device and works fully offline.
 * Syncing: Syncs automatically across your devices via end-to-end encryption whenever you're connected.
 * Privacy: Only you hold the decryption keys—Anytype can never read your content.
 * Recovery: If you lose all your devices, you can still restore it via Anytype's encrypted backup node.
+* Risk: If somebody gains access to your [Key](../../basics/key.md), they can gain access your [Vault](../../basics/vault.md). It's very important to save your Key securely, as a compromised Vault must effectively be deleted. You cannot reset a password or account to regain control of your Vault.&#x20;
 
-In summary, local-only means no syncing with servers. Local-first means it works offline, syncs like a cloud app with end-to-end encryption, and is only accessible to you.
+In summary, local-only means it works offline with no syncing to any server. Local-first means it works offline, syncs with end-to-end encryption across multiple devices, and is only accessible to the those who have a key.
 
 ### Should I use local-only mode?
 
-In short: the standard local-first mode using the Anytype Network is the better choice for most people.&#x20;
+In short: the standard local-first mode using the Anytype Network is the better choice for the average person.&#x20;
 
 Anytype is built to be private by default. Because your encryption keys are generated locally and never leave your device, your data is completely inaccessible to anyone else—a design verified in our open-source code. The standard Anytype Network mode gives a fantastic balance between security and convenience.
 
