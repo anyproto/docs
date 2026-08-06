@@ -2,7 +2,7 @@
 
 Puedes abrir un índice de tu contenido en la barra lateral derecha para navegar por el objeto; el panel seguirá abierto cuando te desplaces. Este panel se cierra automáticamente cuando navegas a otro objeto.
 
-Además, puedes añadir un bloque de índice (`/índ`) a cualquier objeto. El índice genera automáticamente a partir de los títulos de la página y se actualiza cuando añades o eliminas títulos.
+Además, puedes añadir un bloque de índice (`/índ`) a cualquier objeto. El índice se genera automáticamente a partir de los títulos de la página y se actualiza cuando añades o eliminas títulos.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Contents Page.gif" alt=""/><figcaption></figcaption></figure></div>
 

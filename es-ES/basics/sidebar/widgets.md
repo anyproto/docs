@@ -15,7 +15,7 @@ Todos los anclados y favoritos de la barra lateral se pueden configurar como wid
 * Enlace: un acceso directo para abrir rápidamente al objeto.
 * Widget: un elemento interactivo que muestra información en la barra lateral.
 
-Esta opción se puede cambiar en [cada widget](widgets.md#opciones-de-diseño) o para [todo el canal](widgets.md#vista-de-la-barra-lateral-del-canal).
+Esta opción se puede cambiar en [cada widget](widgets.md#opciones-de-diseno) o para [todo el canal](widgets.md#vista-de-la-barra-lateral-del-canal).
 
 ## Crear widgets
 

@@ -1,0 +1,226 @@
+# Preguntas frecuentes
+
+## General
+
+<details>
+
+<summary>¿Puedo usar dos arcas distintas al mismo tiempo?</summary>
+
+We do not suggest using two separate Vaults at the same time. Ideally, you create a separate user account (macOS, Windows, or Linux) and log into your other Vault there.
+
+However, here's a tweak that works only on desktop: you need to create a separate shortcut for your other Vault and add the `--user-data-dir="$path"` flag to the launch command (i.e. `--user-data-dir="D:\Anytype"`).
+
+</details>
+
+<details>
+
+<summary>¿Qué hago si no puedo abrir los enlaces de Anytype desde un navegador?</summary>
+
+You can still open any Anytype links by simply pasting them in the global search menu within Anytype. Shortcut: `Cmd/Ctrl + K`
+
+</details>
+
+<details>
+
+<summary>No puedo anclar nada en la barra lateral ni crear widgets.</summary>
+
+Pin to Channel is available only to owners of the space. In order to add your own Widgets when you're not an owner, use the Favorites feature with the star icon. These Favorites in the Sidebar only appear to you. If your Pins or Favorites are not appearing as Widgets, you may need to change the Channel Settings. [Learn more](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/basics/sidebar/sidebar-widgets#opciones-de-los-widgets).
+
+</details>
+
+<details>
+
+<summary>¿Cómo se crean columnas?</summary>
+
+Click and drag the 'handle' to the left of each block and move it to your desired location. [Learn more](https://app.gitbook.com/s/uI82XLdf1100Q75OKbEQ/creation/blocks#columns).
+
+<figure><img src="../../.gitbook/assets/Docs Blocks Columns.gif" alt=""/><figcaption></figcaption></figure>
+
+</details>
+
+## Account, Security, and Privacy
+
+<details>
+
+<summary>He perdido mi clave, ¿qué puedo hacer?</summary>
+
+Anytype does not have access to your account in any way, thus we do not have your Key and cannot recover it for you. However you may be able to recover it on your own, [see here for more details](../basics/key.md#qué-ocurre-si-pierdes-la-clave).
+
+If you're still unable to retrieve your Key to access your Vault, Anytype is unable to delete your account for you because we have no way of identifying it correctly with your identity. Your Vault will remain encrypted on our backup nodes without anybody being able to access it.
+
+</details>
+
+<details>
+
+<summary>¿Cómo recupero mi clave desde el almacén de claves del sistema operativo?</summary>
+
+**Mac**
+
+If you’re using a Mac, Anytype’s default setting is to store your key in the native Keychain Access app. It doesn’t get stored anywhere else. Whether your passwords are backed up to iCloud depends if you have that option enabled in your settings. You can check [Apple’s support page](https://support.apple.com/en-us/HT204085) for more information on iCloud password backups.
+
+We’ve set up this system as a safety net for users who might otherwise lose their Key. We’re pursuing different options for the future, but for the time being, this is how it works.
+
+If you logged in with your key on your mac, then you can find it here:
+
+1. Click and open Finder from the dock.
+2. Click on Applications & open Utilities.
+3. Open the Keychain Access app.
+4. On the sidebar: select Default Keychains: login
+5. Find & open your Anytype instance in the list
+6. Check the “Show password” box to reveal your key
+
+**Windows**
+
+Your key is stored in the [Credentials Manager](https://support.microsoft.com/en-us/windows/accessing-credential-manager-1b5c916a-6a16-889f-8581-fc16e8165ac0). If you are unable to read a password via the Credential Manager (Show button is missing), you can use [this PowerShell script](https://gist.github.com/requilence/de8da32adc44d4786559789debb3bf88). Save it to your computer, right-click in the File Explorer and press "Run with PowerShell".
+
+**Linux**
+
+You can use [seahorse](https://wiki.gnome.org/Apps/Seahorse/) to find your key if you are using [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring).
+
+</details>
+
+<details>
+
+<summary>¿Qué estándar seguís para crear la clave de mi arca?</summary>
+
+We use the **[BIP39](https://medium.com/coinmonks/mnemonic-generation-bip39-simply-explained-e9ac18db9477)** standard to generate a mnemonic phrase, which is then used to derive your Vault's private key.
+
+</details>
+
+<details>
+
+<summary>¿Por qué dice Anytype que mi clave es demasiado corta?</summary>
+
+This issue is usually resolved by adding a space at the end after pasting your key.
+
+</details>
+
+<details>
+
+<summary>¿Qué puedo hacer si se me pide introducir la clave / frase de recuperación cada vez que abro Anytype en Linux?</summary>
+
+Linux users may be asked for their Key each time they log in. To resolve this issue, please install a keychain. The most popular is [GNOME Keyring](https://wiki.gnome.org/action/show/Projects/GnomeKeyring?action=show\&redirect=GnomeKeyring). Additionally, ensure that you have met all the [dependencies](https://github.com/anyproto/anytype-ts#dependencies) beforehand.
+
+</details>
+
+## Sync & Storage
+
+<details>
+
+<summary>¿Qué ocurrirá si alcanzo mi límite de almacenamiento?</summary>
+
+You can continue to use the app without interruption, creating Objects and editing them will all continue to sync as usual. The difference is that files, images, videos, etc. will no longer sync until you are below the limit again or purchase a plan to increase your limit.
+
+The Anytype app will attempt check your limit by attempting to sync files periodically, but this shouldn't occupy resources on your device.
+
+</details>
+
+<details>
+
+<summary>¿La red debe cumplir algún requisito cuando se usa el modo solo local?</summary>
+
+We can guarantee that there are no network requests to our Anytype Network, but our telemetry will still send requests (you will be able to opt-out later on). Additionally, the client still needs to to send requests for some of the features (embedding blocks, fetching bookmarks, etc.) to work properly.
+
+</details>
+
+<details>
+
+<summary>¿Los invitados de mi canal pueden usar Anytype en modo solo local?</summary>
+
+Unless they are all part of the same local network, guests will need to be connected to the Anytype network in order to see all changes in the channel.
+
+</details>
+
+## Miscellaneous
+
+<details>
+
+<summary>Por qué no existe una versión de Anytype en el navegador?</summary>
+
+There's no browser version of the app. Anytype is a stand-alone software, that works on desktop or mobile devices. There are many points of vulnerability in-browser apps that would compromise our commitment to data security and encryption.
+
+</details>
+
+<details>
+
+<summary>¿Qué características no están disponibles aún en la versión móvil?</summary>
+
+* Columns
+* Inline LaTeX
+* [inline-queries.md](../advanced/feature-list-by-platform/inline-queries.md "mention")
+* Kanban, Calendar, and Graph Views
+* [formulas.md](../advanced/feature-list-by-platform/formulas.md "mention")
+* [embeds.md](../advanced/feature-list-by-platform/embeds.md "mention")
+* [custom-css.md](../advanced/feature-list-by-platform/custom-css.md "mention")
+* [storage-location.md](../advanced/feature-list-by-platform/storage-location.md "mention")
+* [graph.md](../advanced/feature-list-by-platform/graph.md "mention") & Flow
+* [import-and-export](../data/import-and-export/ "mention")
+* PIN Code
+
+</details>
+
+<details>
+
+<summary>¿Por qué no puedo buscar dentro de los objetos en iOS?</summary>
+
+Currently, this feature is unavailable on iOS.
+
+</details>
+
+<details>
+
+<summary>¿Por qué no puedo buscar ni seleccionar objetos en lote dentro de las consultas en el móvil?</summary>
+
+These features are currently unavailable on both iOS and Android.
+
+</details>
+
+<details>
+
+<summary>¿Tiene Anytype un programa de recompensas por notificar fallos?</summary>
+
+As a non-profit organization that hasn’t reached a sustainable income yet, we don’t have any guaranteed bug bounty program. If you can prove that you found a critical vulnerability in our applications but don’t want to disclose it, we can discuss a potential reward. Please check this [page](https://github.com/anyproto/.github/blob/main/docs/SECURITY.md) from our GitHub for more information.
+
+</details>
+
+<details>
+
+<summary>¿Cuáles son los requisitos mínimos?</summary>
+
+* For Desktop, Electron follows Chrome, and they follow [vendor support policies](https://support.google.com/chrome/a/answer/7100626?hl=en).\
+  At the moment that means:
+  * Win 10+
+  * macOS 12 Monterey and up
+  * 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.5+, or Fedora Linux 39+
+* For Android (if installed through Google Play), it's Android 8.0 and a 64-bit device with a minimum of 4GB of RAM.
+* For iOS, it's iOS 17.
+
+</details>
+
+<details>
+
+<summary>¿Dónde está instalado Anytype?</summary>
+
+* In Windows 10 or above, it is usually located:\
+  `C:\Users\<username>\Appdata\Local\Programs\anytype`
+  **username** stands for the name of your user aka working directory.
+* For MacOS, it's: `HDD > Users >`*`Username`*`> Library > Application Support > anytype`
+* For Linux, you'll find your work directory in `~/.config/anytype`
+* For Android, it’s your default location, usually: \_device/data/app_​.\
+  We also store some caches: *device/data/data/io.anytype.app*
+  Anytype directory is stored in a protected app data folder, which isn’t accessible by the user on Android devices.
+* For iOS, it's the standard install path determined by the iOS.
+
+</details>
+
+<details>
+
+<summary>¿Puedo instalar Anytype en un Chromebook?</summary>
+
+There are a few ways you can install Anytype on a Chromebook, but probably the easiest one is to use an [AppImage](https://download.anytype.io). For the full guide from one of our community members, please click [here](https://community.anytype.io/t/guide-to-use-anytype-on-a-chromebook/12181).
+
+</details>
+
+## Notes
+
+Vaults created before version 0.44.0 have an Entry Space. You are free to delete this channel if no longer needed, or you can migrate your data to a different channel by using the [import-and-export](../data/import-and-export/ "mention") feature.

@@ -35,41 +35,63 @@ Si tu sesión se cierra sin que hayas guardado tu clave en otro sitio, puedes pr
 
 {% hint style="danger" %} **Anytype no puede recuperar tu arca si has perdido el acceso a tu clave por completo.** {% endhint %}
 
-## Preguntas más frecuentes
+## Preguntas frecuentes
 
-#### ¿Por qué no usar correo electrónico y contraseña?
+<details>
+
+<summary>¿Por qué no usar correo electrónico y contraseña?</summary>
 
 Usar una clave es la forma más segura de crear una cuenta sin depender de una autoridad central que controle tu acceso. La clave se genera enteramente en tu dispositivo, no se comparte con nadie y puede crearse incluso sin conexión.
 
 Los sistemas de correo electrónico y contraseña están expuestos de diversas formas. Por lo general, el acceso a la cuenta queda en manos de la empresa desarrolladora de la aplicación: esto es lo que le permite restablecer tu acceso. Una clave elimina esa dependencia: puedes recuperar el acceso a tus datos aunque pierdas el dispositivo, te lo roben o se dañe, ya que la propia clave es la llave maestra de tus datos.
 
-#### ¿Podría alguien adivinar mi clave?
+</details>
+
+<details>
+
+<summary>¿Podría alguien adivinar mi clave?</summary>
 
 En la práctica, no. Las claves se generan mediante algoritmos matemáticos complejos, y el número de combinaciones posibles es tan vasto que adivinar una o encontrarla por fuerza bruta resulta prácticamente inviable:
 
 * **Combinaciones posibles:** 5 444 517 870 735 015 415 413 993 718 908 291 383 296
 * **Coste de descifrarla:** 38 029 518 006 846 883 000 000 000 USD
 
-Hasta el atacante mejor financiado y más equipado encontraría esta tarea insuperable.
+Sería una tarea insuperable hasta para el atacante mejor financiado y más equipado.
 
-#### ¿Qué riesgo existe de que se creen dos arcas con la misma clave?
+</details>
 
-Prácticamente ninguno. 
+<details>
+
+<summary>¿Puede otra persona crear mi arca con la misma clave? </summary>
+
+Si alguien conoce tu frase de 12 palabras, puede acceder a tu arca. Pero las posibilidades de que alguien genere la misma clave accidentalmente son prácticamente nulas. 
 
 Las probabilidades de que dos personas generen la misma frase mnemotécnica de 128 bits son, más o menos, de 1 entre 2^128^ (alrededor de 3,4 × 10^38^), una cifra inmensamente superior a la de granos de arena que hay en la Tierra. Ni siquiera generando miles de millones de claves por segundo durante 100 años nos acercaríamos a una coincidencia.
 
 En resumen, no tienes que preocuparte de que tu clave se genere para otro usuario.
 
-#### ¿Cómo se genera mi clave?
+</details>
+
+<details>
+
+<summary>¿Cómo se genera mi clave? </summary>
 
 Las frases semilla de Anytype siguen el estándar BIP-39 (Bitcoin Improvement Proposal 39), un protocolo normalizado que garantiza la compatibilidad entre distintos monederos y aplicaciones. BIP-39 incluye una suma de verificación para detectar errores de transcripción, reduciendo así el riesgo de perder el acceso por un simple error tipográfico.
 
-#### ¿Qué pasa si pierdo mi clave?
+</details>
+
+<details>
+
+<summary>¿Qué pasa si pierdo mi clave?</summary>
 
 Tener una clave te proporciona soberanía digital y una protección sólida, con el inconveniente de que mantenerla a salvo es responsabilidad tuya y solo tuya. Anytype no puede ayudarte a recuperar la clave ni la cuenta si la clave se pierde o queda expuesta.
+
+Si no puedes recuperar tu clave, tu arca seguirá existiendo, pero nadie podrá acceder a lo que hay dentro de ella, ni siquiera Anytype. 
 
 Por cómodo que resulte guardar la clave de forma digital, hacerlo conlleva una vulnerabilidad real. Esto es lo que puedes hacer:
 
 * Anota tu clave en un soporte físico.
 * Guárdala en un lugar seguro que solo tú conozcas.
 * Evita los dispositivos conectados a Internet y el almacenamiento en la nube. Si necesitas guardarla de forma digital, usa como mínimo un gestor de contraseñas seguro.
+
+</details>

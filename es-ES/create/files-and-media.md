@@ -26,8 +26,6 @@ Este método añade un bloque de archivo a la página y crea un objeto independi
 * Copia y pega con el atajo `Cmd/Ctrl + V`.
 * Añade un bloque «Archivo» desde el menú con el atajo `/arch`
 
-Los archivos añadidos desde el editor no se eliminan al borrar ese bloque. Puedes ver más detalles [a continuación](#cómo-eliminar-objetos-de-archivo).
-
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Files Editor.gif" alt=""/><figcaption></figcaption></figure></div>
 
 #### Directamente desde el chat
@@ -85,7 +83,7 @@ Así te aseguras de estar empleando siempre el mismo archivo. Por ejemplo, puede
 
 Los objetos de Anytype no tienen una organización jerárquica, por lo que cada uno de ellos existe de forma independiente. Esto significa que el archivo que ves en una página existe como bloque, pero también puedes acceder a él desde el resto de tu espacio, ya sea en otras páginas o como archivo independiente.
 
-Cuando eliminas el bloque de archivo de la página, no se elimina el objeto de archivo en sí; solo se elimina el bloque o el enlace. Para eliminar el archivo, debes seleccionar explícitamente **Mover a la papelera**.
+Cuando eliminas de la página ese bloque de archivo, no se elimina el objeto de archivo en sí; solo se elimina el bloque o el enlace. Para eliminar el archivo, debes seleccionar explícitamente **Mover a la papelera**.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Files Deletion.jpg" alt=""/><figcaption></figcaption></figure></div>
 

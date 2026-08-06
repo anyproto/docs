@@ -18,7 +18,7 @@ Aquí tienes un diagrama rápido de Anytype. Cuando entiendes estos conceptos b�
 
 ## 4\. Tipos
 
-**Los muebles que guardan tus cosas.** Los [tipos](../organize/types.md) aplican categorías a tus objetos y evitan que tu espacio se convierta en un simple cajón de sastre. Cada objeto se clasifica en un tipo; por ejemplo, como una nota, una tarea, una persona o un libro. Incluso las imágenes, los vídeos y los archivos tienen su propio tipo. Así es más fácil encontrarlo y organizar todo tu espacio.
+**Los muebles que guardan tus cosas.** Los [tipos](../organize/types.md) aplican categorías a tus objetos y evitan que tu espacio se convierta en un simple cajón de sastre. Cada objeto se clasifica en un tipo, como una nota, una tarea, una persona o un libro. Incluso las imágenes, los vídeos y los archivos tienen su propio tipo. Así es más fácil encontrarlo y organizar todo tu espacio.
 
 ## 5\. Propiedades
 
