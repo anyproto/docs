@@ -1,0 +1,69 @@
+---
+title: "Pins & Favorites"
+---
+
+---
+description: Two ways to keep important Objects close — yours and the team's.
+---
+
+
+You can add your most important [Objects](../../create/objects/) to your Sidebar with Pins and Favorites. All Pins and Favorites can be turned into [Widgets](/basics/sidebar/widgets/), which are interactive feeds directly in your Sidebar. Or they can remain as simple links, which are fast shortcuts to your content.
+
+![docs pins favorites](/assets/docs-pins-favorites.jpg)
+
+## Favorites vs. Pins
+
+My Favorites (just for you) and Pinned (visible to everyone).
+
+<table><thead><tr><th width="153.71875">Function</th><th>Favorites</th><th>Pinned</th></tr></thead><tbody><tr><td>Visible to</td><td>Just you</td><td>All members</td></tr><tr><td>Who can add</td><td>Anyone</td><td>Owner &#x26; Admin</td></tr><tr><td>Use for</td><td>Personal quick-access</td><td>Important for everybody</td></tr></tbody></table>
+
+## My Favorites
+
+My Favorites are personal to only you. Anything you favorite shows up only in your sidebar, on your devices. Other members of the Channel never see your favorites and can't be affected by them.
+
+**Use My Favorites for:**
+
+* Objects you reference daily
+* Personal Queries (e.g., a "My Tasks" Query filtered to your assignee)
+* Drafts and works-in-progress
+* Anything you want quick access to without making it a team-level recommendation
+
+**To add an Object to My Favorites:**
+
+1. Open the Object.
+2. Click the star icon (or right-click > **Favorite**) in the top-right corner.
+3. The Object now appears in the **My Favorites** section of your sidebar.
+
+To remove, click the star again or right-click in the sidebar > **Unfavorite.**
+
+## Shared Pins
+
+Shared Pins are seen by every member in the Channel and can only be set by the Owner. This is how Owners surface things that are important for everybody to see.
+
+**Use Shared Pins for:**
+
+* Onboarding documents for new members
+* Channel guidelines or norms
+* The current sprint board, project roadmap, or active tracker
+* Any Object you want every member to find without searching
+
+**To pin an Object as a Shared Pin:**
+
+1. Open the Object.
+2. Click the three dots icon in the top-right corner.
+3. Select the 'Pin to Channel' option.
+4. The Object now appears in the **Pinned** section of every member's sidebar.
+
+:::caution
+Only Owners and Admins can add, remove, and reorder Pinned Objects. Editors and Viewers see them but can't modify them.
+:::
+
+## Tips
+
+:::note
+**For personal Channels, the distinction barely matters** — you're the only member, so My Favorites and Pinned behave the same way for you. The split becomes meaningful in Channels with multiple members.
+:::
+
+:::note
+**Use My Favorites for noisy projects.** If a teammate has pinned the whole quarterly planning doc structure as Pinned, you can ignore it and save only the docs _you_ care about as My Favorites.
+:::

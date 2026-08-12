@@ -1,2 +1,0 @@
-# Datos y seguridad
-

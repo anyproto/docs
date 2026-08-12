@@ -1,0 +1,239 @@
+/* =========================================================================
+   Anytype docs — GitBook-style theme for Starlight (light + dark)
+   Ported from the any-sync docs migration: one uniform background across
+   header/sidebar/content, blue accent, blue-text active nav (no filled
+   pill), prominent search, refined hairlines, centered max-width layout.
+   Starlight defines dark values on :root and light under [data-theme='light'],
+   so the dark palette lives on :root and light overrides follow.
+   ========================================================================= */
+
+:root {
+	/* Typography — self-hosted, no external CDN. */
+	--sl-font: 'Inter Variable', ui-sans-serif, system-ui, -apple-system,
+		'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+	--sl-font-mono: 'JetBrains Mono Variable', ui-monospace, 'SF Mono', SFMono-Regular,
+		Menlo, Consolas, monospace;
+
+	/* ---- Dark: neutral near-black palette (cool, low-saturation grey ramp) ---- */
+	--sl-color-white: hsl(220, 14%, 97%); /* headings / brightest */
+	--sl-color-gray-1: hsl(220, 12%, 90%);
+	--sl-color-gray-2: hsl(220, 9%, 82%); /* body text */
+	--sl-color-gray-3: hsl(220, 8%, 60%); /* muted */
+	--sl-color-gray-4: hsl(220, 8%, 42%);
+	--sl-color-gray-5: hsl(220, 12%, 20%); /* borders */
+	--sl-color-gray-6: hsl(220, 12%, 12%); /* elevated surfaces */
+	--sl-color-black: hsl(220, 13%, 7%); /* page background */
+
+	/* ---- Accent: GitBook blue ---- */
+	--sl-color-accent-low: hsl(217, 55%, 16%);
+	--sl-color-accent: hsl(217, 91%, 60%);
+	--sl-color-accent-high: hsl(217, 96%, 74%); /* link / active text */
+
+	/* ---- Soft, low-contrast hairlines (GitBook uses barely-there rules) ---- */
+	--sl-color-hairline-light: hsla(220, 16%, 75%, 0.14);
+	--sl-color-hairline: hsla(220, 16%, 75%, 0.08);
+	--sl-color-hairline-shade: hsla(220, 16%, 75%, 0.06);
+
+	/* Wider, more spacious content column to match GitBook's proportions. */
+	--sl-content-width: 48rem;
+
+	/* Uniform background everywhere (no separate sidebar/nav shade). */
+	--sl-color-bg: var(--sl-color-black);
+	--sl-color-bg-nav: var(--sl-color-black);
+	--sl-color-bg-sidebar: var(--sl-color-black);
+	--sl-color-bg-inline-code: hsl(220, 12%, 14%);
+	--at-search-bg: var(--sl-color-gray-6);
+}
+
+/* ---- Light: clean white GitBook look, same blue accent ---- */
+:root[data-theme='light'] {
+	--sl-color-white: hsl(220, 15%, 12%); /* headings / darkest */
+	--sl-color-gray-1: hsl(220, 12%, 20%);
+	--sl-color-gray-2: hsl(220, 10%, 28%); /* body text */
+	--sl-color-gray-3: hsl(220, 8%, 46%); /* muted */
+	--sl-color-gray-4: hsl(220, 8%, 62%);
+	--sl-color-gray-5: hsl(220, 14%, 88%); /* borders */
+	--sl-color-gray-6: hsl(220, 20%, 97%); /* elevated surfaces */
+	--sl-color-gray-7: hsl(220, 25%, 98.5%);
+	--sl-color-black: hsl(0, 0%, 100%); /* page background */
+
+	--sl-color-accent-low: hsl(217, 90%, 93%);
+	--sl-color-accent: hsl(217, 91%, 53%);
+	--sl-color-accent-high: hsl(217, 85%, 42%); /* link / active text */
+
+	--sl-color-hairline-light: hsla(220, 30%, 20%, 0.12);
+	--sl-color-hairline: hsla(220, 30%, 20%, 0.07);
+	--sl-color-hairline-shade: hsla(220, 30%, 20%, 0.05);
+
+	--sl-color-bg: var(--sl-color-black);
+	--sl-color-bg-nav: var(--sl-color-black);
+	--sl-color-bg-sidebar: var(--sl-color-black);
+	--sl-color-bg-inline-code: hsl(220, 20%, 96%);
+	--at-search-bg: var(--sl-color-gray-6);
+}
+
+/* -------------------------------------------------------------------------
+   Header: app icon + "Anytype Docs" title, prominent search bar.
+   ------------------------------------------------------------------------- */
+
+/* Title text inherits the accent colour by default — force it near-white/black
+   so "Anytype Docs" reads as a wordmark, not a link. */
+.site-title {
+	color: var(--sl-color-white);
+	font-size: 1.125rem;
+	font-weight: 600;
+	gap: 0.55rem;
+	letter-spacing: -0.01em;
+}
+/* Render the square logo as a small rounded app icon (GitBook style). */
+.site-title img {
+	height: 1.7rem;
+	border-radius: 7px;
+}
+
+/* Make the search a prominent, wide pill aligned to the content column's
+   left edge (GitBook positions it there rather than floating centred). */
+.header site-search {
+	display: block;
+	width: 100%;
+	max-width: 36rem;
+	margin-inline: 0 auto; /* left-aligned to the content column */
+}
+.header site-search button[data-open-modal] {
+	width: 100%;
+	background-color: var(--at-search-bg);
+	border: 1px solid var(--sl-color-hairline-light);
+	border-radius: 0.5rem;
+}
+
+/* A clearer full-width rule under the header, like GitBook's. */
+.page > .header {
+	border-bottom-color: var(--sl-color-hairline-light);
+}
+
+/* Remove the faint divider Starlight draws between the title panel and the
+   body (the barely-visible line under the chapter title). */
+.content-panel + .content-panel {
+	border-top: 0;
+}
+
+/* Compact, fixed-width table of contents like GitBook. By default Starlight
+   lets the right column absorb all the page's slack, making the TOC area huge;
+   we cap it so the TOC sits snugly after the content (which keeps its default
+   position, aligned with the search bar). The freed space becomes right margin. */
+@media (min-width: 72rem) {
+	.right-sidebar-container {
+		width: 16rem;
+	}
+	.right-sidebar {
+		width: 16rem;
+	}
+}
+
+/* Center the whole app within a max width on large screens (GitBook-style).
+   The header and sidebar are fixed to the viewport, so we inset them by the
+   side "gutter" and pad the main frame to match — giving balanced margins
+   instead of dumping all the slack on the right. */
+@media (min-width: 86rem) {
+	:root {
+		--app-max-width: 86rem;
+		--app-gutter: calc((100vw - var(--app-max-width)) / 2);
+	}
+	.page > .header {
+		padding-inline-start: calc(var(--sl-nav-pad-x) + var(--app-gutter));
+		padding-inline-end: calc(var(--sl-nav-pad-x) + var(--app-gutter));
+	}
+	.sidebar-pane {
+		inset-inline-start: var(--app-gutter);
+	}
+	.main-frame {
+		padding-inline-start: calc(var(--sl-content-inline-start) + var(--app-gutter));
+		padding-inline-end: var(--app-gutter);
+	}
+}
+
+/* -------------------------------------------------------------------------
+   Sidebar: active item is blue text (no filled pill), subtle hover.
+   ------------------------------------------------------------------------- */
+a[aria-current='page'],
+a[aria-current='page']:hover,
+a[aria-current='page']:focus {
+	background-color: transparent;
+	color: var(--sl-color-accent-high);
+	font-weight: 600;
+}
+nav a:not([aria-current='page']):hover {
+	background-color: var(--sl-color-gray-6);
+}
+
+/* A touch more breathing room between top-level entries. */
+@media (min-width: 50rem) {
+	.top-level > li + li {
+		margin-top: 0.125rem;
+	}
+}
+
+/* -------------------------------------------------------------------------
+   Content typography.
+   ------------------------------------------------------------------------- */
+:is(.sl-markdown-content, .content-panel) :is(h1, h2, h3, h4, h5, h6) {
+	color: var(--sl-color-white);
+	letter-spacing: -0.014em;
+}
+:is(.sl-markdown-content, .content-panel) :is(h1, h2) {
+	font-weight: 700;
+}
+
+/* Inline code chips — subtle bordered pill. */
+.sl-markdown-content :not(pre) > code {
+	border: 1px solid var(--sl-color-hairline-light);
+	border-radius: 0.34em;
+	padding: 0.12em 0.4em;
+	font-size: 0.86em;
+	color: var(--sl-color-gray-1);
+}
+
+/* Screenshots and diagrams: subtle frame so figures separate from the page
+   (the GitBook export wrapped these in data-with-frame containers). */
+.sl-markdown-content img {
+	border: 1px solid var(--sl-color-hairline-light);
+	border-radius: 0.5rem;
+}
+
+/* Responsive 16:9 wrapper the migration emits for video embeds. */
+.sl-markdown-content .video-embed {
+	position: relative;
+	width: 100%;
+	aspect-ratio: 16 / 9;
+	margin-top: 1rem;
+}
+.sl-markdown-content .video-embed iframe {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+	border: 1px solid var(--sl-color-hairline-light);
+	border-radius: 0.5rem;
+	background: var(--sl-color-gray-6);
+}
+
+/* GitBook-style comparison tables: keep images inside cells unframed. */
+.sl-markdown-content table img {
+	border: 0;
+	border-radius: 0.25rem;
+}
+
+/* "On this page" heading — uppercase, lettered, muted (GitBook style). */
+#starlight__on-this-page {
+	text-transform: uppercase;
+	font-size: var(--sl-text-xs);
+	font-weight: 600;
+	letter-spacing: 0.07em;
+	color: var(--sl-color-gray-3);
+}
+
+/* Drop the redundant leading "Overview" (jump-to-top) entry in the TOC so the
+   list starts at the first real heading, like GitBook. */
+starlight-toc nav > ul > li:first-child > a[href$='#_top'] {
+	display: none;
+}

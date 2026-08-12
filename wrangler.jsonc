@@ -1,0 +1,14 @@
+// Cloudflare Workers config — serves the static Astro build output.
+// Build: `npm run build` → ./dist, deployed via `npx wrangler deploy`.
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "anytype-docs",
+	"compatibility_date": "2026-08-12",
+	"assets": {
+		"directory": "./dist",
+		// /basics/vault and /basics/vault/ both resolve to the built page.
+		"html_handling": "auto-trailing-slash",
+		// Serve Starlight's 404.html for unknown paths.
+		"not_found_handling": "404-page"
+	}
+}
