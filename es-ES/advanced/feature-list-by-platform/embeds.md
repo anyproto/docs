@@ -1,126 +1,126 @@
 ---
-description: Add live external content directly inside your Objects.
+description: Añade directamente contenido externo dinámico a tus objetos.
 ---
 
-# Embeds
+# Elementos incrustados
 
-An **Embed** is a block in the editor that displays live content from an external service — a YouTube video, a Miro board, a Google Maps location, a Mermaid diagram. Instead of just linking to the source, the content renders inside your Object so you can see and (in many cases) interact with it without leaving Anytype.
+Un elemento **incrustado** es un bloque del editor que muestra contenido actualizado de un servicio externo: un vídeo de YouTube, un tablero de Miro, una ubicación de Google Maps, un diagrama de Mermaid. En lugar de añadir un simple enlace al contenido original, puedes incrustarlo en el objeto para verlo y, en muchos casos, interactuar con él sin salir de Anytype.
 
-## Why it matters
+## Qué significa esto
 
-Embeds keep your work in one place. A project page can show:
+El contenido incrustado te permite tener junto todo tu trabajo. Por ejemplo, una página de proyecto puede tener lo siguiente:
 
-* The Miro brainstorm next to the meeting notes
-* A YouTube tutorial that explains the technique
-* A Google Maps route to the venue
-* A Mermaid diagram of the system architecture
+* la lluvia de ideas de Miro junto a las notas de la reunión,
+* un tutorial de YouTube que explica la técnica,
+* la ruta de Google Maps hasta el lugar,
+* un diagrama de Mermaid con la arquitectura del sistema.
 
-…all without bouncing between tabs and apps. When you come back to the page weeks later, everything you need is still there — and the embedded content reflects whatever's current at the source.
+Y todo, sin tener que saltar entre pestañas y aplicaciones. Cuando regresas a esa página unas semanas después, todo lo que necesitas sigue estando allí y el contenido incrustado está actualizado con los cambios posteriores.
 
-## Adding an Embed
+## Cómo añadir un incrustado
 
-The fastest way:
+Esta es la forma más rápida:
 
-1. In the editor, type `/` to open the menu and type the name of your desired Embed—[full list here](embeds.md#supported-embed-types). Or scroll down to the Embeds section. 
-2. Pick the type and paste the URL when prompted.
+1. En el editor, escribe `/` para abrir el menú y escribe el nombre del elemento que quieras incrustar ([aquí hay una lista completa](embeds.md#incrustaciones-admitidas)) o desplázate hasta la sección «Incrustados». 
+2. Elige el que quieras y pega la URL correspondiente.
 
-You can also paste a URL directly into the editor. The paste menu offers four options:
+También puedes pegar una URL directamente en el editor. El menú «Pegar como» ofrece cuatro opciones:
 
-* **Mention** — insert as a clickable link in the text flow
-* **Bookmark** — create a bookmark card with preview metadata
-* **Embed** — embed the live content (only works for supported services)
-* **Link** — paste as plain URL
+* **URL**: se inserta como enlace de texto para visitarlo al hacer clic.
+* **Marcador**: se crea una tarjeta de marcador con vista previa de metadatos.
+* **Incrustado**: se incrusta el contenido dinámico (solo con los servicios admitidos).
+* **Texto simple**: se pega la URL como texto normal.
 
-If the URL is from a recognized embeddable service, **Embed** is the default. For unknown services, you'll see only **Mention**, **Bookmark**, and **Link**.
+Si la URL es de un servicio incrustable admitido, la opción por defecto es **Incrustado**. Si se trata de un servicio desconocido, solo verás las opciones **URL**, **Marcador** y **Texto simple**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (12) (1).png" alt="" width="563"/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (12) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-## Supported Embeds
+## Incrustaciones admitidas
 
-#### Video and audio
+#### Vídeo y audio
 
-* **YouTube** — paste any YouTube URL, including timestamped links
-* **Vimeo** — paste a video URL
-* **Bandcamp** — paste an album or track URL
-* **SoundCloud** — paste a track or playlist URL
-* **Apple Music** — paste a song, album, or playlist link
+* **YouTube**: pega cualquier URL de YouTube, incluso enlaces con marca de tiempo.
+* **Vimeo**: pega la URL de un vídeo.
+* **Bandcamp**: pega la URL de un álbum o una pista.
+* **SoundCloud**: pega la URL de una pista o una lista de reproducción.
+* **Apple Music**: pega el enlace de una canción, un álbum o una lista de reproducción.
 
-#### Diagrams and visual
+#### Diagramas y elementos visuales
 
-* **Mermaid** — write Mermaid syntax inline, rendered as a flowchart, sequence diagram, or other Mermaid output
-* **Miro** — paste a Miro board URL (anyone with a public Miro link can view; private boards require viewer access)
-* **Excalidraw** — embed an Excalidraw diagram editor as a block, edit inline (temporarily disabled due to performance issues)
-* **Figma** — paste a Figma frame or file URL
-* **draw.io** — paste a published diagram URL
+* **Mermaid**: escribe con sintaxis de Mermaid y se renderizará directamente como diagrama de flujo, diagrama de secuencia u otro diagrama de Mermaid.
+* **Miro**: pega la URL de un tablero de Miro (quien tenga un enlace público de Miro puede verlo; los tableros privados requieren acceso de visualización).
+* **Excalidraw**: inserta un editor de Excalidraw como bloque y edítalo ahí mismo (desactivado temporalmente por problemas de rendimiento).
+* **Figma**: pega la URL de un marco o un archivo de Figma.
+* **draw.io**: pega la URL de un diagrama publicado.
 
-#### Maps and locations
+#### Mapas y ubicaciones
 
-* **Google Maps** — paste a Maps URL or coordinates
-* **OpenStreetMap** — paste a location URL
+* **Google Maps**: pega una URL o unas coordenadas de Maps.
+* **OpenStreetMap**: pega la URL de una ubicación.
 
-#### Code and content
+#### Código y contenido
 
-* **LaTeX** — see here for more information: [inline-latex.md](../../create/editor/inline-latex.md "mention")
-* **GitHub Gist** — paste a Gist URL
-* **CodePen** — paste a Pen URL
-* **CodeSandbox** — paste a sandbox URL
+* **LaTeX**: puedes ver los detalles [aquí](../../create/editor/inline-latex.md "mention").
+* **GitHub Gist**: pega la URL de un gist.
+* **CodePen**: pega la URL de un pen.
+* **CodeSandbox**: pega la URL de un sandbox.
 
-#### Social and reference
+#### Redes sociales
 
 * **Twitter / X**
 * **Reddit**
 * **Facebook**
 * **Instagram**
 
-## File embeds
+## Archivos incrustados
 
-Beyond external URLs, you can embed files directly from your Objects:
+Además de servicios externos, también puedes incrustar archivos que tengas en Anytype:
 
-* **Image** — drag in an image, paste from clipboard, or use `/image`
-* **Video** — drag in or use `/video`
-* **Audio** — drag in or use `/audio`
-* **PDF** — drag in or use `/pdf`
+* **Imagen**: arrastra una imagen, pégala desde el portapapeles o escribe `/imagen`.
+* **Vídeo**: arrastra uno o escribe `/vídeo`.
+* **Audio**: arrastra uno o escribe `/audio`.
+* **PDF**: arrastra uno o escribe `/pdf`.
 
-These embeds are connected to the [File Object](https://github.com/anyproto/docs-new/blob/main/getting-started/files-and-media.md) — the file becomes its own Object in your Channel that you can find, link, and tag.
+Estos elementos incrustados están vinculados al [objeto de archivo](../../create/files-and-media.md): el archivo se convierte en un objeto en tu canal, donde puedes buscarlo, etiquetarlo y crear enlaces hacia él.
 
-#### File block default style
+#### Estilo por defecto de bloques de archivo
 
-For File blocks (Image, Video, Audio, File), you can choose between two display modes:
+Puedes elegir entre dos modos de presentación para los bloques de archivo:
 
-* **Embedded preview** — the file renders inline (image visible, video player active, audio player ready)
-* **Compact link** — a small link with the filename, opens the full file when clicked
+* **Incrustado**: el archivo se representa en el objeto (imagen visible, reproductor de vídeo, reproductor de audio).
+* **Enlace**: un breve enlace con el nombre del archivo, que se abre al hacer clic.
 
-The default is set in **Vault Settings > Application > Editor Personalization > File block default style**. You can also override per-block: hover over a file block, click the three-dot menu, and choose the alternate style.
+La opción por defecto se establece en **Ajustes del arca > Preferencias > Contenido y vistas > Estilo por defecto de bloques de archivo**, pero puedes cambiarla en cada bloque: pasa el puntero por el bloque de archivo, haz clic en el menú de tres puntos y elige el estilo que prefieras.
 
-### Resizing and arranging Embeds
+### Cambiar el tamaño y la posición de un bloque incrustado
 
-Most embed blocks (especially videos, maps, and visual content) have a resize handle. Drag the handle to make the embed larger or smaller. Changes are saved per-block.
+Casi todos los bloques incrustados, como vídeos, mapas y contenido visual, cuentan con un control de tamaño. Arrastra el control para aumentar o reducir su tamaño. El cambio se aplica solo a ese bloque.
 
-You can put an embed in a column alongside text by dragging it next to another block — see [Blocks](../../create/editor/) for column layouts.
+Si quieres colocar un bloque incrustado en una columna junto al texto, arrástralo al lado de otro bloque. Tienes más detalles sobre el diseño de columnas en [Bloques](../../create/editor/).
 
-### Mermaid syntax (quick reference)
+### Sintaxis de Mermaid (referencia rápida)
 
-Mermaid is a text-based diagram language. Type `/mermaid` to insert a Mermaid block, then write syntax like:
+Mermaid es un lenguaje de diagramas basado en texto. Escribe `/mermaid` para insertar un bloque de Mermaid y luego escribe algo como esto:
 
 ```
 graph TD
-  A[Start] --> B{Decision}
-  B -->|Yes| C[Do thing]
-  B -->|No| D[Do other thing]
+  A[Inicio] --> B{Decision}
+  B -->|Sí| C[Hacer esto]
+  B -->|No| D[Hacer lo otro]
 ```
 
-Anytype renders this as a flowchart in real time. Mermaid supports flowcharts, sequence diagrams, Gantt charts, class diagrams, and more — see the [Mermaid documentation](https://mermaid.js.org) for full syntax.
+Anytype representa esto como un diagrama de flujo en tiempo real. Mermaid admite diagramas de flujo, diagramas de secuencia, diagramas de Gantt, diagramas de clases y más; consulta la [documentación de Mermaid](https://mermaid.js.org) para ver la sintaxis completa.
 
-## Tips
+## Notas
 
 {% hint style="info" %}
-**Embed reference, link to source for citation.** A Wikipedia article is best linked (it's not very embeddable); a Miro board is best embedded (you want to see it). Pick the format that matches how you'll use it.
+**Incrusta para consultar, enlaza para citar.** Un artículo de la Wikipedia funciona mejor como enlace (no es muy incrustable), mientras que un tablero de Miro queda mejor incrustado (para poder verlo). Elige el mejor formato para el uso que le darás.
 {% endhint %}
 
 {% hint style="info" %}
-**Use Mermaid for living diagrams.** Mermaid diagrams are text — if you change the diagram in your Object, the change persists. Compare with a screenshot of a diagram, which goes stale the moment you change something.
+**Usa Mermaid para crear diagramas editables.** Los diagramas de Mermaid se crean con texto: si los modificas en tu objeto, el cambio permanece. Sin embargo, una captura de pantalla de un diagrama ya no sirve cuando cambias algo.
 {% endhint %}
 
 {% hint style="warning" %}
-**Embeds rely on the external service.** If YouTube changes their embed API or a Miro board is deleted, the embed in your Object stops working. Important content should also be saved as a Bookmark or downloaded copy as a backup.
+**Las incrustaciones dependen de servicios externos.** Si YouTube modifica su API de incrustación o alguien borra un tablero de Miro, la incrustación deja de funcionar en tu objeto. El contenido importante debería guardarse también como marcador o descargarse como copia de respaldo.
 {% endhint %}

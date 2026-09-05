@@ -44,28 +44,28 @@
 
 * [Colaboración](collaborate/collaboration.md)
 * [Chats](collaborate/chats/README.md)
-  * [Direct Channels](collaborate/chats/direct-channels.md)
-* [Discussions](collaborate/discussions.md)
-* [Publish](collaborate/publish.md)
+  * [Canales directos](collaborate/chats/direct-channels.md)
+* [Debates](collaborate/discussions.md)
+* [Publicar](collaborate/publish.md)
 
-## Features
+## Funcionalidad
 
-* [Graph](advanced/feature-list-by-platform/graph.md)
-* [Dates](advanced/feature-list-by-platform/dates.md)
-* [Tabs](advanced/feature-list-by-platform/tabs.md)
-* [Embeds](advanced/feature-list-by-platform/embeds.md)
-* [Inline Views](advanced/feature-list-by-platform/inline-queries.md)
-* [Advanced Filters](advanced/feature-list-by-platform/advanced-filters.md)
-* [Formulas](advanced/feature-list-by-platform/formulas.md)
+* [Gráfico](advanced/feature-list-by-platform/graph.md)
+* [Fechas](advanced/feature-list-by-platform/dates.md)
+* [Pestañas](advanced/feature-list-by-platform/tabs.md)
+* [Elementos incrustados](advanced/feature-list-by-platform/embeds.md)
+* [Vistas insertadas](advanced/feature-list-by-platform/inline-queries.md)
+* [Filtros avanzados](advanced/feature-list-by-platform/advanced-filters.md)
+* [Fórmulas](advanced/feature-list-by-platform/formulas.md)
 * [CSS personalizado](advanced/feature-list-by-platform/custom-css.md)
-* [Integrations](features/integrations/README.md)
-  * [Local API](features/integrations/local-api.md)
-  * [Anytype Agents' Skill](features/integrations/anytype-agents-skill.md)
-  * [Raycast Extension](features/integrations/raycast-extension.md)
+* [Integraciones](features/integrations/README.md)
+  * [API local](features/integrations/local-api.md)
+  * [Técnica (skill) de Anytype para agentes](features/integrations/anytype-agents-skill.md)
+  * [Extensión de Raycast](features/integrations/raycast-extension.md)
 
-## Data
+## Datos
 
-* [Sync & Backup](data/sync-and-backup/README.md)
+* [Sincronización y respaldo](data/sync-and-backup/README.md)
   * [Self-host](data/sync-and-backup/self-host.md)
   * [Local-only](data/sync-and-backup/local-only.md)
 * [Privacy & Encryption](data/privacy-and-encryption.md)
@@ -95,6 +95,6 @@
 * [Suscripción](resources/memberships/README.md)
   * [Política de reembolso](resources/memberships/refund-policy.md)
 * [Preguntas frecuentes](resources/faq.md)
-* [Troubleshooting](advanced/troubleshooting/README.md)
-  * [AnySync Netcheck Tool](advanced/troubleshooting/anysync-netcheck-tool.md)
+* [Solución de problemas](advanced/troubleshooting/README.md)
+  * [Herramienta AnySync Netcheck](advanced/troubleshooting/anysync-netcheck-tool.md)
 * [Conectar](advanced/connect.md)

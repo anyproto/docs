@@ -1,39 +1,39 @@
-# Raycast Extension
+# Extensión de Raycast
 
-Raycast is a fast, highly extendable application launcher and productivity tool designed to streamline desktop workflows through a keyboard-first interface. You can use it with Anytype to: 
+Raycast es un lanzador de aplicaciones rápido y muy extensible, y una herramienta de productividad diseñada para optimizar el trabajo en el ordenador por medio de una interfaz que prioriza el teclado. Con Anytype, puedes usarlo para lo siguiente: 
 
-* **Quickly create** new channels, objects, types, properties, or tags with the shortcut `CMD+N` while browsing your channels.
-* **Easily edit** your selected items (channels, objects, types, properties or tags) using `CMD+E`.
-* **Conveniently add objects** to lists either through the new `Add object to list` command or directly from the context menu `CMD+K`.
+* **Crear rápidamente** canales, objetos, tipos, propiedades o etiquetas con el atajo `CTRL/CMD+N` mientras navegas por tus canales.
+* **Editar fácilmente** los elementos seleccionados (canales, objetos, tipos, propiedades o etiquetas) con el atajo `CTRRL/CMD+E`.
+* **Añadir objetos con rapidez** a una lista mediante el nuevo comando `Añadir objeto a lista` o directamente desde el menú contextual `CTRL/CMD+K`.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Raycast Extension.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Raycast Extension.jpg" alt=""><figcaption></figcaption></figure></div>
 
-## How to install
+## Cómo instalarla
 
-You can install the [Raycast Extension here](https://www.raycast.com/any/anytype). 
+Puedes instalar la [extensión de Raycast desde aquí](https://www.raycast.com/any/anytype). 
 
-1. Download Raycast
-2. Navigate to the store for extensions.
-3. Search for Anytype and install. 
-4. Trigger any command in Raycast for Anytype. 
-5. Click the 'pairing' button, which will trigger your Anytype app for a 4 digit code. 
-6. Enter the code into Raycast. 
-7. Your commands are now available. 
+1. Descarga Raycast.
+2. Abre la tienda para ver las extensiones.
+3. Busca la de Anytype e instálala. 
+4. Activa cualquier comando de Anytype en Raycast. 
+5. Haz clic en el botón para emparejarlo y se activará un código de cuatro dígitos en Anytype. 
+6. Introduce ese código en Raycast. 
+7. Ya tienes los comandos disponibles. 
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Raycast Commands.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Raycast Commands.jpg" alt=""><figcaption></figcaption></figure></div>
 
-## Update - AI
+## Actualización - IA
 
-Anytype for Raycast is an AI Extension – search through channels and objects using natural language or create new ones just by instructing <kbd>@anytype</kbd>.
+Anytype para Raycast es una extensión de IA: busca canales y objetos con lenguaje natural o crea nuevos simplemente dando instrucciones a <kbd>@anytype</kbd>.
 
-* **Pinning & Navigation:** Pin objects, types, members and channels for quicker access. Objects of a certain Type now appear below their templates for better organization.
-* **Collection Management:** Create objects directly within collections and browse collection items with ease.
-* **Customization & Visibility:** Choose <kbd>Open Object in Anytype</kbd> as the default action, show custom properties in the Detail sidebar, toggle metadata in object details and apply templates when creating new objects.
+* **Ancla y navega:** ancla objetos, tipos, miembros y canales para tenerlos a mano. Ahora, los objetos de un tipo aparecen bajo sus plantillas para facilitar la organización.
+* **Gestiona tus colecciones:** crea objetos directamente dentro de una colección y recorre los elementos de la colección con comodidad.
+* **Personaliza y visibiliza:** selecciona <kbd>Abrir objeto en Anytype</kbd> como la acción predeterminada, muestra las propiedades que quieras en la barra de detalles, activa o desactiva los metadatos en los detalles del objeto y aplica plantillas a los objetos de nueva creación.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Raycast Object.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Raycast Object.jpg" alt=""><figcaption></figcaption></figure></div>
 
-## Privacy
+## Privacidad
 
-Our API runs locally on your machine, works without internet connection, and requires authentication for a client to retrieve & access data. To accomplish this, Raycast initially pairs with the app through the 4 digit pop-up. This notifies you about giving the extension limited access to your account.
+Nuestra API se ejecuta de forma local en tu ordenador, funciona sin conexión a internet y requiere que los clientes se autentiquen para acceder a los datos. Por esta razón, Raycast se empareja con la aplicación con el código de cuatro dígitos. Así sabes que estás concediendo a la extensión un acceso limitado a tu arca.
 
-The API key is stored in encrypted local storage of the extension and will be used to fetch data from the app (to display channels, objects etc.). Therefore, no other applications other than the authorized ones can access your data through the API.
+La clave de API se guarda en el almacenamiento local cifrado de la extensión y se usa para obtener datos de la aplicación (mostrar canales, objetos, etc.). Por lo tanto, ninguna aplicación distinta de las autorizadas puede obtener acceso a tus datos mediante la API.

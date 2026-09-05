@@ -1,28 +1,27 @@
-# Local API
+# API local
 
-Release 0.46.X marks an exciting and long-awaited moment in Anytype’s evolution: **the first iteration of our Local API**. It opens up powerful new possibilities for an ecosystem of plugins, automations and third-party integrations.
+La versión 0.46.X marca un momento interesante y muy esperado en la evolución de Anytype: **la primera iteración de nuestra API local**, que abre posibilidades muy potentes para un ecosistema de plugins, automatizaciones e integraciones de terceros.
 
-Our API is now available and directly included with the desktop app, running entirely on localhost. It operates fully offline, meaning you can build and use integrations without any cloud dependencies - even while flying.
+Nuestra API está incluida directamente en la aplicación de escritorio y se ejecuta por completo en el host local. Funciona sin conexión, lo que significa que puedes crear y usar integraciones sin depender de ningún servicio en la nube, incluso durante un vuelo.
 
 {% hint style="danger" %}
-**Important Security Notice:** By providing an API key or using extensions, you grant limited access to your Anytype vault, enabling operations such as editing or deleting objects. Ensure you **use only trusted extensions**.
+**Aviso de seguridad importante:** Cuando proporcionas una clave de API o usas extensiones, concedes acceso limitado a tu arca de Anytype para realizar operaciones como modificar o eliminar objetos. Asegúrate de **usar solo extensiones de confianza**.
 {% endhint %}
 
-## Highlights
+## Aspectos destacados
 
-* **Secure Authentication:** Authenticate once via a 4-digit challenge in the desktop app, generating an API key. This key acts as a bearer token to authenticate subsequent requests. Additionally, API keys can be managed and generated directly through the desktop client's settings, making it easy to share keys with third-party integrations.
-* **Comprehensive Documentation:** The OpenAPI specification and full documentation are available on our new [Developer Portal](https://developers.anytype.io/).
-* **Robust API Capabilities:** Endpoints offer core Anytype functionality: creating objects, editing, querying and much more.
-* **Growing Developer Ecosystem:** Early SDKs and community-driven tools are already underway: Python and Go clients, MCP server and Raycast extension.
+* **Autenticación segura:** autentícate una sola vez mediante un desafío de 4 dígitos en la aplicación de escritorio y genera una clave de API. Esta clave actúa como token de portador para autenticar las solicitudes posteriores. Además, las claves API se pueden gestionar y generar directamente desde los ajustes del cliente de escritorio, de modo que es fácil compartirlas con integraciones de terceros.
+* **Documentación completa:** la especificación de OpenAPI y la documentación completa están publicadas en nuestro nuevo [portal para desarrolladores](https://developers.anytype.io/).
+* **Capacidades potentes de API:** los endpoints ofrecen la funcionalidad principal de Anytype: crear objetos, editar, consultar y mucho más.
+* **Ecosistema creciente de desarrolladores:** ya están en marcha los primeros SDK y herramientas impulsadas por la comunidad, como clientes de Python y Go, servidor MCP y extensión de Raycast.
 
-## Get a Local API Key
+## Obtén una clave de API local
 
-1. Navigate to your [Vault Settings](../../settings/vault-settings.md). 
-2. In the menu under Data Management, select API Keys. 
-3. Click on the **Create New** button. 
-4. Give the key a name. 
+1. Ve a tus [Ajustes del arca](../../settings/vault-settings.md). 
+2. En la sección «Gestión de datos», selecciona «Claves de API». 
+3. Haz clic en el botón «Crear nuevo». 
+4. Da un nombre a la clave. 
 
-You can generate as many keys as you need and revoke access. 
+Puedes generar tantas claves como necesites y revocar el acceso cuando quieras. 
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Integration API Revoke.jpg" alt=""/><figcaption></figcaption></figure></div>
-
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Integration API Revoke.jpg" alt=""><figcaption></figcaption></figure></div>

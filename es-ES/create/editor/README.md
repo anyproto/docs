@@ -8,7 +8,7 @@ Los **bloques** son los componentes básicos de todo objeto; piensa en ellos com
 
 Si has usado Notion, este concepto te sonará. Si lo comparas con Microsoft Word o Google Docs, la diferencia es que los bloques son **unidades separadas**: puedes arrastrarlos, anidarlos, convertir un formato en otro o crear columnas colocándolos lado a lado.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks.gif" alt=""><figcaption></figcaption></figure></div>
 
 ## Cómo añadir bloques
 
@@ -18,7 +18,7 @@ Los distintos tipos de bloques aparecen en el **Menú de bloque**, que se abre c
 
 Pasa el puntero por el lado izquierdo de cualquier bloque y aparecerá un botón «+». Haz clic en él para insertar un bloque nuevo. Este mismo menú se abre también con el comando «/».
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Plus Menu.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Plus Menu.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Menú /
 
@@ -26,28 +26,28 @@ Escribe `/` en cualquier parte del editor. Aparece un menú con todos los tipos 
 
 Esta es la forma más rápida si ya sabes lo que quieres.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/slshmenu-block.png" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/slshmenu-block.png" alt=""><figcaption></figcaption></figure></div>
 
 #### Atajos de teclado
 
 Para los bloques de texto, puedes usar atajos de teclado estilo Markdown al inicio de la línea. Escribe un espacio detrás del atajo y el bloque se transformará.
 
-|Escribe esto|Para crear esto     |
-|------------|--------------------|
-|`#`         |Título 1            |
-|`##`        |Título 2            |
-|`###`       |Título 3            |
-|`>`         |Desplegable         |
-|`*` o `-`   |Lista con viñetas   |
-|`1.`        |Lista numerada      |
-|`[]`        |Casilla             |
-|` ``` `     |Bloque de código    |
-|`---`       |Divisor             |
-|`#>`        |Título desplegable 1|
-|`##>`       |Título desplegable 2|
-|`###>`      |Título desplegable 3|
+| Escribe esto  | Para crear esto         |
+| ---------- | ----------------- |
+| `#`        | Título 1         |
+| `##`        | Título 2         |
+| `###`        | Título 3         |
+| `>`        | Desplegable            |
+| `*` o `-` | Lista con viñetas      |
+| `1.`       | Lista numerada     |
+| `[]`       | Casilla  |
+| ` ``` `    | Bloque de código        |
+| `---`      | Divisor           |
+| `#>`       | Título 1 desplegable |
+| `##>`       | Título 2 desplegable |
+| `###>`       | Título 3 desplegable |
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Markdown.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Markdown.gif" alt=""><figcaption></figcaption></figure></div>
 
 ## Cómo dar estilo a los bloques
 
@@ -59,18 +59,18 @@ Pasa el puntero sobre un bloque para destacarlo. Aparecen las opciones del bloqu
 * **Botón +** (a la izquierda), para insertar un bloque nuevo.
 * **Barra flotante** (en algunos bloques), para dar formato al texto.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Options.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Options.jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Varios bloques
 
 Haz clic en un bloque, mantén pulsada la tecla Mayús y haz clic en otro para seleccionar todos los bloques que hay entre ambos. También puedes hacer clic y arrastrar con el ratón para seleccionar todos los bloques que quieras. Después, tienes estas posibilidades:
 
-* **Arrastrarlos** todos juntos a otro lugar,
-* **Eliminarlos** todos a la vez,
-* **Aplicar formato** (negrita, cursiva, color) a todo el texto seleccionado,
-* **Convertirlos** todos a un tipo de bloque distinto (p. ej., convertir cinco párrafos en una lista con viñetas).
+* **arrastrarlos** todos juntos a otro lugar,
+* **eliminarlos** todos a la vez,
+* **aplicar formato** (negrita, cursiva, color) a todo el texto seleccionado,
+* **convertirlos** todos a un tipo de bloque distinto (p. ej., convertir cinco párrafos en una lista con viñetas).
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Select.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Select.gif" alt=""><figcaption></figcaption></figure></div>
 
 #### Formato de texto
 
@@ -86,7 +86,7 @@ Dentro de un bloque de texto puedes aplicar formatos a palabras o caracteres por
 * **Color de texto**: igual que el resaltado, en la barra flotante.
 * **Citar en conversación**: copia el texto en un comentario del [debate](../../collaborate/discussions.md "mention").
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Inline Styling (2).jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Inline Styling (2).jpg" alt=""><figcaption></figcaption></figure></div>
 
 #### Controles de los bloques
 
@@ -101,14 +101,14 @@ Cada bloque tiene un control en su lado izquierdo que abre el menú de opciones 
 
 Este menú también se abre al hacer clic derecho en cualquier bloque.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Block Action Menu.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Block Action Menu.jpg" alt=""><figcaption></figcaption></figure></div>
 
 El control del bloque no sirve solo para el menú, sino también para arrastrar y mover bloques. Haz clic, mantén pulsado y arrastra el bloque:
 
-* **Arriba o abajo** para cambiar su posición en el objeto,
-* **A la izquierda o a la derecha** de otro bloque para crear una columna,
-* **Fuera de una lista anidada** para sacarlo de esta,
-* **Sobre un enlace a otro objeto** para añadir el bloque como contenido a ese objeto.
+* **arriba o abajo** para cambiar su posición en el objeto,
+* **a la izquierda o a la derecha** de otro bloque para crear una columna,
+* **fuera de una lista anidada** para sacarlo de esta,
+* **sobre un enlace a otro objeto** para añadir el bloque como contenido a ese objeto.
 
 #### Sangría y anidamiento
 
@@ -127,7 +127,7 @@ Las columnas funcionan con todos los tipos de bloque. Puedes colocar texto junto
 
 Repite con otro bloque para seguir añadiendo columnas. Para volver a convertir dos columnas en una sola columna, arrastra uno de los bloques por encima o por debajo del otro.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Columns.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Blocks Columns.gif" alt=""><figcaption></figcaption></figure></div>
 
 ## Notas
 

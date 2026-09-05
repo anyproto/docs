@@ -1,102 +1,102 @@
 ---
-description: Display a live filtered view of Objects directly inside another Object.
+description: Presenta una vista de objetos filtrada y dinámica dentro de otro objeto.
 ---
 
-# Inline Views
+# Vistas insertadas
 
-An **Inline Query** (or **Inline Collection**) is an embedded Object inside another Object. Instead of opening a separate Query as its own page, you display the Query's results directly in the editor — alongside your text, images, and other blocks.
+Las **consultas insertadas** y **colecciones insertadas** son objetos incrustados en otro objeto. En lugar de abrir una consulta en su propia página, presentas los resultados directamente en el editor, junto al texto, las imágenes y otros bloques.
 
-The Query stays live: as Objects are added, modified, or removed in your Channel, the inline display updates automatically.
+La consulta insertada se actualiza automáticamente cuando se añaden, modifican o eliminan objetos en el canal.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/inline-list (1).png" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/inline-list (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Qué significa esto
 
-Inline Queries and Collections turn ordinary pages into **dashboards**. A project page can show:
+Las consultas y colecciones insertadas convierten cualquier página en un **panel de información**. Por ejemplo, una página de proyecto puede tener lo siguiente:
 
-* A list of all open tasks for that project
-* A gallery of related documents
-* A status board grouped by progress
-* Recent activity from team members
+* una lista de todas las tareas pendientes de ese proyecto,
+* una galería de documentos relacionados,
+* un tablero de estado agrupado por progreso,
+* la actividad reciente de los miembros del equipo.
 
-…all rendered live, all in one Object. You don't have to click into a separate Query page to see what's happening — it's right there.
+Todo esto, siempre al día y en un mismo objeto. No necesitas abrir la página de la consulta  para ver lo que está pasando: la tienes ahí mismo.
 
-## Creating an Inline Query
+## Cómo crear una consulta insertada
 
-#### Method 1: Embed an existing Query
+#### Método 1: insertar una consulta existente
 
-If you've already created a Query you want to show in another Object:
+Si ya has creado una consulta y quieres mostrarla en un objeto:
 
-1. In the editor, type `/inline`.
-2. Choose **Inline Query** from the menu.
-3. Search for the existing Query by name and select it.
-4. The Query renders inline using the default view from the source.
+1. Escribe `/inser` en el editor.
+2. Elige **Consulta insertada** en el menú.
+3. Busca el nombre de la consulta y selecciónala.
+4. La consulta se inserta con la vista por defecto de la original.
 
-#### Method 2: Create a new inline Query from scratch
+#### Método 2: crear una consulta insertada nueva
 
-If you want a one-off Query that lives only inside this Object:
+Si quieres insertar una consulta que solo exista dentro de ese objeto:
 
-1. Type `/inline`.
-2. Choose **New Inline Query**.
-3. Pick the source: **Query by Type** or **Query by Property**.
-4. Configure filters and sort as you would for any Query.
-5. The new Query is saved as a standalone Object too — you can find it in the sidebar and reuse it elsewhere.
+1. Escribe `/inser`.
+2. Elige **Consulta insertada > Crear nueva consulta**.
+3. Elige el criterio de selección: **Tipo de objeto** o **Propiedad**.
+4. Configura filtros y criterios de orden como en cualquier otra consulta.
+5. Esta consulta insertada se guarda también como objeto independiente, así que podrás encontrarla desde la barra lateral y reutilizarla donde quieras.
 
-You can also embed an Inline Collection the same way — useful for manually-curated lists embedded in a project page.
+Estos métodos sirven también para insertar una colección y tener una lista de objetos seleccionados por ti en una página de proyecto.
 
-## Customizing an Inline Query view
+## Cómo personalizar la vista de una consulta insertada
 
-Click the inline Query block to focus it, then use the standard Query controls:
+Haz clic en el bloque de la consulta insertada para seleccionarlo y usa los controles normales de las consultas:
 
-* **Layout** — switch between Grid, List, Gallery, Board, Calendar, Graph
-* **Properties** — toggle which columns or fields show
-* **View-level filters** — add filters that apply only to this inline display
-* **Sort** — within this view's results
-* **Grouping** — for Kanban view, choose the property to group by
+* **Diseño**: elige entre cuadrícula, lista, galería, kanban, calendario y gráfico.
+* **Propiedades**: activa las que quieras mostrar en los campos o columnas.
+* **Filtrar**: añade filtros, que se aplicarán solo en esta inserción de la consulta.
+* **Ordenar**: decide el orden de los objetos mostrados en esta vista.
+* **Agrupar**: en la vista de kanban, elige la propiedad por la que se agruparán los objetos.
 
-These changes are saved to the inline block, not back to the source Query.
+Todos estos ajustes afectan solo al bloque insertado, no a la consulta original.
 
-<figure><img src="../../../.gitbook/assets/inline-list.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/inline-list.png" alt=""><figcaption></figcaption></figure>
 
-### Dynamic filter values
+### Valores de filtro dinámicos
 
-Inline Queries pair beautifully with [dynamic filter values](advanced-filters.md). Two especially useful values:
+Las consultas insertadas hacen buena pareja con los [valores de filtro dinámicos](advanced-filters.md). Estos son dos valores especialmente útiles:
 
-* **Current User** — filters Objects by who's viewing. Embed the same `Tasks where Assignee = Current User` Query in a shared dashboard, and every member sees their own tasks.
-* **This Object** — filters Objects related to the Object containing the inline Query. Embed `Tasks where Project = This Object` in a Project Object, and the Query automatically scopes to that project. Move the same Object to a different Project, and the inline Query updates.
+* **Usuario actual** filtra los objetos según quien los esté viendo. Si insertas una consulta con el filtro `Tareas en las que Responsable = Usuario actual` en un panel de información compartido, cada miembro verá sus propias tareas.
+* **Este objeto** filtra los objetos según el objeto que contenga la consulta insertada. Si insertas una consulta con el filtro `Tareas en las que Proyecto = Este objeto` en un objeto de tipo «Proyecto», la consulta se centra automáticamente en ese proyecto. Si mueves o copias ese objeto a un proyecto distinto, la consulta insertada se actualiza.
 
-This means you can build a single Project template with an inline `Tasks for This Object` Query and reuse it for every project — no manual filter setup per project.
+De esta forma, puedes crear una plantilla para el tipo «Proyecto» con una consulta insertada `Tareas de Este objeto` y utilizarla con todos los proyectos sin tener que configurar el filtro en cada uno de ellos.
 
-### Multiple inline Queries on one Object
+### Insertar varias consultas en un objeto
 
-You can put as many inline Queries as you want on a single Object:
+Puedes insertar en un objeto tantas consultas cuantas quieras:
 
 ```
-# Today
+# Hoy
 
-[Inline Query: Tasks where Status = In Progress AND Assignee = Current User]
+[Consulta insertada: Tareas en las que Estado = En curso y Responsable = Usuario actual]
 
-# This week
+# Esta semana
 
-[Inline Query: Notes where Created in last 7 days]
+[Consulta insertada: Notas en las que Creado = últimos 7 días]
 
-# Reading
+# En lectura
 
-[Inline Query: Books where Status = Reading]
+[Consulta insertada: Libros en los que Estado = Leyendo]
 ```
 
-Each Query block is independent. They render side by side, refresh in real time, and let you build a personal "command center" page.
+Cada bloque de consulta es independiente. Las consultas se presentan en paralelo, se actualizan en tiempo real y te permiten crear un «centro de control» personal.
 
-## Tips
+## Notas
 
 {% hint style="info" %}
-**Build a daily homepage with inline Queries.** Set this Object as your Channel Homepage (Channel Settings > Preferences > Homepage). Every time you open the Channel, you see today's view.
+**Construye una página como agenda con consultas insertadas.** Selecciona esa página como página de inicio del canal (Ajustes del canal > Preferencias > Página de inicio). Cada vez que abras el canal, tendrás una visión de tu día.
 {% endhint %}
 
 {% hint style="info" %}
-**Use This Object filtering for templates.** A Project template with an inline `Tasks where Project = This Object` Query becomes a dynamic project hub for every project you create from the template.
+**Usa «Este objeto» como filtro en las plantillas.** Una plantilla de proyecto con una consulta insertada `Tareas en las que Proyecto = Este objeto` se adaptará dinámicamente a cada proyecto que crees a partir de ella.
 {% endhint %}
 
 {% hint style="info" %}
-**Mix Inline Collections and Queries.** Use an Inline Collection for "things I manually want here" (curated reading list, key references) and Inline Queries for "things matching criteria" (active tasks, recent edits). The combination is powerful.
+**Mezcla consultas y colecciones insertadas.** Usa una colección insertada para «cosas que coloco aquí a mano» (lista de lecturas seleccionadas, referencias clave) y consultas insertadas para «cosas que cumplen ciertos criterios» (tareas activas, cambios recientes). Es una combinación muy potente.
 {% endhint %}

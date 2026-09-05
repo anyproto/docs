@@ -47,7 +47,7 @@ Use local-only mode at your own risk.
 4. Click the “Save” button.
 5. Create a new identity or log in with an existing one.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (45).png" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Móvil
 
@@ -56,7 +56,7 @@ Use local-only mode at your own risk.
 3. Click on “Local-only” in the “Networks” sub-menu.
 4. Create a new identity or log in an existing one.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Screenshot_20240411-104810_Anytype2.png" alt="" width="375"/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot_20240411-104810_Anytype2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Recovering data in local-only mode
 
@@ -69,5 +69,5 @@ In Local-Only Mode, your data is 100% your responsibility. Because Anytype has z
 {% endhint %}
 
 {% hint style="danger" %}
-**Do not use network drives or third-party services for sync**—this will likely cause data corruption. [Learn more here](local-only.md#third-party-services-and-network-drives). 
+**No uses unidades de red ni servicios de terceros para sincronizar**: es muy probable que esto cause daños en los datos. [Learn more here](../sync-and-backup/#servicios-de–terceros-y-unidades-de-red). 
 {% endhint %}

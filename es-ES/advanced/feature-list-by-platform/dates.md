@@ -1,88 +1,88 @@
 ---
-description: How dates work as Objects, Properties, and references in Anytype.
+description: Las fechas funcionan como objetos, propiedades y referencias en Anytype.
 ---
 
-# Dates
+# Fechas
 
-In Anytype, **every date is its own Object**. When you mention `@today`, set a Due Date, or open a Calendar view, the dates aren't just text or metadata — they exist as Date Objects in your Channel that you can open, link to, and use as a hub for everything happening on that day.
+En Anytype, **cada fecha es un objeto** por sí misma. Cuando escribes una mención como `@today` (hoy), rellenas la propiedad «Fecha final» o abres una vista de calendario, las fechas no son solo texto o metadatos, sino que existen en tu canal como objetos de fecha que puedes abrir, añadir como enlaces y usar como contenedor de todo lo que ocurre ese día.
 
-Click on a date anywhere — a property value, a mention, a calendar slot — and you open the Date Object. You'll see:
+Haz clic en una fecha en cualquier lugar (el valor de una propiedad, una mención, un cuadro del calendario) y se abrirá el objeto de fecha. Esto es lo que verás en él:
 
-* Every Object that mentions this date
-* Every Object created on this date
-* Every Object whose Date Property points to this date
-* Discussion posts and Chat messages timestamped to this date
+* todos los objetos que mencionan esa fecha,
+* todos los objetos creados en esa fecha,
+* todos los objetos con una propiedad de formato «Fecha» que contiene ese día,
+* mensajes de debates y chats enviados en esa fecha.
 
-This makes the Date Object a **temporal index** — a single page that shows you everything connected to a specific point in time.
+De esta forma, el objeto de fecha actúa como un **índice temporal**, una página que muestra todo lo que tiene relación con un momento determinado.
 
-<figure><img src="../../../.gitbook/assets/date.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/date.png" alt=""><figcaption></figcaption></figure>
 
-## Three ways dates appear
+## Formas en que aparecen las fechas
 
-Dates show up in Anytype in three forms:
+En Anytype, las fechas aparecen de tres formas:
 
-#### 1\. Mentions in text
+#### 1. Menciones en el texto
 
-You can type `@date` or `/date` to open the date picker and select date (or choose **Today**).
+Teclea `@fecha` o `/fecha` para abrir el selector de fecha y elegir una fecha (o hacer clic en **Hoy**).
 
-The mention appears as a clickable date — click to open the Date Object.
+La mención aparecerá como una fecha en la que puedes hacer clic para abrir el objeto de fecha correspondiente.
 
-#### 2\. Date Properties
+#### 2. Propiedades de fecha
 
-You can add a Date Property to any Type — Due Date, Started On, Published, Last Reviewed, Birthday. The Property accepts a date (and optionally a time):
+Puedes añadir a cualquier tipo una propiedad con formato de fecha, como una fecha final, de inicio, de publicación, de última revisión, de cumpleaños… La propiedad acepta la fecha del día y, opcionalmente, la hora:
 
-* **Date only** — useful for due dates, birthdays, deadlines
-* **Date and time** — useful for meetings, events, time-stamped logs
+* **solo fecha**, ideal para vencimientos, cumpleaños, plazos;
+* **fecha y hora**, ideal para reuniones, eventos, registros horarios.
 
-Click the Date Property value on an Object to open the date picker and change it.
+Haz clic en el cuadro de la propiedad de fecha de un objeto para abrir el selector de fecha y elegir una.
 
-#### 3\. Automatic date Properties
+#### 3. Propiedades de fecha automática
 
-Every Object has built-in date Properties Anytype manages automatically:
+Todos los objetos tienen ciertas propiedades de fecha integradas que establece Anytype de forma automática:
 
-* **Created Date** — when the Object was first created (immutable)
-* **Modified Date** — last time the Object was edited
-* **Last Opened** — last time you viewed the Object (per device)
+* **Creation date**: fecha de creación del objeto (invariable).
+* **Last modified date**: fecha de los últimos cambios en el objeto.
+* **Last opened date**: última fecha en que se abrió el objeto (en ese dispositivo).
 
-You can show or hide these in any View, filter by them, sort by them, and reference them in formulas.
+Puedes hacerlas visibles u ocultarlas en las vistas, usarlas en los filtros y criterios de orden, y referirte a ellas en fórmulas.
 
-## Date as Object
+## Fecha como objeto
 
-Open any Date Object — by clicking a mention, a date Property, or a calendar slot — and you see:
+Haz clic en una fecha (en una propiedad de fecha, una mención o un cuadro del calendario) para abrir el objeto de fecha y verás lo siguiente:
 
-* **Mentions of this date** — every text mention of `@thisdate` across your Channel
-* **Objects with this date as a Property value** — every Object whose Due Date, Started, etc. equals this date
-* **Objects created on this date** — auto-grouped by Created Date
-* **Objects modified on this date** — auto-grouped by Modified Date
+* **Menciones a esa fecha**: todas las menciones con `@` a esa fecha en todo el canal.
+* **Objetos con esa fecha como valor de una propiedad**: todos los objetos que tienen alguna propiedad de fecha con ese valor.
+* **Objetos creados en esa fecha**: agrupados automáticamente en «Fecha de creación».
+* **Objetos modificados en esa fecha**: agrupados automáticamente en «Fecha de última modificación».
 
-Each section is a list you can scan or click into. You can also add notes directly to the Date Object — write a daily journal entry, add a top-of-day plan, log meeting notes — all attached to that day forever.
+Cada sección contiene una lista en la que puedes ver y abrir los objetos. También puedes añadir notas directamente al objeto de fecha, como una entrada de diario, un plan para empezar el día o apuntes de una reunión que quedarán asociadas siempre a ese día.
 
-### Calendar view
+### Vista de calendario
 
-Any Query or Collection can switch to **Calendar view** if it includes a Date Property. Click the layout switcher and choose **Calendar**:
+Cualquier consulta o colección que incluya una propiedad de fecha puede tener una **vista de calendario**. Haz clic en el selector de diseño y elige **Calendario**:
 
-* Objects appear on the date matching their selected Property
-* Click an Object to open it
-* Click an empty calendar slot to create a new Object on that date
-* Drag Objects between dates to update their Date Property
+* Los objetos aparecerán en la fecha correspondiente a la propiedad seleccionada.
+* Haz clic en un objeto para abrirlo.
+* Haz clic en un cuadro vacío del calendario para crear un objeto en esa fecha.
+* Arrastra objetos a otra fecha para modificar la propiedad de fecha.
 
-You choose which Property powers the Calendar in the View settings — for example, a Tasks Calendar might use **Due Date**, while a Journal Calendar uses **Created Date**.
+La propiedad que sirve para organizar el calendario se elige en los ajustes de la vista; por ejemplo, un calendario de tareas podría usar **Fecha final**, mientras que un calendario de entradas de diario usaría **Fecha de creación**.
 
-### Locale-aware date inputs
+### Formato de fecha según la configuración regional
 
-Date fields in filters and pickers respect your operating system's locale. If your system uses MM/DD/YYYY, that's what you'll see. If it uses DD/MM/YYYY, you'll see that instead.
+Las fechas de los filtros y selectores respetan la configuración regional de tu sistema operativo. Si tu sistema usa MM/DD/YYY, eso es lo que verás; si usa DD/MM/AAAA, las verás en ese formato.
 
-You can also set this manually in **Vault Settings > Application > Language & Region > Date & Time formats**.
+Puedes elegir el formato que prefieras en los **ajustes del arca > Aplicación > Idioma y región > Formato de fecha y hora**.
 
-The same setting controls:
+En esa sección puedes configurar estos ajustes:
 
-* Date format (DD/MM/YYYY, MM/DD/YYYY, YYYY-MM-DD, etc.)
-* Time format (12-hour or 24-hour)
-* Whether to use relative dates (today / tomorrow) or always show the literal date
-* Week start day (Sunday or Monday)
+* Formato de fecha (DD/MM/YYYY, MM/DD/YYYY, YYYY-MM-DD, etc.).
+* Formato de hora (12 horas o 24 horas).
+* Usar fechas relativas (hoy / mañana) o siempre fechas literales.
+* Día en que empieza la semana (domingo o lunes).
 
-## Tips
+## Notas
 
 {% hint style="info" %}
-**Use Date Properties for project timelines.** A project Object with Started, Target, and Completed Date Properties lets you build a timeline View that updates as work progresses.
+**Usa propiedades de fecha para las líneas de tiempo del proyecto.** Un objeto de proyecto con propiedades de fecha de inicio, fecha prevista y fecha de finalización te permite crear una vista de línea de tiempo que se actualiza según avanza el trabajo.
 {% endhint %}

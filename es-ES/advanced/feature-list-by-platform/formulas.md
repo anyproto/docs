@@ -1,96 +1,96 @@
 ---
-description: Aggregations and counts in Grid view.
+description: Totales y recuentos en la vista de cuadrícula.
 ---
 
 # Fórmulas
 
-**Formulas** let you summarize and aggregate Property values across the Objects in a Query or Collection. When you're looking at your data in Grid view, you can show counts, sums, averages, minimums, maximums, and other calculations at the bottom of any column.
+Las **fórmulas** te permiten resumir y agregar los valores de las propiedades de los objetos en una consulta o colección. Cuando tienes los datos en una vista de cuadrícula, puedes mostrar recuentos, sumas, promedios, mínimos, máximos y otros cálculos al final de cualquier columna.
 
-The result is a row of summary values right under your data — useful for things like:
+Así obtienes una fila de totales bajo los datos que puede servirte para ver este tipo de cosas:
 
-* Total hours estimated across all tasks in a sprint
-* Average rating across all books in your reading list
-* Number of in-progress tasks per assignee
-* Sum of expenses per category
-* Count of Objects of each type
+* el total de horas estimadas para todas las tareas de un sprint,
+* la valoración media de todos los libros de tu lista de lectura,
+* el número de tareas en curso de cada responsable,
+* una suma de gastos por categoría,
+* un recuento de los objetos de cada tipo.
 
-<figure><img src="../../../.gitbook/assets/formulas.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/formulas.png" alt=""><figcaption></figcaption></figure>
 
-## Where Formulas appear
+## Dónde aparecen las fórmulas
 
-Formulas live at the **bottom of each column in Grid view**. Each column gets its own formula, so different columns can show different calculations.
+Las fórmulas se encuentran en la **parte inferior de cada columna en la vista de cuadrícula**. Cada columna puede tener su propia fórmula y mostrar un cálculo distinto.
 
-To open the formula menu:
+Para abrir el menú de fórmulas:
 
-1. Open a Query or Collection in **Grid view**.
-2. Click on the Property name in the header of a column.
-3. Find # **Calculate** in the bottom of the menu.
-4. Pick a option.
+1. Abre una consulta o colección en **vista de galería**.
+2. Haz clic en el nombre de la propiedad en la cabecera de una columna.
+3. Selecciona # **Calcular** en la parte inferior del menú.
+4. Elige una opción.
 
-The result displays in the column footer and updates as your data changes.
+El resultado aparece en el pie de columna y se actualiza cuando cambian los datos.
 
-<figure><img src="../../../.gitbook/assets/formulas (1).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/formulas (1).png" alt=""><figcaption></figcaption></figure>
 
-## Available formulas
+## Fórmulas disponibles
 
-The formulas available depend on the Property format of the column. Here's the full list:
+Las fórmulas disponibles dependen del formato de la propiedad de esa columna. Esta es la lista completa:
 
-#### For all Property formats
+#### En todos los formatos de propiedad
 
-|Formula                |What it calculates                            |
-|-----------------------|----------------------------------------------|
-|**None**               |No formula (default)                          |
-|**Count**              |Total number of Objects in the column         |
-|**Count Unique Values**|Number of distinct values                     |
-|**Count Empty**        |Number of Objects with no value in this column|
-|**Count Not Empty**    |Same as Count Values                          |
-|**Percent Empty**      |% of Objects with no value                    |
-|**Percent Not Empty**  |% of Objects with a value                     |
+| Fórmula                 | Cálculo                                    |
+| ----------------------- | ---------------------------------------------- |
+| **Ninguno**                | Sin fórmula (por defecto)                   |
+| **Recuento**               | Número total de objetos en la columna          |
+| **Contar valores únicos** | Número de valores distintos                      |
+| **Contar vacíos**         | Número de objetos sin ningún valor en esta columna |
+| **Contar no vacíos**     | Igual que Contar valores                           |
+| **Porcentaje vacíos**       | % de objetos sin ningún valor                     |
+| **Porcentaje no vacíos**   | % de objetos con algún valor                      |
 
-#### For Number Properties (Math)
+#### En propiedades numéricas (matemáticas)
 
-|Formula    |What it calculates      |
-|-----------|------------------------|
-|**Sum**    |Total of all values     |
-|**Average**|Mean value              |
-|**Median** |Middle value when sorted|
-|**Minimum**|Smallest value          |
-|**Maximum**|Largest value           |
-|**Range**  |Maximum − Minimum       |
+| Fórmula     | Cálculo       |
+| ----------- | ------------------------ |
+| **Suma**     | Total de todos los valores      |
+| **Promedio** | Media de todos los valores               |
+| **Mediana**  | Valor central al ordenar |
+| **Mínimo** | Valor más bajo        |
+| **Máximo** | Valor más alto         |
+| **Intervalo**   | Máximo − Mínimo          |
 
-## Limitations
+## Limitaciones
 
-* **Formulas are visual only** — they're shown in the column footer but you can't reference them in another Object or use them in filters
-* **No custom expressions** — you choose from the list of available formulas; there's no way to write `column1 + column2`
-* **Grid view only** — other layouts (List, Gallery, Board) don't show formulas
-* **Per-View** — each View remembers its own formula choice, so a Grid View and a List View of the same Query don't share formulas
+* **Las fórmulas son solo visuales**: aparecen en el pie de la columna, pero no puedes hacer referencia a ellas en otro objeto ni usarlas en filtros.
+* **No hay expresiones personalizadas**: tienes que elegir una de la lista de fórmulas disponibles; no hay forma de escribir `columna1 + columna2`.
+* **Solo en la vista de cuadrícula**: otros diseños (Lista, Galería, Kanban) no muestran fórmulas.
+* **Dependen de la vista**: cada vista guarda su propia selección de fórmulas; en una misma consulta, la vista de cuadrícula y la de lista no comparten las fórmulas.
 
-For more complex calculations, export the data to CSV and process it externally — or use the [Anytype Agents Skill](https://github.com/anyproto/docs-new/blob/main/getting-started/anytype-agents-skill.md) to run scripts against your data.
+Para realizar cálculos más complejos, exporta los datos a CSV y procésalos externamente, o usa la [técnica (skill) de Anytype para agentes](../../features/integrations/anytype-agents-skill.md) para ejecutar scripts con tus datos.
 
-## Common patterns
+## Modelos frecuentes
 
-#### Sprint hours estimate
-
-```
-Query: Tareas
-Filter: Sprint = "Sprint 14"
-Propiedad: Estimated Hours (Number)
-Formula: Suma
-```
-
-#### Reading stats
+#### Estimación de horas del sprint
 
 ```
-Query: Libros
-Property 1: Rating (Number) → Formula: Promedio
-Property 2: Pages (Number) → Formula: Suma
-Property 3: Status (Select) → Formula: Count by Option
+Consulta: Tareas
+Filtro: Sprint = «Sprint 14»
+Propiedad: Horas estimadas (número)
+Fórmula: Suma
 ```
 
-#### Project portfolio
+#### Estadísticas de lectura
 
 ```
-Query: Proyectos
-Group by: Estado
-Propiedad: Budget (Number) → Formula: Sum (per group)
+Consulta: Libros
+Propiedad 1: Valoración (Número) → Fórmula: Promedio
+Propiedad 2: Páginas (Número) → Fórmula: Suma
+Propiedad 3: Estado (Selección) → Fórmula: Contar por opción
+```
+
+#### Cartera de proyectos
+
+```
+Consulta: Proyectos
+Agrupar por: Estado
+Propiedad: Presupuesto (número) → Fórmula: Suma (por grupo)
 ```

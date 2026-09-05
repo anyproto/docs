@@ -1,165 +1,165 @@
 ---
-description: Build precise queries with AND/OR logic and grouped conditions.
+description: Crea consultas precisas con operadores lógicos Y/O y grupos de reglas.
 ---
 
 # Filtros avanzados
 
-**Advanced Filters** let you combine multiple filter conditions with AND/OR logic and group them into nested rules — so you can express complex queries like:
+Los **filtros avanzados** te permiten combinar varios criterios de filtro con operadores lógicos Y/O y agruparlos en reglas anidadas para realizar consultas complejas como esta:
 
-> Show me all Tasks where (Priority is High **OR** Due Date is this week) **AND** Status is not Done
+> Muestra todas las Tareas en las que (Prioridad es Alta **O** Fecha final es esta semana) **Y** Estado no es Hecho
 
-Without advanced filters, every condition is joined by AND and applied flatly. Advanced filters give you parentheses — you can express OR, you can group rules, and you can build precise queries that match how you actually think about your data.
+Sin filtros avanzados, las reglas se suman con Y para aplicarlas de forma lineal. Con los filtros avanzados puedes usar paréntesis, expresar O, agrupar reglas y crear consultas precisas que reflejen tu forma de pensar en tus datos.
 
 ## Qué significa esto
 
-Most filtering needs are simple: "tasks assigned to me", "books I've read". A single condition handles those.
+A menudo, lo que necesitas filtrar es sencillo: «tareas que tengo asignadas» o «libros que he leído». Una sola regla es suficiente para estos casos.
 
-But once your data has any complexity, you start needing things like:
+Sin embargo, cuando tu conjunto de datos tiene cierta complejidad, empiezas a necesitar consultas como estas:
 
-* "Tasks that are urgent **OR** overdue"
-* "Notes from this quarter, **but not** the ones tagged 'archive'"
-* "Books I've rated 4 or 5 stars **AND** haven't recommended yet"
+* «Tareas urgentes **O** vencidas»
+* «Notas de este trimestre, **pero no** las etiquetadas como archivadas»
+* «Libros que he valorado con 4 o 5 estrellas **Y** que aún no he recomendado»
 
-Each of those needs at least two conditions, and the way they combine matters. Advanced filters make this expressible.
+Estas consultas necesitan al menos dos reglas, y la forma en que se combinan es importante. Para esto están los filtros avanzados.
 
-## How to add an Advanced Filter
+## Cómo añadir un filtro avanzado
 
-Advanced filters live alongside basic filters in the filter bar of any Query or Collection.
+Los filtros avanzados se encuentran junto con los filtros básicos en la barra de filtro de toda colección o consulta.
 
-1. Open a Query or Collection in any list-style view (Grid, List, Gallery, Board).
-2. Click the filter icon (or use the **+** button next to the filter bar).
-3. Choose **Add advanced filter** in the bottom of the menu.
-4. Define your conditions in the dedicated bar that appears.
+1. Abre una consulta o colección en cualquier vista de lista (cuadrícula, lista, galería, kanban).
+2. Haz clic en el icono de filtro (o usa el botón **+** que hay junto a la barra de filtros).
+3. Selecciona **Añadir filtro avanzado** en la parte inferior del menú.
+4. Define tus reglas en la barra que aparece.
 
-The basic filter bar shows simple conditions joined by AND. The advanced filter bar shows your full logic — including OR groupings, nested rules, and visual indicators of how conditions combine.
+La barra de filtro básico muestra reglas simples que se unen con Y. La barra de filtro avanzado muestra toda la secuencia lógica: agrupaciones con O, reglas anidadas e indicadores visuales de las combinaciones de reglas.
 
-<figure><img src="../../../.gitbook/assets/unknown (1).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
-## Building conditions
+## Cómo construir las reglas
 
-Each condition has three parts:
+Una regla tiene tres partes:
 
-* **Property** — which Property to filter by (Status, Priority, Tags, Due Date, etc.)
-* **Operator** — how to compare (is, is not, is empty, contains, is greater than, etc.)
-* **Value** — what to compare against (a specific value, a list, or a [dynamic value](advanced-filters.md#dynamic-filter-values))
+* **Propiedad**: la propiedad que servirá como filtro (Estado, Prioridad, Etiquetas, Fecha de vencimiento, etc.).
+* **Operador**: el modo de comparación (es, no es, está vacío, contiene, es mayor que, etc.).
+* **Valor**: el criterio de comparación (un valor determinado, una lista o un [valor dinámico](advanced-filters.md#valores-de-filtro-dinamico)).
 
-Operators available depend on the Property format:
+Los operadores disponibles dependen del formato de la propiedad:
 
-|Formato de propiedad     |Operators                                                                                                                                                                            |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|**Text / Title**         |is, is not, contains, doesn't contain, is empty, is not empty                                                                                                                        |
-|**Number**               |=, ≠, >, <, ≥, ≤, is empty, is not empty                                                                                                                                             |
-|**Date**                 |is, is before, is after, is on or after, is on or before, is within, is empty, is not empty **+** today, tomorrow, yesterday, number of days ago, number of days from now, exact date|
-|**Select / Multi-select**|contains any, contains all, doesn't contain, is empty, is not empty                                                                                                                  |
-|**Checkbox**             |is checked, is not checked                                                                                                                                                           |
-|**Object**               |contains any, contains all, doesn't contain, is empty, is not empty                                                                                                                  |
+| Formato de propiedad      | Operadores                                                                                                                                                                            |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Texto / Título**          | es, no es, contiene, no contiene, está vacío, no está vacío                                                                                                                         |
+| **Número**                | =, ≠, >, <, ≥, ≤, está vacío, no está vacío                                                                                                                                              |
+| **Fecha**                  | es, es antes de, es después de, es en o antes de, es en o después de, está entre, está vacío, no está vacío **+** hoy, mañana, ayer, número de días atrás, número de días desde ahora, fecha exacta |
+| **Selección / Selección múltiple** | contiene alguno, contiene todo, no contiene, está vacío, no está vacío                                                                                                                   |
+| **Casilla**              | está marcada, no está marcada                                                                                                                                                            |
+| **Objeto**                | contiene alguno, contiene todo, no contiene, está vacío, no está vacío                                                                                                                   |
 
-### Combining with AND / OR
+### Combinar con Y/O
 
-By default, multiple conditions are joined by **AND** — every condition must be true for an Object to match. Switch to **OR** between two conditions and only one of them needs to be true.
+Por defecto, cuando hay varias reglas se unen con **Y**: se deben cumplir todas para que se seleccione el objeto. Si cambias al operador **O** entre dos reglas, solo tendrá que cumplirse una de ellas.
 
-To toggle between AND and OR:
+Para alternar entre Y y O:
 
-1. Click the operator label (AND / OR) between two conditions.
-2. The label flips to the other operator.
+1. Haz clic en el operador (Y / O) entre dos reglas.
+2. Selecciona el que necesites.
 
-Visually:
-
-```
-Condition A  AND  Condition B  AND  Condition C    → All three must be true
-Condition A  OR   Condition B  AND  Condition C    → A is true, OR (B and C are both true)
-```
-
-### Grouping conditions
-
-For more complex logic, use **groups** to control precedence — like parentheses in math:
+Una guía visual:
 
 ```
-(Priority is High  OR  Priority is Urgent)  AND  Status is not Done
+Regla A  Y  Regla B  Y  Regla C    → Se deben cumplir las tres
+Regla A  O  Regla B  Y  Regla C    → Se debe cumplir A, O (se deben cumplir tanto B como C)
 ```
 
-To create a group:
+### Agrupar reglas
 
-1. Add the first condition you want to group.
-2. Click three-dots next to the values and choose **Turn into group.**
-3. Select AND or OR operator.
-4. Add next rule.
-
-Grouped conditions are visually indented in the filter bar. You can change the operator inside a group (AND or OR) independently of the operator joining groups.
-
-To delete a rule:
-
-1. Click three-dots next to the values in the group
-2. Click **Delete**.
-
-<figure><img src="../../../.gitbook/assets/advanced-filters (1).png" alt=""/><figcaption></figcaption></figure>
-
-### Dynamic filter values
-
-Filters support **dynamic values** that change based on context:
-
-|Dynamic value   |Where it makes sense                |Example                            |
-|----------------|------------------------------------|-----------------------------------|
-|**Current User**|Object Property pointing to a Person|Tasks where Assignee = Current User|
-|**This Object** |Inline Queries on Object Properties |Tasks where Project = This Object  |
-|**Today**       |Propiedad de fecha                  |Notes where Created = Today        |
-
-**Current User** is especially useful for shared Channels — every member sees their own personalized view of a Query without you having to maintain separate Queries per person.
-
-**This Object** works inside [Inline Lists](inline-queries.md) — it scopes the inline Query/Collection to whatever Object is hosting it.
-
-### Auto-open value picker
-
-When you select a Property in the filter menu, the value picker now opens automatically — saving you an extra click. Just pick the values you want and the filter is added.
-
-### Active filter bar
-
-Once you have filters configured, they appear in a **dedicated bar above your view**. The Advanced Filters show how many rules are applied to the View.
-
-To edit any active filter, click it. To remove it, click the × on the filter chip. To clear everything in one click, use the **Clear** button at the end of the bar.
-
-### Common filter patterns
-
-#### Tasks I'm working on right now
+Para crear una secuencia lógica más compleja, usa **grupos** para controlar la precedencia como con los paréntesis matemáticos:
 
 ```
-Status is In Progress  AND  Assignee is Current User
+(Prioridad es Alta  O  Prioridad es Urgente)  Y  Estado no es Hecho
 ```
 
-#### Notes from this week
+Para crear un grupo, haz lo siguiente:
+
+1. Añade la primera regla que quieras agrupar.
+2. Haz clic en los tres puntos junto a los valores y elige **Convertir en grupo**.
+3. Selecciona el operador Y u O.
+4. Añade la siguiente regla.
+
+Las reglas agrupadas se distinguen con una sangría en la barra de filtros. Puedes cambiar el operador interno de un grupo (Y u O) independientemente del operador que une los grupos.
+
+Para eliminar una regla:
+
+1. Haz clic en los tres puntos junto a los valores del grupo.
+2. Haz clic en **Eliminar**.
+
+<figure><img src="../../../.gitbook/assets/advanced-filters (1).png" alt=""><figcaption></figcaption></figure>
+
+### Valores de filtro dinámicos
+
+Los filtros admiten **valores dinámicos** que cambian según el contexto:
+
+| Valor dinámico    | Dónde es útil                 | Ejemplo                             |
+| ---------------- | ------------------------------------ | ----------------------------------- |
+| **Usuario actual** | Propiedad de objeto que apunta a una persona | Tareas en las que Responsable = Usuario actual |
+| **Este objeto**  | Consultas insertadas sobre propiedades del objeto  | Tareas en las que Proyecto = Este objeto   |
+| **Hoy**        | Propiedad de fecha                        | Notas en las que Creado = Hoy         |
+
+**Usuario actual** es especialmente útil en canales compartidos: cada miembro tiene su vista personal de una consulta sin necesidad de mantener consultas separadas para cada persona.
+
+**Este objeto** funciona dentro de [listas insertadas](inline-queries.md): ajusta la consulta o colección insertada al objeto que la contiene.
+
+### Selector de valores automático
+
+Cuando seleccionas una propiedad en el menú del filtro, el selector de valores se abre automáticamente y te ahorra un clic adicional. Elige los valores que quieras y se añadirá el filtro.
+
+### Barra de filtros activos
+
+Cuando hayas configurado filtros, aparecerán en su **propia barra encima de la vista insertada**. Esta barra muestra cuántas reglas tiene aplicadas la vista.
+
+Para modificar un filtro activo, haz clic en él. Para eliminarlo, haz clic en la × de la ficha del filtro. Para quitar todos los filtros con un clic, usa el botón **Limpiar** del final de la barra.
+
+### Modelos de filtros frecuentes
+
+#### Tareas en las que estoy trabajando ahora
 
 ```
-Created is this week
+Estado es En curso  Y  Responsable es Usuario actual
 ```
 
-#### Books I want to recommend
+#### Notas de esta semana
 
 ```
-Rating ≥ 4  AND  Recommended-To is empty
+Fecha de creación es esta semana
 ```
 
-#### Tasks that are blocked or stale
+#### Libros que quiero recomendar
 
 ```
-Status is Blocked  OR  (Status is In Progress  AND  Modified is before 7 days ago)
+Valoración ≥ 4  Y  Recomendado a está vacío
 ```
 
-#### Items needing review
+#### Tareas bloqueadas o estancadas
 
 ```
-(Type is Document  OR  Type is Note)  AND  Reviewed is unchecked  AND  Created is before this week
+Estado es Bloqueado  O  (Estado es En curso  Y  Modificado es antes de 7 días atrás)
+```
+
+#### Elementos pendientes de revisión
+
+```
+(Tipo es Documento  O  Tipo es Nota)  Y  Revisado está sin marcar  Y  Fecha de creación es antes de esta semana
 ```
 
 ## Notas
 
 {% hint style="info" %}
-**Group OR conditions.** AND has higher default precedence — `A AND B OR C` may not mean what you think. Wrapping the OR in a group makes the intent explicit and unambiguous.
+**Agrupa las reglas O.** Por defecto, el operador Y tiene más prioridad; es posible que `A Y B O C` no signifique lo que piensas. Si colocas las reglas que usan O en un grupo, la intención es explícita y no hay ambigüedades.
 {% endhint %}
 
 {% hint style="info" %}
-**Save complex filters as separate Views.** If you've built a filter that's hard to recreate, save it as a View on your Query rather than rebuilding it each time. The Views menu makes them switchable in one click.
+**Guarda filtros complejos como vistas aparte.** Si has creado un filtro que te va a costar recrear, guárdalo como una vista de la consulta en lugar de reconstruirlo cada vez. El menú de vistas permite cambiarlas con un solo clic.
 {% endhint %}
 
 {% hint style="info" %}
-**Use Current User in shared Channel templates.** A "My Tasks" Query in a team Channel works for everyone — each member sees their own tasks. No need to duplicate the Query per person.
+**Utiliza «Usuario actual» en plantillas de canales compartidos.** En un canal de equipo, una sola consulta «Mis tareas» sirve para todo el mundo: cada miembro ve sus propias tareas sin necesidad de duplicar la consulta para cada persona.
 {% endhint %}

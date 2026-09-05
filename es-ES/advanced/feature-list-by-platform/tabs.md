@@ -1,84 +1,84 @@
 ---
-description: Open multiple Objects side by side in a tab bar.
+description: Abre varios objetos en paralelo en una barra de pestañas.
 ---
 
-# Tabs
+# Pestañas
 
-**Tabs** let you keep multiple Objects open at once in the same window — just like in a browser. Each tab is one Object. Click between tabs to switch instantly without losing your scroll position or your edit cursor.
+Las **pestañas** te permiten tener abiertos varios objetos a la vez en una misma ventana, igual que en un navegador. Cada pestaña contiene un objeto. Puedes cambiar de una a otra sin perder la posición de lectura ni el cursor de edición.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Tabs.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Tabs.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Qué significa esto
 
-Most knowledge work involves jumping between things — a note while you're editing a doc, a task while you're in a meeting, a reference while you're writing. Tabs make this fluid:
+Buena parte del trabajo de documentación requiere pasar de una cosa a otra: ver una nota mientras editas un documento, una tarea mientras estás en una reunión, una referencia mientras escribes… Las pestañas facilitan esta tarea:
 
-* **Keep context open** — read your notes in one tab, write the report in another
-* **Compare side by side** — open two related Objects and reference them simultaneously
-* **Stack work in progress** — open every Object you're touching today, close them as you finish
-* **Restore your session** — open tabs come back when you relaunch the app
+* **Mantienes el contexto a la vista**: lee tus notas en una pestaña y escribe el informe en otra.
+* **Comparas en paralelo**: abre dos objetos relacionados y consúltalos al mismo tiempo.
+* **Organizas el trabajo en curso**: abre todos los objetos que vas a tocar hoy y ciérralos cuando termines.
+* **Recuperas tu sesión**: las pestañas abiertas reaparecen cuando vuelves a abrir la aplicación.
 
-## Opening a tab
+## Cómo abrir una pestaña
 
-There are several ways to open an Object in a new tab:
+Hay varias formas de abrir un objeto en una pestaña nueva:
 
-|Method                                     |When to use                                                  |
-|-------------------------------------------|-------------------------------------------------------------|
-|**Cmd/Ctrl + Click** an Object link        |Quickest — works on any link in the editor, sidebar, or Graph|
-|**Right-click an Object > Open in new tab**|When you're already in a context menu                        |
-|**Middle-click** (on three-button mice)    |Same as Cmd/Ctrl + Click                                     |
-|**Cmd/Ctrl + T** in the tab bar            |Opens a new tab                                              |
+| Método                                      | Cuándo usarlo                                                   |
+| ------------------------------------------- | ------------------------------------------------------------- |
+| **Cmd/Ctrl + clic** en un enlace de objeto         | La más rápida: funciona en cualquier enlace del editor, la barra lateral o el gráfico |
+| **Clic derecho en un objeto > Abrir en nueva pestaña** | Cuando tienes abierto un menú contextual                         |
+| **Clic con el botón central** (en ratones de tres botones) | Igual que Cmd/Ctrl + clic |
+| **Cmd/Ctrl + T** en la barra de pestañas             | Abre una nueva pestaña                                               |
 
-## Display modes
+## Modos de presentación
 
-Open **Vault Settings > Application > Preferences** and look for **Tabs** to choose:
+Abre los **ajustes del arca > Aplicación > Preferencias** y busca la opción **Mostrar siempre la barra de pestañas** para elegir una de estas opciones:
 
-* **Contextual** — the tab bar only appears when you have more than one tab open. With a single tab, you see the full editor surface (recommended for most users)
-* **Always visible** — the tab bar is always on screen, even with one tab. Useful if you frequently switch between contexts and want the bar's actions always at hand
+* **Desactivada**, la barra solo aparece cuando tienes dos o más pestañas abiertas. Con una sola pestaña, ves toda la superficie del editor (recomendado para la mayoría de usuarios).
+* **Activada**, la barra siempre está visible, aunque solo haya una pestaña. Es cómodo si sueles cambiar de contexto y quieres tener las acciones de la barra a mano.
 
-## Using tabs
+## Cómo usar las pestañas
 
-### Focus mode
+### Modo de concentración
 
-You can create your own [focus mode](../../basics/sidebar/#modo-de-concentración) with the 'Toggle Vault & Channel Sidebar' [keyboard shortcut ](../settings/keyboard-shortcuts.md)to hide both sidebars at the same time. This mitigates distractions and stops you from navigating away from your active tab. 
+Puedes crear tu propio [modo de concentración](../../basics/sidebar/#modo-de-concentracion) con el atajo de teclado [«Barra lateral del arca y del canal»](../settings/keyboard-shortcuts.md), que oculta o muestra ambas barras laterales al mismo tiempo. Así reduces las distracciones y evitas navegar fuera de la pestaña activa. 
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Sidebar Focus.gif" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Sidebar Focus.gif" alt=""><figcaption></figcaption></figure></div>
 
-### Reordering tabs
+### Cambiar el orden de las pestañas
 
-Drag tabs left or right to reorder them. The order persists between sessions.
+Arrastra las pestañas a la izquierda o a la derecha para ordenarlas. Este orden se mantiene de una sesión a otra.
 
-### Pinning tabs
+### Anclar pestañas
 
-Important tabs you want to keep around can be **pinned** — they shrink to icon-only, move to the left side of the tab bar, and don't disappear when you close other tabs.
+Las pestañas importantes que quieras tener a mano se pueden quedar **ancladas**: se muestra solo su icono, se mueven al lado izquierdo de la barra de pestañas y no desaparecen cuando cierras otras pestañas.
 
-To pin a tab:
+Para anclar una pestaña:
 
-1. Right-click the tab.
-2. Choose **Pin**.
+1. Haz clic derecho en la pestaña.
+2. Selecciona **Anclar**.
 
-To unpin, right-click again and choose **Unpin**.
+Para desanclarla, haz clic derecho de nuevo y elige **Desanclar**.
 
-Pinned tabs survive app restarts and stay pinned even if you accidentally try to close them (the close button is hidden for pinned tabs — you have to unpin first).
+Las pestañas ancladas siguen en su sitio cuando reinicias la aplicación y e incluso si intentas cerrarlas sin querer (el botón de cierre no aparece en las pestañas ancladas; primero tienes que desanclarlas).
 
-### Drag a tab out to a new window
+### Abrir una pestaña en una ventana nueva
 
-To move a tab to its own window:
+Para abrir una pestaña en su propia ventana:
 
-1. Click and drag the tab downward, away from the tab bar.
-2. Release to drop it as a new window.
+1. Haz clic en la pestaña y arrástrala hacia abajo, fuera de la barra de pestañas.
+2. Suéltala y se abrirá en su propia ventana.
 
-The Object now lives in a separate window. This is especially useful with multiple monitors — keep your task tracker on a second screen while editing on your primary one.
+Tener el objeto en otra ventana resulta especialmente útil con varis monitores: puedes tener una lista de tareas abierta en la pantalla secundaria mientras trabajas en la principal.
 
-### Restoring tabs after a relaunch
+### Restaurar las pestañas tras reiniciar
 
-When you quit Anytype and reopen it, your tabs come back the way you left them — same Objects open, same order, same active tab. 
+Cuando cierras de Anytype y lo vuelves a abrir, las pestañas siguen tal como las dejaste: los mismos objetos abiertos, en el mismo orden y con la misma pestaña activa. 
 
-## Tips
+## Notas
 
 {% hint style="info" %}
-**Pin your daily-driver Objects.** Pin your "Today" page, your active project, and your inbox as the leftmost tabs. They're always one click away and survive restarts.
+**Ancla tus objetos de uso diario.** Ancla tu página «Para hoy», el proyecto que tengas activo y tu bandeja de entrada. Así estarán siempre a un clic incluso después de reiniciar.
 {% endhint %}
 
 {% hint style="info" %}
-**Use Cmd/Ctrl + Click in the sidebar instead of regular click.** This builds a habit of keeping your current context open while you peek at something else — far less disruptive than navigating away.
+**Acostúmbrate a usar Cmd/Ctrl + clic en la barra lateral en lugar del clic normal.** Así crearás el hábito de mantener abierto tu objeto de trabajo mientras echas un vistazo a otra cosa, sin cambiar de contexto.
 {% endhint %}

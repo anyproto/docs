@@ -104,5 +104,5 @@ No coloques tu directorio de datos de Anytype en ninguna carpeta sincronizada co
 * Copias de respaldo manuales: si quieres usar un almacenamiento en la nube para las copias de respaldo, exporta tus espacios manualmente o haz una copia de respaldo de una instantánea estática y cerrada del directorio mientras Anytype no esté en ejecución.
 
 {% hint style="danger" %}
-**No uses unidades de red ni servicios de terceros para sincronizar**: es muy probable que esto cause daños en los datos. [Tienes más información aquí](local-only.md#third-party-services-and-network-drives). 
+**No uses unidades de red ni servicios de terceros para sincronizar**: es muy probable que esto cause daños en los datos. [Tienes más información aquí](#servicios-de–terceros-y-unidades-de-red). 
 {% endhint %}
