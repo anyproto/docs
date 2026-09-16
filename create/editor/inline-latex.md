@@ -10,6 +10,6 @@ Wrap mathematical notation with `$` symbols to render LaTeX inline:
 The formula is $E = mc^2$ for energy.
 ```
 
-For block-level math, use `$$...$$` or insert a dedicated math block via `/math`.
+For block-level math, use `/latex` to created a dedicated math block to fully take advantage of LaTeX typesetting system.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure></div>
