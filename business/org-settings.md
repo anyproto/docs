@@ -2,7 +2,7 @@
 
 Open **Settings** in the Admin Console. Which tabs you see depends on your role:
 
-* **Org:** name, Local API, billing access and access for new members
+* **Org:** name, Local API and billing access
 * **Billing:** subscription and payments. For the owner, and admins with billing access.
 * **Single sign-on:** [custom SSO](sign-in/custom-sso.md)
 * **Google & Microsoft:** [auto-join](sign-in/README.md#google-workspace-auto-join) through Google Workspace or a Microsoft tenant
@@ -20,12 +20,6 @@ To block it for everyone in your organization, turn on **Disable local API** in 
 ## Billing access
 
 **Admins can manage billing** lets admins subscribe, update the card and download invoices. Only the owner can turn this on or off, and only the owner can cancel.
-
-## New members
-
-**New members can edit in General** sets the access people get in the General space when they join. Existing members keep their access. Owners and admins can change it.
-
-This only affects General. New members still become editors if a public space gives them **writer** access. See [Spaces](spaces.md#public-spaces).
 
 ## Billing
 

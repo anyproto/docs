@@ -46,6 +46,3 @@ Open a space in **Spaces**.
 Anyone who's a Writer or Admin in any space counts as an editor for billing.
 {% endhint %}
 
-## The General space
-
-Every organization has a General space. **New members can edit in General** in [Organization Settings](org-settings.md#new-members) sets whether new members get edit or read-only access there.
