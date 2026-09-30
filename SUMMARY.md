@@ -77,6 +77,17 @@
 * [Data Erasure & Recovery](data/data-erasure-and-recovery.md)
 * [Analytics & Tracking](data/analytics-and-tracking.md)
 
+## Anytype for Business
+
+* [Overview](business/README.md)
+* [Get Started](business/get-started.md)
+* [Sign-in & Google SSO](business/sign-in/README.md)
+  * [Custom SSO (OIDC)](business/sign-in/custom-sso.md)
+* [Members](business/members.md)
+* [Spaces](business/spaces.md)
+* [Organization Settings](business/org-settings.md)
+* [FAQ](business/faq.md)
+
 ## Settings
 
 * [Vault Settings](settings/vault-settings.md)
