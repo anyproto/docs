@@ -1,40 +1,40 @@
-# Overview
+# Vista general
 
-Anytype for Business is a separate Anytype app for teams. It adds:
+Anytype for Business es una aplicación independiente de Anytype para equipos. Incluye las siguientes funciones:
 
-* **Sign-in with your work account:** Google, your company's identity provider (OIDC), or an email code.
-* **Central member management:** owners and admins add and remove people, set roles and control access to spaces.
-* **The Admin Console:** a web app at [business-api.anytype.io/admin](https://business-api.anytype.io/admin/) for managing your organization.
+* **Inicio de sesión con tu cuenta de trabajo:** Google, proveedor de identidad de la empresa (OIDC) o un código por correo electrónico.
+* **Gestión centralizada de miembros:** los propietarios y administradores añaden y eliminan personas, asignan roles y controlan el acceso a los espacios.
+* **Consola de administración:** una aplicación web en [business-api.anytype.io/admin](https://business-api.anytype.io/admin/) para gestionar la organización.
 
-The app runs on Windows, macOS, Linux, iOS and Android. It has its own download and its own accounts, separate from personal Anytype. Get it from **Download Anytype** in the Admin Console.
+La aplicación funciona en Windows, macOS, Linux, iOS y Android. Se descarga por separado y tiene sus propias cuentas, distintas de las de Anytype personal. Para obtenerla, haz clic en **Download Anytype** en la consola de administración.
 
 {% hint style="info" %}
-There's no Microsoft sign-in button yet. You can connect Microsoft Entra ID as a [custom SSO provider](sign-in/custom-sso.md).
+Aún no hay un botón para iniciar sesión con Microsoft. Puedes conectar Microsoft Entra ID como [proveedor de SSO personalizado](sign-in/custom-sso.md).
 {% endhint %}
 
-## Why it's a separate app
+## Por qué es una aplicación independiente
 
-Personal Anytype is zero-knowledge. Your keys stay on your devices, and nobody else can read your content, including us.
+Anytype personal funciona con conocimiento cero. Tus claves nunca salen de tus dispositivos y nadie más puede leer tu contenido, ni siquiera nosotros.
 
-In Anytype for Business you sign in with your work account instead of a recovery key. To make this work, a service called the **auth node** stores your team's encrypted keys and gives your key to the app after you sign in.
+En Anytype for Business, inicias sesión con tu cuenta de trabajo, no con una clave de recuperación. Para hacerlo posible, un servicio llamado **nodo de autenticación** almacena las claves cifradas de tu equipo y le entrega tu clave a la aplicación cuando inicias la sesión.
 
-* **Anytype-hosted (cloud):** we run the auth node, so we're technically able to access your content. Our policy is that we never do.
-* **Self-hosted (coming soon):** your company runs the auth node on its own servers and controls the keys. Email [business@anytype.io](mailto:business@anytype.io) to get notified.
+* **Nodo alojado en Anytype (nube):** nosotros gestionamos el nodo de autenticación, por lo que técnicamente tenemos la posibilidad de acceder a tu contenido. Nuestra política nos impode hacerlo.
+* **Nodo autoalojado (próximamente):** tu empresa ejecuta el nodo de autenticación en sus propios servidores y controla las claves. Escríbenos a [business@anytype.io](mailto:business@anytype.io) para recibir notificaciones sobre esta opción.
 
-One app can't offer both models without weakening privacy for personal users, so they're kept apart.
+La razón por la que son aplicaciones distintas es que sería imposible incluir en una sola aplicación ambos modelos de autenticación sin poner en riesgo la privacidad de los usuarios personales.
 
-## Roles
+## Funciones
 
-| Role | Can do |
-| --- | --- |
-| **Owner** | Everything admins can, plus SSO setup, Google Workspace auto-join, the Local API policy and cancelling the subscription. Each organization has one owner. |
-| **Admin** | Invite and remove members, make members admins, create spaces and manage who's in them. Manage billing unless the owner turns this off. |
-| **Member** | Use Anytype, work in their spaces and join the organization's public spaces. |
+\| Función \| Permisos \|
+\| --- \| --- \|
+\| **Propietario** \| Todos los de los administradores, además de configurar el SSO, la incorporación automática con Google Workspace, las directivas de la API local y la suscripción. Cada organización tiene un solo propietario. \|
+\| **Administrador** \| Invitar a miembros, eliminarlos y hacerlos administradores; crear espacios y gestionar sus miembros; gestionar la facturación (el propietario puede deshabilitarlo). \|
+\| **Miembro** \| Usar Anytype, trabajar en sus espacios y acceder a los espacios públicos de la organización. \|
 
-Space permissions (Reader, Writer, Admin) are separate from organization roles. See [Spaces](spaces.md).
+Las funciones de los espacios (visitante, editor, administrador) son distintas de las de la organización. Consulta [Espacios](spaces.md).
 
-## Pricing
+## Precios
 
-€20 per editor per month, or 20% less with annual billing. An editor is anyone who can edit in at least one space. Members who can only read are free.
+20 € por editor al mes, o un 20 % menos con facturación anual. Un editor es cualquier persona que puede editar al menos en un espacio. Los miembros que solo pueden leer (visitantes) son gratuitos.
 
-New organizations start with a free trial. Cancel within the first 30 days for a full refund. See [Billing](org-settings.md#billing).
+Las organizaciones nuevas tienen un periodo de prueba gratuito. Cancela la suscripción antes de 30 días para obtener un reembolso completo. Consulta [Facturación](org-settings.md#billing).
