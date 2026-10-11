@@ -25,11 +25,11 @@ La razón por la que son aplicaciones distintas es que sería imposible incluir 
 
 ## Funciones
 
-\| Función \| Permisos \|
-\| --- \| --- \|
-\| **Propietario** \| Todos los de los administradores, además de configurar el SSO, la incorporación automática con Google Workspace, las directivas de la API local y la suscripción. Cada organización tiene un solo propietario. \|
-\| **Administrador** \| Invitar a miembros, eliminarlos y hacerlos administradores; crear espacios y gestionar sus miembros; gestionar la facturación (el propietario puede deshabilitarlo). \|
-\| **Miembro** \| Usar Anytype, trabajar en sus espacios y acceder a los espacios públicos de la organización. \|
+| Función | Permisos |
+| --- | --- |
+| **Propietario** | Todos los de los administradores, además de configurar el SSO, la incorporación automática con Google Workspace, las directivas de la API local y la suscripción. Cada organización tiene un solo propietario. |
+| **Administrador** | Invitar a miembros, eliminarlos y hacerlos administradores; crear espacios y gestionar sus miembros; gestionar la facturación (el propietario puede deshabilitarlo). |
+| **Miembro** | Usar Anytype, trabajar en sus espacios y acceder a los espacios públicos de la organización. |
 
 Las funciones de los espacios (visitante, editor, administrador) son distintas de las de la organización. Consulta [Espacios](spaces.md).
 
