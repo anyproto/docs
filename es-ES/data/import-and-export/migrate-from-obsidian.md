@@ -13,7 +13,7 @@
 
 * Abre `Ajustes del canal → Importar → Obsidian` y haz clic en «Importar archivos».
 * Selecciona toda la carpeta de tu bóveda o la subcarpeta que quieras importar.
-  * Algunas plataformas, como Linux y Windows, no admiten la selección de carpetas.\\
+  * Algunas plataformas, como Linux y Windows, no admiten la selección de carpetas.\
     En ese caso, comprime la carpeta en un archivo .zip e importa ese archivo.
 * Anytype procesará tus archivos y creará automáticamente un objeto por cada archivo de Markdown.
 

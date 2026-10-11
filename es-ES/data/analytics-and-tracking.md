@@ -24,7 +24,7 @@ Si cambias al modo de red autoalojado o solo local, la red de Anytype no recopil
 {% endhint %}
 
 {% hint style="info" %}
-Podrás desactivar estos análisis [en el futuro](https://github.com/orgs/anyproto/projects/1/views/1?pane=issue\&itemId=29227689).
+Podrás desactivar estos análisis [en el futuro](https://github.com/orgs/anyproto/projects/1/views/1?pane=issue&itemId=29227689).
 {% endhint %}
 
 {% hint style="info" %}

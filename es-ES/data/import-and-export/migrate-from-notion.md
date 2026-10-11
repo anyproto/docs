@@ -2,7 +2,7 @@
 
 ### Paso 1: Crear la integración en Notion
 
-1.  En Notion, **abre Configuración.**\\
+1.  En Notion, **abre Configuración.**\
 
 
     <figure><img src="../../../.gitbook/assets/image (229).png" alt="" width="358"><figcaption></figcaption></figure>
@@ -15,7 +15,7 @@
 4.  **Guarda un nombre para la integración con el espacio de trabajo seleccionado y establece el tipo como «Interna».**
 
     <figure><img src="../../../.gitbook/assets/notion/1-4.png" alt="Set Name for integration" width="500"><figcaption></figcaption></figure>
-5. **¡Importante!**\\
+5. **¡Importante!**\
    Desplázate hasta **Permisos**, selecciona los permisos siguientes y haz clic en Guardar para guardar los cambios:
 
 * Leer contenido
@@ -23,7 +23,7 @@
 
     <figure><img src="../../../.gitbook/assets/notion/1-5.png" alt="Select capabilities" width="500"><figcaption></figcaption></figure>
 
-6. **¡Importante!**\\
+6. **¡Importante!**\
    Ve a **Acceso** y selecciona el espacio de equipo que quieres importar. Luego, pulsa **Actualizar acceso**. Asegúrate de seleccionar todas las páginas raíz para evitar enlaces rotos en Anytype después de la importación.
 7.  **Copia el código secreto de integración interna** para conectar e importar tus datos.
 
