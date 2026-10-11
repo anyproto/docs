@@ -1,76 +1,76 @@
-# Import & Export
+# Importar y exportar
 
-You can import content into your spaces and export it at any time.
+Puedes importar contenido a tus espacios y exportarlo en cualquier momento.
 
 {% hint style="warning" %}
-Available on desktop only.
+Estas funciones solo están disponibles en la versión de escritorio.
 {% endhint %}
 
-## Import
+## Importar
 
-1. Go to your [Channel Settings](../../settings/channel-settings.md).
-2. Click on **Import** in the side menu.
-3. Based on the type of content, choose your option.
+1. Ve a los [ajustes del canal](../../settings/channel-settings.md).
+2. En el menú lateral, haz clic en **Importar**.
+3. Elige la opción que corresponda al tipo de contenido que vas a importar.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Import.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Import.jpg" alt=""><figcaption></figcaption></figure></div>
 
-## Export
+## Exportar
 
-### Export One Object
+### Exportar un objeto
 
-1. Open the Object.
-2. Click the three-dot button in the top-right corner.
-3. Select **Export**.
+1. Abre el objeto.
+2. Haz clic en los tres puntos de la esquina superior derecha.
+3. Seleccionar **Exportar**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export Object.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export Object.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Export Multiple Objects
+### Exportar varios objetos
 
-1. Open a View with your desired Objects.
-2. Select them using the left-handle (in Grid and List layout).
-3. Right-click and select **Export**.
+1. Abre una vista con los objetos que quieras exportar.
+2. Selecciónalos usando el control izquierdo (en el diseño de cuadrícula y lista).
+3. Haz clic derecho y selecciona **Exportar**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export Objects.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export Objects.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Export Views
+### Exportar vistas
 
-1. Open a View with your desired Objects, such as Type, Query, or Collection.
-2. Click the three-dot button in the top-right corner.
-3. Select **Export**.
+1. Abre una vista, como un tipo, una consulta o una colección, con los objetos que quieras exportar.
+2. Haz clic en los tres puntos de la esquina superior derecha.
+3. Seleccionar **Exportar**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export View.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export View.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Export Channel
+### Exportar canal
 
-1. Go to your [Channel Settings](../../settings/channel-settings.md).
-2. Click on **Export** in the side menu.
-3. Choose your preferred format: Markdown or Any-Block.
+1. Ve a los [ajustes del canal](../../settings/channel-settings.md).
+2. En el menú lateral, haz clic en **Exportar**.
+3. Elige el formato que prefieras: Markdown o Any-Block.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Export Settings
+### Ajustes de exportación
 
-When choosing your export format, you will see various options:
+Cuando vayas a elegir el formato de exportación, verás varias opciones:
 
-1. **Export format** — choose depending on where it's going.
-   1. Markdown — to use the content in other apps.
-   2. Any-Block — to use the content in another Anytype space.
-   3. PDF — a contained and shareable file.
-   4. HTML — to use in a web browser.
-2. **File format** — You can use either JSON or Protobuf. Protobuf is not human-readable, but it usually delivers the best results.
-3. **Zip archive** — to provide the export as a zipped folder.
-4. **Include linked Objects** — packages any linked Objects.
-5. **Include files** — packages images, videos, and other files in your Objects.
-6. **Include archived Objects** — packages archived Objects with the export.
+1. **Formato de exportación**: elígelo según el propósito de tu exportación.
+   1. Markdown, para usar el contenido en otras aplicaciones.
+   2. Any-Block, para usar el contenido en otro espacio de Anytype.
+   3. PDF, para obtener un archivo fácil de compartir.
+   4. HTML, para usar el contenido en un navegador web.
+2. **Formato de archivo**: puedes usar JSON o Protobuf. Protobuf no es un formato legible, pero suele ofrecer los mejores resultados.
+3. **Archivo ZIP**: guarda la exportación como una carpeta comprimida.
+4. **Incluir objetos enlazados**: incluye en el paquete todos los objetos hacia los que hay enlaces.
+5. **Incluir archivos**: incluye imágenes, vídeos y otros archivos que hayas insertado en los objetos.
+6. **Incluir objetos archivados**: incluye los objetos archivados en la exportación.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export Options.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Docs Export Options.jpg" alt=""><figcaption></figcaption></figure></div>
 
-## Not included in Exports
+## Lo que no incluye la exportación
 
-#### Space Members
+#### Miembros del espacio
 
-Each member in a space is tied to a unique encryption key, which is inherently separate from the shared Channel itself. Space Members can therefore fail to export properly, which may cause breaks if you import the backup into a new space. For examples, an 'assignee' or 'created by' property may not display the correct Space Member.
+Cada miembro de un espacio está vinculado a una clave de cifrado única que es independiente del propio canal compartido. Por lo tanto, es posible que los datos relacionados con miembros del espacio no se exporten correctamente y aparezcan errores si importas la copia de respaldo a un espacio nuevo. Por ejemplo, propiedades como «Responsable» o «Creado por» quizás no muestren el miembro correcto.
 
-#### Chats & Discussions
+#### Chats y debates
 
-Chat messages and Discussions are tied to each member of the space, which are tied to unique encryption keys for each user. Thus, it is not possible to export chat Objects and messages because they are inherently tied to the space itself.
+Los mensajes del chat y las discusiones están vinculados a los miembro del espacio, que a su vez están vinculados a claves de cifrado específicas de cada uno. Por lo tanto, no es posible exportar objetos de chat y mensajes porque están inherentemente ligados a ese espacio en sí.

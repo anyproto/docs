@@ -76,7 +76,7 @@ Esto es lo que eso implica en la práctica:
 Las cuentas de Anytype no requieren permisos y se crean por medio de una frase semilla, sin necesidad de usar un correo electrónico. Cuando recopilamos correos electrónicos en solicitudes de soporte técnico, boletines y registros en la web, tomamos medidas para aislarlos de sus arcas y de nuestras herramientas.
 
 * **Compartimentación estricta**: las herramientas que empleamos para el correo electrónico están separadas de las herramientas de análisis del producto y no comparten datos.
-* **Sin entrecruzamiento**: aunque nuestros análisis muestren que 1000 usuarios han abandonado Anytype, como nuestros sistemas no están interconectados, no podemos enviarles mensajes de reenganche.
+* **Sin entrecruzamiento**: aunque nuestros análisis mostraran que Anytype había perdido 1000 usuarios, como estos sistemas no están interconectados, no podríamos enviarles mensajes de reenganche.
 
 Adoptamos todas las precauciones posibles para evitar la pérdida del anonimato, pero es aconsejable que los usuarios tomen sus propias medidas.
 

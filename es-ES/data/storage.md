@@ -10,7 +10,7 @@ Además, utilizamos la función de deduplicación para reducir el almacenamiento
 
 Puedes eliminar todo el contenido multimedia de tu dispositivo móvil mediante la opción de borrar caché en iOS y Android, que eliminará todos los archivos y forzará una sincronización completa de nuevo. Como la descarga de medios funciona a demanda, al eliminar todos los medios de la caché liberarás algo de espacio.
 
-También puedes gestionar todos tus archivos en la aplicación de escritorio desde `Ajustes del canal > Gestionar canal > Gestionar archivos`.
+También puedes gestionar todos tus archivos en la aplicación de escritorio desde `Ajustes del canal > Almacenamiento`.
 
 {% hint style="info" %}
 Los archivos se almacenan en el directorio `flatfs` como fragmentos cifrados, por lo que no es posible acceder a ellos desde fuera de Anytype.

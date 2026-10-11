@@ -1,26 +1,26 @@
-# Migrate from Obsidian
+# Migrar desde Obsidian
 
-#### Step 1: Export from Obsidian
+#### Paso 1: Exportar desde Obsidian
 
-* Clean up your notes
-  * Convert embeds like `![[Note Title]]` into simple links `[[Note Title]]`
-  * Remove or convert plugin-specific syntax, such as Dataview queries, Templater fields, etc.
-* Locate your vault
-  * Open the Vault switcher (shown at launch or via `File → Open Vault`).
-  * Right-click the vault you want to export and choose “Reveal in system explorer.”
+* Limpia tus notas:
+  * Convierte incrustados como `![[Título de nota]]` en enlaces simples `[[Título de nota]]`.
+  * Elimina o convierte la sintaxis específica de complementos, como consultas de Dataview, campos de Templater, etc.
+* Localiza tu bóveda:
+  * Abre el administrador de bóvedas (que aparece al principio o desde `Archivo → Abrir bóveda`).
+  * Haz clic derecho en la bóveda que quieres exportar y selecciona «Mostrar en el explorador del sistema».
 
-#### Step 2: Import into Anytype
+#### Paso 2: Importar a Anytype
 
-* Open `Channel Settings → Import → Obsidian` and click on Import files.
-* Select your vault folder (or a subfolder) for import.
-  * On some platforms (like Linux and Windows), folder selection may not be supported.\
-    In that case, compress the folder into a .zip archive and import the archive instead.
-* Anytype will process the contents and automatically create a separate object for each Markdown file.
+* Abre `Ajustes del canal → Importar → Obsidian` y haz clic en «Importar archivos».
+* Selecciona toda la carpeta de tu bóveda o la subcarpeta que quieras importar.
+  * Algunas plataformas, como Linux y Windows, no admiten la selección de carpetas.\\
+    En ese caso, comprime la carpeta en un archivo .zip e importa ese archivo.
+* Anytype procesará tus archivos y creará automáticamente un objeto por cada archivo de Markdown.
 
 {% hint style="info" %}
-**Content mapping**
+**Asignación de contenido**
 
-* `[[Internal Links]]` → become linked objects in Anytype, so the connections between your notes are preserved.
-* `#etiquetas` → become values in the Tag property. You can use them to filter, group or search across objects.
-* Frontmatter (the `---` metadata at the top) → becomes object properties.
+* Los `[[enlaces internos]]` → se convierten en enlaces entre objetos en Anytype, de modo que se mantiene la conexión entre tus notas.
+* Las `#etiquetas` → se convierten en valores de la propiedad Tag (etiqueta). Puedes usarlos para filtrar, agrupar o buscar objetos.
+* La sección Frontmatter (los metadatos entre `---` en la parte superior) → se convierten en propiedades del objeto.
 {% endhint %}

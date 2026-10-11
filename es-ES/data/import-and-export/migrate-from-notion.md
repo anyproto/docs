@@ -118,7 +118,7 @@ Ten en cuenta que la importación mediante archivos Markdown y CSV conserva meno
 
 **Solución:**
 
-* **Exportar desde Notion:** desde tu espacio de trabajo de Notion, exporta los datos como archivos Markdown y CSV.
+* **Exporta desde Notion:** desde tu espacio de trabajo de Notion, exporta los datos como archivos Markdown y CSV.
 * **Importa a Anytype:** usa la función de importación de Markdown en Anytype para incorporar el contenido exportado a tu espacio de Anytype.
 
 </details>

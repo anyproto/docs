@@ -10,7 +10,7 @@ En el pasado, el software local ofrecía propiedad y privacidad completas: lo qu
 
 Internet ofreció una solución: la tecnología de la nube nos permitía colaborar en tiempo real; pero, por el camino, cedimos nuestra privacidad, seguridad y propiedad a las propias aplicaciones.
 
-Con Anytype, no tienes que elegir uno de los dos modelos. Conservas la propiedad y el control total de tus datos en todo momento, mientras usas internet para sincronizar entre dispositivos y colaborar con otras personas.
+Con Anytype no tienes que elegir uno de los dos modelos. Conservas la propiedad y el control total de tus datos en todo momento, mientras usas internet para sincronizar entre dispositivos y colaborar con otras personas.
 
 Es lo mejor de ambos mundos: propiedad local y colaboración en la nube.
 
