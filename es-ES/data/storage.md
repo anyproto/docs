@@ -1,92 +1,92 @@
 # Almacenamiento
 
-Anytype is offline first; hence, all data you create will be stored locally first. After that, the data is synced to the backup node and your devices for redundancy. We use a private [IPFS](https://docs.ipfs.tech/concepts/what-is-ipfs/) network to handle storage. It is a Peer-To-Peer file system that facilitates decentralized data storage across devices. Local P2P is supported, meaning that you can sync between your devices directly if they are connected through the same local network. This will work no matter what network mode you use, and it's the only way to sync between your devices if you are using local-only mode.
+Anytype funciona prioritariamente sin conexión; por lo tanto, todos los datos que creas se guardan primero en tu dispositivo. Después, se sincronizan con el nodo de respaldo y con tus demás dispositivos para obtener redundancia. Usamos una red [IPFS](https://docs.ipfs.tech/concepts/what-is-ipfs/) privada para gestionar el almacenamiento. Se trata de un sistema de archivos entre pares (P2P) que facilita el almacenamiento descentralizado de datos entre dispositivos. Permite crear una conexión P2P de forma local, es decir, que puedes sincronizar los datos directamente entre tus dispositivos si están conectados a una misma red local. Esta conexión funcionará en cualquier modo de red, y es la única forma de sincronizar entre sí tus dispositivos cuando usas el modo solo local.
 
-## How files are handled <a href="#media" id="media"></a>
+## Cómo se gestionan los archivos <a href="#media" id="media"></a>
 
-Media files are not directly downloaded in overall syncing to save bandwidth. Instead, when that file is requested, it is streamed to your device from the backup node or your devices on the network. For example, if you have a 4K Video, it will be streamed from the backup node or P2P devices to your device. So when you open an object with an image, it downloads. When you press play on video & audio, it begins to download. After that, this file will be stored in the application cache.
+Para ahorrar ancho de banda, los archivos de medios no se descargan directamente durante la sincronización general. En su lugar, cuando se solicita ese archivo, se transmite al dispositivo desde el nodo de respaldo o desde otros dispositivos de la misma red. Por ejemplo, si tienes un vídeo en 4K, se transmitirá a tu dispositivo desde el nodo de respaldo o desde dispositivos P2P. Cuando abres un objeto con una imagen, esta se descarga; cuando pulsas el botón de reproducción de un vídeo o audio, este comienza a descargarse. Después, ese archivo queda almacenado en la caché de la aplicación.
 
-Furthermore, we use the deduplication feature to reduce storage. For example, if the same picture is uploaded three times, there is only one image copy stored to reduce storage consumption.
+Además, utilizamos la función de deduplicación para reducir el almacenamiento; por ejemplo, si cargas la misma imagen tres veces, solo se almacena una de ellas.
 
-You can remove all the media content from your mobile device via the clear cache option in iOS and Android. This will remove all the data altogether and force the app to sync once again entirely. Since the media download works on-premise, you will remove all cached media and clear some storage.
+Puedes eliminar todo el contenido multimedia de tu dispositivo móvil mediante la opción de borrar caché en iOS y Android, que eliminará todos los archivos y forzará una sincronización completa de nuevo. Como la descarga de medios funciona a demanda, al eliminar todos los medios de la caché liberarás algo de espacio.
 
-You can also manage your files on desktop by going into `Channel settings -> Manage Channel -> Manage files`.
+También puedes gestionar todos tus archivos en la aplicación de escritorio desde `Ajustes del canal > Gestionar canal > Gestionar archivos`.
 
 {% hint style="info" %}
-Files are stored inside `flatfs dir` in encrypted fragments, so they can’t be accessed outside of Anytype.
+Los archivos se almacenan en el directorio `flatfs` como fragmentos cifrados, por lo que no es posible acceder a ellos desde fuera de Anytype.
 {% endhint %}
 
-## Storage Location
+## Ubicación de almacenamiento
 
-The **Storage Location** is the folder on your hard drive where Anytype keeps your Vault data — every Object, every encrypted block, every file you've uploaded, plus the indexes Anytype uses to make search fast.
+La **ubicación de almacenamiento** es la carpeta de tu sistema de archivos en la que Anytype guarda los datos de tu arca: los objetos, los bloques cifrados y los archivos que hayas subido, además de los índices que sirven para facilitar la búsqueda.
 
-By default, Anytype picks a standard location based on your operating system, you can change this to any folder you choose — useful for moving data to a larger drive, an encrypted partition, or a different filesystem.
+Por defecto, Anytype elige una ubicación estándar según tu sistema operativo; puedes elegir cualquier otra carpeta que prefieras; por ejemplo, para mover datos a una unidad más grande, a una partición cifrada o a otro sistema de archivos.
 
-#### Setting the location at first install
+#### Configurar la ubicación durante la instalación
 
-When you first create a Vault, the install screen offers an option to **choose the storage location**. Click the gear icon at the bottom of the welcome screen, browse to the folder you want, and Anytype will create the Vault there.
+Cuando creas tu primera arca, la pantalla de instalación te ofrece la opción de **elegir la ubicación de almacenamiento**. Haz clic en el icono de engranaje de la parte inferior de la pantalla de bienvenida, ve a la carpeta que quieras y Anytype creará tu arca en ella.
 
-If you skip this step, Anytype uses the default location. You can always move it later.
+Si omites este paso, Anytype usará la ubicación por defecto, que podrás cambiar más tarde.
 
-#### Changing the location after install
+#### Cambiar la ubicación después de la instalación
 
-Moving an existing Vault requires logging out, choosing a new location on the login screen, and re-authenticating. Anytype will then redownload your Vault data to the new location from the network. Following these steps: 
+Para cambiar la ubicación de un arca ya existente tendrás que cerrar la sesión, elegir la nueva ubicación en la pantalla de bienvenida y volver a iniciar la sesión. Entonces, Anytype volverá a descargar los datos de tu arca desde la red a esa nueva ubicación. Sigue estos pasos: 
 
-1. Make sure you have your Key. This is critical. Without your 12-word Key you cannot log back in. 
-2. Log out of Anytype. Click your profile icon at the bottom of the Vault Sidebar > Log out.
-3. On the login screen, click the gear icon (⚙) in the corner. 
-4. Choose a new folder under Vault Data Location. 
-5. Log back in. 
+1. Comprueba que tienes tu clave. Esto es fundamental: sin tu clave de 12 palabras no podrás volver a iniciar sesión. 
+2. Cierra la sesión en Anytype. Haz clic en el icono de tu perfil en la parte inferior de la barra lateral del arca > Cerrar sesión.
+3. En la pantalla de inicio de sesión, haz clic en el icono de engranaje (⚙) de la esquina. 
+4. En Ubicación de datos del arca, elige la nueva carpeta. 
+5. Vuelve a iniciar la sesión. 
 
-Anytype redownloads your Vault from the network to the new location. The time depends on Vault size and your connection speed. After this completes, you're back to your normal Vault — same Channels, same Objects, same data — just stored in a different folder.
+Anytype volverá a descargar los datos de tu arca desde la red a esa nueva ubicación. El tiempo que tarde depende del tamaño del arca y de la velocidad de tu conexión. Al terminar este proceso, estarás de nuevo en tu arca normal, con los mismos canales, objetos y datos, pero almacenados en otra carpeta.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Storage Location.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Storage Location.jpg" alt=""><figcaption></figcaption></figure></div>
 
-#### What happens to the old location?
+#### ¿Qué ocurre con la ubicación anterior?
 
-The data in the old folder isn't automatically deleted. Once you've confirmed the new Vault is working correctly:
+Los datos de la carpeta antigua no se eliminan automáticamente. Cuando confirmes que tu arca funciona correctamente en la nueva ubicación, puedes hacer lo siguiente:
 
-1. Open the old folder.
-2. Verify it contains the old Anytype data files (you'll see encrypted blobs, an `index/` folder, etc.).
-3. Delete the folder manually.
+1. Abre la carpeta antigua.
+2. Comprueba que contiene los archivos de datos antiguos de Anytype (verás blobs cifrados, una carpeta `index/`, etc.).
+3. Elimina la carpeta manualmente.
 
-This recovers the disk space.
+Así liberarás ese espacio en el disco.
 
 {% hint style="warning" %}
-**Do not delete the old folder until you've verified the new location is fully synced.**
+**No elimines la carpeta antigua hasta que hayas comprobado que la ubicación nueva se ha sincronizado por completo.**
 {% endhint %}
 
-## Using external drives
+## Unidades externas
 
-To store your Vault on an external drive:
+Haz lo siguiente para almacenar tu arca en una unidad externa:
 
-1. **Mount the drive** before logging in. Anytype needs the drive to be available at the path you specify.
-2. **Pick the drive's folder** during the storage location selection.
-3. **Log in normally.**
+1. **Monta la unidad** antes de iniciar sesión. Anytype necesita que la unidad esté disponible en la ruta que especifiques.
+2. **Elige la carpeta de la unidad** cuando selecciones la ubicación de almacenamiento.
+3. **Inicia sesión normalmente.**
 
-This works fine for stationary external drives (a desktop external SSD, a NAS mounted as a local volume). It works less well for drives that connect and disconnect often, since:
+Esta es una buena opción si usas unidades externas fijas (un SSD externo de sobremesa o un NAS montado como volumen local). No es tan buena opción cuando se trata de unidades que se conectan y desconectan con frecuencia, por estas razones:
 
-* If the drive isn't mounted when Anytype starts, the app can't find your Vault and shows a connection error
-* Sync is paused while the drive is unavailable
-* Some operations may write to the default location if the external drive disappears mid-operation
+* Si la unidad no está montada cuando se inicie Anytype, la aplicación no podrá encontrar tu arca y mostrará un error de conexión.
+* La sincronización se detendrá mientras la unidad no esté disponible.
+* Algunas operaciones podrían escribir en la ubicación por defecto si la unidad externa desaparece mientras se ejecutan.
 
-For a portable Vault, consider using a fast USB-C SSD that you keep mounted while Anytype is running.
+Si quieres usar un arca portátil, procura usar un SSD rápido con USB-C que tengas siempre montado mientras Anytype esté en funcionamiento.
 
-## Using encrypted volumes
+## Volúmenes cifrados
 
-You can put your Vault on:
+Puedes almacenar tu arca en distintos volúmenes cifrados:
 
-* **macOS FileVault** — works transparently; no special setup
-* **Windows BitLocker** — works transparently
-* **Linux LUKS / dm-crypt** — works transparently
-* **VeraCrypt containers** — supported, but you must mount the container before launching Anytype
+* **macOS FileVault**: funciona de forma transparente; no requiere configuración especial.
+* **Windows BitLocker**: funciona de forma transparente.
+* **Linux LUKS / dm-crypt**: funciona de forma transparente
+* **Contenedores VeraCrypt**: compatibles, pero debes montar el contenedor antes de iniciar Anytype
 
-Anytype's data is already encrypted at rest (via the Vault's master key derived from your 12-word phrase), so volume-level encryption is an additional layer rather than a substitute. It's useful if you want defense-in-depth or if you're worried about other apps on the device reading filenames or sync metadata.
+Los datos de Anytype ya están cifrados en reposo mediante la clave maestra del arca derivada de tu frase de 12 palabras, por lo que el cifrado a nivel de volumen es una capa adicional, no un sustituto. Resulta útil si quieres una defensa en profundidad o si te preocupa que otras aplicaciones del dispositivo lean los nombres de archivo o los metadatos de sincronización.
 
-## Local-only mode
+## Modo solo local
 
-If you choose [Local-only](sync-and-backup/local-only.md) network mode (in Vault Settings > Networks & Backup), your Vault never syncs to any remote server. Your data lives only at the storage location you've chosen, plus any other devices you sync with via local peer-to-peer. Please [see here](sync-and-backup/local-only.md) for more details.
+Si eliges el modo de red [solo local](sync-and-backup/local-only.md) (en los ajustes iniciales del arca > Red), tu arca no se sincroniza con ningún servidor remoto. Los datos se guardarán únicamente en la ubicación de almacenamiento que selecciones y en los otros dispositivos que sincronices mediante una conexión local entre pares. Encontrarás más detalles [aquí](sync-and-backup/local-only.md).
 
 {% hint style="danger" %}
-**In Local-only mode, your storage location is the only copy of your data**. Treat the folder like a precious original — back it up regularly, and never let it live somewhere ephemeral (like a temp directory or unmounted drive).
+**En el modo solo local, tu ubicación de almacenamiento es la única copia de tus datos**. Trata esa carpeta como un original muy preciado: haz copias de respaldo con regularidad y nunca la dejes en un lugar provisional (como un directorio temporal o una unidad sin montar).
 {% endhint %}

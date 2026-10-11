@@ -66,16 +66,27 @@
 ## Datos
 
 * [Sincronización y respaldo](data/sync-and-backup/README.md)
-  * [Self-host](data/sync-and-backup/self-host.md)
-  * [Local-only](data/sync-and-backup/local-only.md)
-* [Privacy & Encryption](data/privacy-and-encryption.md)
-* [Import & Export](data/import-and-export/README.md)
-  * [Migrate from Obsidian](data/import-and-export/migrate-from-obsidian.md)
-  * [Migrate from Notion](data/import-and-export/migrate-from-notion.md)
-  * [Migrate from Evernote](data/import-and-export/migrate-from-evernote.md)
-* [Storage](data/storage.md)
-* [Data Erasure & Recovery](data/data-erasure-and-recovery.md)
-* [Analytics & Tracking](data/analytics-and-tracking.md)
+  * [Autoalojamiento](data/sync-and-backup/self-host.md)
+  * [Solo local](data/sync-and-backup/local-only.md)
+* [Privacidad y cifrado](data/privacy-and-encryption.md)
+* [Importar y exportar](data/import-and-export/README.md)
+  * [Migrar desde Obsidian](data/import-and-export/migrate-from-obsidian.md)
+  * [Migrar desde Notion](data/import-and-export/migrate-from-notion.md)
+  * [Migrar desde Evernote](data/import-and-export/migrate-from-evernote.md)
+* [Almacenamiento](data/storage.md)
+* [Borrado y recuperación de datos](data/data-erasure-and-recovery.md)
+* [Analítica y seguimiento](data/analytics-and-tracking.md)
+
+## Anytype for Business
+
+* [Vista general](business/README.md)
+* [Get Started](business/get-started.md)
+* [Sign-in & Google SSO](business/sign-in/README.md)
+  * [Custom SSO (OIDC)](business/sign-in/custom-sso.md)
+* [Members](business/members.md)
+* [Spaces](business/spaces.md)
+* [Organization Settings](business/org-settings.md)
+* [Preguntas frecuentes](business/faq.md)
 
 ## Ajustes
 

@@ -1,124 +1,124 @@
-# Migrate from Notion
+# Migrar desde Notion
 
-### Step 1: Create the integration in Notion
+### Paso 1: Crear la integración en Notion
 
-1.  In Notion, **open Settings.**\\
+1.  En Notion, **abre Configuración.**\\
 
 
-    <figure><img src="../../../../.gitbook/assets/image (229).png" alt="" width="358"/><figcaption></figcaption></figure>
-2.  **Open "Connections" and then click "Develop or manage integrations" (or** **[**go directly to the page](https://www.notion.so/profile/integrations)**).**
+    <figure><img src="../../../.gitbook/assets/image (229).png" alt="" width="358"><figcaption></figcaption></figure>
+2.  **Abre «Mis conexiones» y luego haz clic en «Desarrollar o gestionar las integraciones» (o** [**ve directamente a la página**](https://www.notion.so/profile/integrations)**).**
 
-    <figure><img src="../../../../.gitbook/assets/notion/1-2.png" alt="Open My Connections" width="500"/><figcaption></figcaption></figure>
-3.  **Create "New integration".**
+    <figure><img src="../../../.gitbook/assets/notion/1-2.png" alt="Open My Connections" width="500"><figcaption></figcaption></figure>
+3.  **Crea una «Nueva integración».**
 
-    <figure><img src="../../../../.gitbook/assets/notion/1-3.png" alt="Create new integration" width="500"/><figcaption></figcaption></figure>
-4.  **Save a Name for the integration with your selected workspace, and type set to "Internal".**
+    <figure><img src="../../../.gitbook/assets/notion/1-3.png" alt="Create new integration" width="500"><figcaption></figcaption></figure>
+4.  **Guarda un nombre para la integración con el espacio de trabajo seleccionado y establece el tipo como «Interna».**
 
-    <figure><img src="../../../../.gitbook/assets/notion/1-4.png" alt="Set Name for integration" width="500"/><figcaption></figcaption></figure>
-5. **Important!**
-   Go to **Capabilities** and select the following capabilities, then press **Save changes**:
+    <figure><img src="../../../.gitbook/assets/notion/1-4.png" alt="Set Name for integration" width="500"><figcaption></figcaption></figure>
+5. **¡Importante!**\\
+   Desplázate hasta **Permisos**, selecciona los permisos siguientes y haz clic en Guardar para guardar los cambios:
 
-* Read content
-*   Read user information
+* Leer contenido
+*   Leer información de usuario
 
-    <figure><img src="../../../../.gitbook/assets/notion/1-5.png" alt="Select capabilities" width="500"/><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/notion/1-5.png" alt="Select capabilities" width="500"><figcaption></figcaption></figure>
 
-6. **Important!**
-   Go to **Access** and select the Teamspace you want to import. Then press **Update access**. Ensure that you select all root pages to avoid broken links in Anytype after the import.
-7.  **Copy Internal Integration Secret** for connecting and importing your data.
+6. **¡Importante!**\\
+   Ve a **Acceso** y selecciona el espacio de equipo que quieres importar. Luego, pulsa **Actualizar acceso**. Asegúrate de seleccionar todas las páginas raíz para evitar enlaces rotos en Anytype después de la importación.
+7.  **Copia el código secreto de integración interna** para conectar e importar tus datos.
 
-    <figure><img src="../../../../.gitbook/assets/notion/1-6.png" alt="Copy Internal Integration Secret" width="500"/><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/notion/1-6.png" alt="Copy Internal Integration Secret" width="500"><figcaption></figcaption></figure>
 
-### Step 2: Run the integration in your Anytype space
+### Paso 2: Ejecutar la integración en tu espacio de Anytype
 
-1. To **prepare for a smooth import**:
+1. Para **preparar una importación sin problemas**:
 
-* Use a good internet connection, especially if you have a large number of files.
-* Keep your computer plugged into power.
-* Disable sleep mode on your computer to allow the import process to complete without interruptions.
+* Usa una buena conexión a internet, sobre todo si tienes un gran número de archivos.
+* Mantén el ordenador conectado a la corriente.
+* Desactiva el modo de suspensión de tu ordenador para que el proceso de importación se realice sin interrupciones.
 
 {% hint style="info" %}
-Some Notion data may **not be imported correctly** as not all Notion features are supported in Anytype.
+Es posible que algunos datos de Notion **no se importen correctamente**, ya que no todas las funciones de Notion son compatibles con Anytype.
 {% endhint %}
 
-2.  In your Anytype space's settings (click on your space's name in the top left), **select "Import" and choose "Notion"**.
+2.  En los ajustes de tu espacio de Anytype (haz clic en el nombre de tu espacio en la parte superior izquierda), **selecciona «Importar» y elige «Notion»**.
 
-    <figure><img src="../../../../.gitbook/assets/notion/2-1.png" alt="Connect to Anytype integration" width="500"/><figcaption></figcaption></figure>
-3.  **Enter the Integration Secret** and **click "Import data"**.
+    <figure><img src="../../../.gitbook/assets/notion/2-1.png" alt="Connect to Anytype integration" width="500"><figcaption></figcaption></figure>
+3.  **Introduce el código secreto de integración** y **haz clic en «Importar datos»**.
 
-    <figure><img src="../../../../.gitbook/assets/notion/2-2.png" alt="Press Confirm" width="500"/><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/notion/2-2.png" alt="Press Confirm" width="500"><figcaption></figcaption></figure>
 
-### FAQ
+### Preguntas frecuentes
 
 <details>
 
-<summary>Why wasn't some Notion data imported correctly?</summary>
+<summary>¿Por qué no se han importado bien algunos datos de Notion?</summary>
 
-As not all Notion features are supported in Anytype, we cannot guarantee that all Notion data will be imported correctly.
+No todas las funciones de Notion son compatibles con Anytype, así que no podemos garantizar que todos los datos de Notion se importen correctamente.
 
-Examples:
+E:jemplos
 
-* User mentions (@) will be converted to plain text.
-* Date ranges are imported as text.
-* Formulas & summary data are imported as values.
+* Las menciones a usuarios (@) se convertirán en texto simple.
+* Los intervalos de fechas se importarán como texto.
+* Los datos de fórmulas y totales se importarán como valores.
 
 </details>
 
 <details>
 
-<summary>Why do I see "page not found" instead of links after importing from Notion to Anytype?</summary>
+<summary>¿Por qué veo «página no encontrada» en lugar de enlaces tras la importación de Notion a Anytype?</summary>
 
-This issue occurs when you have links to pages that are not nested within your Notion workspace structure. These pages may not have been properly connected to the integration during the import, leading to broken links in Anytype.
+Este problema aparece cuando tienes enlaces a páginas que no pertenecen a la estructura de tu espacio de trabajo de Notion. Es posible que estas páginas no se conecten a la integración de forma correcta durante la importación y esto genere enlaces rotos en Anytype.
 
-**Solution:**
+**Solución:**
 
-* **Check Page Connections:** Ensure that all pages in your Notion workspace are connected before starting the import process. If a page is not properly connected to the integration, it may not import correctly. See the Step 2 of the [Notion Import Step-by-Step Guide](migrate-from-notion.md#notion-import-step-by-step-guide) for more details.
-* **Repeat the import:** If a page did not import, add a missing Connection and repeat the import.
-
-</details>
-
-<details>
-
-<summary>Why are some files missing after importing from Notion to Anytype?</summary>
-
-There are two main reasons for missing files:
-
-* **Missing Connection:** Make sure that the page containing the files in Notion is properly connected to the integration before import. If this connection is missing, the files may not be imported.
-* **Slow Internet Connection:** If you have a slow internet connection and a large number of files, the links to these files might expire during the download process, resulting in missing files.
-
-**Solution:**
-
-* **Ensure Proper Connection:** Double-check that all pages and their respective files are connected in Notion before importing.
-* **Use a Faster Internet Connection:** If possible, use a faster internet connection during the import process to prevent link expiration.
-* **Manually Add Missing Files:** If files are missing after the import, you may need to manually upload them to Anytype.
+* **Comprueba las conexiones de las páginas.** Asegúrate de que todas las páginas de tu espacio de trabajo de Notion están conectadas antes de iniciar el proceso de importación. Si alguna página no está bien conectada a la integración, puede que no se importe correctamente. Revisa el [paso 1 de esta guía](#paso-1-crear-la-integracion-en-notion) para ver más detalles.
+* **Repite la importación.** Si no se importa alguna página, añade la conexión que falta y repite la importación.
 
 </details>
 
 <details>
 
-<summary>Why did the Notion import to Anytype take so long?</summary>
+<summary>¿Por qué faltan algunos archivos tras la importación de Notion a Anytype?</summary>
 
-The import process uses the Notion API to ensure data is transferred as accurately as possible. This method, though more reliable than exporting to Markdown, requires multiple queries. Over time, Notion may start rate-limiting these queries, leading to delays.
+Pueden faltar archivos por dos razones principales:
 
-**Solution:**
+* **Falta alguna conexión.** Antes de importar, asegúrate de que la página de Notion que contiene los archivos está conectada a la integración. Si falta la conexión, es posible que los archivos no se importen.
+* **La conexión a internet es lenta.** Si tu conexión a internet tiene poca velocidad y el número de archivos es grande, puede que los enlaces a esos archivos caduquen durante la descarga y los archivos no lleguen.
 
-* **Plug in Your Device:** Make sure your computer is plugged into a power source during the import.
-* **Disable Sleep Mode:** Prevent your computer from going to sleep to allow the import process to continue uninterrupted.
-* **Be Patient:** Allow the import process to run until it completes. It may take some time, especially if there is a large amount of data.
+**Solución:**
+
+* **Comprueba las conexiones.** Antes de importar, asegúrate de que tanto las páginas como sus respectivos archivos están conectados en Notion.
+* **Usa una conexión a internet más rápida.** Si puedes, usa una conexión a internet más rápida durante el proceso de importación para evitar que los enlaces caduque.
+* **Añade manualmente los archivos que faltan.** Si falta algún archivo tras la importación, quizás tengas que subirlos a Anytype por tu cuenta.
 
 </details>
 
 <details>
 
-<summary>I have some other problem with Notion import, or I no longer have access to my Notion workspace</summary>
+<summary>¿Por qué tarda tanto la importación de Notion a Anytype?</summary>
 
-If you encounter issues with the Notion import (which works via the Notion API) or you lose full access to your Notion workspace, you can export your workspace from Notion as Markdown & CSV files and import them into Anytype using the Markdown import option.
+El proceso de importación usa la API de Notion para transferir los datos de la forma más precisa posible. Aunque este método es más fiable que una exportación a Markdown, el inconveniente es que realiza muchas solicitudes. Pasado un tiempo, es posible que Notion comience a limitar la velocidad de las solicitudes y esto provoque retrasos.
 
-Be aware that importing via Markdown & CSV files is more lossy compared to using the Notion API. This is because Notion’s way of linking documents and CSV files may not be fully preserved in the Markdown format, potentially leading to loss of structure or links between documents.
+**Solución:**
 
-**Solution:**
+* **Enchufa tu dispositivo:** asegúrate de que el dispositivo esté conectado a una fuente de alimentación durante la importación.
+* **Desactiva el modo de suspensión:** evita que el dispositivo entre en suspensión para que no se interrumpa el proceso de importación.
+* **Ten paciencia:** deja que se ejecute el proceso de importación hasta el final. Puede tardar un tiempo, sobre todo si hay gran cantidad de datos.
 
-* **Export from Notion:** In your Notion workspace, export your data as Markdown & CSV files.
-* **Import into Anytype:** Use Anytype’s Markdown import feature to bring the exported content into your Anytype workspace.
+</details>
+
+<details>
+
+<summary>Tengo otro problema con la importación de Notion o ya no tengo acceso a mi espacio de trabajo de Notion</summary>
+
+Si tienes problemas con la importación de Notion (que funciona a través de la API de Notion) o has perdido el acceso completo a tu espacio de trabajo de Notion, puedes exportar el espacio de trabajo desde Notion como archivos Markdown y CSV para importarlos a Anytype con la opción de importación de Markdown.
+
+Ten en cuenta que la importación mediante archivos Markdown y CSV conserva menos datos que con la API de Notion. Esto se debe a que no es posible trasladar al formato Markdown todos los métodos que usa Notion para vincular documentos y archivos CSV, por lo que la estructura y los enlaces pueden perderse.
+
+**Solución:**
+
+* **Exportar desde Notion:** desde tu espacio de trabajo de Notion, exporta los datos como archivos Markdown y CSV.
+* **Importa a Anytype:** usa la función de importación de Markdown en Anytype para incorporar el contenido exportado a tu espacio de Anytype.
 
 </details>
