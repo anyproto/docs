@@ -1,39 +1,39 @@
-# Data Erasure & Recovery
+# Borrado y recuperación de datos
 
-You are the only person who holds the [Keys](../basics/key.md) to your data and can manage it.
+Tú eres la única persona que posee las [claves](../basics/key.md) de tus datos y que puede gestionarlos.
 
-## Delete your Vault / Account
+## Cómo eliminar tu arca /cuenta
 
-Anytype cannot access your data or verify your identity in any way. To delete your data, you must do so yourself through the app.
+Anytype no puede acceder a tus datos ni verificar tu identidad de ninguna manera. Si quieres eliminar los datos, debes hacerlo personalmente desde la aplicación.
 
-1. Go to your [Vault Settings](../settings/vault-settings.md) by clicking on your profile picture in the Sidebar.
-2. Click on **Login Key** in the menu on the side.
-3. Click on **Delete vault**.
+1. Haz clic en tu imagen de perfil en la barra lateral para abrir los [ajustes del arca](../settings/vault-settings.md).
+2. Haz clic en **Clave de acceso** en el menú lateral.
+3. Haz clic en **Eliminar arca**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Delete.jpg" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Docs Delete.jpg" alt=""><figcaption></figcaption></figure></div>
 
-## Deletion Process
+## Proceso de eliminación
 
-1. **Export a backup** — [Exporting](import-and-export/) entire Channels is the easiest option.
-2. **Cancel deletion** — You have 30 days to cancel the deletion process. After that, your Vault is deleted permanently, and you can no longer sign in.
-3. **Delete from other devices** — All data is stored locally on Anytype. If you are logged into multiple devices, you will need to delete your data from those apps by uninstalling them.
+1. **Exportar una copia de respaldo**: lo más fácil es [exportar](import-and-export/) los canales enteros.
+2. **Cancelar la eliminación**: dispones de 30 días para cancelar la eliminación de tu arca Pasado ese tiempo, tu arca se elimina definitivamente y ya no podrás acceder a ella.
+3. **Eliminar de otros dispositivos**: todos los datos se almacenan localmente en Anytype. Si has iniciado sesión en varios dispositivos, tendrás que desinstalar la aplicación en todos ellos para eliminar tus datos.
 
 {% hint style="danger" %}
-**After your Vault/Account has been deleted, it will no longer be able to be recovered.** Ensure you are certain before triggering deletion.
+**Una vez eliminada tu arca / cuenta, ya no se podrá recuperar.** Asegúrate de que esto es lo que quieres antes de iniciar la eliminación.
 {% endhint %}
 
-## Recovering your Vault / Account
+## Cómo recuperar tu arca /cuenta
 
-Your [keys](../basics/key.md) are generated locally on your device, so Anytype never has access to your Vault/Account. And because account creation doesn't involve an email or password, we have no way to verify who the rightful owner of an account is. In short: if you lose your Key, we cannot restore access to your account.
+Tus [claves](../basics/key.md) se generan localmente en tu dispositivo, de modo que Anytype nunca tiene acceso a tu arca / cuenta. Y como la creación de la cuenta no requiere un correo electrónico ni una contraseña, no tenemos forma de verificar quién es su legítimo propietario. En resumen: si pierdes la clave, no podemos restaurar el acceso a tu cuenta.
 
-#### What can I do if I can't access my Vault?
+#### ¿Qué hago si no puedo acceder a mi arca?
 
-If you have signed in to Anytype on multiple devices, your [Key](../basics/key.md) is available on each device. Open Anytype on another device, then navigate to [Vault Settings](../settings/vault-settings.md) to obtain your Key. Use it to sign in again.
+Si has iniciado sesión en Anytype en varios dispositivos, tu [clave](../basics/key.md) está disponible en todos ellos. Abre Anytype en otro dispositivo y abre los [ajustes del arca](../settings/vault-settings.md) para verla y úsala para iniciar sesión de nuevo.
 
-#### What if I can't delete my Vault?
+#### ¿Qué ocurre si no puede eliminar mi arca?
 
-If you are unable to retrieve your Key to access your Vault, Anytype is unable to delete your account for you because we have no way of identifying it correctly with your identity. Your Vault will remain encrypted on our backup nodes without anybody being able to access it.
+Si no consigues recuperar la clave para acceder a tu arca, Anytype no puede eliminar tu cuenta, ya que no tenemos forma de identificarla ni de relacionarla con tu identidad. Tu arca seguirá cifrada en nuestros nodos de respaldo sin que nadie pueda acceder a ella.
 
 {% hint style="danger" %}
-**Anytype cannot recover a lost Key.** Save multiple copies of your Key using a secure method.
+**Anytype no puede recuperar una clave perdida.** Guarda varias copias de tu clave empleando un método seguro.
 {% endhint %}

@@ -1,39 +1,39 @@
 # Autoalojamiento
 
-To back up your channels and data to a self-hosted network, you need to have a network configuration. If you don’t run your own network yet, see this [how-to guide](https://tech.anytype.io/how-to/self-hosting). There's also a [docker image](https://github.com/anyproto/any-sync-dockercompose) that's maintained by the team. One of our developers also created this video guide for anyone who wants to set up their own self-hosted network:
+Para tener una copia de respaldo de tus canales y datos en una red alojada por ti, necesitas tener una configuración de red. Si aún no tienes una red propia, aquí puedes ver [una guía práctica](https://tech.anytype.io/how-to/self-hosting). También existe una [imagen de docker](https://github.com/anyproto/any-sync-dockercompose) mantenida por nuestro equipo. Uno de nuestros desarrolladores ha creado esta guía en vídeo para quien quiera configurar su propia red autoalojada:
 
-{% embed url="https://drive.google.com/file/d/1PI28cosN4ad-bdgRxM2gDJRiAYw\_9mW4/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1PI28cosN4ad-bdgRxM2gDJRiAYw_9mW4/view?usp=drive_link" %}
 
-## How to switch to a self-hosted network
+## Cómo cambiar a una red autoalojada
 
-We strongly recommend using dedicated identities for each network. If you already have an identity in Anytype Network and want to switch to a self-hosted network, export all your channels, and import them into a new identity after switching the network mode.
+Te recomendamos encarecidamente que uses una identidad distinta para cada red. Si ya tienes una identidad en la red de Anytype y quieres cambiar a una red autoalojada, exporta todos tus canales e impórtalos a una identidad nueva antes de cambiar el modo de red.
 
-Please note that all your devices should be manually switched to the same self-hosted network.
+Ten en cuenta que deberás cambiar manualmente todos tus dispositivos a la misma red autoalojada.
 
 #### Escritorio
 
-1. Log out from your current identity.
-2. On the onboarding screen, click a gear icon in the top right corner.
-3. In the “Network” field choose the “Self-hosted” option.
-4. Upload your self-hosted network configuration (*.yml file) to the corresponding field.
-5. Click the “Save” button.
-6. Create a new identity or log in with an existing one.
+1. Cierra la sesión de tu identidad actual.
+2. En la pantalla de incorporación, haz clic en el icono de engranaje de la esquina superior derecha.
+3. En el campo «Red», elige la opción «Autoalojado».
+4. Carga la configuración de tu red autoalojada (archivo *.yml) en el campo correspondiente.
+5. Haz clic en el botón «Guardar».
+6. Crea una identidad nueva o inicia sesión con una existente.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (44).png" alt=""/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Móvil
 
-1. Log out from your current identity.
-2. On the onboarding screen, click a gear icon in the top right corner.
-3. Click on “Self-hosted” in the “Networks” sub-menu.
-4. Click on “Tap to provide your network configuration” to upload your self-hosted network configuration (*.yml file).
-5. Create a new identity or log in an existing one.
+1. Cierra la sesión de tu identidad actual.
+2. En la pantalla de incorporación, pulsa el icono de engranaje de la esquina superior derecha.
+3. En el submenú «Redes», pulsa «Autoalojado».
+4. Pulsa «Toda para cargar tu configuración de red» y carga la configuración de tu red autoalojada (archivo *.yml).
+5. Crea una identidad nueva o inicia sesión con una existente.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Screenshot_20240411-104804_Anytype3.png" alt="" width="375"/><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Screenshot_20240411-104804_Anytype3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-## Hardware Requirements
+## Requisitos de hardware
 
-The requirements for self-hosting hardware depends on the type of self-hosting: 
+Los requisitos del hardware dependen del tipo de autoalojamiento: 
 
-* For Docker Compose, the [minimum requirements are listed here](https://github.com/anyproto/any-sync-dockercompose#requirements.). 
-* For Ansible/Puppet, the requirements are similar and possibly even less demanding.
+* Para Docker Compose, [aquí se indican los requisitos mínimos](https://github.com/anyproto/any-sync-dockercompose#requirements.). 
+* Para Ansible/Puppet, los requisitos son similares, posiblemente menos exigentes.

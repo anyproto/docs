@@ -1,5 +1,5 @@
-# Migrate from Evernote (Community)
+# Migrar desde Evernote (comunidad)
 
-One of our community members created a tool that lets you import your Evernote notes inside Anytype. The full guide can be found on our [community forum](https://community.anytype.io/t/a-tool-to-import-evernote-notes-to-anytype/11483), and the GitHub repository here:
+Un miembro de nuestra comunidad ha creado una herramienta que sirve para importar notas de Evernote a Anytype. La guía completa se encuentra en el [foro de la comunidad](https://community.anytype.io/t/a-tool-to-import-evernote-notes-to-anytype/11483), y el repositorio de GitHub es este:
 
 {% embed url="https://github.com/Shampra/EvernoteToAnytype" %}
